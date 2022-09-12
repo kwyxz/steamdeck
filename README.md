@@ -17,13 +17,13 @@ Redream binary from the official website. Display artefacts on most games, unfor
 
 Binary I built directly on the Deck after installing a bunch of ArchLinux libraries and packages. Will very probably fail complaining about a missing lib when run on a fresh new Steamdeck install. Eventually I will release a script that fixes everything. In the meanwhile, set a password for the deck user, disable read-only with `sudo steamos-readonly enable`, then `sudo pacman-key --init`, `ldd supermodel` to find out which libs are missing, then install them using `pacman -S <library name>`. To interact with EmulationStation, the roms should be in `/home/deck/Emulation/roms/model3/` and a symlink should be created by typing `ln -s /home/deck/Emulation/roms/model3/ /home/deck/supermodel/roms`.
 
-### RetroArch
-
-The RetroArch configuration folder is moved from the flatpak original location so it can be updated with the new shaders and the new configuration. It is now in /home/deck/.config/retroarch, with submodules for the shaders. You're welcome to replace the shaders with other ones if you don't like the ones I have set.
-
 ### MAME
 
 A simple MAME configuration is present, roms should be in `/home/deck/Emulation/roms/arcade/` and a nice shader is configured.
+
+### RetroArch
+
+The RetroArch configuration folder is moved from the flatpak original location so it can be updated with the new shaders and the new configuration. It is now in /home/deck/.config/retroarch, with submodules for the shaders. You're welcome to replace the shaders with other ones if you don't like the ones I have set.
 
 ### EmulationStation-DE
 
