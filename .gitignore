@@ -25,6 +25,7 @@
 !/README.md
 !/*.sh
 !/redream/
+/redream/flash.bin
 /redream/redream.key
 /redream/redream.log
 /redream/vmu*
