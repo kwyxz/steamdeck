@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Die Hard Trilogy (USA) (Rev 1).chd</path>
+		<name>Die Hard Trilogy</name>
+		<desc>Die Hard Trilogy is split into three games, each game representing one of the movies, obviously.  
+
+Die Hard 1 is a third person shooter in a style similar to Tomb Raider.  You are John McClane and must fight through twenty floors of terrorists in the Nakatomi Plaza.  The game has an invisible wall effect which allows you to see John even in small hallways.
+
+Die Hard 2 is a first person rail shooter in the vein of Virtua Cop or Mad Dog McCree.  Once again you take the role of John  McClane firing upon terrorists who happen to be ransacking the Washington/Dulles Airport in search of a South American dictator and druglord.
+
+Die Hard 3 is a fast-paced taxi racer through the city.  John must this time speed through New York City defusing bombs and ramming evildoers off the road behind the wheel of a cab.</desc>
+		<rating>0.7</rating>
+		<releasedate>19961213T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>Fox Interactive</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ghost in the Shell (USA).chd</path>
+		<name>Koukaku Kidoutai : Ghost in the Shell</name>
+		<desc>3rd person action game based on the Ghost in the Shell original comic by Masamune Shirow rather than Mamoru Oshi's film. You take the role of a new member in Kusanagi's anti-terrorist squad and get to accomplish missions on your Fuchikoma, (a spider-like AI equiped tank) thanks to which you can jump, stick to walls and ceilings and shoot the hell out of terrorists, all from a 1st or 3rd person point of view. As the missions procede a plot starts to surface concerning a giant skyscrapper, the Aereopolis II, which will eventually be solved after 12 single player missions. Other features include a training sequence, 3D stereo sound and wide anamorphic screen mode for 16x9 TVs.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970717T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Klonoa - Door to Phantomile (USA).chd</path>
+		<name>Kaze no Klonoa : Door to Phantomile</name>
+		<desc>Klonoa: Door to Phantomile is a side-scrolling platform game viewed from a "2.5D" perspective. The player moves the protagonist, Klonoa, along a path in a two-dimensional fashion, but the game is rendered in three dimensions. This allows the path followed to curve and for the player to interact with objects outside of the path. The game is divided into levels called "Visions", where the player progresses by following a path with defeatable computer-controlled enemies and puzzles that must be solved. At the end of some levels, the player must defeat a boss - a powerful enemy.
+</desc>
+		<rating>0.9</rating>
+		<releasedate>19971211T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Sony</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./MDK (USA).chd</path>
+		<name>MDK</name>
+		<desc>MDK is a 3rd person action/shooter game in which the objective is to basically shoot everything that moves in six massive cities, each with their own sublevels. Because the world is being invaded by aliens, it is up to you and your sidekick Bones to stop the invasion and single handedly save Earth. In order to do so, you must make good use of your special suit, which allows you to do all kinds of things.
+ The super-suit comes equipped with many features you'll need to utilize in your journey, such as the sniper helmet. This allows you to zoom in on unsuspecting enemies and fire off shots with pinpoint accuracy. There is also a built in parachute (a ribbon-like device) that enables you to glide between different platforms as well as drop down on intruders.
+ Your suit comes equipped with a chain gun that has an infinite supply of ammunition. You can also pick up special items, like a miniature nuclear bomb and powerful upgrades for your chaingun. In addition to running around and shooting, there are also special means of transportation including a surfboard-like jet and a bomber plane that is used to call in air strikes.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990805T000000</releasedate>
+		<developer>Shiny Entertainment</developer>
+		<publisher>Sony</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./No One Can Stop Mr. Domino (USA).chd</path>
+		<name>Domino-kun o Tomenaide</name>
+		<desc>No one can stop Mr. Domino! Get ready for some seriously addictive action in this wild style 3D-strategy puzzle game. Move out fast to keep those dominoes toppling! If you don't, the Dreaded Domino Effect will take hold and you will never want to stop! So go ahead. Try and stop Mr. Domino.</desc>
+		<rating>0.7</rating>
+		<releasedate>19980108T000000</releasedate>
+		<developer>Artdink</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./One (USA).chd</path>
+		<name>One</name>
+		<desc>The unwitting recipient of a destructive prosthesis -- a powerful blaster grafted onto his left arm -- John Cain awakes to find himself being hunted down by a military organization, with no recollection of the events leading to this predicament. Inspired by Contra and other such titles, One is a pseudo-3D scrolling shooter in which players find themselves traversing a variety of locales, from futuristic Blade Runner-esque cities to remote mountainous regions, all in search of answers. 
+
+
+The central gameplay mechanic is the player's Rage meter. Simply put, John Cain is fueled by rage. By destroying objects, killing people, and generally causing all kinds of wanton mayhem, he will increase in power. Cain's rage is represented by an orb-like indicator that undergoes a number of color changes, from the relative calm of green to an infuriated red, and beyond.</desc>
+		<rating>0.7</rating>
+		<releasedate>19971130T000000</releasedate>
+		<developer>Visual Concepts</developer>
+		<publisher>American Softworks</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./PaRappa the Rapper (USA) (En,Fr,De,Es,It).chd</path>
+		<name>PaRappa the Rapper</name>
+		<desc>The rapping pup, PaRappa, dreams of impressing his friend, the beautiful Sunny Funny, and going out on a date with her.  But what he lacks is confidence - help PaRappa rap his way through learning Kung Fu, a driving test, cooking and more, all in order to get the girl.  And remember - You Gotta Believe!
+
+PaRappa the Rapper is a game based on lyrics, music and rhythm.  The game itself is very basic - each stage has a 'teacher', that PaRappa must follow.  You'll see the teacher say some lyrics, and then PaRappa must copy the teacher by pressing the appropriate buttons to repeat those lyrics back.  Rap well, and you'll be able to continue; fudge up the lyrics, and the music will start to distort and the teacher will become displeased.  Continue to mess up and you'll fail the stage.
+
+Of course, the goal is not to copy the teacher, but instead to outperform them - you can do this by improvising in the song's gaps.  Listen to how the song goes, and improvise in time to the music; if you perform well enough, the teacher will step aside, leaving you to freestyle on your own!
+
+The PSP version of the game is a remake of the PlayStation original.  However, it includes a few upgrades, such as a 16:9 display, sharper graphics, game sharing, multiplayer support of up to four players, and the addition of song remixes, which can be downloaded via the internet onto your Memory Stick Duo.</desc>
+		<rating>0.8</rating>
+		<releasedate>19961206T000000</releasedate>
+		<developer>Nanaon-Sha</developer>
+		<publisher>Sony</publisher>
+		<genre>Music and Dance</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Policenauts (Japan) (Disc 1) [T-En by JunkerHQ v1.01].chd</path>
+		<name>Policenauts</name>
+		<desc>In 2010, mankind has built its first space colony, Beyond Coast. After three years have passed, the founders of the colony feel it needs to be protected, and choose five best policemen of Earth to do that: Gatse Becker from Scotland Yard, the Japanese Sadaoki Tokugawa, Salvatore Toscanini from New York, and two policemen from Los Angeles: Jonathan Ingram, the hero of the game, and his best friend Ed Brown. 
+
+One day, during a routine patrol on Beyond Coast, something happens to Jonathan's space suit. He is sucked into space and is presumed dead. But twenty-five years later, he is miraculously discovered in his life pod... alive. He still looks like a young man, but in reality he is 55 years old.
+
+Trying to forget his past, Jonathan opens an investigation agency on Earth. His ex-wife (who has re-married during those twenty-five years) visits him and asks him to find her missing husband. When she leaves the office, her car explodes, and she dies. Determined to fulfill her final request, Jonathan prepares to re-visit Beyond Coast...
+
+This unofficial semi-prequel to  Snatcher is a comic book/anime adventure with some shooting sequences. You click on objects and people you interact with, or move a dot around the screen to aim at your enemies during the shooting parts.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970918T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Policenauts (Japan) (Disc 2) [T-En by JunkerHQ v1.01].chd</path>
+		<name>Policenauts</name>
+		<desc>In 2010, mankind has built its first space colony, Beyond Coast. After three years have passed, the founders of the colony feel it needs to be protected, and choose five best policemen of Earth to do that: Gatse Becker from Scotland Yard, the Japanese Sadaoki Tokugawa, Salvatore Toscanini from New York, and two policemen from Los Angeles: Jonathan Ingram, the hero of the game, and his best friend Ed Brown. 
+
+One day, during a routine patrol on Beyond Coast, something happens to Jonathan's space suit. He is sucked into space and is presumed dead. But twenty-five years later, he is miraculously discovered in his life pod... alive. He still looks like a young man, but in reality he is 55 years old.
+
+Trying to forget his past, Jonathan opens an investigation agency on Earth. His ex-wife (who has re-married during those twenty-five years) visits him and asks him to find her missing husband. When she leaves the office, her car explodes, and she dies. Determined to fulfill her final request, Jonathan prepares to re-visit Beyond Coast...
+
+This unofficial semi-prequel to  Snatcher is a comic book/anime adventure with some shooting sequences. You click on objects and people you interact with, or move a dot around the screen to aim at your enemies during the shooting parts.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970918T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Rapid Reload (Europe).chd</path>
+		<name>Gunners Heaven</name>
+		<desc>The object of interest in this game is the mysterious Valkiry Stone. Two treasure hunters, Axel and Ruka, set out to find the stone, but the evil gang known as the Pumpkin Heads wants to find the stone first.
+
+As either Axel or Ruka, blast your way through six side-scrolling levels against hordes of enemies, facing off against several bosses in each level. You can select from four different weapon effects (normal, bouncing, homing and flamethrower), use smartbombs and a grappling hook.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950428T000000</releasedate>
+		<developer>Media.Vision Entertainment Inc.</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Silent Hill (USA).chd</path>
+		<name>Silent Hill</name>
+		<desc>Silent Hill is a 1999 survival horror video game for the PlayStation. The first in a series about a mysterious town of the same name, Silent Hill generated a direct sequel, three indirect sequels, a prequel and a film adaptation. The game was included in Sony's Greatest Hits and Platinum Range of budget titles as a result of strong sales. A reinterpretation of the game was developed for the Wii, PlayStation 2 and PlayStation Portable.
+The plot focuses on Harry Mason as he searches for his daughter, Cheryl, who has disappeared following a car accident which left Harry unconscious. He finds Silent Hill to be largely abandoned, shrouded in a thick fog, snowing out of season, filled with monsters and being over taken by a hellish otherworld. As Harry scours the town, he begins learning about the history of Silent Hill and stumbles upon a cult ritual undertaken to bring a god to Earth.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990304T000000</releasedate>
+		<developer>Team Silent</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Silhouette Mirage (USA).chd</path>
+		<name>Silhouette Mirage : Reprogrammed Hope</name>
+		<desc>In an apocalyptic future, the Edo computer has gone beserk, dividing the world's inhabitants into two mutant classes, Silhouette and Mirage. Now, the watchguard computer safety system has sent forth the Messenger of Justice to travel to Edo and repair the damage before the world is lost forever. As the Messenger, Shyna Nera Shyna, blast, beat, and bash your way through seven wild and bizarre stages using friendly parasite weapons to aid your advance against wacky enemies, huge fully-animated bosses, and devilishly difficult obstacles. Providing the utmost in playability and replayability, the game wizards at Treasure, the brilliant minds behinds such international hits as Gunstar Heroesâ„¢, Dynamite Headdyâ„¢, Mischief Makersâ„¢, and Guardian Heroesâ„¢ have come up with another sure-fire classic that pushes the 2-D capabilities of your PlayStationÂ® game console to its limit, and come up with a hit!</desc>
+		<rating>0.7</rating>
+		<releasedate>19980723T000000</releasedate>
+		<developer>Working Designs</developer>
+		<publisher>Treasure</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Star Ocean - The Second Story (USA) (Disc 1).chd</path>
+		<name>Star Ocean : The Second Story</name>
+		<desc>Star Ocean: The Second Story is a world of magic, science, space travel and deadly demons! Enter a world where love knows no bounds, the evil is neverending and good can overcome all if the heart is just and true. Featuring three battle modes, the ability to master skills to create items and an emotional level for each of the characters, Enix has pulled out all the stops in their latest (and first) title to be brought to the North American PlayStation.
+ Star Ocean: The Second Story tells the stories of Claude C. Kenni, son of Ronixis J. Kenny, and Rena Lanford, a young girl living on the planet Expel. Claude, having recently been commissioned as an Ensign in the Earth Federation, is given his first mission under the supervision of his father. This first mission is to survey the planet Milocinia, where a mysterious energy field appears. Once they arrive, they find an alien ruin, filled with mostly broken machinery. Finding a mysterious device in the center of it, Claude begins to examine it close-up, despite orders to keep away from it. As he approaches, the machine activates, teleporting him to Expel.</desc>
+		<rating>0.9</rating>
+		<releasedate>19980730T000000</releasedate>
+		<developer>Tri-Ace</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Star Ocean - The Second Story (USA) (Disc 2).chd</path>
+		<name>Star Ocean : The Second Story</name>
+		<desc>Star Ocean: The Second Story is a world of magic, science, space travel and deadly demons! Enter a world where love knows no bounds, the evil is neverending and good can overcome all if the heart is just and true. Featuring three battle modes, the ability to master skills to create items and an emotional level for each of the characters, Enix has pulled out all the stops in their latest (and first) title to be brought to the North American PlayStation.
+ Star Ocean: The Second Story tells the stories of Claude C. Kenni, son of Ronixis J. Kenny, and Rena Lanford, a young girl living on the planet Expel. Claude, having recently been commissioned as an Ensign in the Earth Federation, is given his first mission under the supervision of his father. This first mission is to survey the planet Milocinia, where a mysterious energy field appears. Once they arrive, they find an alien ruin, filled with mostly broken machinery. Finding a mysterious device in the center of it, Claude begins to examine it close-up, despite orders to keep away from it. As he approaches, the machine activates, teleporting him to Expel.</desc>
+		<rating>0.9</rating>
+		<releasedate>19980730T000000</releasedate>
+		<developer>Tri-Ace</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Tenchu 2 - Birth of the Stealth Assassins (USA).chd</path>
+		<name>Rittai Ninja Katsugeki : Tenchu 2</name>
+		<desc>Before the events of Tenchu, the House of Gohda is rocked by betrayal. As shadow warriors Rikimaru, Ayame and Tatsumaru, you are called on to restore pride to the name of your master. For you have been born to a life of honor... a life of stealth. Discover even more ways to slay your foes with 21 new stealth kill techniques. Take on the role of three ninja assassins, each with their own story and fighting techniques. Strike from the shadows in 29 new day and night stealth missions. Utilize a variety of new ninja weapons and items, like flaming arrows and invisibility.</desc>
+		<rating>0.9</rating>
+		<releasedate>20001130T000000</releasedate>
+		<developer>Acquire</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Tenchu - Stealth Assassins (USA).chd</path>
+		<name>Rittai Ninja Katsugeki : Tenchu</name>
+		<desc>After firing your grappling hook to the rooftop of a small house, you pull yourself up and notice a guard pacing back and forth on the ground. He doesn't see you as you begin to crawl and sneak around on the roof. If he detects your presence, you will be in a world of hurt; you will blow your mission and risk death. Patiently, you wait for the right time to jump down -- and end his life while his back is turned.
+ Set in 16th century Japan, Tenchu: Stealth Assassins is a simulation of the ways of the stealthy ninja. You'll chose between two characters, Rikimaru and Ayame, with a main objective of remaining unseen throughout ten non-linear missions. You will move through the shadows, make your way across rooftops, dash through trees -- anything to cloak yourself from enemy sight. While completing the missions, you are judged on three levels that measure your success in the fields of elusiveness and effectiveness.
+ Each mission is different in its design and goal. Your mentor will have you run secret errands to informants, kill evil merchants and thieves, and rescue captive ninjas. Along the way, the enemy resistance has set up traps and assigned guards to keep a watchful eye for any interference (that would be you). Because Tenchu is a simulation of sorts, running up and engaging an enemy combat is not advised -- that's not the way of the ninja. 
+ A ninja is cunning and in order to uphold his duty, he must remain unseen. If you brazenly walk up to a group of enemies and try to kill them all, you may get through a couple, but you will ultimately fail and dishonor your people. As far as weaponry goes, make use of throwing stars and actual ninja assassin swords. For the truly cunning players, poisoned rice and smoke bombs are included as special items. If a guard will not go away, try putting some rice down for him to eat - he'll get sick and collapse.</desc>
+		<rating>0.9</rating>
+		<releasedate>19980226T000000</releasedate>
+		<developer>Acquire</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Tobal 2 (Japan) (Rev 1).chd</path>
+		<name>Tobal 2</name>
+		<desc>Tobal 2 is a sequel to Tobal Nr. 1. Like its predecessor, it is a fighting game with an additional Quest Mode, which has been expanded and added new features in this sequel.
+
+The basic fighting gameplay is the same as in the first game, utilizing free movement in a 3D environment (provided the player character is facing the opponent) with high, medium, and low punches and kicks, as well as the trademark grappling and throwing moves. An unblockable fireball attack has been added in this installment.
+
+The Quest Mode has undergone a significant expansion, including role-playing elements. In addition to the dungeons featured in the first game, the sequel adds an explorable town, where the main character can eat, rest, and buy supplies. An experience system has also been added. Consuming food and potions will have an effect on the character's attack and defense power. Individual attacks and body parts can be increased in strength as well.
+
+Also new in the Quest Mode is the ability to capture encountered monsters and then use them as playable characters in the Vs. mode. The amount of playable characters in this fighting game can be therefore as high as two hundred.</desc>
+		<rating>0.8</rating>
+		<releasedate>20070126T000000</releasedate>
+		<developer>Dream Factory</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Tomba! (USA).chd</path>
+		<name>Ore! Tomba</name>
+		<desc>Aside from sporting a wacky pink hairdo, Tomba! offers a long and brain twisting experience that mixes the traditional 2D side scrolling action/platformer with the elements of a role-playing game. The game starts out simple enough with the evil Koma Pigs stealing Tomba's bracelet, which was given to him by his grandfather. You assume the role of Tomba and begin your adventure. Little do you know that the quest for your bracelet will turn into so much more.
+
+Because of its role-playing elements, in Tomba!, your character will gain experience points, develop new skills and learn new things. He has seven abilities that can be learned throughout the duration of the game. Once all three experience meters reach level ten (in order to do this, Tomba must do certain things), he will unlock and learn an ability.</desc>
+		<rating>0.8</rating>
+		<releasedate>19971225T000000</releasedate>
+		<developer>Whoopee Camp</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Tomba! 2 - The Evil Swine Return (USA).chd</path>
+		<name>Tomba! The Wild Adventures</name>
+		<desc>Explore an all new 3D world. Use your trusty fire hammer, ice boomerang or or blackjack to turn the evil pigs into bacon. Throw on super-duds like a flying squirrel suit or high speed turbo pants. There's no limit to the stuff you can do.</desc>
+		<rating>0.8</rating>
+		<releasedate>19991028T000000</releasedate>
+		<developer>Whoopee Camp</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Tekken 3 (USA).chd</path>
+		<name>Tekken 3</name>
+		<desc>An ancient evil force has reawakened, attacking in secret and feeding on the souls of mighty warriors. To lure it out of hiding will take the greatest fighting contest the world has ever seen... Tekken 3. Some are fighting for revenge, some for honor, ultimately, all are fighting for their lives and the fate of all mankind.</desc>
+		<rating>0.8</rating>
+		<releasedate>19980326T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220908T172707</lastplayed>
+	</game>
+	<game>
+		<path>./R4 - Ridge Racer Type 4 (USA).chd</path>
+		<name>R4 : Ridge Racer Type 4</name>
+		<desc>Powering beyond RIDGE and RAGE RACER, high-speed control and advanced dynamics accekerate the rush of a first class victory.
+
+-In-depth Grand Prix Mode
+-Incredible two-player action
+-40+ unique car models with over 300 variations
+-Hyper-evolved graphics for the supreme racing experience</desc>
+		<rating>0.8</rating>
+		<releasedate>19981203T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Sony</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220911T184002</lastplayed>
+	</game>
+</gameList>

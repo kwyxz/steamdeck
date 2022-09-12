@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Fire Emblem Echoes - Shadows of Valentia.cci</path>
+		<name>Fire Emblem Echoes: Shadows of Valentia</name>
+		<desc>A tale of two armies with one destiny
+
+In a continent that was torn asunder by warring gods, guide two armies through brutal tactical battlesâ€”as this reimagined RPG epic invades the West! Uncover the intertwining stories of Alm and Celica, engage foes, fend off dragons, and explore 3D dungeons. Your prowess will grow as you master this melding of modern and legacy Fire Emblemâ„¢ gameplay.
+
+Alm and Celica lead separate armies united by a common goal: to stop the war and unify Valentia. Each army has its own path, units, and supplies, so balance their needs. Here, battle is waged in the traditions of elder Fire Emblemâ„¢ games, when the rules of battle were simpler, yet the challenge formidable as ever. When you encounter a dungeon, explore it in action-adventure style: smash false walls, break pots, or ambush enemies with a slash of your sword. You never know; you may stumble upon some uncommon itemsâ€¦or a hidden tactical battle with a brutal boss.</desc>
+	</game>
+	<game>
+		<path>./Professor Layton vs Phoenix Wright - Ace Attorney (Europe).3ds</path>
+		<name>Professor Layton vs. Phoenix Wright - Ace Attorney</name>
+		<desc>Ace Attorney and Ace Investigator Join Forces! 
+
+Two of gaming's biggest sleuths team up to solve the most puzzling mystery they have ever encountered. For the first time ever, the mind-bending puzzles of the Professor Layton series meet the courtroom drama of Phoenix Wright: Ace Attorney. 
+
+Follow Professor Layton and Phoenix Wright as they are transported from London to the mystical city of Labyrinthia, where they must help Espella Cantabella, a girl accused of being a witch. Two different game-play styles work together in unexpected ways. Solve puzzles familiar to fans of the Professor Layton series in Adventure mode to move the story forward, and then cross-examine witnesses as Phoenix Wright in Trial mode.</desc>
+		<rating>0.9</rating>
+		<releasedate>20121129T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Level-5</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Senran Kagura Burst (Europe).3ds</path>
+		<name>Senran Kagura Burst</name>
+		<desc>Senran Kagura Burst is an enhanced and updated version of the original Senran Kagura. It includes the complete original game, along with an entirely new scenario starring the rival Hebijo ninja team, which tells the original story from a different perspective. A number of new outfits and unlockable missions have also been added.</desc>
+		<rating>0.6</rating>
+		<releasedate>20131114T000000</releasedate>
+		<developer>Tamsoft</developer>
+		<publisher>Xseed Games</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Star Fox 64 3D (Europe).3ds</path>
+		<name>Star Fox 64 3D</name>
+		<desc>The Star Fox team triumphantly returns to one of its greatest missions with this remake of Star Fox 64 in full 3D, featuring a complete graphical update.
+
+The entire Star Fox universe spreads out realistically into the depths of the Nintendo 3DS screen while the 3D visuals give the player a clearer grasp of distance and position. This makes the game more approachable and intuitive, thereby allowing players to focus on the action.</desc>
+		<rating>0.8</rating>
+		<releasedate>20110911T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220910T154417</lastplayed>
+	</game>
+	<game>
+		<path>./Legend of Zelda - TriForce Heroes, The (USA)(En).3ds</path>
+		<name>The Legend of Zelda : Tri Force Heroes</name>
+		<desc>In the visual style of the critically-acclaimed The Legend of Zelda: A Link Between Worlds game comes a new adventure. In this journey, three players team up, each as Link, to cooperatively make their way through inventive dungeons and battle bosses. Use the new Totem mechanic to stack three Links on top of each other to reach higher grounds and solve puzzles. Collect loot to create wearable outfits, each with a different boost or ability.
+</desc>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+	</game>
+	<game>
+		<path>./Kid Icarus - Uprising (Europe).3ds</path>
+		<name>Kid Icarus: Uprising</name>
+		<desc>One of the most beloved franchises in Nintendos long history makes its glorious return in spectacular 3D! Pit of Kid Icarus fame is back in a new game designed specifically for the Nintendo 3DS system, by Masahiro Sakurai, creator of the Kirby and Super Smash Bros. franchises, and his development team at Project Sora.
+
+Kid Icarus: Uprising is a fast-paced and action-packed blend of aerial and ground-based shooting built on elegantly intuitive and streamlined play control. This follow-up to the original Kid Icarus released for the Nintendo Entertainment System in 1987 has been at the top of gamers wish lists for years.
+
+Boasting gameplay that is easy to pick up but incredibly deep, the game is sure to satisfy novice gamers as well as fans who have been clamouring for a new installment in the franchise.
+
+The hero, Pit, teams up with Palutena, the goddess of light, who bestows on him the miracle of flight for limited stretches. With this gift, Pit soars through the skies, shooting down swarms of enemies, then alights and engages in frantic ground-based battles against Medusas underworld army.
+
+Find and collect numerous weapons and items that offer bonuses and ability boosts. Players can choose weapons before they send Pit into battle, giving them countless layers of strategies in each level.
+
+Players can choose between a basic Blade, basic Claws and a basic Orbitar weapon. Blades are well-balanced, Claws have limited reach but increase running speed and the Orbitars can shoot two shots that grow in power over distance.</desc>
+		<rating>0.9</rating>
+		<releasedate>20120323T000000</releasedate>
+		<developer>Project Sora</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220911T181115</lastplayed>
+	</game>
+</gameList>

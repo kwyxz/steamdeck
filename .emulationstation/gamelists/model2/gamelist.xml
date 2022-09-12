@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./doa.zip</path>
+		<name>Dead or Alive</name>
+		<desc>Dead or Alive is a fighting game and the first entry in the long-running Dead or Alive series. The gameplay of Dead or Alive was unique at the time of its debut because it featured different choices in gameplay than other 3D fighting games (at least at the time).</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./desert.zip</path>
+		<name>Desert Tank</name>
+		<desc>Desert Tank is a 3-D tank simulator.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Vehicle, 3rd person</genre>
+		<players>1</players>
+		<controller>steering_wheel_generic</controller>
+	</game>
+	<game>
+		<path>./dynabb.zip</path>
+		<name>Dynamite Baseball</name>
+		<desc>Dynamite Baseball is a 3-D baseball game.</desc>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./dynabb97.zip</path>
+		<name>Dynamite Baseball 97</name>
+		<desc>Dynamite Baseball '97 is a 3-D baseball game, sequel to the original "Dynamite Baseball", which was released in 1996. 
+
+The music is very identical to the songs from the Sega Model 3 game, "Harley-Davidson &amp; L.A. Riders", and an earlier Sega Model 2 game, "Sega Ski Super-G".</desc>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./dynamcop.zip</path>
+		<name>Dynamite Cop</name>
+		<desc>Dynamite Cop is a 3D beat 'em up for up to two players in which players play as either Bruno Delinger, Jean Ivy, or Eddie Brown and fight through levels on board a cruise ship and on a deserted island to save the President's daughter from a band of modern-day pirates led by Wolf "White Fang" Hongo, the main antagonist from the first game. The classic Sega arcade game Tranquilizer Gun (1980) is included as a bonus game on the Dreamcast version. Clearing all missions will enable you to play Tranquilizer Gun an unlimited number of times.</desc>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>AM1</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_3_buttons</controller>
+	</game>
+	<game>
+		<path>./fvipers.zip</path>
+		<name>Fighting Vipers</name>
+		<desc>Fighting Vipers is a 3-D fighting game.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / 3D</genre>
+		<players>2</players>
+		<controller>joystick_arcade_3_buttons</controller>
+	</game>
+	<game>
+		<path>./indy500.zip</path>
+		<name>Indy 500 Twin</name>
+		<desc>Ladies and Gentlemen, Start Your Engines!!</desc>
+		<releasedate>19950101T000000</releasedate>
+		<controller>steering_wheel_generic</controller>
+	</game>
+	<game>
+		<path>./motoraid.zip</path>
+		<name>Motor Raid - Twin</name>
+		<desc>Motor Raid (c) 1997 Sega.  - TECHNICAL -  Sega Model 2A hardware.  Main CPU : i960KB, 68000 Sound Chips : SCSP  Players : 2 Buttons : 4  This was a rom swap upgrade for "Manx TT Superbike".  - TRIVIA -  Released in October 1997.  Marvelous Entertainment r</desc>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Motorcycle Race, 1st Pers.</genre>
+		<players>1</players>
+		<controller>steering_wheel_generic</controller>
+	</game>
+	<game>
+		<path>./overrev.zip</path>
+		<name>Over Rev</name>
+		<desc>Over REV is a 1997 racing game developed by Jaleco for Sega's Model 2 arcade board. It features four nicely rendered tracks across the Greater Tokyo Area. Although it has some serious issues with driving and collision physics, if you stick with the game long enough to overcome its intricacies, it can be pretty rewarding. Like Jaleco's other Model 2 racer, Super GT 24h, you'll want to use an automatic transmission.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Race 3rd Pers. view</genre>
+		<players>1-2</players>
+		<controller>steering_wheel_generic</controller>
+	</game>
+	<game>
+		<path>./pltkids.zip</path>
+		<name>Pilot Kids</name>
+		<desc>A cutesy horizontal shooter where you play a kid in an airplane shooting at awesome bosses like an attack dog.</desc>
+		<rating>0.9</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./skisuprg.zip</path>
+		<name>Sega Ski Super G</name>
+		<desc>In Sega Ski Super G, the objective is to race against other opponents under a time limit. The game has two modes: World Series and Time Attack.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Skiing</genre>
+		<players>1</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./stcc.zip</path>
+		<name>Sega Touring Car Championship</name>
+		<desc>Sega Touring Car Championship is a Sega Model 2C CRX arcade racing game developed by Sega AM5 in 1996. It is similar to Sega Rally Championship in design, but uses touring cars instead of rally cars. Unlike Sega Rally Championship, Sega Touring Car Championship has never seen a sequel, and it considered a far less successful game for a variety of reasons, most notably the steep difficulty curve and often awkward car handing.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race 3rd Pers. view</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./segawski.zip</path>
+		<name>Sega Water Ski</name>
+		<desc>The objective of this game is similar to the last game, "Top Skater". Except you're water-skiing, instead of skateboaring.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Skiing</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./schamp.zip</path>
+		<name>Sonic Championship</name>
+		<desc>Sonic the Fighters, known as Sonic Championship on arcade versions in North America and Europe, is a fighting game developed by Sega AM2 for Sega's Model 2 arcade system. The game, which allows players to fight using characters from the Sonic the Hedgehog series, was released in arcades in Japan in May 1996 and North America in June 1996. The game was included in the compilation disc Sonic Gems Collection for PlayStation 2 and Nintendo GameCube in 2005. A HD port for Xbox Live Arcade and PlayStation Network was released in November 2012.</desc>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./sgt24h.zip</path>
+		<name>Super GT 24h</name>
+		<desc>1996 arcade racing game. Work your way to the top spot within 5 laps</desc>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Race 3rd Pers. view</genre>
+		<players>1</players>
+		<controller>steering_wheel_generic</controller>
+	</game>
+	<game>
+		<path>./topskatr.zip</path>
+		<name>Top Skater</name>
+		<desc>The first high tech skateboard simulator hits the streets with full body racing action! Perform difficult moves like the pros, without breaking your appendages. Players can use their entire body to maneuver through ultra-challenging skateboarding courses... this is not a video game its a spectator sport! Choose from six unique characters with individual style and personality. Includes all the hard-core skateboard moves: kick flips, 180-degree turns, 360 flips, indy nose bones, Oilies and more!</desc>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Skateboard</genre>
+		<players>1</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./vf2.zip</path>
+		<name>Virtua Fighter 2</name>
+		<desc>Virtua Fighter 2 is a fighting game developed by Sega. It is the sequel to Virtua Fighter and the second game in the Virtua Fighter series. It was created by the Sega's Yu Suzuki-headed AM2 and was released in the arcade in 1994. VF2 was known for breakthrough graphics at the time. It used Sega's Model 2 arcade hardware to run the game at 60 frames per second at a high resolution with no slowdown.
+
+The arena size could be adjusted up to a very small platform or all the way to 82 meters, which in the genre is considered very large; this is the only game in the seriesâ€”other than Virtua Fighter Remixâ€”that could have such size adjustments. The physical energy meter could also be adjusted to infinity as well, giving you the advantage when beating opponents in the game or practicing moves against the computer player. Incidentally, players discovered that adjusting the arena to a smaller size and giving the characters infinite health could lead to mock sumo matches, wherein victory is achieved by knocking the other player out of the ring.</desc>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./vstriker.zip</path>
+		<name>Virtua Striker</name>
+		<desc>Virtua Striker is the first three-dimensional computer graphic soccer gameby Sega, bringing extreme competition to the arcades.
+
+State of the art texture mapping provides sophisticated reproduction of the World Cup atmosphere, with incredibly immersive game action and realistic backgrounds. It uses the same architecture as Virtua Fighter 2.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./waverunr.zip</path>
+		<name>Wave Runner</name>
+		<desc>WaveRunner is a jet-ski racing game. This game features three courses, and up to four cabinets can be linked for multiplayer racing.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./zerogun.zip</path>
+		<name>Zero Gunner</name>
+		<desc>In the future date of 2016, worldwide martial law is initiated when a widespread terrorist organization overthrew and took control of the world's military authorities. A group of ace helicopter pilots are secretly amassed in a special forces squadron called ZERO to travel around the world and destroy the occupied terrorist forces.</desc>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Shooter / Plane</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./daytona.zip</path>
+		<name>Daytona USA</name>
+		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race 3rd Pers. view</genre>
+		<players>1</players>
+		<playcount>4</playcount>
+		<controller>steering_wheel_generic</controller>
+		<lastplayed>20220826T141957</lastplayed>
+	</game>
+	<game>
+		<path>./manxtt.zip</path>
+		<name>ManxTT Superbike</name>
+		<desc>This game is a motorcycle race with the standard schema "gone last, finish first". It was based on the real-life Isle of Man Trophy race. Only 2 tracks are available, a short and a long version of the course.
+The arcade cabinet provided a life-size bike on which to sit, which was really fun. However, it aged more badly than other similar games.</desc>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Motorcycle Race, 1st Pers.</genre>
+		<players>1</players>
+		<controller>steering_wheel_generic</controller>
+	</game>
+	<game>
+		<path>./srallyc.zip</path>
+		<name>Sega Rally Championship</name>
+		<desc>Sega Rally Championship gameplay is both accessible and technical. The game provides 4 tracks of increasing difficulty, and 3 rally cars. The tracks are very detailed, and provide numerous challenges, as well as various track surfaces, side animations, and environments.</desc>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<controller>steering_wheel_generic</controller>
+		<lastplayed>20220826T092252</lastplayed>
+	</game>
+	<game>
+		<path>./lastbrnx.zip</path>
+		<name>Last Bronx</name>
+		<desc>Nine gang leaders battle it out for control over Tokyo city in this AM3 developed arcade fighting game. It was the first motion captured fighting game released back in May 1996 to Arcades in Japan.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<controller>joystick_arcade_4_buttons</controller>
+		<lastplayed>20220911T183119</lastplayed>
+	</game>
+</gameList>

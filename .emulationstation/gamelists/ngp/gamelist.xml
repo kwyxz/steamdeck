@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Melon-chan no Seichou Nikki (Japan).ngp.zip</path>
+		<name>Melon Chan's Growth Diary</name>
+		<desc>Melon Chan's Growth Diary (Japan: Melon-chan no Seichouki) is a Life simulation game it is comparable to Tamagotchi and other virtual life simulations. In Melon Chan's Growth Diary the player raises and nurtures little girl Melon Chan. The games was only released in Japan and was one of the earliest titles released for the Neo Geo Pocket.
+
+The game was released for the Neo Geo Pocket and features monochrome graphics; however the Neo Geo Pocket Color is backwards compatible with the game.</desc>
+		<rating>0.5</rating>
+		<releasedate>19981028T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Simulation / Life</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Neo Cherry Master - Real Casino Series (Japan) (En,Ja).ngp.zip</path>
+		<name>Neo Cherry Master - Real Casino Series</name>
+		<desc>Neo Cherry Master is a virtual slot machine simulator for the Neo Geo Pocket. The game simulates the old fashioned fruit-matching slots (infamously known as one-armed bandits), where the player simply "pulls the lever" and leaves the rest up to chance. The game features two modes, Simple and Original mode, with the only difference being that the latter allows for name entry and the ability to save high scores.</desc>
+		<releasedate>19981225T000000</releasedate>
+		<developer>Dyna Corporation</developer>
+		<publisher>SNK</publisher>
+		<genre>Casino / Slot machine</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).ngp.zip</path>
+		<name>Pocket Tennis</name>
+		<desc>Pocket Tennis a simple tennis game with two play modes: Exhibition and Tournament.
+
+Exhibition is a single match against computer or human opponent (requires link cable). There do exist eight player characters with different skills (human player must select one of those eight characters too) and four (five in the color version) different courts. Also amount of sets per game can be selected (1, 3 or 5).
+
+Tournament is only against computer. Human player can pick his/her character but not the computer opponent. Also selection of courts and amount of sets is missing. Three games will be played: quarter and semifinals and of course the final.</desc>
+		<rating>0.7</rating>
+		<releasedate>19981028T000000</releasedate>
+		<developer>Yumekobo</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Shougi no Tatsujin (Japan).ngp.zip</path>
+		<name>Shougi No Tatsujin</name>
+		<desc>Shogi is the Japanese equivalent of chess. Indeed, as in chess, the goal of the game is to subdue the opposing king! Nevertheless, there are several differences between the Shogi and our chess game, be it in the nature of the pieces, their positions or their movements.</desc>
+		<releasedate>19981120T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Asiatic board game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Renketsu Puzzle Tsunagete Pon! (Japan).ngp.zip</path>
+		<name>Puzzle Link</name>
+		<desc>Puzzle Link is a game where blocks of matching color have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen. You can dissolve blocks by shooting at them. The shots form a line where they impact. If that line connects otherwise unconnected blocks of the same color they will dissolve.
+
+There are three different modes: In "Normal" you have to link two special blocks that appear after some time. If you manage to finish the level within the time limit you will unlock one of 50 collectible cards. In "Clear Mode" you have to clear a given constellation of blocks. "Battle Mode" is a two player link-cable mode.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990930T000000</releasedate>
+		<developer>Yumekobo</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).ngp.zip</path>
+		<name>Baseball Stars</name>
+		<desc>Baseball Stars is sports game about baseball. Game is similar to Baseball Stars from NES but has less realistic characters and gameplay's style. You manage own baseball team and play in series of matches. Game has typical baseball rules - one player throws the ball, second hits the ball, someone else grabs it etc. Each character has own statistics, like stamina.</desc>
+		<rating>0.8</rating>
+		<releasedate>19981028T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220907T225528</lastplayed>
+	</game>
+	<game>
+		<path>./King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp.zip</path>
+		<name>King of Fighters - R-1</name>
+		<desc>The King of Fighters: R1 marks SNK's first time bringing the KOF series onto a handheld... and what better system than their own Neo Geo Pocket to do just that? 14 of the most well known KOF characters make their appearance in KOF: R-1, along with some recognizable backgrounds and gameplay features based on The King of Fighters '97. Players can choose from "Extra" &amp; "Advance" play modes similar to KOF '97, and most characters play closely to their original versions.</desc>
+		<rating>0.9</rating>
+		<releasedate>19981028T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220908T171334</lastplayed>
+	</game>
+	<game>
+		<path>./Neo Geo Cup '98 (Japan, Europe) (En,Ja).ngp.zip</path>
+		<name>Neo Geo Cup '98</name>
+		<desc>In the story mode you choose a team among the best in the world with the objective of winning the famous Neo Geo Cup. However, this is no easy task and winning the title will require long hours of intense matches. Each match will give you a certain number of points that can be used in the store, which adds a little RPG touch. Buying shorts, cleats, jerseys and many other items from a given selection will increase your team's abilities according to several criteria and make your players faster or more skilled in front of the goal.</desc>
+		<rating>0.6</rating>
+		<releasedate>19981028T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220908T171649</lastplayed>
+	</game>
+	<game>
+		<path>./Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp.zip</path>
+		<name>Samurai Shodown!</name>
+		<desc>Samurai Shodown! Pocket is essentially a "portable" version of Samurai Shodown 4. Like the other fighting games on the Neo Geo Pocket, the characters are drawn in Super Deformed chibi style (big heads and tiny bodies). This title was also one of the first games for the Neo Geo Pocket, so the game was only in black and white... The gameplay of Samurai Shodown is quite well adapted in the pocket version, but it is not as enjoyable as the Neo Geo classic. The gameplay is very simplified in this version. The characters keep most of their special moves and moves, but the deep strategies of the arcade are almost gone. It's basically a new game that, while not spectacular, is fun.</desc>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20220911T183826</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,285 @@
+<?xml version="1.0"?>
+<gameList>
+	<alternativeEmulator>
+		<label>supermodel</label>
+	</alternativeEmulator>
+	<game>
+		<path>./dayto2pe.zip</path>
+		<name>Daytona USA 2: Power Edition</name>
+		<desc>Daytona USA 2 grades up! Experience the force and the excitement of the stock cars. This time, the player can use the Hornet Classic, the car from "Daytona USA". There are new features such as the Mix Course, the combination of Medium, Expert, and Beginners, and the player can drive the reverse direction.</desc>
+		<rating>0.9</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race 3rd Pers. view</genre>
+		<players>1</players>
+		<controller>steering_wheel_generic</controller>
+	</game>
+	<game>
+		<path>./dirtdvls.zip</path>
+		<name>Dirt Devils</name>
+		<desc>Dirt Devils is a racing game from Sega with all terrain vehicles such as a Humvee, a Sand Buggy, and a Beetle Buggy. There are 3 standard stages plus 1 hidden stage inside the big arena dome.</desc>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race</genre>
+		<players>1-2</players>
+		<controller>steering_wheel_generic</controller>
+	</game>
+	<game>
+		<path>./eca.zip</path>
+		<name>Emergency Call Ambulance</name>
+		<desc>Become an emergency medical technician in Emergency Call Ambulance. Day or night, you're on the call! Race to the scene of a serious traffic accident, spectacular fire or senseless act of big city violence. You're mission: get the injured to the hospital emergency room as quickly and safely as possible! Players are kept aware of their patient's condition by monitoring their 'health point' indicator. Reckless driving or hitting other vehicles will dramatically reduce your patient's 'health point' indicator. Follow the on-screen directions or choose your own route. The game ends if the 'health point' indicator reaches zero before you deliver the patient to the hospital. Make it in time, and you're off to the next emergency call!</desc>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<controller>steering_wheel_generic</controller>
+	</game>
+	<game>
+		<path>./fvipers2.zip</path>
+		<name>Fighting Vipers 2</name>
+		<desc>Fighting Vipers 2 is a 3-D fighting game.</desc>
+		<rating>0.6</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / 3D</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./harley.zip</path>
+		<name>Harley-Davidson &amp; L.A. Riders</name>
+		<desc>Harley-Davidson &amp; L.A. Riders is a motorcycle game that allows players to choose from 5 different Harleys to ride. The goal is to race to various points around Los Angeles under a time limit, and to avoid crashing many times into cars. The game's style is very similar to 1993's "OutRunners".</desc>
+		<rating>0.6</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Motorcycle Race, 3rd Pers.</genre>
+		<players>1</players>
+		<controller>steering_wheel_generic</controller>
+	</game>
+	<game>
+		<path>./lamachin.zip</path>
+		<name>L.A. Machineguns</name>
+		<desc>During your mission, you will encounter enormous amounts of enemies ranging from human size robots to lightning fast weapon pods. The player is armed with a heavy machine gun which he uses to survive the 4 stages of the game.</desc>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./lemans24.zip</path>
+		<name>Le Mans 24</name>
+		<desc>The world's top 6 car manufacturers battle it out over 24 gruelling hours.</desc>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<controller>steering_wheel_generic</controller>
+	</game>
+	<game>
+		<path>./magtruck.zip</path>
+		<name>Magical Truck Adventure</name>
+		<desc>Magical Truck Adventure gives the player the feel of actually riding a rail car. An action-pedal and truck lever assists the player in chasing, jumping, and dodging the evil villains that threaten to steal Alma's precious stone.
+
+All this excitement takes place on a railroad track with 6 amazingly detailed scenic routes. The 3 challenging stages include an array of obstacles, wild rhino's, hungry crocodiles, and speeding trains to name a few.</desc>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<controller>steering_wheel_generic</controller>
+	</game>
+	<game>
+		<path>./skichamp.zip</path>
+		<name>Ski Champ</name>
+		<desc>Sega's Ski Champ is an arcade downhill skiing game released in 1998 that runs on Sega Model 3 hardware and features a stand-up cabinet that simulates real skiing motions.</desc>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Skiing</genre>
+		<players>1</players>
+		<controller>steering_wheel_generic</controller>
+	</game>
+	<game>
+		<path>./spikeout.zip</path>
+		<name>Spikeout: Digital Battle Online</name>
+		<desc>Spikeout: Digital Battle Online is a 3D beat 'em up video game developed by Toshihiro Nagoshi, and released by Sega for their Model 3 Step 2.1 arcade system board in 1998. An update, Spikeout: Final Edition, was released in 1999.</desc>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./spikeofe.zip</path>
+		<name>Spikeout: Final Edition</name>
+		<desc>Spikeout Final Edition is an Action game, developed and published by Sega,  which was released in 1999.</desc>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / 3D</genre>
+		<players>1</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./swtrilgy.zip</path>
+		<name>Star Wars Trilogy Arcade</name>
+		<desc>Star Wars Trilogy Arcade is a Model 3 shooter allowing the player to ride, fly, and shoot in galactic vehicles.
+
+Players will travel through 6 incredibly detailed intergalactic stages, featuring scenes from A New Hope, Empire Strikes Back, and Return of the Jedi, both challenging the players shooting accuracy as well as vehicle maneuvering capabilities.
+
+Hidden secrets, located in all stages, allow the player to alter the course of the stage, making each game an unconventional and thrilling experience.</desc>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<controller>flight_stick_generic</controller>
+	</game>
+	<game>
+		<path>./oceanhun.zip</path>
+		<name>The Ocean Hunter</name>
+		<desc>Players will encounter an array of marine life, which dominate the seven seas, while exploring ancient ruins indicating the fascinated by the spectrum of colors, created by the sun light shining through the water, The battle is not only against the threatening marine life, but the titanic icebergs, which are capable of sinking the Ocean Hunter. Featuring spectacular underwater graphics and effects through seven stages.</desc>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./vs2.zip</path>
+		<name>Virtua Striker 2</name>
+		<desc>The Virtua Striker video games are arcade-style football/soccer sports games by Sega. Originally developed by Sega AM2, the series moved to Amusement Vision with Virtua Striker 3. But the series moved again to Sega AM2 with Virtua Striker 4. The original Virtua Striker, released in 1994, was the first association football game to use 3D computer graphics, and was also notable for its early use of texture mapping,[1] along with Sega's own racing video game Daytona USA.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./vs298.zip</path>
+		<name>Virtua Striker 2 '98</name>
+		<desc>Virtua Striker 2 version '98 (c) 1998 Sega.  - TECHNICAL -  Sega Model 3 Step 2.0 hardware  Main CPU : PPC603 (@ 166 Mhz)  Players : 1 Control : 8-way joystick Buttons : 4  There's also a version that runs on Sega Model 3 Step 1.5 hardware.  - TRIVIA -  V</desc>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./von2.zip</path>
+		<name>Virtual On 2: Oratorio Tangram</name>
+		<desc>Cyber Troopers Virtual-On Oratorio Tangram is a 1998 Japanese Sega Model 3 arcade game that was later ported to the Sega NAOMI arcades and then later for the Dreamcast home console in both Japan in 1999 &amp; America in 2000. Oratorio Tangram is a 3D fighting game where the player assumes control of a giant humanoid robot, and a sequel to the 1995 video game Cyber Troopers Virtual-On: Operation Moongate. It was released on April 29, 2009 for the Xbox 360 on the Xbox Live Arcade as a remake of the Version 5.66. It is the most popular game in the series by far according to a SEGA poll taken in Japan.</desc>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>1</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./vs2v991.zip</path>
+		<name>Virtua Striker 2 '99.1</name>
+		<desc>Virtua Striker 2 version '99 (c) 1998 Sega.  - TECHNICAL -  Sega Model 3 Step 2.1 hardware  Main CPU : PPC603 (@ 166 Mhz)  Players : 1 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in December 1998.  - TIPS AND TRICKS -  * Selecting MVP Yuki-</desc>
+		<releasedate>19990101T000000</releasedate>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_4_buttons</controller>
+	</game>
+	<game>
+		<path>./vf3.zip</path>
+		<name>Virtua Fighter 3</name>
+		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series.
+
+The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down).
+
+Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<controller>joystick_arcade_4_buttons</controller>
+		<lastplayed>20220826T142245</lastplayed>
+	</game>
+	<game>
+		<path>./daytona2.zip</path>
+		<name>Daytona USA 2: Battle on the Edge</name>
+		<desc>The wild and hot run is back. 16 people can run together. Not only the body of the machine and the road surface, but also smoke and the flames for the crash scenes are reproduced beautifully. The game also uses the real engines' sounds from the real cars.</desc>
+		<rating>0.9</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race 3rd Pers. view</genre>
+		<players>1-2</players>
+		<playcount>4</playcount>
+		<controller>steering_wheel_generic</controller>
+		<lastplayed>20220826T013229</lastplayed>
+	</game>
+	<game>
+		<path>./lostwsga.zip</path>
+		<name>The Lost World: Jurassic Park</name>
+		<desc>If you have a good arm at shooting games you're fine. But if you don't have a good arm at shooting games better start practicing, because half of the whole game you'll be shooting a lot of raptors coming at you 30 miles per hour!!!</desc>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+		<controller>lightgun_generic</controller>
+	</game>
+	<game>
+		<path>./scud.zip</path>
+		<name>Scud Race</name>
+		<desc>Scud Race (stylized as SCUD Race, "Sport Car Ultimate Drive"), or otherwise known as Sega Super GT in North America, is an arcade racing game released by Sega in 1996. It is the first racing game to be using the Sega Model 3 hardware.</desc>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<playcount>10</playcount>
+		<controller>steering_wheel_generic</controller>
+		<lastplayed>20220901T114549</lastplayed>
+	</game>
+	<game>
+		<path>./srally2.zip</path>
+		<name>Sega Rally 2</name>
+		<desc>Sega Rally 2 is the sequel to Sega Rally Championship. It was released in 1998 in the arcades and was later ported to the Dreamcast and PC.</desc>
+		<rating>0.9</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race 3rd Pers. view</genre>
+		<players>1</players>
+		<playcount>5</playcount>
+		<controller>steering_wheel_generic</controller>
+		<lastplayed>20220911T183505</lastplayed>
+	</game>
+</gameList>

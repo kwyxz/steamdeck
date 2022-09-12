@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Gears of War Judgment (USA).iso</path>
+		<name>Gears Of War Judgment</name>
+		<rating>0.7</rating>
+		<developer>Microsoft</developer>
+		<publisher>People Can Fly</publisher>
+		<players>2-4</players>
+		<playcount>1</playcount>
+		<lastplayed>20220910T162152</lastplayed>
+	</game>
+	<game>
+		<path>./Skate 2 (Europe).iso</path>
+		<name>Skate 2</name>
+		<desc>Skate 2 on Xbox 360 takes you through the streets of San Vanelona in search of the best spots to perform the most impressive tricks possible. The game focuses on a very high level of realism, both in the behaviour of the riders and in the execution of the tricks.</desc>
+		<rating>0.9</rating>
+		<releasedate>20090121T000000</releasedate>
+		<developer>EA Black Box</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>2-4</players>
+		<playcount>1</playcount>
+		<lastplayed>20220910T162208</lastplayed>
+	</game>
+	<game>
+		<path>./Stoked (USA).iso</path>
+		<name>Stoked</name>
+		<desc>Alone or with your friends, snowboard down the most beautiful spots in the world in open environments. Dropped from a helicopter on top of 5 different mountain ranges, ride the powder with one key word: freedom. The changing weather adds to the challenge, and changes the routes and environment in real time.</desc>
+		<rating>0.7</rating>
+		<releasedate>20090227T000000</releasedate>
+		<developer>Zushi</developer>
+		<publisher>Destineer</publisher>
+		<genre>Sports</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220910T162538</lastplayed>
+	</game>
+</gameList>

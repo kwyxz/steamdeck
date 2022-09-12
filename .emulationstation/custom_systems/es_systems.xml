@@ -1,0 +1,435 @@
+<?xml version="1.0"?>
+<systemList>
+  <system>
+    <name>3do</name>
+    <fullname>The 3DO Company - 1993 - 3DO</fullname>
+    <path>%ROMPATH%/3do</path>
+    <extension>.chd .CHD</extension>
+    <command label="Opera">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/opera_libretro.so %ROM%</command>
+    <platform>3do</platform>
+    <theme>3do</theme>
+  </system>
+  <system>
+    <name>n3ds</name>
+    <fullname>Nintendo - 2011 - 3DS</fullname>
+    <path>%ROMPATH%/n3ds</path>
+    <extension>.zip .ZIP .7z .7Z .cci .CCI .3ds .3DS</extension>
+    <command label="Citra (Libretro)">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/citra_libretro.so %ROM%</command>
+    <platform>n3ds</platform>
+    <theme>n3ds</theme>
+  </system>
+  <system>
+    <name>64dd</name>
+    <fullname>Nintendo - 1999 - 64DD</fullname>
+    <path>%ROMPATH%/64dd</path>
+    <extension>.zip .ZIP</extension>
+    <command label="ParaLLEl N64">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/parallel_n64_libretro.so %ROM%</command>
+    <platform>n64</platform>
+    <theme>64dd</theme>
+  </system>
+  <system>
+    <name>arcade</name>
+    <fullname>Arcade - 19XX</fullname>
+    <path>%ROMPATH%/arcade</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="MAME (Standalone)">/usr/bin/bash /home/deck/mame.sh -rompath %ROMPATH%/arcade %BASENAME%</command>
+    <platform>arcade</platform>
+    <theme>arcade</theme>
+  </system>
+  <system>
+    <name>atarijaguar</name>
+    <fullname>Atari - 1993 - Jaguar</fullname>
+    <path>%ROMPATH%/atarijaguar</path>
+    <extension>.zip .ZIP</extension>
+    <command label="VirtualJaguar">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/virtualjaguar_libretro.so %ROM%</command>
+    <platform>atarijaguar</platform>
+    <theme>atarijaguar</theme>
+  </system>
+  <system>
+    <name>atarilynx</name>
+    <fullname>Atari - 1989 - Lynx</fullname>
+    <path>%ROMPATH%/lynx</path>
+    <extension>.zip .ZIP</extension>
+    <command label="Handy">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/handy_libretro.so %ROM%</command>
+    <platform>atarilynx</platform>
+    <theme>atarilynx</theme>
+  </system>
+  <system>
+    <name>atomiswave</name>
+    <fullname>Sammy - 2003 - Atomiswave</fullname>
+    <path>%ROMPATH%/atomiswave</path>
+    <extension>.chd .CHD</extension>
+    <command label="Flycast">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/flycast_libretro.so %ROM%</command>
+    <platform>arcade</platform>
+    <theme>atomiswave</theme>
+  </system>
+  <system>
+    <name>cps1</name>
+    <fullname>Capcom - 1988 - CP System</fullname>
+    <path>%ROMPATH%/cps1</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="FinalBurn Neo">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/fbneo_libretro.so %ROM%</command>
+    <platform>arcade</platform>
+    <theme>cps1</theme>
+  </system>
+  <system>
+    <name>cps2</name>
+    <fullname>Capcom - 1993 - CP System II</fullname>
+    <path>%ROMPATH%/cps2</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="FinalBurn Neo">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/fbneo_libretro.so %ROM%</command>
+    <platform>arcade</platform>
+    <theme>cps2</theme>
+  </system>
+  <system>
+    <name>cps3</name>
+    <fullname>Capcom - 1996 - CP System III</fullname>
+    <path>%ROMPATH%/cps3</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="FinalBurn Neo">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/fbneo_libretro.so %ROM%</command>
+    <platform>arcade</platform>
+    <theme>cps3</theme>
+  </system>
+  <system>
+    <name>dreamcast</name>
+    <fullname>Sega - 1998 - Dreamcast</fullname>
+    <path>%ROMPATH%/dreamcast</path>
+    <extension>.chd .CHD</extension>
+    <command label="Flycast">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/flycast_libretro.so %ROM%</command>
+    <platform>dreamcast</platform>
+    <theme>dreamcast</theme>
+  </system>
+  <system>
+    <name>fds</name>
+    <fullname>Nintendo - 1986 - Famicom Disk System</fullname>
+    <path>%ROMPATH%/fds</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="Mesen">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mesen_libretro.so %ROM%</command>
+    <platform>fds</platform>
+    <theme>fds</theme>
+  </system>
+  <system>
+    <name>gc</name>
+    <fullname>Nintendo - 2001 - GameCube</fullname>
+    <path>%ROMPATH%/gc</path>
+    <extension>.elf .dol .gcm .iso .wbfs .ciso .gcz .wad .rvz .ELF .DOL .GCM .ISO .WBFS .CISO .GCZ .WAD .RVZ</extension>
+    <command label="Dolphin (Standalone)">%EMULATOR_DOLPHIN% %ROM%</command>
+    <platform>gc</platform>
+    <theme>gc</theme>
+  </system>
+  <system>
+    <name>gamegear</name>
+    <fullname>Sega - 1990 - Game Gear</fullname>
+    <path>%ROMPATH%/gamegear</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="SMS Plus GX">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/smsplus_libretro.so %ROM%</command>
+    <platform>gamegear</platform>
+    <theme>gamegear</theme>
+  </system>
+  <system>
+    <name>gb</name>
+    <fullname>Nintendo - 1989 - Game Boy</fullname>
+    <path>%ROMPATH%/gb</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="SameBoy">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/sameboy_libretro.so %ROM%</command>
+    <platform>gb</platform>
+    <theme>gb</theme>
+  </system>
+  <system>
+    <name>gba</name>
+    <fullname>Nintendo - 2001 - Game Boy Advance</fullname>
+    <path>%ROMPATH%/gba</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="mGBA">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mgba_libretro.so %ROM%</command>
+    <platform>gba</platform>
+    <theme>gba</theme>
+  </system>
+  <system>
+    <name>gbc</name>
+    <fullname>Nintendo - 1998 - Game Boy Color</fullname>
+    <path>%ROMPATH%/gbc</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="SameBoy">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/sameboy_libretro.so %ROM%</command>
+    <platform>gbc</platform>
+    <theme>gbc</theme>
+  </system>
+  <system>
+    <name>mastersystem</name>
+    <fullname>Sega - 1985 - Master System</fullname>
+    <path>%ROMPATH%/mastersystem</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="SMS Plus GX">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/smsplus_libretro.so %ROM%</command>
+    <platform>mastersystem</platform>
+    <theme>mastersystem</theme>
+  </system>
+  <system>
+    <name>megacd</name>
+    <fullname>Sega - 1991 - MegaCD</fullname>
+    <path>%ROMPATH%/megacd</path>
+    <extension>.chd .CHD</extension>
+    <command label="Genesis Plus GX">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/genesis_plus_gx_libretro.so %ROM%</command>
+    <platform>megacd</platform>
+    <theme>megacd</theme>
+  </system>
+  <system>
+    <name>megadrive</name>
+    <fullname>Sega - 1988 - MegaDrive</fullname>
+    <path>%ROMPATH%/megadrive</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="BlastEm">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/blastem_libretro.so %ROM%</command>
+    <platform>megadrive</platform>
+    <theme>megadrive</theme>
+  </system>
+  <system>
+    <name>model1</name>
+    <fullname>Sega - 199X - Model 1</fullname>
+    <path>%ROMPATH%/model1</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="MAME (Standalone)">/usr/bin/bash /home/deck/mame.sh -rompath %ROMPATH%/model1 %BASENAME%</command>
+    <platform>arcade</platform>
+    <theme>model1</theme>
+  </system>
+  <system>
+    <name>model2</name>
+    <fullname>Sega - 199X - Model 2</fullname>
+    <path>%ROMPATH%/model2</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="MAME (Standalone)">/usr/bin/bash /home/deck/mame.sh -rompath %ROMPATH%/model2 %BASENAME%</command>
+    <platform>arcade</platform>
+    <theme>model2</theme>
+  </system>
+  <system>
+    <name>model3</name>
+    <fullname>Sega - 199X - Model 3</fullname>
+    <path>%ROMPATH%/model3</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="Supermodel (Standalone)">/home/deck/supermodel/supermodel.sh %ROM%</command>
+    <platform>arcade</platform>
+    <theme>model3</theme>
+  </system>
+  <system>
+    <name>n64</name>
+    <fullname>Nintendo - 1996 - Nintendo64</fullname>
+    <path>%ROMPATH%/n64</path>
+    <extension>.zip .ZIP</extension>
+    <command label="Mupen64plus Next">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mupen64plus_next_libretro.so %ROM%</command>
+    <platform>n64</platform>
+    <theme>n64</theme>
+  </system>
+  <system>
+    <name>naomi</name>
+    <fullname>Sega - 199X - Naomi</fullname>
+    <path>%ROMPATH%/naomi</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="Flycast">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/flycast_libretro.so %ROM%</command>
+    <platform>arcade</platform>
+    <theme>naomi</theme>
+  </system>
+  <system>
+    <name>nds</name>
+    <fullname>Nintendo - 2004 - Nintendo DS</fullname>
+    <path>%ROMPATH%/nds</path>
+    <extension>.zip .ZIP</extension>
+    <command label="MelonDS">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/melonds_libretro.so %ROM%</command>
+    <platform>nds</platform>
+    <theme>nds</theme>
+  </system>
+  <system>
+    <name>neogeo</name>
+    <fullname>SNK - 1990 - Neo Geo</fullname>
+    <path>%ROMPATH%/neogeo</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="FinalBurn Neo">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/fbneo_libretro.so %ROM%</command>
+    <platform>neogeo</platform>
+    <theme>neogeo</theme>
+  </system>
+  <system>
+    <name>neogeocd</name>
+    <fullname>SNK - 1994 - Neo Geo CD</fullname>
+    <path>%ROMPATH%/neogeocd</path>
+    <extension>.chd .CHD</extension>
+    <command label="NeoCD">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/neocd_libretro.so %ROM%</command>
+    <platform>neogeocd</platform>
+    <theme>neogeocd</theme>
+  </system>
+  <system>
+    <name>nes</name>
+    <fullname>Nintendo - 1983 - NES</fullname>
+    <path>%ROMPATH%/nes</path>
+    <extension>.zip .ZIP</extension>
+    <command label="Mesen">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mesen_libretro.so %ROM%</command>
+    <platform>nes</platform>
+    <theme>nes</theme>
+  </system>
+  <system>
+    <name>ngp</name>
+    <fullname>SNK - 1998 - Neo Geo Pocket</fullname>
+    <path>%ROMPATH%/ngp</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="Beetle NeoPop">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mednafen_ngp_libretro.so %ROM%</command>
+    <platform>ngp</platform>
+    <theme>ngp</theme>
+  </system>
+  <system>
+    <name>ngpc</name>
+    <fullname>SNK - 1999 - Neo Geo Pocket Color</fullname>
+    <path>%ROMPATH%/ngpc</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="Beetle NeoPop">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mednafen_ngp_libretro.so %ROM%</command>
+    <platform>ngpc</platform>
+    <theme>ngpc</theme>
+  </system>
+  <system>
+    <name>pcengine</name>
+    <fullname>NEC - 1987 - PC Engine</fullname>
+    <path>%ROMPATH%/pcengine</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="Beetle PCE">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mednafen_pce_libretro.so %ROM%</command>
+    <platform>pcengine</platform>
+    <theme>pcengine</theme>
+  </system>
+  <system>
+    <name>pcenginecd</name>
+    <fullname>NEC - 1988 - Super CD-ROM2</fullname>
+    <path>%ROMPATH%/pcenginecd</path>
+    <extension>.chd .CHD</extension>
+    <command label="Beetle PCE">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mednafen_pce_libretro.so %ROM%</command>
+    <platform>pcengine</platform>
+    <theme>pcenginecd</theme>
+  </system>
+  <system>
+    <name>ps2</name>
+    <fullname>Sony - 2000 - Playstation 2</fullname>
+    <path>%ROMPATH%/ps2</path>
+    <extension>.iso .ISO</extension>
+    <command label="PCSX2 (Standalone)">/usr/bin/bash /home/deck/pcsx2.sh %ROM%</command>
+    <platform>ps2</platform>
+    <theme>ps2</theme>
+  </system>
+  <system>
+    <name>ps3</name>
+    <fullname>Sony - 2006 - Playstation 3</fullname>
+    <path>%ROMPATH%/ps3</path>
+    <extension>.ps3 .PS3</extension>
+    <command label="RPCS3 (Standalone)">/usr/bin/bash /home/deck/rpcs3.sh %ROM%</command>
+    <platform>ps3</platform>
+    <theme>ps3</theme>
+  </system>
+  <system>
+    <name>psx</name>
+    <fullname>Sony - 1994 - Playstation</fullname>
+    <path>%ROMPATH%/psx</path>
+    <extension>.chd .CHD</extension>
+    <command label="Beetle PSX">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mednafen_psx_hw_libretro.so %ROM%</command>
+    <platform>psx</platform>
+    <theme>psx</theme>
+  </system>
+  <system>
+    <name>satellaview</name>
+    <fullname>Nintendo - 1995 - Satellaview</fullname>
+    <path>%ROMPATH%/satellaview</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="Snes9X">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/snes9x_libretro.so %ROM%</command>
+    <platform>satellaview</platform>
+    <theme>satellaview</theme>
+  </system>
+  <system>
+    <name>saturn</name>
+    <fullname>Sega - 1994 - Saturn</fullname>
+    <path>%ROMPATH%/saturn</path>
+    <extension>.chd .CHD</extension>
+    <command label="Kronos">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/kronos_libretro.so %ROM%</command>
+    <platform>saturn</platform>
+    <theme>saturn</theme>
+  </system>
+  <system>
+    <name>sega32x</name>
+    <fullname>Sega - 1994 - 32X</fullname>
+    <path>%ROMPATH%/sega32x</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="Picodrive">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/picodrive_libretro.so %ROM%</command>
+    <platform>sega32x</platform>
+    <theme>sega32x</theme>
+  </system>
+  <system>
+    <name>snes</name>
+    <fullname>Nintendo - 1990 - Super NES</fullname>
+    <path>%ROMPATH%/snes</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="Snes9X">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/snes9x_libretro.so %ROM%</command>
+    <platform>snes</platform>
+    <theme>snes</theme>
+  </system>
+  <system>
+    <name>supergrafx</name>
+    <fullname>NEC - 1989 - Supergrafx</fullname>
+    <path>%ROMPATH%/supergrafx</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="Beetle Supergrafx">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mednafen_supergrafx_libretro.so %ROM%</command>
+    <platform>supergrafx</platform>
+    <theme>supergrafx</theme>
+  </system>
+  <system>
+    <name>switch</name>
+    <fullname>Nintendo - 2017 - Switch</fullname>
+    <path>%ROMPATH%/switch</path>
+    <extension>.xci .XCI</extension>
+    <command label="Yuzu">/usr/bin/flatpak run org.yuzu_emu.yuzu -f -g %ROM%</command>
+    <platform>switch</platform>
+    <theme>switch</theme>
+  </system>
+  <system>
+    <name>virtualboy</name>
+    <fullname>Nintendo - 1995 - Virtual Boy</fullname>
+    <path>%ROMPATH%/virtualboy</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="Beetle VB">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mednafen_vb_libretro.so %ROM%</command>
+    <platform>virtualboy</platform>
+    <theme>virtualboy</theme>
+  </system>
+  <system>
+    <name>wiiu</name>
+    <fullname>Nintendo - 2012 - Wii U</fullname>
+    <path>%ROMPATH%/wiiu/roms</path>
+    <extension>.wua .WUA</extension>
+    <command label="Cemu (Proton)">/usr/bin/bash /home/deck/Emulation/tools/launchers/cemu.sh -f -g z:%ROM%</command>
+    <platform>wiiu</platform>
+    <theme>wiiu</theme>
+  </system>
+  <system>
+    <name>wonderswan</name>
+    <fullname>Bandai - 1999 - Wonderswan</fullname>
+    <path>%ROMPATH%/wonderswan</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="Beetle VB">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mednafen_wswan_libretro.so %ROM%</command>
+    <platform>wonderswan</platform>
+    <theme>wonderswan</theme>
+  </system>
+  <system>
+    <name>wonderswancolor</name>
+    <fullname>Bandai - 2000 - Wonderswan Color</fullname>
+    <path>%ROMPATH%/wonderswancolor</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="Beetle VB">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mednafen_wswan_libretro.so %ROM%</command>
+    <platform>wonderswancolor</platform>
+    <theme>wonderswancolor</theme>
+  </system>
+  <system>
+    <name>xbox</name>
+    <fullname>Microsoft - 2001 - Xbox</fullname>
+    <path>%ROMPATH%/xbox</path>
+    <extension>.iso .ISO</extension>
+    <command label="Xemu (Standalone)">/usr/bin/bash /home/deck/xemu.sh %ROM%</command>
+    <platform>xbox</platform>
+    <theme>xbox</theme>
+  </system>
+  <system>
+    <name>xbox360</name>
+    <fullname>Microsoft - 2005 - Xbox 360</fullname>
+    <path>%ROMPATH%/xbox360/roms</path>
+    <extension>.iso .ISO</extension>
+    <command label="Xenia (Proton)">/usr/bin/bash /home/deck/xenia.sh z:%ROM%</command>
+    <platform>xbox360</platform>
+    <theme>xbox360</theme>
+  </system>
+</systemList>

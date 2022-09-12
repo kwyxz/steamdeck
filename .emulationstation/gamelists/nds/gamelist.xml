@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Advance Wars - Days of Ruin (USA) (En,Fr,Es).zip</path>
+		<name>Advance Wars: Days of Ruin</name>
+		<desc>Days of Ruin takes place in an entirely new world where a large-scale meteor shower triggered massive global destruction that eradicated 90 percent of the population. After the catastrophe, the survivors have formed together into militaristic bands that are warring over the last remaining scraps of civilization. You'll take control of Will, a young military cadet (whose hair is admittedly just a little spiky) who quickly becomes embroiled in the conflict at the outset of the game.</desc>
+		<rating>0.8</rating>
+		<releasedate>20080121T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Aliens - Infestation (USA) (En,Fr,De).zip</path>
+		<name>Aliens - Infestation</name>
+		<desc>GAME OVER, MAN!  The Xenomorph, the ultimate killing machine, returns.  Only the Universe's toughest, the Colonial Marines, can exterminate the galaxy's most feared species.  Can you fight off the terror of the alien infestation?
+
+-Choose you squad and watch the dynamic story system adapt
+-Pick up where the Aliens crew left off and fight through the U.S.S. Sulaco, planet LV-426, and more!
+-Load up with iconic weapons from the film, including pulse rifles, smart guns, and flamethrowers.</desc>
+		<rating>0.7</rating>
+		<releasedate>20111011T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Wayforward</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Disgaea DS (USA).zip</path>
+		<name>Disgaea Ds</name>
+		<desc>Disgaea DS is a port of the PSP version.  While it still has the same story from its predecessor, it features some tweaked gameplay and interfaces that utilizes the DS' dual-screen and stylus pen.
+
+It features new objects that have been introduced such as Geo Cubes that enchances players abilities as well as summon monsters that can attack opponents.  Demon Gadgets are also present which are randomly scattered throughout battlefields that can level up an unit as much as 30 levels at once.  Classic characters from the original Disgaea and its sequel can also be unlocked along with bosses that can be unlocked and used including Overlord Zetta.
+
+There is also multiplayer capabilities that can allow two human players to play co-op.</desc>
+		<rating>0.8</rating>
+		<releasedate>20080923T000000</releasedate>
+		<developer>NIS America</developer>
+		<publisher>Nippon Ichi Software</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Etrian Odyssey (USA).zip</path>
+		<name>Etrian Odyssey</name>
+		<desc>Far away in a vast fertile land lies a small town called Etria.  Peaceful and serene, Etria became famous when a labyrinth was discovered at the edge of its woods.  Those who heard of the labyrinth began to harbor dreams of exploring it.  And so many explorers from all over the world flocked to Etria in dream of achieving wealth, fame, and fortune exploring the vast and mysterious labyrinth.
+
+Etrian Odyssey is a first-person RPG which pits you as an eager adventurer ready to face the dangers of the labyrinth.  At the beginning of the game you are required to create your own "adventuring guild" by creating various characters out of 9 different classes.  You can create as many as you want, but everything costs money, so strategic thinking is a must.  As well, you can only take a party of 5 into the labyrinth, so the remaining characters have to stay in town at the guild hall.  Battles are done in the traditional turn-based style, and he game contains over 125 monsters that guard the labyrinth and the area around it.  Movement is done one step at a time, with players moving in restricted directions (forward, back, left right).  Most of the game is focused on exploring deeper and deeper into the labyrinth while still returning to town in order to restock and resupply.  During the return trips to town, you can also switch out characters in your party if a special class is needed to pass obstacles in the labyrinth.  Also, players are only allowed to save during the return trip to town, making trips to the labyrinth both risky and exciting.
+
+The labyrinth is completely unknown and unexplored, and so one of the important features of the game is the necessity to draw your own maps.  The top screen of the DS shows the action, while the bottom screen shows a gridded area.  In this area, you have to use the stylus to draw out all of your maps.  This means not only marking where the walls and doors are, but having to mark where enemies, treasures, special areas, and staircases are.  It is completely up to you how accurately or haphazardly you want to draw your map.  However, the only way to get out of the labyrinth is to return to the start, so the gameplay becomes even riskier the further you venture into the dungeon.  Managing your map poorly may risk you and party's lives.  Map making is a key concept of this game because it emphasizes adventuring into the unknown and finding out what's around the very next corner.</desc>
+		<rating>0.8</rating>
+		<releasedate>20070515T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Fossil Fighters (USA).zip</path>
+		<name>Fossil Fighters</name>
+		<desc>Find and fight! Collect over 100 different vivosaurs and pit them against enemy vivosaurs in strategic, turn-based battles.
+Your skills enhance your vivosaurs' powers.
+Each fossil must be carefully cleaned of excess rock. With a steady hand and keen eye, you can make your vivosaurs stronger
+Battle and trade with friends.
+Using DS Wireless Play, you can take on a friend within range of your system for head-to-head battles or trade your extra fossils for new ones.</desc>
+		<releasedate>20080417T000000</releasedate>
+		<developer>Red Entertainment</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Hotel Dusk - Room 215 (USA).zip</path>
+		<name>Hotel Dusk: Room 215</name>
+		<desc>Los Angeles, 1979. You are Kyle Hyde, an ex-cop turned salesman trying to track down a missing friend. Clues lead you to an eerie, old hotel rumored to have one very strange room - a room where wishes are granted. It's up to you to unravel the mystery in Hotel Dusk: Room 215, a gritty new graphic adventure for Nintendo DS. Players hold their DS like a book and use the touch screen to grill characters, search for clues and solve mystifying puzzles. Players follow the plot twists and turns as they hunt for their missing friend and investigate the mysteries of Hotel Dusk.</desc>
+		<rating>0.9</rating>
+		<developer>Cing</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Infinite Space (USA).zip</path>
+		<name>Infinite Space</name>
+		<desc>Growing up as a second class citizen on a back-water planet, Yuri dreamed of being able to travel the stars. After many years he saved up enough credits to buy transport off the planet, but space travel is forbidden to second class citizens, and he is chased by the security forces of the corrupt owner of the planet. To survive the dangers of space Yuri must become a captain, buy and customize star ships, and fight against hostile enemies both on the ground and in space.
+
+The majority of Infinite Space's gameplay involves space ships, both in fighting and in modifying. All ships have a certain amount of space for extra modules to be added, and the abilities and shape of modules must be considered when choosing how to outfit a ship. In ship to ship combat you can control the distance your fleet is from the enemy fleet. During combat a command bar charges. You can use a small amount of the command bar to Dodge, use more to fire a Normal salvo, or expend almost all of it for a Barrage, which fires three times as many shots as Normal. If the opposing fleet uses Dodge before a Barrage then every shot will miss, leaving the attacking fleet at a disadvantage. If a Normal salvo is fired while the opposing fleet is Dodging, then every shot will hit and deal extra damage. Extra combat options come into play with larger star ships equipped with fighter hangars, special weapons, boarding parties, and officers with unique abilities.
+
+The story progresses primarily with text dialogue and the occasional FMV. Sometimes the player is prompted to make a decision in dialogue for Yuri, and these decisions can have far reaching consequences. Additional officers can join Yuri through the story, by hiring them at a mercenary office, or by finding them on various planets. All officers have unique stats and abilities that make them better for a particular role, such as doctor, engineer, or pilot, than others, and these stats and abilities increase in level from combat.</desc>
+		<rating>0.8</rating>
+		<releasedate>20100316T000000</releasedate>
+		<developer>Nude Maker</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role playing games</genre>
+	</game>
+	<game>
+		<path>./Jump Ultimate Stars (Japan).zip</path>
+		<name>Jump Ultimate Stars</name>
+		<desc>Jump Ultimate Stars is more or less an expanded version of the original game, Jump Super Stars. It features the same Super Smash Bros.-style fighting gameplay with a plethora of licensed manga characters, bringing in a wide variety of new franchises and characters. The roster has been expanded to more than 300 characters from 41 different manga titles. There is also Nintendo Wi-Fi Connection support, making global internet play a possibility.
+
+Generally, the game is structured the same as the previous title. The player sets up decks made up of the three types of panels, which can be used on the fly with the touchscreen. There is a story mode, versus modes, several single-player modes, as well as a quiz mode and information archives and story synopses for each series. The method of obtaining new panels has changed, however: each character has a progress tree, and successful battles earn gems which can be spent to power up different characters.
+
+The complete list of series represented is: Eyeshield 21, I''s, Ichigo 100%, Katekyo Hitman Reborn!, Captain Tsubasa, Gintama, Kinnikuman, Kochi Kame, Cobra, Sakigake!! Otoko Juku, Jigoku Sensei Nube, Shaman King, Jungle no Tar-chan, JoJo's Bizarre Adventure, Slam Dunk, Saint Seiya, Taizo Mote Ou Saga, D.Gray-man, Death Note, The Prince of Tennis, Dr. Slump, Tottemo! Luckyman, Dragon Ball, Naruto, Ninku, Hunter x Hunter, Pyuu to Fuku! Jaguar, Buso Renkin, Black Cat, Bleach, Hoshin Engi, Fist of the North Star, Bobobo-bo Bo-bobo, Majin Tantei Nogami Neuro, Midori no Makibao, Muhyo to Rouji no Mahoritsu Soudan Jimusou, Yu-Gi-Oh, Yu Yu Hakusho, Rurouni Kenshin, Rokudenashi Blues, and One Piece</desc>
+		<rating>0.9</rating>
+		<releasedate>20061123T000000</releasedate>
+		<developer>Ganbarion</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Lunar Knights (USA) (En,Es).zip</path>
+		<name>Lunar Knights</name>
+		<desc>Many years into the future, a race of vampires have emerged, plunging planet Earth into darkness with an environmental control system called the 'paraSOL'.  They now control the planet, with humans living in fear.  When all hope seems lost, two boys with amazing power emerge to save the planet.  The Dark Swordsman, Lucian, and a rookie member of the vampire fighting 'Guild', Aaron.
+
+Lunar Knights is an indirect sequel to the Boktai series of games, which takes place many years after.  Its focus is much more on action as opposed to stealth, although some stealth elements from the earlier games remain (for example, you can blow into the microphone to whistle and attract the attention of enemies).  Players control the two characters, Lucian and Aaron.  Lucian fights with a huge sword called 'Vanagand'.  As a result, Lucian has a close combat style.  Lucian uses the power of moonlight to fuel his special attacks and moves.
+
+The other character is Aaron, a gunslinger for the Guild.  He fights by using sunlight to charge up his gun, the Knight, and shoot ranged shots at foes.  Aaron's special attacks and moves use up sunlight.  Both Aaron and Lucian can use junk materials to increase the level of their weaponry, giving them more power.
+
+The main goal of the game is to make your way through the dungeons and purify the vampire at the end.  The dungeons themselves are fairly standard - you search for treasure chests, avoid traps and solve puzzles.  At the end, you'll fight a boss vampire, and once you've defeated them, the Casket Rocket will be called.  Because the vampires have blocked out the sun on Earth, you'll need to take the vampire into space to purify them.
+
+At this point, the game becomes a touch screen controlled shooter.  To control the ship itself, you drag it around the screen with the stylus.  To shoot enemy ships, you tap them with the screen.  Once you reach the end, the vampire will be purified by the magnified power of the sun.</desc>
+		<rating>0.8</rating>
+		<releasedate>20070206T000000</releasedate>
+		<developer>Kojima Productions</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Maestro! - Jump in Music (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).zip</path>
+		<name>Maestro! Jump In Music</name>
+		<desc>Discover Presto, the music-loving bird, and make him evolve in a colorful, decibel-filled journey. Use the stylus to scrape, rub, tap and whirl to the rhythm of the level's music and like a good Maestro, stick to the original. Presto will jump or get off a platform in the order in which you strum the string, flying with his small wings to reach the music score.</desc>
+		<rating>0.9</rating>
+		<developer>Pastagames</developer>
+		<publisher>Neko Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Nine Hours, Nine Persons, Nine Doors (USA).zip</path>
+		<name>999 : Nine Hours Nine Persons Nine Doors</name>
+		<desc>Junpei, a fairly normal college student finds himself involved in a deadly conspiracy that he couldn't have possibly imagined. He awakes aboard an old passenger ferry, dazed and confused he stumbles around the room trying to reclaim his memories. First thing he noticed was a number roughly drawn on the cabin's door. A bright red number 5. Junpei's memory then returned and he remembered what happened right before becoming unconscious! A mysterious person with a gas mask crossed his mind. He remembered the haunting words he spoke, I'm gonna make you play the game, the Nonary Game' the game of life or death".</desc>
+		<rating>0.9</rating>
+		<releasedate>20101116T000000</releasedate>
+		<developer>Chunsoft</developer>
+		<publisher>Aksys Games</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Solatorobo - Red the Hunter (USA) (En,Fr,De,Es,It) (NDSi Enhanced).zip</path>
+		<name>SolatoRobo : Red the Hunter</name>
+		<desc>Get ready to suspend reality and be brought into a world of floating islands where personal robots are a necessity and pirates and vicious monsters roam the skies. You'll see many dogs and cats along the way, but don't expect your furry friends to be on all fours – they're anthropomorphs. With his cigarette-like bone sticking out of his mouth, Red Savarin, an overconfident teenager, and his specialized robot Dahak have made a name for themselves by taking on odd jobs. Red's curiosity gets the best of him when he comes across a mysterious medallion. Ruh-oh, strange artifacts? This can't be going anywhere good. But before Red runs off with the medallion, he comes across Elh, a sullen, enigmatic creature who shares an unknown link with the medallion for Red to uncover.</desc>
+		<rating>0.9</rating>
+		<releasedate>20101028T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>CyberConnect2</publisher>
+		<genre>Adventure</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./World Ends with You, The (USA).zip</path>
+		<name>The World Ends With You</name>
+		<desc>The World Ends With You is an action-RPG that puts players in the role of Neku Sakuraba, a sullen, loner of a teenager who wakes up to find himself in modern day Shibuya, Japan, with no memory of how he got there and a ticking clock in his hand that tells him to complete the mission... or face erasure.
+
+Neku and his partner Shiki Misaki find themselves as "Players" in a game that lasts seven days.  Each day, players are given various missions to perform by the "Reapers" within a certain time limit, or be erased from existence.
+
+Players use collectible pins to amplify their combat powers against "The Noise", animal-like creatures which can corrupt the people and environment around them.  Each pin is activated in a different manner, from tapping the touchscreen, making sweeping motions with the stylus, or even blowing into the DS microphone.  Neku fights on the lower screen of the DS, while his partner fights on the upper screen.  Their combat styles are different, but can be combined to form more powerful attacks.  
+
+Players can purchase clothing to increase the effectiveness of their attacks, and gain PP points to enhance their pin abilities.  PP is usally gained through combat, but can also be gained by coming into wi-fi contact with another person's DS.
+
+There is also a wi-fi mini-game called "Ten Pin Slammer", where players can use one pin at a time to knock the other players' pins off the gameboard.</desc>
+		<rating>0.9</rating>
+		<releasedate>20080422T000000</releasedate>
+		<developer>Jupiter / Future Creates</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>2-4</players>
+	</game>
+	<game>
+		<path>./Metroid Prime Pinball (USA).zip</path>
+		<name>Metroid Prime Pinball</name>
+		<desc>In this pinball game based on Metroid Prime, Samus gets knocked and rolled around the table in Morph Ball form; the table contains Metroids, which can latch onto her and suck away health. Tables include the surface of Tallon IV, the Space Station, the Phazon Mines, and more can be unlocked by searching for artifacts and collecting bounties, which are found by destroying Space Pirates and other dangerous creatures.
+
+Metroid Prime Pinball is a pinball game with a Metroid theme. Players can collect power-ups such as missiles and super bombs, which can be helpful when defeating bosses. There are also missions to be completed within a time limit; these missions can involve defeating unique enemies that appear on the table or completing tasks such as wall jumping. Completing missions earns either artifacts or special tokens.
+
+The game also features a single-card multiplayer mode. In this mode, up to eight players can play. The game is a race to see who can reach a certain score first. Players lose points if they lose their ball. It is also possible to dump enemies onto opponents' tables to cause trouble for them.</desc>
+		<rating>0.8</rating>
+		<releasedate>20051024T000000</releasedate>
+		<developer>Fuse Games</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20220908T175208</lastplayed>
+	</game>
+	<game>
+		<path>./Contra 4 (USA).zip</path>
+		<name>Contra 4</name>
+		<desc>Contra 4 for the Nintendo DS is a direct sequel to 1994 SNES Contra III: Alien Wars. Two years after the defeat of Red Falcon - the first wave of the alien colonization fleet, the main invading force Black Viper approaches Earth. The heroes of the original Contra series - Billy Rizer and Lance Bean as well as two newcomers - Mad Dog and Scorpion are now humanity's last line of defense against total annihilation.
+
+This installment of the long-running series adds dual screen gameplay, enabling the player a wider view, and a 2-player co-op mode via local Wi-Fi connection. Each player is now given two weapon slots which can be filled with any one of the game's many weapon power-ups and switched at will with a press of a shoulder button. The game features nine levels set in such classic Contra locations as Jungle, Waterfall and a pseudo-3D Base.
+As a bonus, the cartridge contains an illustrated history of Contra, as well as the Contra and Super C original NES games.</desc>
+		<rating>0.9</rating>
+		<releasedate>20071113T000000</releasedate>
+		<developer>Wayforward</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<playcount>8</playcount>
+		<lastplayed>20220911T181027</lastplayed>
+	</game>
+</gameList>
