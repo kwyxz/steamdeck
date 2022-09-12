@@ -23,7 +23,13 @@ A simple MAME configuration is present, roms should be in `/home/deck/Emulation/
 
 ### RetroArch
 
-The RetroArch configuration folder is moved from the flatpak original location so it can be updated with the new shaders and the new configuration. It is now in /home/deck/.config/retroarch, with submodules for the shaders. You're welcome to replace the shaders with other ones if you don't like the ones I have set.
+The RetroArch configuration folder is moved from the flatpak original location so it can be updated with the new shaders and the new configuration. It is now in `/home/deck/.config/retroarch`, with submodules for the shaders. You're welcome to replace the shaders with other ones if you don't like the ones I have set.
+
+Several folders in `/home/deck/.config/retroarch` are symlinks to their original locations. We want these updated by Emudeck when updates are available. In order to get RetroAchievements working, you need to replace "kwyxz" by your username in `/home/deck/.config/retroarch/` on the `cheevos_username` line and update the `cheevos_token` line (or `cheevos_password` if appropriate)
+
+### Yuzu
+
+I don't like AppImages so I installed the flatpak. More seriously I was having issues with command-line options with the AppImage, while the flatpack just worked. So run `flatpak install yuzu` if you plan on using Yuzu on your SteamDeck.
 
 ### EmulationStation-DE
 
