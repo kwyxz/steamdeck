@@ -12,11 +12,13 @@ Games go in /home/deck/Emulation/roms/ per Emudeck settings.
 
 ### Redream
 
-Redream binary from the official website. Display artefacts on most games, unfortunate as performance is better than Flycast. Hopefully the Redream author fixes this someday. Redream is configured to look for games in `/home/deck/Emulation/roms/dreamcast`.
+Redream binary from the official website. I should probably replace this by a script that downloads and installs the latest version instead. Display artefacts on most games, unfortunate as performance is better than Flycast. Hopefully the Redream author fixes this someday. Redream is configured to look for games in `/home/deck/Emulation/roms/dreamcast`.
 
 ### SuperModel
 
 Binary I built directly on the Deck after installing a bunch of ArchLinux libraries and packages. Will very probably fail complaining about a missing lib when run on a fresh new Steamdeck install. Eventually I will release a script that fixes everything. In the meanwhile, set a password for the deck user, disable read-only with `sudo steamos-readonly enable`, then `sudo pacman-key --init`, `ldd supermodel` to find out which libs are missing, then install them using `pacman -S <library name>`. To interact with EmulationStation, the roms should be in `/home/deck/Emulation/roms/model3/` and a symlink should be created by typing `ln -s /home/deck/Emulation/roms/model3/ /home/deck/supermodel/roms`.
+
+I am considering generating a flatpak to alleviate these issues.
 
 ### MAME
 
