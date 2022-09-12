@@ -1,7 +1,7 @@
 ### My Steamdeck Configuration
 
 This stuff is to help me rebuild my Steamdeck environment in case something catastrophic happens.
-I also don't trust Emudeck at all to keep my things alone, so this can be used top revert unexepected changes.
+I also don't trust Emudeck at all to leave my settings untouched, so this can be used to revert unexepected changes.
 
 This install however requires Emudeck, at least for now even though several things are customized. 
 Do yourself a favor and install it, a lot of stuff has been preconfigured to make your life easier.
