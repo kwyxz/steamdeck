@@ -1,0 +1,5 @@
+#reference "../../shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Presets/Lite/SEGA_Naomi/Naomi_Vertical-[STD]-[Guest-Mini]-[Night].slangp"
+HSM_ROTATE_CORE_IMAGE = "1.000000"
+HSM_ASPECT_RATIO_ORIENTATION = "0.000000"
+HSM_ASPECT_RATIO_MODE = "0.000000"
+HSM_INTRO_WHEN_TO_SHOW = "0.000000"
