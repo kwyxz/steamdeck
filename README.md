@@ -3,11 +3,11 @@
 This stuff is to help me rebuild my Steamdeck environment in case something catastrophic happens.
 I also don't trust Emudeck at all to leave my settings untouched, so this can be used to revert unexepected changes.
 
-This install however requires Emudeck, at least for now even though several things are customized. 
+_This install however requires Emudeck_, at least for now even though several things are customized. 
 Do yourself a favor and install it, a lot of stuff has been preconfigured to make your life easier.
 Games go in /home/deck/Emulation/roms/ per Emudeck settings.
 
-*I recommend not using the Emudeck ROM tool that creates shortcuts within Steam*. If you have over 50 retro games, your Steam interface will become a horrible mess and the benefit will be moot as this interface gets slow. Add these games to EmulationStation-DE and by happy. As a generic piece of advice : you should very much use EmulationStation-DE to start all your retro games as I have spent hours configuring shortcuts / launchers that work within EmulationStation-DE. The only reason to start an emulator from Desktop Mode would be to update some configuration details. Besides that, run EmulationStation-DE from Gaming Mode, enjoy the nice theme, videos and metadata, and start some games.
+*I recommend not using the Emudeck ROM tool that creates shortcuts within Steam*. If you have over 50 retro games, your Steam interface will become a horrible mess and the benefit will be moot as this interface gets slow. Add these games to EmulationStation-DE and be happy. As a generic piece of advice : you should very much use EmulationStation-DE to start all your retro games as I have spent hours configuring shortcuts / launchers that work within EmulationStation-DE. The only reason to start an emulator from Desktop Mode would be to update some configuration details. Besides that, run EmulationStation-DE from Gaming Mode, enjoy the nice theme, videos and metadata, and start some games.
 
 ### Redream
 
@@ -43,7 +43,8 @@ Set the theme to "kwyxz" to enjoy my settings. My theme is based heavily on the 
  - Sega Model 2 (games in `/home/deck/Emulation/roms/model2`)
  - Sega Model 3 (games in `/home/deck/Emulation/roms/model3`)
  - Sega Naomi (games in `/home/deck/Emulation/roms/naomi`)
-I did remove various templates I was not interested in from the theme. So if too many things are missing for your setup, you can go back to ES-EpicNoir, no hard feelings.
+
+I did remove various templates I was not interested in from the original theme. So if too many things are missing for your setup, you can go back to ES-EpicNoir, no hard feelings.
 The gamelists are full of pre-fetched Metadata, but you'll need to scrape the rest of the Media (boxarts, videos, etc).
 
 ### Final notes
