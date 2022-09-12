@@ -1,13 +1,14 @@
 ### My Steamdeck Configuration
 
-This stuff is to help me rebuild my Steamdeck environment in case something catastrophic happens.
-I also don't trust Emudeck at all to leave my settings untouched, so this can be used to revert unexepected changes.
+First of all, credits where it's due : huge kudos to the Emudeck developer. This is in no way a replacement for their work.
+What this is, is a bunch of settings and customizations I apply on top of Emudeck, some of which could / will get erased during an Emudeck update, which is why I felt like I needed to save a backup copy somewhere. This is the backup copy: this stuff is to help me rebuild my tailored Steamdeck environment in case something catastrophic happens.
 
-_This install however requires Emudeck_, at least for now even though several things are customized. 
-Do yourself a favor and install it, a lot of stuff has been preconfigured to make your life easier.
+_Again, most of what is in this repository requires Emudeck to work_, at least for now.
+Do yourself a favor and install it, a lot of stuff has been preconfigured to make your life easier: https://www.emudeck.com
+
 Games go in /home/deck/Emulation/roms/ per Emudeck settings.
 
-*I recommend not using the Emudeck ROM tool that creates shortcuts within Steam*. If you have over 50 retro games, your Steam interface will become a horrible mess and the benefit will be moot as this interface gets slow. Add these games to EmulationStation-DE and be happy. As a generic piece of advice : you should very much use EmulationStation-DE to start all your retro games as I have spent hours configuring shortcuts / launchers that work within EmulationStation-DE. The only reason to start an emulator from Desktop Mode would be to update some configuration details. Besides that, run EmulationStation-DE from Gaming Mode, enjoy the nice theme, videos and metadata, and start some games.
+*I do not recommend using the Steam ROM tool Emudeck provides that creates shortcuts within Steam*. It is fine if you have only a handful of retro games per platform. If you have a bunch, your Steam interface will become messy and annoying to browse. Add these games to EmulationStation-DE and be happy. As a generic piece of advice : you should very much use EmulationStation-DE to start all your retro games as I have spent hours configuring shortcuts / launchers that work within EmulationStation-DE. The only reason to start an emulator from Desktop Mode would be to update some configuration details. Besides that, run EmulationStation-DE from Gaming Mode, enjoy the nice theme, videos and metadata, and start some games.
 
 ### Redream
 
