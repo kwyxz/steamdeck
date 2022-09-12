@@ -50,7 +50,9 @@ Set the theme to "kwyxz" to enjoy my settings. My theme is based heavily on the 
 I did remove various templates I was not interested in from the original theme. So if too many things are missing for your setup, you can go back to ES-EpicNoir, no hard feelings.
 The gamelists are full of pre-fetched Metadata, but you'll need to scrape the rest of the Media (boxarts, videos, etc).
 
-I am also guilty of having used a bunch of artworks I found on DeviantArt without giving artists proper credit, as I was planning on keeping this private before several people expressed interest. Before being rightfully called out, I apologize and will remediate this situation asap.
+### Theme artworks
+
+I am guilty of using a bunch of artworks I found on DeviantArt without giving artists proper credit, as I was planning on keeping this private before several people expressed interest. Before being rightfully called out, I apologize and will remediate this situation asap.
 
 ### Final notes
 
