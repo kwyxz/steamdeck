@@ -7,6 +7,8 @@ This install however requires Emudeck, at least for now even though several thin
 Do yourself a favor and install it, a lot of stuff has been preconfigured to make your life easier.
 Games go in /home/deck/Emulation/roms/ per Emudeck settings.
 
+*I recommend not using the Emudeck ROM tool that creates shortcuts within Steam*. If you have over 50 retro games, your Steam interface will become a horrible mess and the benefit will be moot as this interface gets slow. Add these games to EmulationStation-DE and by happy. As a generic piece of advice : you should very much use EmulationStation-DE to start all your retro games as I have spent hours configuring shortcuts / launchers that work within EmulationStation-DE. The only reason to start an emulator from Desktop Mode would be to update some configuration details. Besides that, run EmulationStation-DE from Gaming Mode, enjoy the nice theme, videos and metadata, and start some games.
+
 ### Redream
 
 Redream binary from the official website. Display artefacts on most games, unfortunate as performance is better than Flycast. Hopefully the Redream author fixes this someday. Redream is configured to look for games in `/home/deck/Emulation/roms/dreamcast`.
@@ -40,5 +42,4 @@ The gamelists are full of pre-fetched Metadata, but you'll need to scrape the re
 
 ### Final notes
 
-There is absolutely zero warranty that this will work for you, but it's a good backup for me in case my SD card dies. You never know when a SD card is going to die. So make some backups, dingdongs.
-
+There is absolutely zero warranty that this will work for you, but it's a good backup for me in case my SD card dies. You never know when a SD card is going to die. *Always use backups, dingdongs*.
