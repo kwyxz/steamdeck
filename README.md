@@ -36,6 +36,7 @@ Set the theme to "kwyxz" to enjoy my settings. My theme is based heavily on the 
  - Sega Model 3 (games in `/home/deck/Emulation/roms/model3`)
  - Sega Naomi (games in `/home/deck/Emulation/roms/naomi`)
 I did remove various templates I was not interested in from the theme. So if too many things are missing for your setup, you can go back to ES-EpicNoir, no hard feelings.
+The gamelists are full of pre-fetched Metadata, but you'll need to scrape the rest of the Media (boxarts, videos, etc).
 
 ### Final notes
 
