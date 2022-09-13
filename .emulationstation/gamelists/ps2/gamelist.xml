@@ -250,21 +250,6 @@ Take control of a fully armed prototype mechanized robot to fight off enemies du
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Tekken 5 (USA).iso</path>
-		<name>Tekken 5</name>
-		<desc>Loved across the world for its amazing characters, explosive graphics and lightning-fast gameplay, Tekken 5 promises to deliver the next generation of blistered fingers and bleary eyes as it brings players the ultimate, most visually stunning fighting experience ever seen in a Tekken game.
-Tekken 5 brings back the popular cast of characters from the previous games along with three new characters for a total of 20 default characters to start, with even more to unlock as you progress in the game. The game allows players to use fight money to customize their character with various accessories such as hats, glasses and an assortment of different costumes. Each of the new characters is equipped with a variety of deadly techniques, and the returning characters have been updated with new moves and combos. New to Tekken 5 is a bonus action adventure game that unfolds a side story to the action-packed fighting sequences.
-After the completion of The King of Iron Fist Tournament 4, a fierce battle between father and son unfolded at Mishima Zaibatsu headquarters. Jin emerges as the victor in this battle and continues to defeat Heihachi, his grandfather - but spares both Kazuya and Heihachi's lives in honour of his mother who loved peace. Soon after Jin's departure, a swarm of Jacks arrive at Honmaru and begin to attack Heihachi and Kazuya - and in order to escape, Kazuya thrusts Heihachi into the swarm of Jacks. A great explosion destroys Honmaru, and a man watching from afar reports, "Heihachi Mishima is dead." While many presume the death of Heihachi Mishima will end the reign of Mishima Zaibatsu, an announcement is made for the fifth King of Iron Fist Tournament, with an unknown replacement to Heihachi leading the organization. The fight begins once again.</desc>
-		<rating>0.9</rating>
-		<releasedate>20050224T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20220901T114813</lastplayed>
-	</game>
-	<game>
 		<path>./Mark of Kri, The (USA).iso</path>
 		<name>The Mark of Kri</name>
 		<desc>In this action adventure, you play Rau, a warrior hero. Accompanying him is his sacred bird, Kuzo, who helps him by activating items, scouting ahead, and reading ancient scripts. This is a beat 'em up game with many twists. There is a unique targeting system that helps you decide which enemy to attack by pressing the corresponding buttons. Bash your enemies with the game's nice combo system. Rau has several weapons to choose from like his sword, Taiaha, axe, and even a bow. But Rau isn't just a brawny "walk up and beat him up guy", he can also work stealthly, taking out his enemies in single strikes. The cutscenes are hand drawn and animated. There are many items to unlock and other modes of play.</desc>
@@ -315,5 +300,20 @@ Players can view the race from inside the car or behind it as they scream throug
 		<players>2-6</players>
 		<playcount>2</playcount>
 		<lastplayed>20220909T144112</lastplayed>
+	</game>
+	<game>
+		<path>./Tekken 5 (USA).iso</path>
+		<name>Tekken 5</name>
+		<desc>Loved across the world for its amazing characters, explosive graphics and lightning-fast gameplay, Tekken 5 promises to deliver the next generation of blistered fingers and bleary eyes as it brings players the ultimate, most visually stunning fighting experience ever seen in a Tekken game.
+Tekken 5 brings back the popular cast of characters from the previous games along with three new characters for a total of 20 default characters to start, with even more to unlock as you progress in the game. The game allows players to use fight money to customize their character with various accessories such as hats, glasses and an assortment of different costumes. Each of the new characters is equipped with a variety of deadly techniques, and the returning characters have been updated with new moves and combos. New to Tekken 5 is a bonus action adventure game that unfolds a side story to the action-packed fighting sequences.
+After the completion of The King of Iron Fist Tournament 4, a fierce battle between father and son unfolded at Mishima Zaibatsu headquarters. Jin emerges as the victor in this battle and continues to defeat Heihachi, his grandfather - but spares both Kazuya and Heihachi's lives in honour of his mother who loved peace. Soon after Jin's departure, a swarm of Jacks arrive at Honmaru and begin to attack Heihachi and Kazuya - and in order to escape, Kazuya thrusts Heihachi into the swarm of Jacks. A great explosion destroys Honmaru, and a man watching from afar reports, "Heihachi Mishima is dead." While many presume the death of Heihachi Mishima will end the reign of Mishima Zaibatsu, an announcement is made for the fifth King of Iron Fist Tournament, with an unknown replacement to Heihachi leading the organization. The fight begins once again.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050224T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220912T110607</lastplayed>
 	</game>
 </gameList>

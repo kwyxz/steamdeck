@@ -12605,17 +12605,6 @@ There are four distinct sections of gameplay, taking in a Missile Base, a Harbou
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Rygar (USA) (Rev 1).nes.zip</path>
-		<name>Rygar</name>
-		<desc>A hero has arrived to defeat the forces of evil in the land of Argool, and you are this hero. Do you have what it takes? This game was one of the first adventures to hit the NES and the remarkable aspect on top of this was the multiple viewpoints the games offers. When you are in an action zone, the game is a side-scrolling action game; however, then you are travelling between zones, the game takes on an overhead view that can also lead to combat situations.</desc>
-		<rating>0.7</rating>
-		<releasedate>19870701T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./S.C.A.T. - Special Cybernetic Attack Team (USA).nes.zip</path>
 		<name>S.C.A.T. : Special Cybernetic Attack Team</name>
 		<desc>In a humorous take on the eighties' sci-fi judgment day films, you either play Arnold or Sigourney in a mission to save the world. The year is 2029 and an alien invasion, led by Supreme Commander Vile Malmort, threatens the earth.
@@ -17755,21 +17744,6 @@ Old and new power-ups abound in each level for the Mario Brothers, including the
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Super Mario Bros. (World).zip</path>
-		<name>Super Mario Bros.</name>
-		<desc>The Princess has been kidnapped by the evil Bowser, and it is up to Mario and brother Luigi to save the day.
-
-The first ever platform adventure for the Mario Brothers has the player exploring level after level, with Bowser to contend with as the end of level boss. Power-ups include the Super Mushroom, which increases Mario's size and power, the fire flower, allowing him to shoot fireballs at enemies, and the ever important starman for a short burst of invincibility.
-
-Each level includes a bonus section filled with coins plus a shortcut through the level, plenty of bad buys and obstacles to get past, and an end of level flag, in which the higher the player grabs it, the more points are awarded to them. Certain levels also include warp points, which takes the player to higher levels.</desc>
-		<rating>0.9</rating>
-		<releasedate>19851117T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Tag Team Pro-Wrestling Special (Japan) (Not for Resale).nes.zip</path>
 		<name>Tag Team Pro-Wrestling</name>
 		<desc>You are challenged to match the awesome skill of your opponents...to gain the Title in World Super Championship of Tag Team Wrestling. Teamwork and stamina are the keys, as you and your partner battle your way through the Title Matches on your quest for the Belt.
@@ -18119,5 +18093,35 @@ Castlevania is a side-scrolling platform action game. The player taking the role
 		<players>1</players>
 		<playcount>1</playcount>
 		<lastplayed>20220911T175431</lastplayed>
+	</game>
+	<game>
+		<path>./Rygar (USA) (Rev 1).nes.zip</path>
+		<name>Rygar</name>
+		<desc>A hero has arrived to defeat the forces of evil in the land of Argool, and you are this hero. Do you have what it takes? This game was one of the first adventures to hit the NES and the remarkable aspect on top of this was the multiple viewpoints the games offers. When you are in an action zone, the game is a side-scrolling action game; however, then you are travelling between zones, the game takes on an overhead view that can also lead to combat situations.</desc>
+		<rating>0.7</rating>
+		<releasedate>19870701T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20220912T151518</lastplayed>
+	</game>
+	<game>
+		<path>./Super Mario Bros. (World).zip</path>
+		<name>Super Mario Bros.</name>
+		<desc>The Princess has been kidnapped by the evil Bowser, and it is up to Mario and brother Luigi to save the day.
+
+The first ever platform adventure for the Mario Brothers has the player exploring level after level, with Bowser to contend with as the end of level boss. Power-ups include the Super Mushroom, which increases Mario's size and power, the fire flower, allowing him to shoot fireballs at enemies, and the ever important starman for a short burst of invincibility.
+
+Each level includes a bonus section filled with coins plus a shortcut through the level, plenty of bad buys and obstacles to get past, and an end of level flag, in which the higher the player grabs it, the more points are awarded to them. Certain levels also include warp points, which takes the player to higher levels.</desc>
+		<rating>0.9</rating>
+		<releasedate>19851117T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220912T152222</lastplayed>
 	</game>
 </gameList>

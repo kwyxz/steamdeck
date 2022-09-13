@@ -98,19 +98,6 @@ A port of the original Panzer Dragoon is included.</desc>
 		<lastplayed>20220908T101704</lastplayed>
 	</game>
 	<game>
-		<path>./Amped 2.iso</path>
-		<name>Amped 2</name>
-		<desc>Amped 2 is the ultimate freestyle experience, offering the largest, most varied trick library of any snowboarding game. Explore vast areas of wide-open, spectacularly rendered real mountains packed with terrain parks designed by world-famous snow park architect, Chris Gunnarson. Play head-to-head with friends in the various multiplayer modes. When you're ready to take it to the next level, connect to Xbox Live to check rankings and challenge the world's best virtual riders.</desc>
-		<rating>0.9</rating>
-		<releasedate>20031028T000000</releasedate>
-		<developer>Microsoft</developer>
-		<publisher>Microsoft</publisher>
-		<genre>Sports</genre>
-		<players>2-8</players>
-		<playcount>1</playcount>
-		<lastplayed>20220910T161138</lastplayed>
-	</game>
-	<game>
 		<path>./Dead or Alive 3.iso</path>
 		<name>Dead Or Alive 3</name>
 		<desc>Dead or Alive 3 (Japanese: ?3 Hepburn: Deddo Oa Araibu Sur, abbreviated as DOA3 ) is a fighting game in the Dead or Alive series. It was released in 2001, exclusively on the Xbox as a launch title.</desc>
@@ -139,5 +126,18 @@ Team Ninja continued to update the game after its release: two Hurricane Packs w
 		<players>1</players>
 		<playcount>1</playcount>
 		<lastplayed>20220910T161709</lastplayed>
+	</game>
+	<game>
+		<path>./Amped 2.iso</path>
+		<name>Amped 2</name>
+		<desc>Amped 2 is the ultimate freestyle experience, offering the largest, most varied trick library of any snowboarding game. Explore vast areas of wide-open, spectacularly rendered real mountains packed with terrain parks designed by world-famous snow park architect, Chris Gunnarson. Play head-to-head with friends in the various multiplayer modes. When you're ready to take it to the next level, connect to Xbox Live to check rankings and challenge the world's best virtual riders.</desc>
+		<rating>0.9</rating>
+		<releasedate>20031028T000000</releasedate>
+		<developer>Microsoft</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Sports</genre>
+		<players>2-8</players>
+		<playcount>2</playcount>
+		<lastplayed>20220912T114235</lastplayed>
 	</game>
 </gameList>

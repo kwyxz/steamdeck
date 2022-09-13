@@ -8,4 +8,4 @@ FLATPAK="/usr/bin/flatpak"
 MAME="org.mamedev.MAME"
 
 # Call the Flatpak launcher and give the arguments
-"${FLATPAK}" run "${MAME}" -inipath /home/deck/.mame/ -video bgfx -bgfx_path /home/deck/.mame/bgfx -bgfx_backend vulkan -bgfx_screen_chains crt-geom-deluxe "${@}"
+"${FLATPAK}" run "${MAME}" -verbose -inipath /home/deck/.mame/ -video bgfx -bgfx_path /home/deck/.mame/bgfx -bgfx_backend vulkan -bgfx_screen_chains crt-geom-deluxe "${@}"

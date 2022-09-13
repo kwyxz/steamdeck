@@ -28,22 +28,6 @@ A racing game featuring classic cars from Ferrari, Alfa Romeo, Mercedes Benz and
 		<controller>steering_wheel_generic</controller>
 	</game>
 	<game>
-		<path>./1941.zip</path>
-		<name>1941: Counter Attack</name>
-		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front.
-
-The game consists of six levels.
-
-It was the first shoot 'em up to add +1 to the score when a continue is used.[1]</desc>
-		<rating>0.8</rating>
-		<releasedate>19900201T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-		<controller>joystick_arcade_2_buttons</controller>
-	</game>
-	<game>
 		<path>./1943kai.zip</path>
 		<name>1943 Kai: Midway Kaisen</name>
 		<desc>An update of 1943 with tweaked weapons, fewer levels, and a new soundtrack.</desc>
@@ -15385,20 +15369,6 @@ Rick and Allen's Detective Agency is on 64th st. They have specialized maneuvres
 		<controller>joystick_arcade_2_buttons</controller>
 	</game>
 	<game>
-		<path>./tmnt22pu.zip</path>
-		<name>Teenage Mutant Ninja Turtles: Turtles in Time</name>
-		<desc>The sequel to 1989's hugely successful original, 'Turtles in Time' once more sees the four heroes taking on Shredder and his army. Gameplay remains similar to the original game, but the experience is enhanced further with the obligatory improved graphics and sound effects. 'Turtles in Time' also features a larger variety of levels, as now the battle between good and evil rages across time as the Turtles travel to prehistoric, pirate and Wild West times in their pursuit of the elusive Splinter. 
-
-Yet again, Konami's mastery of the genre was in evidence as the manic energy and humour of the cartoon and comic-book series upon which the game is based was captured perfectly.</desc>
-		<rating>0.9</rating>
-		<releasedate>19910918T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-4</players>
-		<controller>joystick_arcade_2_buttons</controller>
-	</game>
-	<game>
 		<path>./xmen2pu.zip</path>
 		<name>X-Men</name>
 		<desc>X-Men is a side-scrolling beat-em-up for up to four players. The X-Men's mission is to find and rescue Professor X, who has been captured by evil mutants and is now being held prisoner by Magneto.
@@ -15457,5 +15427,39 @@ The Simpsons was designed to Konami's typically-high production standards and wa
 		<genre>Fight / 2.5D</genre>
 		<players>1-4</players>
 		<controller>joystick_arcade_2_buttons</controller>
+	</game>
+	<game>
+		<path>./tmnt22pu.zip</path>
+		<name>Teenage Mutant Ninja Turtles: Turtles in Time</name>
+		<desc>The sequel to 1989's hugely successful original, 'Turtles in Time' once more sees the four heroes taking on Shredder and his army. Gameplay remains similar to the original game, but the experience is enhanced further with the obligatory improved graphics and sound effects. 'Turtles in Time' also features a larger variety of levels, as now the battle between good and evil rages across time as the Turtles travel to prehistoric, pirate and Wild West times in their pursuit of the elusive Splinter. 
+
+Yet again, Konami's mastery of the genre was in evidence as the manic energy and humour of the cartoon and comic-book series upon which the game is based was captured perfectly.</desc>
+		<rating>0.9</rating>
+		<releasedate>19910918T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-4</players>
+		<playcount>1</playcount>
+		<controller>joystick_arcade_2_buttons</controller>
+		<lastplayed>20220912T105935</lastplayed>
+	</game>
+	<game>
+		<path>./1941.zip</path>
+		<name>1941: Counter Attack</name>
+		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front.
+
+The game consists of six levels.
+
+It was the first shoot 'em up to add +1 to the score when a continue is used.[1]</desc>
+		<rating>0.8</rating>
+		<releasedate>19900201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<controller>joystick_arcade_2_buttons</controller>
+		<lastplayed>20220912T111924</lastplayed>
 	</game>
 </gameList>
