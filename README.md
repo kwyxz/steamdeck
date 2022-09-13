@@ -12,7 +12,7 @@ Games go in /home/deck/Emulation/roms/ per Emudeck settings.
 
 ### Redream
 
-Redream binary from the official website. I should probably replace this by a script that downloads and installs the latest version instead. Display artefacts on most games, unfortunate as performance is better than Flycast. Hopefully the Redream author fixes this someday. Redream is configured to look for games in `/home/deck/Emulation/roms/dreamcast`.
+Run `./install-redream.sh` script in `/home/deck/redream` to download and install the latest version of the standalone emulator. Currently it displays artefacts on most games, which is unfortunate as performance is better than Flycast. Hopefully the Redream author fixes this someday. Redream is configured to look for games in `/home/deck/Emulation/roms/dreamcast`.
 
 ### SuperModel
 
