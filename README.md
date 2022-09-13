@@ -30,6 +30,8 @@ The RetroArch configuration folder is moved from the flatpak original location s
 
 Several folders in `/home/deck/.config/retroarch` are symlinks to their original locations. We want these updated by Emudeck when updates are available. In order to get RetroAchievements working, you need to replace "kwyxz" by your username in `/home/deck/.config/retroarch/` on the `cheevos_username` line and update the `cheevos_token` line (or `cheevos_password` if appropriate)
 
+As the HyperSpaceMadness and Duimon shaders / artworks are in submodules, this repository needs to be cloned using the `--recursive` option (or you can install the HSM/Duimon repos manually if you prefer)
+
 ### Yuzu
 
 I don't like AppImages so I installed the flatpak. More seriously I was having issues with command-line options with the AppImage, while the flatpack just worked. So run `flatpak install yuzu` if you plan on using Yuzu on your SteamDeck.
@@ -49,6 +51,11 @@ Set the theme to "kwyxz" to enjoy my settings. My theme is based heavily on the 
 
 I did remove various templates I was not interested in from the original theme. So if too many things are missing for your setup, you can go back to ES-EpicNoir, no hard feelings.
 The gamelists are full of pre-fetched Metadata, but you'll need to scrape the rest of the Media (boxarts, videos, etc).
+
+### Shell scripts
+
+Most shell scripts are helpers for ES-DE, some based off scripts coming with Emudeck, some other originals.
+The `fix-shaders-vertical.sh` script heavily uses MAME to find out what arcade games (cps1/cps2/naomi) use a vertical monitor in order to set FBNeo / Flycast and shader options appropriately. MAME doesn't need it as MAME automatically rotates the screen (and does not use the HyperSpaceMadness shaders).
 
 ### Theme artworks
 
