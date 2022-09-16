@@ -835,11 +835,6 @@ After hearing that, the Bad Dudes pursue the DragonNinja through the city street
 		<controller>joystick_arcade_1_button</controller>
 	</game>
 	<game>
-		<path>./bandit.zip</path>
-		<name>Bandit</name>
-		<releasedate>19890101T000000</releasedate>
-	</game>
-	<game>
 		<path>./b2b.zip</path>
 		<name>Bang Bang Busters</name>
 		<desc>After choosing your favorite character  (Lazy or Refia),  you come to a cute kinematic with our heroes in their space ship, landing on the planet Palua. Seven zones await players, broken down into numerous levels. Ice, green forests, towering waterfalls, castles, evil mountains, Egyptian pyramids... What a world! With such diversity, the no need to say the backgrounds are varied and the graphics exotic!</desc>
@@ -13964,11 +13959,6 @@ Unique to Aggressors of Dark Kombat is the combination of traditional side-scrol
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./airwlkrs.zip</path>
-		<name>Air Walkers</name>
-		<releasedate>19970101T000000</releasedate>
-	</game>
-	<game>
 		<path>./alpham2.zip</path>
 		<name>Alpha Mission II</name>
 		<desc>The lunar nightmare of a bloody 200-year space war was thought to be over in the "original" ALPHA MISSION. But now with the advent of more technically sophisticated weapons, the evil "Fulvar" and his "Seven Star Alliance" have returned to destroy all planets that stand in their way of the ultimate target... Earth! Now in the year of 2525! Your mission as pilot of the new SYD-FX fighter is to use every weapon at your disposal to rid the galaxy once and for all of the evil that now dominates and threatens Earth. So suit up, hold your breath, and stand ready for unbelievable graphics and stereo sound that'll suck you into the far reaches of deep, dark inner space. Be prepared... you may never come back!</desc>
@@ -14018,16 +14008,6 @@ Art of Fighting 3: The Path of The Warrior features ten playable characters with
 		<publisher>SNK</publisher>
 		<genre>Fight</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./attackfc.zip</path>
-		<name>Attack Force</name>
-		<rating>0.2</rating>
-		<releasedate>19790101T000000</releasedate>
-		<developer>Electronic Games Systems</developer>
-		<publisher>Electronic Games Systems</publisher>
-		<genre>Shooter</genre>
-		<controller>joystick_arcade_1_button</controller>
 	</game>
 	<game>
 		<path>./bonkadv.zip</path>
@@ -14184,17 +14164,6 @@ Double Dragon was a huge success due to the many game-play innovations it brough
 		<publisher>IGS</publisher>
 		<genre>Puzzle-Game</genre>
 		<controller>joystick_arcade_4_buttons</controller>
-	</game>
-	<game>
-		<path>./fantjour.zip</path>
-		<name>Fantastic Journey</name>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shoot'em up / Horizontal</genre>
-		<players>1-2</players>
-		<controller>joystick_arcade_3_buttons</controller>
 	</game>
 	<game>
 		<path>./kabukikl.zip</path>
@@ -15357,18 +15326,6 @@ Rick and Allen's Detective Agency is on 64th st. They have specialized maneuvres
 		<lastplayed>20220911T165959</lastplayed>
 	</game>
 	<game>
-		<path>./tmnt2pj.zip</path>
-		<name>Teenage Mutant Ninja Turtles</name>
-		<desc>Teenage Mutant Ninja Turtles is a side-scrolling beat 'em up released by Konami in 1989. It is based on the first Teenage Mutant Ninja Turtles animated series which began airing in the winter of 1987. The player chooses from one of the four Ninja Turtles: Leonardo, Michelangelo, Donatello, and Raphael. After Shredder kidnaps the Turtles' friend April O'Neil and their mentor Splinter, they must give chase, save their comrades, and defeat the evil Shredder. Up to four players (two in some versions) can take control of any of the Turtles. Donatello has slower attacks but a longer range, Michelangelo and Raphael have faster attacks but a shorter range, and Leonardo is a well-rounded Turtle with average range and speed. Most of the enemies the Turtles face are the Foot Soldiers, all color-coded to indicate their attack patterns and weapon of choices. Some enemies, such as the standard purple-clad Foot Soldiers and Roadkill Rodney robots, have the ability to restrain the Turtles' mobility and drain their health, leaving the player open to attack for other enemies. The bosses in the game include Rocksteady and Bebop (individually at first in that order, and later the two of them together), Baxter Stockman, Granitor, General Traag, Krang, and Shredder himself.</desc>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-4</players>
-		<controller>joystick_arcade_2_buttons</controller>
-	</game>
-	<game>
 		<path>./xmen2pu.zip</path>
 		<name>X-Men</name>
 		<desc>X-Men is a side-scrolling beat-em-up for up to four players. The X-Men's mission is to find and rescue Professor X, who has been captured by evil mutants and is now being held prisoner by Magneto.
@@ -15461,5 +15418,61 @@ It was the first shoot 'em up to add +1 to the score when a continue is used.[1]
 		<playcount>1</playcount>
 		<controller>joystick_arcade_2_buttons</controller>
 		<lastplayed>20220912T111924</lastplayed>
+	</game>
+	<game>
+		<path>./tmnt2pj.zip</path>
+		<name>Teenage Mutant Ninja Turtles</name>
+		<desc>Teenage Mutant Ninja Turtles is a side-scrolling beat 'em up released by Konami in 1989. It is based on the first Teenage Mutant Ninja Turtles animated series which began airing in the winter of 1987. The player chooses from one of the four Ninja Turtles: Leonardo, Michelangelo, Donatello, and Raphael. After Shredder kidnaps the Turtles' friend April O'Neil and their mentor Splinter, they must give chase, save their comrades, and defeat the evil Shredder. Up to four players (two in some versions) can take control of any of the Turtles. Donatello has slower attacks but a longer range, Michelangelo and Raphael have faster attacks but a shorter range, and Leonardo is a well-rounded Turtle with average range and speed. Most of the enemies the Turtles face are the Foot Soldiers, all color-coded to indicate their attack patterns and weapon of choices. Some enemies, such as the standard purple-clad Foot Soldiers and Roadkill Rodney robots, have the ability to restrain the Turtles' mobility and drain their health, leaving the player open to attack for other enemies. The bosses in the game include Rocksteady and Bebop (individually at first in that order, and later the two of them together), Baxter Stockman, Granitor, General Traag, Krang, and Shredder himself.</desc>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-4</players>
+		<playcount>1</playcount>
+		<controller>joystick_arcade_2_buttons</controller>
+		<lastplayed>20220913T000554</lastplayed>
+	</game>
+	<game>
+		<path>./attackfc.zip</path>
+		<name>Attack Force</name>
+		<desc>In Attack Force, you are defending your base against an oncoming army.  Ground troops, tanks and helicopters are all on approach, ready to take you out.  They advance from bunker to bunker getting closer and closer... your only hope is to pick 'em off one-by-one before they can get close enough to destroy your base.</desc>
+		<rating>0.2</rating>
+		<releasedate>19790101T000000</releasedate>
+		<developer>Electronic Games Systems</developer>
+		<publisher>Electronic Games Systems</publisher>
+		<genre>Shooter</genre>
+		<controller>joystick_arcade_1_button</controller>
+	</game>
+	<game>
+		<path>./bandit.zip</path>
+		<name>Bandit</name>
+		<desc>In Bandit, you control a car speeding up a freeway and firing at enemies, as you would in games like Spy Hunter or Fire &amp; Forget. This is a prototype by Data East that was ultimately scrapped and never released.</desc>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+	</game>
+	<game>
+		<path>./fantjour.zip</path>
+		<name>Fantastic Journey</name>
+		<desc>Gokujō Parodius! ~Kako no Eikō o Motomete~, released in Europe as Fantastic Journey, is a side-scrolling shooter arcade game and the third title in the Parodius series produced by Konami (its second installment in the arcades). Like the rest of the series, it is a parody of the Gradius series and other Konami games.</desc>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_3_buttons</controller>
+	</game>
+	<game>
+		<path>./airwlkrs.zip</path>
+		<name>Air Walkers</name>
+		<desc>Air Walkers is an unreleased basketball game by Data East on the Sega Model2 hardware. Thankfully, a prototype was dumped to prevent this game from being completely forgotten.</desc>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Sports / Basketball</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220916T081839</lastplayed>
 	</game>
 </gameList>

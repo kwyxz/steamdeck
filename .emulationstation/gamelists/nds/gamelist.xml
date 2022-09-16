@@ -178,6 +178,25 @@ There is also a wi-fi mini-game called "Ten Pin Slammer", where players can use 
 		<players>2-4</players>
 	</game>
 	<game>
+		<path>./Fire Emblem - Shadow Dragon (USA).zip</path>
+		<name>Fire Emblem - Shadow Dragon</name>
+		<desc>A second retelling of the original Fire Emblem on the Famicom, Shadow Dragon utilises the Nintendo DS online options in a first for the long running Fire Emblem series. 
+
+The game offers a graphical enhancement from Ankoku Ry? to Hikari no Ken and Monsh? no Nazo, which was the first remake of the original, as well as utilising the dual screens on the Nintendo DS to display the action and character stats simultaneously.
+
+The main story centres on prince Marth as he embarks on a quest to reconquer his home kingdom and rescue his kidnapped sister. Characters and chapters that were not present in the original have been introduced in this version, as well as some that were omitted for Fire Emblem: Monsh? no Nazo. Over twenty character classes are included in the game as well as over fifty individual characters to aid Marth.
+
+Also included is the ability to save mid battle on special save point so a mistake in the last turn will not force a restart. Other features are the class swap for characters to change their abilities. Online battle features up to five characters per side in a two player battle.</desc>
+		<rating>0.8</rating>
+		<releasedate>20090216T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220914T161025</lastplayed>
+	</game>
+	<game>
 		<path>./Metroid Prime Pinball (USA).zip</path>
 		<name>Metroid Prime Pinball</name>
 		<desc>In this pinball game based on Metroid Prime, Samus gets knocked and rolled around the table in Morph Ball form; the table contains Metroids, which can latch onto her and suck away health. Tables include the surface of Tallon IV, the Space Station, the Phazon Mines, and more can be unlocked by searching for artifacts and collecting bounties, which are found by destroying Space Pirates and other dangerous creatures.
@@ -191,8 +210,8 @@ The game also features a single-card multiplayer mode. In this mode, up to eight
 		<publisher>Nintendo</publisher>
 		<genre>Pinball</genre>
 		<players>1</players>
-		<playcount>2</playcount>
-		<lastplayed>20220908T175208</lastplayed>
+		<playcount>3</playcount>
+		<lastplayed>20220914T161629</lastplayed>
 	</game>
 	<game>
 		<path>./Contra 4 (USA).zip</path>
@@ -207,7 +226,7 @@ As a bonus, the cartridge contains an illustrated history of Contra, as well as 
 		<publisher>Konami</publisher>
 		<genre>Shoot'em Up</genre>
 		<players>1</players>
-		<playcount>8</playcount>
-		<lastplayed>20220911T181027</lastplayed>
+		<playcount>9</playcount>
+		<lastplayed>20220914T161856</lastplayed>
 	</game>
 </gameList>

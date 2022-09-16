@@ -1006,21 +1006,6 @@ Blue Lightning is a 3D flight game featuring 7 real-life fighter jets.  There ar
 		<lastplayed>20220911T170858</lastplayed>
 	</game>
 	<game>
-		<path>./A.P.B. (USA, Europe).lnx.zip</path>
-		<name>A.P.B.</name>
-		<desc>You are police officer Bob, whose aim is to apprehend a certain quota of criminals (litterbugs, speeders and the like) each day. This is done by chasing them and sounding your siren at them - in some cases they will need ramming off the road.  There are also hardened criminals to catch - if you can get one of these to confess, your day's work is considered done.
-
-The game's action is presented with an overhead view of your squad car. Car upgrades are available, to be brought from your reward money. You earn Demerits by crashing, wrongly arresting innocents, or failing to meet your quota. Too many demerits and it is game over.</desc>
-		<rating>0.7</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Quicksilver Software</developer>
-		<publisher>QuickSilver</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<playcount>2</playcount>
-		<lastplayed>20220911T172517</lastplayed>
-	</game>
-	<game>
 		<path>./Batman Returns (USA, Europe).lnx.zip</path>
 		<name>Batman Returns</name>
 		<desc>Atari themselves adapted the 1992 superhero sequel Batman Returns for their Lynx handheld as a side-scrolling beat'em'up.
@@ -1049,5 +1034,20 @@ The Atari versions (2600 and Lynx) of the game omit the flying disc and roller s
 		<players>1-2</players>
 		<playcount>3</playcount>
 		<lastplayed>20220911T173118</lastplayed>
+	</game>
+	<game>
+		<path>./A.P.B. (USA, Europe).lnx.zip</path>
+		<name>A.P.B.</name>
+		<desc>You are police officer Bob, whose aim is to apprehend a certain quota of criminals (litterbugs, speeders and the like) each day. This is done by chasing them and sounding your siren at them - in some cases they will need ramming off the road.  There are also hardened criminals to catch - if you can get one of these to confess, your day's work is considered done.
+
+The game's action is presented with an overhead view of your squad car. Car upgrades are available, to be brought from your reward money. You earn Demerits by crashing, wrongly arresting innocents, or failing to meet your quota. Too many demerits and it is game over.</desc>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Quicksilver Software</developer>
+		<publisher>QuickSilver</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<playcount>3</playcount>
+		<lastplayed>20220916T081927</lastplayed>
 	</game>
 </gameList>

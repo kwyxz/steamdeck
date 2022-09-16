@@ -1,14 +1,27 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Gears of War Judgment (USA).iso</path>
-		<name>Gears Of War Judgment</name>
+		<path>./Stoked (USA).iso</path>
+		<name>Stoked</name>
+		<desc>Alone or with your friends, snowboard down the most beautiful spots in the world in open environments. Dropped from a helicopter on top of 5 different mountain ranges, ride the powder with one key word: freedom. The changing weather adds to the challenge, and changes the routes and environment in real time.</desc>
 		<rating>0.7</rating>
-		<developer>Microsoft</developer>
-		<publisher>People Can Fly</publisher>
+		<releasedate>20090227T000000</releasedate>
+		<developer>Zushi</developer>
+		<publisher>Destineer</publisher>
+		<genre>Sports</genre>
+		<playcount>6</playcount>
+		<lastplayed>20220916T002316</lastplayed>
+	</game>
+	<game>
+		<path>./Gears of War Judgment (USA).iso</path>
+		<name>Gears of War : Judgment</name>
+		<desc>Gears of War: Judgment is the latest installment of the legendary franchise on the Xbox 360. Again offering a campaign fully playable in cooperation with 4 players, it is a prequel set 15 years before the first Gears of War trilogy, with the ability to unlock a bonus mission narrating events happening during the Gears 3 campaign. Two new multiplayer modes are included, Overrun and Free-for-All.</desc>
+		<rating>0.7</rating>
+		<developer>People Can Fly</developer>
+		<publisher>Microsoft</publisher>
 		<players>2-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220910T162152</lastplayed>
+		<playcount>6</playcount>
+		<lastplayed>20220916T002804</lastplayed>
 	</game>
 	<game>
 		<path>./Skate 2 (Europe).iso</path>
@@ -20,19 +33,31 @@
 		<publisher>Electronic Arts</publisher>
 		<genre>Sports</genre>
 		<players>2-4</players>
-		<playcount>1</playcount>
-		<lastplayed>20220910T162208</lastplayed>
+		<playcount>6</playcount>
+		<lastplayed>20220916T003247</lastplayed>
 	</game>
 	<game>
-		<path>./Stoked (USA).iso</path>
-		<name>Stoked</name>
-		<desc>Alone or with your friends, snowboard down the most beautiful spots in the world in open environments. Dropped from a helicopter on top of 5 different mountain ranges, ride the powder with one key word: freedom. The changing weather adds to the challenge, and changes the routes and environment in real time.</desc>
-		<rating>0.7</rating>
-		<releasedate>20090227T000000</releasedate>
-		<developer>Zushi</developer>
-		<publisher>Destineer</publisher>
-		<genre>Sports</genre>
-		<playcount>3</playcount>
-		<lastplayed>20220912T105831</lastplayed>
+		<path>./Forza Horizon 2 (World).iso</path>
+		<name>Forza Horizon 2</name>
+		<desc>Forza Horizon 2 will take place in southern Europe and will feature hundreds of cars to drive, including the 2014 Lamborghini Huracán, which is the cover car for the game. The Xbox 360 version is built on the original Forza Horizon engine, and is led by Sumo Digital.</desc>
+		<rating>0.6</rating>
+		<developer>Sumo Digital</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20220916T003858</lastplayed>
+	</game>
+	<game>
+		<path>./Red Dead Redemtion GOTY (World).DVD1.iso</path>
+		<name>Red Dead Redemption</name>
+		<desc>Red Dead Redemption on 360 is a GTA-like game that takes place at the beginning of the 20th century, in the middle of the Mexican revolution, in a western atmosphere. You play as John Marston, an outlaw forced to hunt down his former "brothers" who left him for dead. John can hunt any animal species in the American West and must complete a series of missions to regain his independence.</desc>
+		<rating>1</rating>
+		<developer>Take 2 Interactive</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Action</genre>
+		<players>16</players>
+		<playcount>2</playcount>
+		<lastplayed>20220916T003928</lastplayed>
 	</game>
 </gameList>
