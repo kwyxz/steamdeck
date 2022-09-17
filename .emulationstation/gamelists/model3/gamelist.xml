@@ -32,34 +32,6 @@
 		<lastplayed>20220901T114549</lastplayed>
 	</game>
 	<game>
-		<path>./srally2.zip</path>
-		<name>Sega Rally 2</name>
-		<desc>Sega Rally 2 is the sequel to Sega Rally Championship. It was released in 1998 in the arcades and was later ported to the Dreamcast and PC.</desc>
-		<rating>0.9</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race 3rd Pers. view</genre>
-		<players>1</players>
-		<playcount>5</playcount>
-		<controller>steering_wheel_generic</controller>
-		<lastplayed>20220911T183505</lastplayed>
-	</game>
-	<game>
-		<path>./dayto2pe.zip</path>
-		<name>Daytona USA 2: Power Edition</name>
-		<desc>Daytona USA 2 grades up! Experience the force and the excitement of the stock cars. This time, the player can use the Hornet Classic, the car from "Daytona USA". There are new features such as the Mix Course, the combination of Medium, Expert, and Beginners, and the player can drive the reverse direction.</desc>
-		<rating>0.9</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race 3rd Pers. view</genre>
-		<players>1</players>
-		<playcount>2</playcount>
-		<controller>steering_wheel_generic</controller>
-		<lastplayed>20220916T194702</lastplayed>
-	</game>
-	<game>
 		<path>./dirtdvls.zip</path>
 		<name>Dirt Devils</name>
 		<desc>Dirt Devils is a racing game from Sega with all terrain vehicles such as a Humvee, a Sand Buggy, and a Beetle Buggy. There are 3 standard stages plus 1 hidden stage inside the big arena dome.</desc>
@@ -275,5 +247,33 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<playcount>1</playcount>
 		<controller>joystick_arcade_4_buttons</controller>
 		<lastplayed>20220916T200519</lastplayed>
+	</game>
+	<game>
+		<path>./dayto2pe.zip</path>
+		<name>Daytona USA 2: Power Edition</name>
+		<desc>Daytona USA 2 grades up! Experience the force and the excitement of the stock cars. This time, the player can use the Hornet Classic, the car from "Daytona USA". There are new features such as the Mix Course, the combination of Medium, Expert, and Beginners, and the player can drive the reverse direction.</desc>
+		<rating>0.9</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race 3rd Pers. view</genre>
+		<players>1</players>
+		<playcount>6</playcount>
+		<controller>steering_wheel_generic</controller>
+		<lastplayed>20220916T205351</lastplayed>
+	</game>
+	<game>
+		<path>./srally2.zip</path>
+		<name>Sega Rally 2</name>
+		<desc>Sega Rally 2 is the sequel to Sega Rally Championship. It was released in 1998 in the arcades and was later ported to the Dreamcast and PC.</desc>
+		<rating>0.9</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race 3rd Pers. view</genre>
+		<players>1</players>
+		<playcount>6</playcount>
+		<controller>steering_wheel_generic</controller>
+		<lastplayed>20220916T205852</lastplayed>
 	</game>
 </gameList>
