@@ -936,19 +936,6 @@ There are six grooves in total, each designtated with a letter, along with custo
 		<lastplayed>20220901T114701</lastplayed>
 	</game>
 	<game>
-		<path>./vtennis.zip</path>
-		<name>Virtua Tennis</name>
-		<desc>A tennis game where the user can play as a number of real-life professional tennis players of the era competing in a number of real tournaments.At the time of release it was widely regarded as the most realistic tennis simulator ever produced, and received very positive reviews from critics.Virtua Tennis only includes male players, specifically those active in the game during the late 1990s. Female players were not introdced until Virtua Tennis 2.</desc>
-		<releasedate>20000712T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports / Tennis</genre>
-		<players>1-4</players>
-		<playcount>2</playcount>
-		<controller>joystick_arcade_6_buttons</controller>
-		<lastplayed>20220901T114748</lastplayed>
-	</game>
-	<game>
 		<path>./cfield.zip</path>
 		<name>Chaos Field</name>
 		<desc>Do you love battling the boss ships that appear at the end of each level of your favorite shmup? How about a game where you battle nothing BUT bosses? Your wish is granted with Chaos Field!!
@@ -1137,19 +1124,6 @@ A collection of competitive mini-games for shooter fans. A player's proficiency 
 		<lastplayed>20220908T170405</lastplayed>
 	</game>
 	<game>
-		<path>./vf4tuned.zip</path>
-		<name>Virtua Fighter 4 Final Tuned</name>
-		<desc>Final Tuned is the final update to Virtua Fighter 4. This version of the game was released only into Japanese arcades, and it made some gameplay fixes and added new stages. Also, new customization items were added.</desc>
-		<releasedate>20040101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fight / Versus</genre>
-		<players>1-2</players>
-		<playcount>7</playcount>
-		<controller>joystick_arcade_6_buttons</controller>
-		<lastplayed>20220908T170600</lastplayed>
-	</game>
-	<game>
 		<path>./doa2m.zip</path>
 		<name>Dead or Alive 2 Millennium</name>
 		<desc>Update to Dead or Alive 2, including the features of the Dreamcast version, which did not exist in the original.</desc>
@@ -1203,5 +1177,31 @@ A collection of competitive mini-games for shooter fans. A player's proficiency 
 		<playcount>5</playcount>
 		<controller>joystick_arcade_6_buttons</controller>
 		<lastplayed>20220911T195926</lastplayed>
+	</game>
+	<game>
+		<path>./vtennis.zip</path>
+		<name>Virtua Tennis</name>
+		<desc>A tennis game where the user can play as a number of real-life professional tennis players of the era competing in a number of real tournaments.At the time of release it was widely regarded as the most realistic tennis simulator ever produced, and received very positive reviews from critics.Virtua Tennis only includes male players, specifically those active in the game during the late 1990s. Female players were not introdced until Virtua Tennis 2.</desc>
+		<releasedate>20000712T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1-4</players>
+		<playcount>3</playcount>
+		<controller>joystick_arcade_6_buttons</controller>
+		<lastplayed>20220916T172740</lastplayed>
+	</game>
+	<game>
+		<path>./vf4tuned.zip</path>
+		<name>Virtua Fighter 4 Final Tuned</name>
+		<desc>Final Tuned is the final update to Virtua Fighter 4. This version of the game was released only into Japanese arcades, and it made some gameplay fixes and added new stages. Also, new customization items were added.</desc>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
+		<playcount>9</playcount>
+		<controller>joystick_arcade_6_buttons</controller>
+		<lastplayed>20220916T173817</lastplayed>
 	</game>
 </gameList>

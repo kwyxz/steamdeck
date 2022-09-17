@@ -2276,21 +2276,6 @@ The gameplay is standard Japanese-style adventure. The player interacts with the
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Advanced V.G. (Japan).chd</path>
-		<name>Advanced V.g.</name>
-		<desc>The story of Advanced V.G. follows a similar template as those of the previous  Variable Geo games: the strongest young women in the country hold a tournament, which is sponsored by various restaurant chains, which in turn ask the competing girls to pose as waitresses working in said restaurants, for promotional purposes. The girls of the Jahana group who starred in the previous games return, with the new main protagonist being the young martial artist Yuka Takeuchi, who has been training in a secluded forest area before joining the competition. 
-
-Like its predecessors, Advanced V.G. is a fighting game, with the basic "kick" and "punch" moves, while the various special attacks are executed by pressing combinations of buttons. There are three modes in the game, "Normal", "Vs.", and "Story". The normal mode is basically training matches between the player character and an AI-controlled girl. Vs. mode allows two-player mode, as well as demo "computer vs. computer" gameplay, with the possibility to choose any of the stages. Any of the nine heroines is available as a playable character in these modes (Yuka Takeuchi, Chiho Masuda, Jun Kubota, Manami Kusunoki. Kaori Yanase, Reimi Jahana, Satomi Yajima, Ayako Y?ki, and Erina Goldsmith). The story mode, on the other hand, allows the player to control Yuka Takeuchi only, and follow her story. Cut scenes advance the story between matches. 
-
-The SNES received a stripped-down version, Super V.G., without the Story Mode and all explicit hentai elements. Hybrids (pair of bosses in Advanced V.G.) were also removed.</desc>
-		<rating>0.6</rating>
-		<releasedate>19940722T000000</releasedate>
-		<developer>GIGA</developer>
-		<publisher>Technical Group Laboratory, Inc.</publisher>
-		<genre>Fight / Versus</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Ane-san (Japan).chd</path>
 		<name>Ane-san</name>
 		<desc>The two sisters, Ai and Yuuko, have taken different paths in life. Yuuko has been taken away by a mysterious gang. Ai is determined to save her from the clutches of crime. In a seemingly all-female city overrun by insane workers, biker gangs, and assorted criminals, Ai and her friends Chika and Makoto decide to work together in order to restore the world to normality again.
@@ -3153,5 +3138,22 @@ As either Mobo or Robo, you must collect all the treasures before leaving the te
 		<players>1</players>
 		<playcount>1</playcount>
 		<lastplayed>20220911T175002</lastplayed>
+	</game>
+	<game>
+		<path>./Advanced V.G. (Japan).chd</path>
+		<name>Advanced V.g.</name>
+		<desc>The story of Advanced V.G. follows a similar template as those of the previous  Variable Geo games: the strongest young women in the country hold a tournament, which is sponsored by various restaurant chains, which in turn ask the competing girls to pose as waitresses working in said restaurants, for promotional purposes. The girls of the Jahana group who starred in the previous games return, with the new main protagonist being the young martial artist Yuka Takeuchi, who has been training in a secluded forest area before joining the competition. 
+
+Like its predecessors, Advanced V.G. is a fighting game, with the basic "kick" and "punch" moves, while the various special attacks are executed by pressing combinations of buttons. There are three modes in the game, "Normal", "Vs.", and "Story". The normal mode is basically training matches between the player character and an AI-controlled girl. Vs. mode allows two-player mode, as well as demo "computer vs. computer" gameplay, with the possibility to choose any of the stages. Any of the nine heroines is available as a playable character in these modes (Yuka Takeuchi, Chiho Masuda, Jun Kubota, Manami Kusunoki. Kaori Yanase, Reimi Jahana, Satomi Yajima, Ayako Y?ki, and Erina Goldsmith). The story mode, on the other hand, allows the player to control Yuka Takeuchi only, and follow her story. Cut scenes advance the story between matches. 
+
+The SNES received a stripped-down version, Super V.G., without the Story Mode and all explicit hentai elements. Hybrids (pair of bosses in Advanced V.G.) were also removed.</desc>
+		<rating>0.6</rating>
+		<releasedate>19940722T000000</releasedate>
+		<developer>GIGA</developer>
+		<publisher>Technical Group Laboratory, Inc.</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220916T165526</lastplayed>
 	</game>
 </gameList>

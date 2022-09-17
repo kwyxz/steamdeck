@@ -296,4 +296,13 @@ The arcade cabinet provided a life-size bike on which to sit, which was really f
 		<controller>joystick_arcade_4_buttons</controller>
 		<lastplayed>20220911T183119</lastplayed>
 	</game>
+	<game>
+		<path>./airwlkrs.zip</path>
+		<name>Air Walkers</name>
+		<desc>Air Walkers is an unreleased basketball game by Data East on the Sega Model2 hardware. Thankfully, a prototype was dumped to prevent this game from being completely forgotten.</desc>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Sports / Basketball</genre>
+	</game>
 </gameList>
