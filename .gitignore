@@ -31,5 +31,6 @@
 /redream/redream.log
 /redream/vmu*
 !/supermodel/
+!/supermodel/Config
 /supermodel/Supermodel.log
 /supermodel/Config/Supermodel.old
