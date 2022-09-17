@@ -12,13 +12,11 @@ Games go in /home/deck/Emulation/roms/ per Emudeck settings.
 
 ### Redream
 
-Run `./install-redream.sh` script in `/home/deck/redream` to download and install the latest version of the standalone emulator. Currently it displays artefacts on most games, which is unfortunate as performance is better than Flycast. Hopefully the Redream author fixes this someday. Redream is configured to look for games in `/home/deck/Emulation/roms/dreamcast`.
+Run `./install-redream.sh` script in `/home/deck/redream` to download and install the latest version of the standalone Dreamcast emulator. If you own a paid version, copy redream.key in the same folder. Currently it displays artefacts on most games, which is unfortunate as performance is better than Flycast. Hopefully the Redream author fixes this someday. Redream is configured to look for games in `/home/deck/Emulation/roms/dreamcast`.
 
 ### SuperModel
 
-Binary I built directly on the Deck after installing a bunch of ArchLinux libraries and packages. Will very probably fail complaining about a missing lib when run on a fresh new Steamdeck install. Eventually I will release a script that fixes everything. In the meanwhile, set a password for the deck user, disable read-only with `sudo steamos-readonly enable`, then `sudo pacman-key --init`, `ldd supermodel` to find out which libs are missing, then install them using `pacman -S <library name>`. To interact with EmulationStation, the roms should be in `/home/deck/Emulation/roms/model3/` and a symlink should be created by typing `ln -s /home/deck/Emulation/roms/model3/ /home/deck/supermodel/roms`.
-
-I am considering generating a flatpak to alleviate these issues.
+Run `./install-supermodel.sh` script in `/home/deck/supermodel` to download, build and install the latest version of the standalone Model3 emulator. EmulationStation is preconfigured to use the supermodel.sh script to run games in `/home/deck/Emulation/roms/model3`
 
 ### MAME
 
