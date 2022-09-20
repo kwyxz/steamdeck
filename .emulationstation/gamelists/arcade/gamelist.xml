@@ -3904,11 +3904,6 @@ Flicky must watch out for the house cats that emerge from cat-flaps and start ro
 		<controller>joystick_arcade_1_button</controller>
 	</game>
 	<game>
-		<path>./fourplay.zip</path>
-		<name>Four Play</name>
-		<releasedate>20020101T000000</releasedate>
-	</game>
-	<game>
 		<path>./fourtrax.zip</path>
 		<name>Four Trax</name>
 		<desc>The player must take control for four quad bikes (red for Player 1, white for Player 2, yellow for Player 3, and green for Player 4), which are competing in an "off-road" race - and they all have a preset amount of time in which to complete a full lap of the track. For each lap of the track that is successfully completed, the players' time is extended. However, if one of the players cannot manage to successfully complete his current lap of the track before the time runs out, his or her game will instantly be over and the race will continue without them. 
@@ -14243,15 +14238,6 @@ Geese Howard may have been defeated, but that doesn't mean all is peaceful. A ne
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./gp2se.zip</path>
-		<name>Gals Panic II' - Special Edition</name>
-		<releasedate>19940101T000000</releasedate>
-		<publisher>Kaneko</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1-2</players>
-		<controller>joystick_arcade_3_buttons</controller>
-	</game>
-	<game>
 		<path>./ganryu.zip</path>
 		<name>Ganryu</name>
 		<desc>One month has passed since Musashi defeated his sworn enemy, Kojiro. Musashi was on the way to Kyoto, where his beloved Otsu was waiting for him. Around this time, many abductions had occurred by a mysterious group of ninjas, and Otsu was one of the missing. What is the true purpose of these ninjas? The time to fight has come again for Musashi!!
@@ -14310,13 +14296,6 @@ As with "Ikari Warriors", Guerrilla War features full 360 degree gameplay with a
 		<publisher>SNK</publisher>
 		<genre>Fight / Versus</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./kickball.zip</path>
-		<name>Kick Ball</name>
-		<rating>0.6</rating>
-		<releasedate>19980101T000000</releasedate>
-		<controller>joystick_arcade_3_buttons</controller>
 	</game>
 	<game>
 		<path>./kickoff.zip</path>
@@ -15195,25 +15174,6 @@ Rick and Allen's Detective Agency is on 64th st. They have specialized maneuvres
 		<controller>joystick_arcade_2_buttons</controller>
 	</game>
 	<game>
-		<path>./peekaboo.zip</path>
-		<name>Peek-a-boo!</name>
-		<rating>0.5</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Jaleco</developer>
-		<publisher>Jaleco</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<controller>steering_wheel_generic</controller>
-	</game>
-	<game>
-		<path>./pkladies.zip</path>
-		<name>Poker Ladies</name>
-		<releasedate>19890101T000000</releasedate>
-		<publisher>Mitchell</publisher>
-		<genre>Casino</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./protenn.zip</path>
 		<name>Pro Tennis</name>
 		<rating>0.3</rating>
@@ -15474,5 +15434,51 @@ It was the first shoot 'em up to add +1 to the score when a continue is used.[1]
 		<genre>Sports / Basketball</genre>
 		<playcount>2</playcount>
 		<lastplayed>20220916T081839</lastplayed>
+	</game>
+	<game>
+		<path>./fourplay.zip</path>
+		<name>Four Play</name>
+		<desc>Unlicensed compilation of games running on a Galaxian-derived hardware.</desc>
+		<releasedate>20020101T000000</releasedate>
+	</game>
+	<game>
+		<path>./gp2se.zip</path>
+		<name>Gals Panic II' - Special Edition</name>
+		<desc>An update to Gals Panic II, it plays the exact same but with minor differences. The ingame border is different, and the gal select is different, with a finger that you control to choose your girl.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<publisher>Kaneko</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+		<controller>joystick_arcade_3_buttons</controller>
+	</game>
+	<game>
+		<path>./kickball.zip</path>
+		<name>Kick Ball</name>
+		<desc>Despite its name, this is not a kickball game but rather a volley-ball game with a twist : using a soccer ball, players use kicks to send the ball across the net and over to the opponent's side.</desc>
+		<rating>0.6</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Seoung Youn</developer>
+		<controller>joystick_arcade_3_buttons</controller>
+	</game>
+	<game>
+		<path>./peekaboo.zip</path>
+		<name>Peek-a-boo!</name>
+		<desc>A breakout-style game that rewards you with erotic pictures when you beat a level</desc>
+		<rating>0.5</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<controller>steering_wheel_generic</controller>
+	</game>
+	<game>
+		<path>./pkladies.zip</path>
+		<name>Poker Ladies</name>
+		<desc>An erotic poker game re-using artwork created by Akira Yasuda (Akiman) for the game "Mahjong Gakuen". Since Mahjong is not as popular outside of Japan and they felt the artwork would be wasted on a Japan-only release, Mitchell then developed Poker Ladies for international audiences.</desc>
+		<releasedate>19890101T000000</releasedate>
+		<publisher>Mitchell</publisher>
+		<genre>Casino</genre>
+		<players>1</players>
 	</game>
 </gameList>

@@ -18,20 +18,6 @@
 		<lastplayed>20220826T013229</lastplayed>
 	</game>
 	<game>
-		<path>./scud.zip</path>
-		<name>Scud Race</name>
-		<desc>Scud Race (stylized as SCUD Race, "Sport Car Ultimate Drive"), or otherwise known as Sega Super GT in North America, is an arcade racing game released by Sega in 1996. It is the first racing game to be using the Sega Model 3 hardware.</desc>
-		<rating>0.9</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<playcount>10</playcount>
-		<controller>steering_wheel_generic</controller>
-		<lastplayed>20220901T114549</lastplayed>
-	</game>
-	<game>
 		<path>./dirtdvls.zip</path>
 		<name>Dirt Devils</name>
 		<desc>Dirt Devils is a racing game from Sega with all terrain vehicles such as a Humvee, a Sand Buggy, and a Beetle Buggy. There are 3 standard stages plus 1 hidden stage inside the big arena dome.</desc>
@@ -275,5 +261,19 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<playcount>6</playcount>
 		<controller>steering_wheel_generic</controller>
 		<lastplayed>20220916T205852</lastplayed>
+	</game>
+	<game>
+		<path>./scud.zip</path>
+		<name>Scud Race</name>
+		<desc>Scud Race (stylized as SCUD Race, "Sport Car Ultimate Drive"), or otherwise known as Sega Super GT in North America, is an arcade racing game released by Sega in 1996. It is the first racing game to be using the Sega Model 3 hardware.</desc>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<playcount>11</playcount>
+		<controller>steering_wheel_generic</controller>
+		<lastplayed>20220918T215037</lastplayed>
 	</game>
 </gameList>

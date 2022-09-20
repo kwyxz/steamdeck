@@ -187,23 +187,6 @@ The game modes from the original are the same, featuring tournament mode, where 
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Soulcalibur (USA).chd</path>
-		<name>Soulcalibur</name>
-		<desc>A fighting game to end all fighting games.  A sequel to Soul Blade, Soul Calibur takes place in a time inspired by a mixture of 16th-century ancient China and oriental medieval fantasies and legends.  
-
-All characters have weapons and distinct fighting styles with over 100 individual moves per character.  In addition to high, mid, and low attacks, characters can hold/throw, block, and perform special attacks -- one or more of which is deemed "un-blockable" and must be avoided by ducking, jumping, or rotating around your attacker. 
-
-In addition to several locales in which to fight and alternate models/costumes per character, the Dreamcast conversion of Soul Calibur contains many additional features over the arcade coin-op, including hidden characters and locales, a campaign mode, and tournament mode.  There is also a "museum" where you can view character profiles and view motion-captured martial arts demonstrations.</desc>
-		<rating>0.8</rating>
-		<releasedate>19990909T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-		<playcount>2</playcount>
-		<lastplayed>20220829T181734</lastplayed>
-	</game>
-	<game>
 		<path>./Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan).chd</path>
 		<name>Capcom Vs. Snk 2 Millionaire Fighting 2001</name>
 		<desc>Capcom vs SNK 2: Millionaire Fighting 2001 is the sequel to the fighting game Capcom VS SNK.
@@ -244,5 +227,22 @@ As in the original, players choose a team of fighters from the different Capcom 
 		<players>2-4</players>
 		<playcount>1</playcount>
 		<lastplayed>20220911T183012</lastplayed>
+	</game>
+	<game>
+		<path>./Soulcalibur (USA).chd</path>
+		<name>Soulcalibur</name>
+		<desc>A fighting game to end all fighting games.  A sequel to Soul Blade, Soul Calibur takes place in a time inspired by a mixture of 16th-century ancient China and oriental medieval fantasies and legends.  
+
+All characters have weapons and distinct fighting styles with over 100 individual moves per character.  In addition to high, mid, and low attacks, characters can hold/throw, block, and perform special attacks -- one or more of which is deemed "un-blockable" and must be avoided by ducking, jumping, or rotating around your attacker. 
+
+In addition to several locales in which to fight and alternate models/costumes per character, the Dreamcast conversion of Soul Calibur contains many additional features over the arcade coin-op, including hidden characters and locales, a campaign mode, and tournament mode.  There is also a "museum" where you can view character profiles and view motion-captured martial arts demonstrations.</desc>
+		<rating>0.8</rating>
+		<releasedate>19990909T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<playcount>3</playcount>
+		<lastplayed>20220918T214920</lastplayed>
 	</game>
 </gameList>
