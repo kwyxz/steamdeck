@@ -2,7 +2,6 @@
 
 SUPERMODEL_PATH="/home/deck/supermodel"
 SOURCE_PATH="/tmp/Supermodel"
-DEPS="sdl2 sdl2_gfx sdl2_image sdl2_mixer sdl2_net sdl2_ttf mesa glu mesa-utils zlib libglvnd libxcb libx11 libxau libxdmcp"
 
 printf "%s\n" "Setting RootFS read-write"
 sudo steamos-readonly disable
@@ -13,7 +12,7 @@ cd "${SOURCE_PATH}"
 printf "%s\n" "Downloading libraries"
 sudo pacman-key --init
 sudo pacman-key --populate archlinux
-sudo pacman -S --needed --noconfirm "${DEPS}"
+sudo pacman -S --needed --noconfirm sdl2 sdl2_gfx sdl2_image sdl2_mixer sdl2_net sdl2_ttf mesa glu mesa-utils zlib libglvnd libxcb libx11 libxau libxdmcp
 printf "%s\n" "Setting RootFS read-only"
 sudo steamos-readonly enable
 printf "%s\n" "Building Supermodel, please wait 30 seconds"
