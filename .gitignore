@@ -14,6 +14,7 @@
 !/.emulationstation/
 .emulationstation/collections/
 .emulationstation/es_log.txt*
+.emulationstation/gamelists/
 .emulationstation/scrapers/
 .emulationstation/scripts/
 .emulationstation/themes/*
