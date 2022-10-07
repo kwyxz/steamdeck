@@ -26,7 +26,7 @@ A simple MAME configuration is present, roms should be in `/home/deck/Emulation/
 
 The RetroArch configuration folder is moved from the flatpak original location so it can be updated with the new shaders and the new configuration. It is now in `/home/deck/.config/retroarch`, with submodules for the shaders. You're welcome to replace the shaders with other ones if you don't like the ones I have set.
 
-Several folders in `/home/deck/.config/retroarch` are symlinks to their original locations. We want these updated by Emudeck when updates are available. In order to get RetroAchievements working, you need to replace "kwyxz" by your username in `/home/deck/.config/retroarch/` on the `cheevos_username` line and update the `cheevos_token` line (or `cheevos_password` if appropriate)
+Several folders in `/home/deck/.config/retroarch` are symlinks to their original locations. We want these updated by Emudeck when updates are available. In order to get RetroAchievements working, you need to enter your username in `/home/deck/.config/retroarch/retroarch.cfg` on the `cheevos_username` line and update the `cheevos_token` line (or `cheevos_password` if appropriate)
 
 As the HyperSpaceMadness and Duimon shaders / artworks are in submodules, this repository needs to be cloned using the `--recursive` option (or you can install the HSM/Duimon repos manually if you prefer)
 
@@ -36,7 +36,7 @@ I don't like AppImages so I installed the flatpak. More seriously I was having i
 
 ### EmulationStation-DE
 
-Set the theme to "kwyxz" to enjoy my settings. My theme is based heavily on the ES-EpicNoir theme that comes with Emudeck but you don't need to have it installed for the "kwyxz" theme to work. Almost all systems have been reconfigured from the defaults and are now set in `/home/deck/.emulationstation/custom_systems/es_systems.xml`. Several systems were added to the default settings:
+Set the theme to "steamdeck" to enjoy my settings. My theme is based heavily on the ES-EpicNoir theme that comes with Emudeck but you don't need to have it installed for the "steamdeck" theme to work. Almost all systems have been reconfigured from the defaults and are now set in `/home/deck/.emulationstation/custom_systems/es_systems.xml`. Several systems were added to the default settings:
  - Nintendo 64DD (games in `/home/deck/Emulation/roms/64dd/`)
  - Sammy Atomiswave (games in `/home/deck/Emulation/roms/atomiswave`)
  - Capcom CPS-1 (games in `/home/deck/Emulation/roms/cps1`)
