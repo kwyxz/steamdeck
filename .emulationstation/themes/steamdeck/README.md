@@ -1,4 +1,4 @@
-## kwyxz Theme (heavily based on EpicNoir RetroPie Theme)
+## My Steamdeck Theme (heavily based on EpicNoir RetroPie Theme)
 
 This is a modern dark theme based on EpicNoir, which was based on original ideas by Chicuelo and brought to life in collaboration with Nick L (c64-dev).
 
