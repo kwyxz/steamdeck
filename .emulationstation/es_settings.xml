@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <bool name="AlternativeEmulatorPerGame" value="true" />
-<bool name="CollectionShowSystemInfo" value="true" />
+<bool name="CollectionShowSystemInfo" value="false" />
 <bool name="CustomEventScripts" value="false" />
 <bool name="DebugSkipInputLogging" value="false" />
 <bool name="DisableComposition" value="true" />
@@ -82,7 +82,7 @@
 <bool name="ShowHiddenGames" value="true" />
 <bool name="ShowQuitMenu" value="false" />
 <bool name="SpecialCharsASCII" value="false" />
-<bool name="UseCustomCollectionsSystem" value="true" />
+<bool name="UseCustomCollectionsSystem" value="false" />
 <bool name="VideoUpscaleFrameRate" value="false" />
 <bool name="VirtualKeyboard" value="true" />
 <int name="DisplayIndex" value="1" />
