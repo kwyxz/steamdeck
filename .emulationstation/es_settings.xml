@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<bool name="AlternativeEmulatorPerGame" value="true" />
+<bool name="AlternativeEmulatorPerGame" value="false" />
 <bool name="CollectionShowSystemInfo" value="false" />
 <bool name="CustomEventScripts" value="false" />
 <bool name="DebugSkipInputLogging" value="false" />
