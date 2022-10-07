@@ -23,6 +23,8 @@
 !/.gitignore
 !/.gitmodules
 !/.mame/
+.mame/hiscore
+.mame/nvram
 !/README.md
 !/*.sh
 !/redream/
