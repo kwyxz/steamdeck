@@ -320,7 +320,7 @@
     <fullname>Sony - 1994 - Playstation</fullname>
     <path>%ROMPATH%/psx</path>
     <extension>.chd .CHD</extension>
-    <command label="Beetle PSX">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mednafen_psx_hw_libretro.so %ROM%</command>
+    <command label="Duckstation (Standalone)">/usr/bin/bash /home/deck/duckstation.sh %ROM%</command>
     <platform>psx</platform>
     <theme>psx</theme>
   </system>

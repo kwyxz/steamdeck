@@ -22,6 +22,13 @@
 .gitattributes
 !/.gitignore
 !/.gitmodules
+!/.local
+.local/*
+!/.local/share
+.local/share/*
+!/.local/share/duckstation/
+.local/share/duckstation/*
+!/.local/share/duckstation/settings.ini
 !/.mame/
 .mame/hiscore
 .mame/nvram
