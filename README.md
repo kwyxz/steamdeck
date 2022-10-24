@@ -18,6 +18,10 @@ Run `./install-redream.sh` script in `/home/deck/redream` to download and instal
 
 Run `./install-supermodel.sh` script in `/home/deck/supermodel` to download, build and install the latest version of the standalone Model3 emulator. EmulationStation is preconfigured to use the supermodel.sh script to run games in `/home/deck/Emulation/roms/model3`
 
+### Duckstation
+
+The included Flatpak was giving me trouble (just the opposite of Yuzu...) so I added a script to download the latest AppImage. The AppImage is the only binary that is supported by the author, nonetheless. So to install Duckstation and / or keep it updated, run the `./install-duckstation.sh` script in `/home/deck/duckstation`.
+
 ### MAME
 
 A simple MAME configuration is present, roms should be in `/home/deck/Emulation/roms/arcade/` and a nice shader is configured.
