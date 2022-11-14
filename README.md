@@ -16,7 +16,7 @@ Run `./install-redream.sh` script in `/home/deck/redream` to download and instal
 
 ### SuperModel
 
-Run `./install-supermodel.sh` script in `/home/deck/supermodel` to download, build and install the latest version of the standalone Model3 emulator. EmulationStation is preconfigured to use the supermodel.sh script to run games in `/home/deck/Emulation/roms/model3`
+Run `./install-supermodel.sh` script in `/home/deck/supermodel` to download, build and install the latest version of the standalone Model3 emulator. *This requires sudo access, so make sure you configured a password for your user*. EmulationStation is preconfigured to use the supermodel.sh script to run games in `/home/deck/Emulation/roms/model3`
 
 ### Duckstation
 
