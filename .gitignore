@@ -2,6 +2,7 @@
 /.*
 !/.config/
 .config/*
+!/.config/Cemu/
 !/.config/Cemu/controllerProfiles/
 !/.config/Cemu/settings.xml
 !/.config/retroarch/
@@ -36,9 +37,13 @@
 .mame/nvram
 !/README.md
 !/*.sh
+!/cemu/
+cemu/cemu-x64.AppImage
 !/duckstation/
 /duckstation/*
 !/duckstation/update.sh
+!/pcsx2/
+pcsx2/pcsx2-x64.AppImage
 !/redream/
 /redream/flash.bin
 /redream/redream
