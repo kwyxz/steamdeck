@@ -1,3 +1,4 @@
 #reference "../../shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Presets/Lite/Nintendo_NDS/NDS-[STD]-[LCD-GRID]-[Night].slangp"
 HSM_VIEWPORT_ZOOM = "90.000000"
+HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
 HSM_INTRO_WHEN_TO_SHOW = "0.000000"
