@@ -2,6 +2,8 @@
 /.*
 !/.config/
 .config/*
+!/.config/Cemu/controllerProfiles/
+!/.config/Cemu/settings.xml
 !/.config/retroarch/
 .config/retroarch/assets/
 .config/retroarch/content*.lpl
