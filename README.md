@@ -22,6 +22,14 @@ Run `./install-supermodel.sh` script in `/home/deck/supermodel` to download, bui
 
 The included Flatpak was giving me trouble (just the opposite of Yuzu...) so I added a script to download the latest AppImage. The AppImage is the only binary that is supported by the author, nonetheless. So to install Duckstation and / or keep it updated, run the `./install-duckstation.sh` script in `/home/deck/duckstation`.
 
+### PCSX2
+
+The AppImage gets updated more regularly than the Flatpak : a good reason to use it. Same as Duckstation, a script is included to download and install it. To install PCSX2 and / or keep it updated, run the `./install-pcsx2.sh` script in `/home/deck/pcsx2`.
+
+### Cemu
+
+There is now a Linux build of Cemu ! To avoid having to use Proton and enjoy your native Linux version, same as Duckstation or PCSX2, a script is included to download and install the AppImage. To install Cemu and / or keep it updated, run the `./install-cemu.sh` script in `/home/deck/cemu`.
+
 ### MAME
 
 A simple MAME configuration is present, roms should be in `/home/deck/Emulation/roms/arcade/` and a nice shader is configured.
