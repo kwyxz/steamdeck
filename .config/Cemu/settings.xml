@@ -43,7 +43,9 @@
         <game_started_width>160</game_started_width>
         <region_width>80</region_width>
     </GameList>
-    <RecentLaunchFiles/>
+    <RecentLaunchFiles>
+        <Entry>/home/deck/Emulation/roms/wiiu/roms/Xenoblade Chronicles X (US) (v48).wua</Entry>
+    </RecentLaunchFiles>
     <RecentNFCFiles/>
     <GamePaths>
         <Entry>/home/deck/cemu/roms</Entry>
