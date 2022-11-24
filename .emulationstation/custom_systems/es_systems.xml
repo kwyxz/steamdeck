@@ -168,7 +168,7 @@
     <path>%ROMPATH%/megacd</path>
     <extension>.chd .CHD</extension>
     <command label="Genesis Plus GX">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/genesis_plus_gx_libretro.so %ROM%</command>
-    <platform>megacd</platform>
+    <platform>segacd</platform>
     <theme>megacd</theme>
   </system>
   <system>
