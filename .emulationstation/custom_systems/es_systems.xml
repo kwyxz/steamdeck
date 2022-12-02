@@ -338,7 +338,7 @@
     <fullname>Sega - 1994 - Saturn</fullname>
     <path>%ROMPATH%/saturn</path>
     <extension>.chd .CHD</extension>
-    <command label="Kronos">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/kronos_libretro.so %ROM%</command>
+    <command label="Kronos">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mednafen_saturn_libretro.so %ROM%</command>
     <platform>saturn</platform>
     <theme>saturn</theme>
   </system>
