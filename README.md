@@ -10,6 +10,13 @@ Games go in /home/deck/Emulation/roms/ per Emudeck settings.
 
 *I do not recommend using the Steam ROM tool Emudeck provides that creates shortcuts within Steam*. It is fine if you have only a handful of retro games per platform. If you have a bunch, your Steam interface will become messy and annoying to browse. Add these games to EmulationStation-DE and be happy. As a generic piece of advice : you should very much use EmulationStation-DE to start all your retro games as I have spent hours configuring shortcuts / launchers that work within EmulationStation-DE. The only reason to start an emulator from Desktop Mode would be to update some configuration details. Besides that, run EmulationStation-DE from Gaming Mode, enjoy the nice theme, videos and metadata, and start some games.
 
+### How do I use this repository?
+
+Switch to Desktop mode, open a terminal, and type the following:
+```
+cd $HOME && git clone --recursive https://github.com/kwyxz/steamdeck.git .
+```
+
 ### Redream
 
 Run `./install-redream.sh` script in `/home/deck/redream` to download and install the latest version of the standalone Dreamcast emulator. If you own a paid version, copy redream.key in the same folder. Currently it displays artefacts on most games, which is unfortunate as performance is better than Flycast. Hopefully the Redream author fixes this someday. Redream is configured to look for games in `/home/deck/Emulation/roms/dreamcast`.
