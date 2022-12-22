@@ -17,7 +17,7 @@ if test -f /usr/include/errno.h; then
 else
   PACMAN_OPTS=""
 fi
-sudo pacman -S --noconfirm $PACMAN_OPTS gcc glibc sdl2 sdl2_gfx sdl2_image sdl2_mixer sdl2_net sdl2_ttf mesa glu mesa-utils zlib libglvnd libxcb libx11 libxau libxdmcp linux-headers linux-api-headers xorgproto
+sudo pacman -S --noconfirm $PACMAN_OPTS gcc glibc sdl2 sdl2_gfx sdl2_image sdl2_mixer sdl2_net sdl2_ttf make mesa glu mesa-utils zlib libglvnd libxcb libx11 libxau libxdmcp linux-headers linux-api-headers xorgproto
 printf "%s\n" "Setting RootFS read-only"
 sudo steamos-readonly enable
 printf "%s\n" "Building Supermodel, please wait 30 seconds"
