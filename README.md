@@ -17,6 +17,12 @@ Switch to Desktop mode, open a terminal, and type the following:
 cd $HOME && git clone --recursive https://github.com/kwyxz/steamdeck.git .
 ```
 
+### How do I keep this repository up to date?
+
+```
+cd $HOME && git pull && git submodule update --recursive --remote
+```
+
 ### Redream
 
 Run `./install-redream.sh` script in `/home/deck/redream` to download and install the latest version of the standalone Dreamcast emulator. If you own a paid version, copy redream.key in the same folder. Currently it displays artefacts on most games, which is unfortunate as performance is better than Flycast. Hopefully the Redream author fixes this someday. Redream is configured to look for games in `/home/deck/Emulation/roms/dreamcast`.
