@@ -356,7 +356,7 @@
     <fullname>Scumm VM - 2001 - Misc</fullname>
     <path>%ROMPATH%/scummvm</path>
     <extension>.scummvm</extension>
-    <command label="ScummVM (Standalone)">/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=scummvm_wrapper org.scummvm.ScummVM %ROM%</command>
+    <command label="ScummVM (Standalone)">/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=scummvm_wrapper org.scummvm.ScummVM %BASENAME%</command>
     <platform>scummvm</platform>
     <theme>scummvm</theme>
   </system>
