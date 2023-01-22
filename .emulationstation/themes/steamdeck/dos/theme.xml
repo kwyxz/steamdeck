@@ -9,18 +9,25 @@
   </view>    
   
   <view name="system">
-  <text name="sys_line2" extra="true">
-  <text>dos</text>
-  <fontSize>0.18</fontSize>
-  <origin>0 0</origin>
-  <pos>0.12 0.130</pos>
-  <size>0 0</size>
+  <text name="sys_line1" extra="true">
+    <text>Microsoft</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.12 0.142</pos>
+    <size>0 0</size>
   </text>
+  <text name="sys_line2" extra="true">
+    <text>DOS</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.12 0.16</pos>
+    <size>0 0</size>
+  </text> 
   <text name="shortdescription" extra="true">
   <text>1981  ·  IBM PC Compatible computer</text>
   </text>
   <text name="longdescription" extra="true">
-  <text>MS-DOS is an operating system for x86-based personal computers mostly developed by Microsoft. Collectively, MS-DOS, its rebranding as IBM PC DOS, and a few operating systems attempting to be compatible with MS-DOS, are sometimes referred to as "DOS".</text>
+  <text>MS-DOS was the main operating system for IBM PC compatibles during the 1980s, from which point it was superseded by graphical user interfaces in various generations of the Microsoft Windows operating system.</text>
   </text>
   </view>
   </theme>
