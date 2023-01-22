@@ -13,6 +13,7 @@
 .config/retroarch/playlists/logs/
 .config/retroarch/records*
 .config/retroarch/saves/*
+!/.config/retroarch/saves/*.pure.zip
 .config/retroarch/screenshots/
 .config/retroarch/thumbnails/
 !/.emulationstation/
