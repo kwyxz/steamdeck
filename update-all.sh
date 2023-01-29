@@ -5,3 +5,4 @@
 ./cemu/install-cemu.sh
 ./supermodel/install-supermodel.sh
 ./redream/install-redream.sh
+git pull && git submodule update --recursive --remote
