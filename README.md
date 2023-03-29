@@ -12,13 +12,13 @@ Games go in /home/deck/Emulation/roms/ per Emudeck settings.
 
 ### How do I use this repository?
 
-Switch to Desktop mode, [download this file](https://raw.githubusercontent.com/kwyxz/steamdeck/main/kwyxz.desktop), move it to the Desktop and double-click on it.
+Switch to Desktop mode, [download this file](https://raw.githubusercontent.com/kwyxz/steamdeck/main/kwyxz.desktop), move it to the Desktop and double-click on it (it will be called "Turbocharge Emudeck")
 It will pull the whole repository, then install all the extra fancy emulators that I added because they were missing from Emudeck.
 
 ### How do I keep this repository up to date?
 
 ```
-cd $HOME && ./update-all.sh
+Double-click on the "Improve Emudeck" icon on the desktop again.
 ```
 
 ### Redream

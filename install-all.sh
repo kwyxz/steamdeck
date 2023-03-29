@@ -1,5 +1,7 @@
 #!/usr/bin/env sh
 
+sudo true
+
 if test -f ${HOME}/update-all.sh; then
   cd ${HOME}
 else
@@ -37,7 +39,7 @@ else
   git submodule update --init --recursive
   echo "OK"
   cd ${HOME}
-  echo -n "==== Now installing emulators"
+  echo "==== Now installing emulators"
 fi
 
 sh ./update-all.sh

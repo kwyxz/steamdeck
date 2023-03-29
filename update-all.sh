@@ -6,3 +6,4 @@
 ./supermodel/install-supermodel.sh
 ./redream/install-redream.sh
 git pull && git submodule update --recursive --remote
+sudo flatpak update
