@@ -17,9 +17,7 @@ It will pull the whole repository, then install all the extra fancy emulators th
 
 ### How do I keep this repository up to date?
 
-```
-Double-click on the "Improve Emudeck" icon on the desktop again.
-```
+Double-click on the "Turbocharge Emudeck" icon on the desktop again, or manually run "./update-all.sh" in the home directory.
 
 ### Redream
 
