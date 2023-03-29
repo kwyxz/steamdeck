@@ -2,7 +2,6 @@
 
 if test -f ${HOME}/update-all.sh; then
   cd ${HOME}
-  sh ./update-all.sh
 else
   echo -n "==== Resetting gizmos ... "
   cd ${HOME} && rm -rf ${HOME}/.git*
@@ -37,5 +36,8 @@ else
   echo -n "==== One last thing and we're good to go ... "
   git submodule update --init --recursive
   echo "OK"
-  echo "All done! Was it so bad?"
+  cd ${HOME}
+  echo -n "==== Now installing emulators"
 fi
+
+sh ./update-all.sh
