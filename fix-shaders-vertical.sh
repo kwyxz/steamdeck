@@ -3,6 +3,9 @@
 # fix shaders and options for arcade games requiring vertical monitors
 # a bit slow due to how many times we run MAME but most accurate and up to date
 
+echo "this has been deprecated by Duimon bezels which are unfortunately buggy right now"
+exit 0
+
 for MACHINE in cps1 cps2 naomi ; do 
   for GAME in $(flatpak run org.mamedev.MAME -listsource | grep ${MACHINE}.cpp | awk '{print $1}'); do
     printf "Looking at %s ... " "${GAME}"
@@ -19,7 +22,7 @@ for MACHINE in cps1 cps2 naomi ; do
         fi
         printf "=> Linking %s in %s for %s\n" "${GAME}" "${EMU}" "${MACHINE}"
         ln -f "/home/deck/.config/retroarch/config/${EMU}/${MACHINE}-vertical.opt" "/home/deck/.config/retroarch/config/${EMU}/${GAME}.opt"
-        ln -f "/home/deck/.config/retroarch/config/${EMU}/${MACHINE}-vertical.slangp" "/home/deck/.config/retroarch/config/${EMU}/${GAME}.slangp"
+#        ln -f "/home/deck/.config/retroarch/config/${EMU}/${MACHINE}-vertical.slangp" "/home/deck/.config/retroarch/config/${EMU}/${GAME}.slangp"
       else
         printf "horizontal\n"
       fi
