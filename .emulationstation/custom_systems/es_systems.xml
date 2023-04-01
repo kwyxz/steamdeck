@@ -49,7 +49,7 @@
     <name>atari2600</name>
     <fullname>Atari - 1977 - 2600</fullname>
     <path>%ROMPATH%/atari2600</path>
-    <extension>.zip .ZIP</extension>
+    <extension>.a26 .zip .A26 .ZIP</extension>
     <command label="Stella">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/stella_libretro.so %ROM%</command>
     <platform>atari2600</platform>
     <theme>atari2600</theme>
@@ -58,8 +58,8 @@
     <name>atari5200</name>
     <fullname>Atari - 1982 - 5200</fullname>
     <path>%ROMPATH%/atari5200</path>
-    <extension>.zip .ZIP</extension>
-    <command label="ProSystem">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/prosystem_libretro.so %ROM%</command>
+    <extension>.a52 .zip .A52 .ZIP</extension>
+    <command label="ProSystem">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/atari800_libretro.so %ROM%</command>
     <platform>atari5200</platform>
     <theme>atari5200</theme>
   </system>
@@ -67,8 +67,8 @@
     <name>atari7800</name>
     <fullname>Atari - 1986 - 7800</fullname>
     <path>%ROMPATH%/atari7800</path>
-    <extension>.zip .ZIP</extension>
-    <command label="Stella">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/atari800_libretro.so %ROM%</command>
+    <extension>.a78 .zip .A78 .ZIP</extension>
+    <command label="Stella">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/prosystem_libretro.so %ROM%</command>
     <platform>atari7800</platform>
     <theme>atari7800</theme>
   </system>
