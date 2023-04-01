@@ -48,6 +48,7 @@ cemu/cemu-x64.AppImage
 !/pcsx2/
 pcsx2/pcsx2-x64.AppImage
 !/redream/
+redream/cache
 redream/flash.bin
 redream/redream
 redream/redream.key

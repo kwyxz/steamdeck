@@ -270,15 +270,6 @@
     <platform>arcade</platform>
     <theme>naomi</theme>
   </system>
-    <system>
-    <name>naomi2</name>
-    <fullname>Sega - 199X - Naomi 2</fullname>
-    <path>%ROMPATH%/naomi2</path>
-    <extension>.7z .7Z .zip .ZIP .chd .CHD</extension>
-    <command label="Flycast">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/flycast_libretro.so %ROM%</command>
-    <platform>arcade</platform>
-    <theme>naomi2</theme>
-  </system>
   <system>
     <name>nds</name>
     <fullname>Nintendo - 2004 - Nintendo DS</fullname>
