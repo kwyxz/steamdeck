@@ -1,27 +1,33 @@
 <theme>
-  <formatVersion>4</formatVersion>
-  <include>./../theme.xml</include>
-  
-  <view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-	<text>pcfx</text>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>NEC PC-FX</text>
   </text>
-  </view>    
-  
-  <view name="system">
+</view>
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>NEC</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.12 0.142</pos>
+    <size>0 0</size>
+  </text>
   <text name="sys_line2" extra="true">
-  <text>pcfx</text>
-  <fontSize>0.18</fontSize>
-  <origin>0 0</origin>
-  <pos>0.12 0.130</pos>
-  <size>0 0</size>
-  </text>
+    <text>PC-FX</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+    <pos>0.12 0.16</pos>
+    <size>0 0</size>
+</text>
   <text name="shortdescription" extra="true">
-  <text>Video Games System</text>
+   <text>1994  ·  32-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-  <text>Video Games System</text>
+   <text>Intended to be the successor of the popular PC Engine, it was only released in Japan and remained confidential</text>
   </text>
-  </view>
-  </theme>
-
+ </view>
+</theme>

@@ -9,13 +9,20 @@
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Atari</text>
+    <fontSize>0.048</fontSize>
+    <origin>0 0</origin>
+    <pos>0.12 0.142</pos>
+    <size>0 0</size>
+  </text>
   <text name="sys_line2" extra="true">
-    <text>Atari 2600</text>
+    <text>2600</text>
     <fontSize>0.18</fontSize>
     <origin>0 0</origin>
-    <pos>0.12 0.130</pos>
+    <pos>0.12 0.16</pos>
     <size>0 0</size>
-  </text>    
+  </text>
   <text name="shortdescription" extra="true">
    <text>1977  ·  8-bit Console</text>
   </text>

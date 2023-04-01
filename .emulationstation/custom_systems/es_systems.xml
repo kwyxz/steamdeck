@@ -12,7 +12,7 @@
   <system>
     <name>n3ds</name>
     <fullname>Nintendo - 2011 - 3DS</fullname>
-    <path>%ROMPATH%/n3ds</path>
+    <path>%ROMPATH%/3ds</path>
     <extension>.zip .ZIP .7z .7Z .cci .CCI .3ds .3DS</extension>
     <command label="Citra (Libretro)">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/citra_libretro.so %ROM%</command>
     <platform>n3ds</platform>
@@ -28,6 +28,15 @@
     <theme>64dd</theme>
   </system>
   <system>
+    <name>amigacd32</name>
+    <fullname>Commodore - 1993 - Amiga CD32</fullname>
+    <path>%ROMPATH%/amigacd32</path>
+    <extension>.chd .CHD</extension>
+    <command label="PUAE">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/puae_libretro.so %ROM%</command>
+    <platform>amigacd32</platform>
+    <theme>amigacd32</theme>
+  </system>
+  <system>
     <name>arcade</name>
     <fullname>Arcade - 19XX</fullname>
     <path>%ROMPATH%/arcade</path>
@@ -35,6 +44,33 @@
     <command label="MAME (Standalone)">/usr/bin/bash /home/deck/mame.sh -rompath %ROMPATH%/arcade %BASENAME%</command>
     <platform>arcade</platform>
     <theme>arcade</theme>
+  </system>
+  <system>
+    <name>atari2600</name>
+    <fullname>Atari - 1977 - 2600</fullname>
+    <path>%ROMPATH%/atari2600</path>
+    <extension>.zip .ZIP</extension>
+    <command label="Stella">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/stella_libretro.so %ROM%</command>
+    <platform>atari2600</platform>
+    <theme>atari2600</theme>
+  </system>
+  <system>
+    <name>atari5200</name>
+    <fullname>Atari - 1982 - 5200</fullname>
+    <path>%ROMPATH%/atari5200</path>
+    <extension>.zip .ZIP</extension>
+    <command label="ProSystem">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/prosystem_libretro.so %ROM%</command>
+    <platform>atari5200</platform>
+    <theme>atari5200</theme>
+  </system>
+  <system>
+    <name>atari7800</name>
+    <fullname>Atari - 1986 - 7800</fullname>
+    <path>%ROMPATH%/atari7800</path>
+    <extension>.zip .ZIP</extension>
+    <command label="Stella">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/atari800_libretro.so %ROM%</command>
+    <platform>atari7800</platform>
+    <theme>atari7800</theme>
   </system>
   <system>
     <name>atarijaguar</name>
@@ -120,7 +156,7 @@
   <system>
     <name>gc</name>
     <fullname>Nintendo - 2001 - GameCube</fullname>
-    <path>%ROMPATH%/gc</path>
+    <path>%ROMPATH%/gamecube</path>
     <extension>.elf .dol .gcm .iso .wbfs .ciso .gcz .wad .rvz .ELF .DOL .GCM .ISO .WBFS .CISO .GCZ .WAD .RVZ</extension>
     <command label="Dolphin (Standalone)">%EMULATOR_DOLPHIN% %ROM%</command>
     <platform>gc</platform>
@@ -229,10 +265,19 @@
     <name>naomi</name>
     <fullname>Sega - 199X - Naomi</fullname>
     <path>%ROMPATH%/naomi</path>
-    <extension>.7z .7Z .zip .ZIP</extension>
+    <extension>.7z .7Z .zip .ZIP .chd .CHD</extension>
     <command label="Flycast">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/flycast_libretro.so %ROM%</command>
     <platform>arcade</platform>
     <theme>naomi</theme>
+  </system>
+    <system>
+    <name>naomi2</name>
+    <fullname>Sega - 199X - Naomi 2</fullname>
+    <path>%ROMPATH%/naomi2</path>
+    <extension>.7z .7Z .zip .ZIP .chd .CHD</extension>
+    <command label="Flycast">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/flycast_libretro.so %ROM%</command>
+    <platform>arcade</platform>
+    <theme>naomi2</theme>
   </system>
   <system>
     <name>nds</name>
@@ -307,6 +352,15 @@
     <theme>pcenginecd</theme>
   </system>
   <system>
+    <name>pcfx</name>
+    <fullname>NEC - 1994 - PC-FX</fullname>
+    <path>%ROMPATH%/pcfx</path>
+    <extension>.chd .CHD</extension>
+    <command label="Beetle PCE">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mednafen_pcfx_libretro.so %ROM%</command>
+    <platform>pcfx</platform>
+    <theme>pcfx</theme>
+  </system>
+  <system>
     <name>ps2</name>
     <fullname>Sony - 2000 - Playstation 2</fullname>
     <path>%ROMPATH%/ps2</path>
@@ -370,6 +424,15 @@
     <theme>sega32x</theme>
   </system>
   <system>
+    <name>sg-1000</name>
+    <fullname>Sega - 1982 - SG-1000</fullname>
+    <path>%ROMPATH%/sg-1000</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="SMS Plus GX">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/smsplus_libretro.so %ROM%</command>
+    <platform>sg-1000</platform>
+    <theme>sg-1000</theme>
+  </system>
+  <system>
     <name>snes</name>
     <fullname>Nintendo - 1990 - Super NES</fullname>
     <path>%ROMPATH%/snes</path>
@@ -406,10 +469,19 @@
     <theme>virtualboy</theme>
   </system>
   <system>
+    <name>wii</name>
+    <fullname>Nintendo - 2006 - Wii</fullname>
+    <path>%ROMPATH%/wii</path>
+    <extension>.elf .dol .gcm .iso .wbfs .ciso .gcz .wad .rvz .ELF .DOL .GCM .ISO .WBFS .CISO .GCZ .WAD .RVZ</extension>
+    <command label="Dolphin (Standalone)">%EMULATOR_DOLPHIN% %ROM%</command>
+    <platform>wii</platform>
+    <theme>wii</theme>
+  </system>
+  <system>
     <name>wiiu</name>
     <fullname>Nintendo - 2012 - Wii U</fullname>
     <path>%ROMPATH%/wiiu/roms</path>
-    <extension>.wua .WUA</extension>
+    <extension>.wua .WUA .wux .WUX</extension>
     <command label="Cemu (Standalone)">/usr/bin/bash /home/deck/cemu.sh %ROM%</command>
     <platform>wiiu</platform>
     <theme>wiiu</theme>
