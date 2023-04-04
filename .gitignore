@@ -24,6 +24,7 @@
 .emulationstation/scripts/
 .emulationstation/themes/*
 !.emulationstation/themes/steamdeck/
+!.emulationstation/themes/steamdeck-v2/
 .gitattributes
 !/.gitignore
 !/.gitmodules
