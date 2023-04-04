@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The Atari Jaguar CD is a fifth generation (1993–2005) CD-ROM peripheral for the Atari Jaguar video game console developed and distributed by Atari Corporation. It was released in September 1995 in North America at a retail price of $149.95. The peripheral was also released in Europe (1995). The Jaguar CD unit featured a double-speed (2×) drive and its own cartridge slot to allow cartridge games to be played without removing the CD drive. The peripheral was discontinued in early 1996, possibly at the time of the company's sale on April 8, 1996.</systemDescription>
+      <systemManufacturer>Atari</systemManufacturer>
+      <systemReleaseYear>1995</systemReleaseYear>
+      <systemReleaseDate>1995-11-21</systemReleaseDate>
+      <systemReleaseDateFormated>September 21, 1995</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>2F7BC7</systemColor>
+   </variables>
+</theme>

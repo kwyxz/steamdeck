@@ -1,0 +1,15 @@
+<theme>
+   <variables>
+      <systemDescription>The Super Game Boy (スーパーゲームボーイ, Sūpā Gēmu Bōi) is a peripheral that allows Game Boy cartridges to be played on a Super Nintendo Entertainment System console, compatible with the same cartridges as the original Game Boy: original Game Boy cartridges, the Game Boy Camera, and dual-mode Game Boy Color cartridges (in Game Boy-mode).
+
+The unit could map the four shades of green to various colors on the screen. Later Game Boy games that were optimized to use the Super Game Boy had additional color information and could override the on-screen colors, display a graphical border around the screen, and display special background sprites. Those games would have printed a small "Super Game Boy Game Pak" logo on the box and cartridge. The adaptor could support up to 64 colors for the border, and 12 colors for the screen. Static screens could display all 10 colors. Certain games can load multiple borders depending on the player's location in the game.
+
+It is also possible for Super Game Boy games to make use of the Super NES hardware for extra effects: these games had expanded sound when used with the Super Game Boy. Some titles even allowed the second Super NES controller to be used for two-player action; using the Super Multitap, some games even supported four players.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1994</systemReleaseYear>
+      <systemReleaseDate>1994-06-28</systemReleaseDate>
+      <systemReleaseDateFormated>June 28, 1994</systemReleaseDateFormated>
+      <systemHardwareType>Peripheral</systemHardwareType>
+      <systemColor>405189</systemColor>
+   </variables>
+</theme>

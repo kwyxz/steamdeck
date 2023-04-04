@@ -1,0 +1,13 @@
+<theme>
+   <variables>
+      <systemDescription>Xbox is a video gaming brand created and owned by Microsoft. It represents a series of video game consoles developed by Microsoft, with three consoles released in the sixth, seventh, and eighth generations, respectively. The brand also represents applications (games), streaming services, an online service by the name of Xbox Live, and the development arm by the name of Xbox Game Studios.
+
+The brand was first introduced in the United States in November 2001, with the launch of the original Xbox console.</systemDescription>
+      <systemManufacturer>Microsoft</systemManufacturer>
+      <systemReleaseYear>2001</systemReleaseYear>
+      <systemReleaseDate>2001-11-15</systemReleaseDate>
+      <systemReleaseDateFormated>November 15, 2001</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>6bb555</systemColor>
+   </variables>
+</theme>

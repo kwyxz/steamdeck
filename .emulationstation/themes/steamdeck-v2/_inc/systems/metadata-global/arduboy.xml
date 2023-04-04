@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The Arduboy is a handheld game console with open source software, based on the Arduino hardware platform.</systemDescription>
+      <systemManufacturer>Kevin Bates</systemManufacturer>
+      <systemReleaseYear>2015</systemReleaseYear>
+      <systemReleaseDate>2015</systemReleaseDate>
+      <systemReleaseDateFormated>2015</systemReleaseDateFormated>
+      <systemHardwareType>Portable</systemHardwareType>
+      <systemColor>5F459C</systemColor>
+   </variables>
+</theme>

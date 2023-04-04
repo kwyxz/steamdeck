@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="100%" height="100%" viewBox="0 0 122 36" version="1.1" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 61 14.034 C 63.2 14.034 65 15.763 65 18 C 65 20.238 63.2 21.966 61 21.966 C 58.8 21.966 57 20.238 57 18 C 57 15.763 58.8 14.034 61 14.034 M 61 12 C 57.7 12 55 14.644 55 18 C 55 21.356 57.7 24 61 24 C 64.3 24 67 21.356 67 18 C 67 14.644 64.3 12 61 12 Z" style="fill:white;fill-rule:nonzero;"/>
+  <circle cx="61" cy="18" r="5" style="fill:white;"/>
+</svg>

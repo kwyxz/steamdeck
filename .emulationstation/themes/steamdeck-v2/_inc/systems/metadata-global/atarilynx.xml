@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The Atari Lynx, usually just referred to as Lynx, is a fourth generation (1987-2004) handheld video game console developed in partnership with Epyx, Inc. and distributed by the Atari Corporation. It was released in September 1989 in North America at a retail price of $149.95. The handheld was also released in Europe (1990) and Japan (1990). The Lynx was the world's first handheld electronic game with a color LCD screen. The console was discontinued in early 1996, possibly at the time of the company's sale on April 8, 1996.</systemDescription>
+      <systemManufacturer>Atari</systemManufacturer>
+      <systemReleaseYear>1989</systemReleaseYear>
+      <systemReleaseDate>1989-09-01</systemReleaseDate>
+      <systemReleaseDateFormated>September 1, 1989</systemReleaseDateFormated>
+      <systemHardwareType>Portable</systemHardwareType>
+      <systemColor>e49838</systemColor>
+   </variables>
+</theme>

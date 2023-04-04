@@ -1,0 +1,13 @@
+<theme>
+   <variables>
+      <systemDescription>Windows is a group of several proprietary graphical operating system families developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry. For example, Windows NT for consumers, Windows Server for servers, and Windows IoT for embedded systems. Defunct Windows families include Windows 9x, Windows Mobile, and Windows Phone.
+
+The first version of Windows was released on November 20, 1985, as a graphical operating system shell for MS-DOS in response to the growing interest in graphical user interfaces (GUIs).</systemDescription>
+      <systemManufacturer>Microsoft</systemManufacturer>
+      <systemReleaseYear>1985</systemReleaseYear>
+      <systemReleaseDate>1985-11-20</systemReleaseDate>
+      <systemReleaseDateFormated>November 20, 1985</systemReleaseDateFormated>
+      <systemHardwareType>OS</systemHardwareType>
+      <systemColor>38b1de</systemColor>
+   </variables>
+</theme>

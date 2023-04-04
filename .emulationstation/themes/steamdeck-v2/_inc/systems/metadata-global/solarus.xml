@@ -1,0 +1,19 @@
+<theme>
+   <variables>
+      <systemDescription>Solarus was specifically designed with cult 2D action-RPG classics in mind, such as The Legend of Zelda: A Link to the Past and Secret of Mana on the Super Nintendo, or Soleil on the Sega Megadrive/Genesis.
+
+The engine is programmed in C++, with the SDL library and an OpenGL backend. Games made with Solarus are called quests, and are programmed in Lua.
+
+The engine does all the heavy computations (for example, collision checks) and the low-level operations like drawing the screen, animating sprites and playing sounds.
+
+As a quest maker, you are not much interested in implementing these algorithms. On the contrary, you want to define the game logic. Your Lua scripts describe the behavior of enemies, what happens when pressing a switch on a specific map. They will also implement such things as the title screen and the head-up display.
+
+Both parts (the C++ engine and the Lua scripts of your quest) communicate through the Solarus Lua API. The communication works in both ways: you can call functions of the engine (example: you want to move a non-playing character) and the engine calls your own functions (example: be informed that an enemy was just killed). But before using this Solarus API, you have to learn the basics of Lua (easy and minimal, yet powerful language).</systemDescription>
+      <systemManufacturer>Christopho</systemManufacturer>
+      <systemReleaseYear>2021</systemReleaseYear>
+      <systemReleaseDate>2021-04-06</systemReleaseDate>
+      <systemReleaseDateFormated>April 6, 2021</systemReleaseDateFormated>
+      <systemHardwareType>Engine</systemHardwareType>
+      <systemColor>271658</systemColor>
+   </variables>
+</theme>

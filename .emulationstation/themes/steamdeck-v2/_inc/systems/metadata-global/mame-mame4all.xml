@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>MAME4ALL, is a port of the MAME 0.37b5 for Arcade Monitors and TVs but also for LCDs and PC monitors.</systemDescription>
+      <systemManufacturer>MAME4ALL</systemManufacturer>
+      <systemReleaseYear>2000</systemReleaseYear>
+      <systemReleaseDate>2000-07-28</systemReleaseDate>
+      <systemReleaseDateFormated>July 28, 2000</systemReleaseDateFormated>
+      <systemHardwareType>Emulator</systemHardwareType>
+      <systemColor>D6A93B</systemColor>
+   </variables>
+</theme>

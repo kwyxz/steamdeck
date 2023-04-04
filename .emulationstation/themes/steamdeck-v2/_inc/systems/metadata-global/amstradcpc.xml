@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The Amstrad Colour Personal Computer, better known as the Amstrad CPC, is a series of 8-bit home computers designed by Amstrad. The first models were released in April 1984 in Europe at a retail price ranging from £199 to £299, depending on the package bought. The computers were not released outside of Europe. The CPC series had five distinct models: The CPC464, CPC664, CPC6128, 464plus, and 6128plus. The computers were manufactured until an unspecified time in 1990.</systemDescription>
+      <systemManufacturer>Amstrad</systemManufacturer>
+      <systemReleaseYear>1984</systemReleaseYear>
+      <systemReleaseDate>1984-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 1984</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>517e9f</systemColor>
+   </variables>
+</theme>

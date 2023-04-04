@@ -1,0 +1,13 @@
+<theme>
+   <variables>
+      <systemDescription>The Game Gear is an 8-bit fourth generation handheld game console released by Sega on October 6, 1990 in Japan, in April 1991 throughout North America and Europe, and during 1992 in Australia. The Game Gear primarily competed with Nintendo's Game Boy, the Atari Lynx, and NEC's TurboExpress. It shares much of its hardware with the Master System, and can play Master System games by the use of an adapter. Sega positioned the Game Gear, which had a full-color backlit screen with a landscape format, as a technologically superior handheld to the Game Boy.
+
+Though the Game Gear was rushed to market, its unique game library and price point gave it an edge over the Atari Lynx and TurboExpress. However, due to its short battery life, lack of original games, and weak support from Sega, the Game Gear was unable to surpass the Game Boy, selling 10.62 million units by March 1996. The Game Gear was discontinued on April 30, 1997. It was re-released as a budget system by Majesco Entertainment in 2000, under license from Sega.</systemDescription>
+      <systemManufacturer>Sega</systemManufacturer>
+      <systemReleaseYear>1990</systemReleaseYear>
+      <systemReleaseDate>1990-10-06</systemReleaseDate>
+      <systemReleaseDateFormated>October 6, 1990</systemReleaseDateFormated>
+      <systemHardwareType>Portable</systemHardwareType>
+      <systemColor>366fb1</systemColor>
+   </variables>
+</theme>

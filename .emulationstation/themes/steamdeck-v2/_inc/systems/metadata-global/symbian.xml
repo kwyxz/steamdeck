@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>Symbian is a discontinued mobile operating system (OS) and computing platform designed for smartphones. It was originally developed as a proprietary software OS for personal digital assistants in 1998 by the Symbian Ltd. consortium. Symbian OS is a descendant of Psion's EPOC, and was released exclusively on ARM processors, although an unreleased x86 port existed. Symbian was used by many major mobile phone brands, like Samsung, Motorola, Sony Ericsson, and above all by Nokia. It was also prevalent in Japan by brands including Fujitsu, Sharp and Mitsubishi. As a pioneer that established the smartphone industry, it was the most popular smartphone OS on a worldwide average until the end of 2010, at a time when smartphones were in limited use, when it was overtaken by iOS and Android. It was notably less popular in North America.</systemDescription>
+      <systemManufacturer>Symbian Ltd.</systemManufacturer>
+      <systemReleaseYear>1997</systemReleaseYear>
+      <systemReleaseDate>1997-06-05</systemReleaseDate>
+      <systemReleaseDateFormated>June 5, 1997</systemReleaseDateFormated>
+      <systemHardwareType>OS</systemHardwareType>
+      <systemColor>595959</systemColor>
+   </variables>
+</theme>

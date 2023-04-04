@@ -1,0 +1,13 @@
+<theme>
+   <variables>
+      <systemDescription>The Wii (known unofficially as the Nintendo Wii) is a home video game console released by Nintendo on November 19, 2006. As a seventh generation console, the Wii competed with Microsoft's Xbox 360 and Sony's PlayStation 3. Nintendo stated that its console targets a broader demographic than that of the two others.
+
+As of the first quarter of 2016, the Wii led its generation over the PlayStation 3 and Xbox 360 in worldwide sales, with more than 101 million units sold; in December 2009, the console broke the sales record for a single month in the United States.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>2006</systemReleaseYear>
+      <systemReleaseDate>2006-12-02</systemReleaseDate>
+      <systemReleaseDateFormated>December 2, 2006</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>81cceb</systemColor>
+   </variables>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>Multi Emulator Super System (MESS) is an emulator for various consoles and computer systems, based on the MAME core. It used to be a standalone program (which has since been discontinued), but is now integrated into MAME (which is actively developed). MESS emulates portable and console gaming systems, computer platforms, and calculators. The project strives for accuracy and portability and therefore is not always the fastest emulator for any one particular system. Its accuracy makes it also useful for homebrew game development.</systemDescription>
+      <systemManufacturer>MESS Team</systemManufacturer>
+      <systemReleaseYear>1998</systemReleaseYear>
+      <systemReleaseDate>1998</systemReleaseDate>
+      <systemReleaseDateFormated>1998</systemReleaseDateFormated>
+      <systemHardwareType>Emulator</systemHardwareType>
+      <systemColor>D6A93B</systemColor>
+   </variables>
+</theme>

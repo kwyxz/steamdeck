@@ -1,0 +1,15 @@
+<theme>
+   <variables>
+      <systemReleaseYear>N/A</systemReleaseYear>
+   </variables>
+   <view name="system">
+      <text name="system-title-1-line">
+         <text>${system.theme} / ${system.name}</text>
+      </text>
+   </view>
+   <view name="gamelist">
+      <text name="system-title">
+         <text>${system.fullName}</text>
+      </text>
+   </view>
+</theme>

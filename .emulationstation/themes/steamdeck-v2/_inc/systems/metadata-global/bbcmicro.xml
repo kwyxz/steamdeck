@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The British Broadcasting Corporation Microcomputer System, BBC Microcomputer System, or best known as the BBC Micro is a series of microcomputers designed by Acorn Computers Ltd. and distributed by the BBC. The first models were released in December 1981 in Europe for £235 or £335, depending on the model. The computers were also released in North America (1983). The computers were designed with an emphasis on education, and being more rugged then other brands. The computers were manufactured until an unspecified time in 1994.</systemDescription>
+      <systemManufacturer>Acorn Computers</systemManufacturer>
+      <systemReleaseYear>1981</systemReleaseYear>
+      <systemReleaseDate>1981-12-01</systemReleaseDate>
+      <systemReleaseDateFormated>December 1, 1981</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>3F599B</systemColor>
+   </variables>
+</theme>

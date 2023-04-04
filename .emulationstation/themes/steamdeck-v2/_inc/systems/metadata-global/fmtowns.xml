@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The FM Towns Marty (Efu Emu Taunzu Mati) is a fifth-generation home video game console released in 1993 by Fujitsu, exclusively for the Japanese market. It was the first 32-bit home video game system, and came complete with a built in CD-ROM drive and disk drive.</systemDescription>
+      <systemManufacturer>Fujitsu</systemManufacturer>
+      <systemReleaseYear>1993</systemReleaseYear>
+      <systemReleaseDate>1993-02-20</systemReleaseDate>
+      <systemReleaseDateFormated>February 20, 1993</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>6f8fff</systemColor>
+   </variables>
+</theme>

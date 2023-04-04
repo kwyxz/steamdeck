@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Artboard1" x="0" y="0" width="20" height="20" style="fill:none;"/>
+    <g id="Artboard11" serif:id="Artboard1">
+        <path d="M10,0C15.519,0 20,4.481 20,10C20,15.519 15.519,20 10,20C4.481,20 0,15.519 0,10C0,4.481 4.481,0 10,0ZM10,1C5.033,1 1,5.033 1,10C1,14.967 5.033,19 10,19C14.967,19 19,14.967 19,10C19,5.033 14.967,1 10,1Z" style="fill:white;"/>
+        <path d="M14.523,8.273C14.949,7.848 14.949,7.152 14.523,6.727C14.098,6.301 13.402,6.301 12.977,6.727L8.75,10.953L7.023,9.227C6.598,8.801 5.902,8.801 5.477,9.227C5.051,9.652 5.051,10.348 5.477,10.773L7.977,13.273C8.402,13.699 9.098,13.699 9.523,13.273L14.523,8.273Z" style="fill:white;fill-rule:nonzero;"/>
+    </g>
+</svg>

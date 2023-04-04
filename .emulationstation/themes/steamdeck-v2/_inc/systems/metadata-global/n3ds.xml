@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The Nintendo 3DS, abbreviated to 3DS, is a portable game console produced by Nintendo. It is capable of displaying stereoscopic 3D effects without the use of 3D glasses or additional accessories. Nintendo announced the device in March 2010 and officially unveiled it at E3 2010 on June 15, 2010. The console succeeds the Nintendo DS, featuring backward compatibility with older Nintendo DS and Nintendo DSi video games.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>2011</systemReleaseYear>
+      <systemReleaseDate>2011-02-26</systemReleaseDate>
+      <systemReleaseDateFormated>February 26, 2011</systemReleaseDateFormated>
+      <systemHardwareType>Portable</systemHardwareType>
+      <systemColor>697583</systemColor>
+   </variables>
+</theme>

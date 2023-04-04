@@ -1,0 +1,13 @@
+<theme>
+   <variables>
+      <systemDescription>The Nintendo GameCube is a home video game console released by Nintendo in Japan and North America in 2001 and in PAL territories in 2002. The GameCube is Nintendo's entry in the sixth generation of video game consoles and is the successor to their previous console, the Nintendo 64. The GameCube competed with Sony's PlayStation 2 and Microsoft's Xbox.
+
+The GameCube is the first Nintendo console to use optical discs as its primary storage medium. The discs are in a miniDVD-based format but the system was not designed to play full-sized DVDs or audio CDs unlike its competitors, and mainly focused on gaming instead. The console supports limited online gaming for a small number of games via a GameCube broadband or modem adapter and can connect to a Game Boy Advance with a link cable, which allows players to access exclusive in-game features using the handheld as a second screen and controller like a Wii U.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>2001</systemReleaseYear>
+      <systemReleaseDate>2001-08-14</systemReleaseDate>
+      <systemReleaseDateFormated>November 18, 2001</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>9682f0</systemColor>
+   </variables>
+</theme>

@@ -1,0 +1,19 @@
+<theme>
+   <variables>
+      <systemDescription>The X1 (エックスワン, Ekkusuwan), sometimes called the Sharp X1, is a series of home computers released by Sharp Corporation from 1982 to 1988. It was based on a Z80 CPU.
+
+Despite the fact that the Computer Division of Sharp Corporation had released the MZ series, suddenly the Television Division released a new computer series called the X1. At the time the original X1 was released, all other home computers generally had a BASIC language in ROM. However the X1 did not have a BASIC ROM, and it had to load the Hu-BASIC interpreter from a cassette tape. On the plus side however, this concept meant that a free RAM area was available that was as big as possible when not using BASIC. This policy was originally copied from the Sharp MZ series, and they were called clean computers in Japan. The cabinet shape of X1 was also much more stylish than others at that time and a range of cabinet colors (including Red) was selectable.
+
+The RGB display monitor for the X1 had a television tuner, and a computer screen could be super-imposed on TV. All the TV functions could be controlled from a computer program. The character font was completely programmable (A.K.A. PCG) with 4bit color, and was effectively used in many games. The entirety of the VRAM memory was mapped on to the I/O area, so it was controlled without bank switching. Since X1 had these features, it was very powerful for game software.
+
+While X1 was struggling to sell, the PC8801 (from NEC) was quickly becoming popular in the Japanese market. In 1984, Sharp released the X1 turbo series with high resolution graphics (640x400, while X1 had 640x200). It had many improvements, but the clock speed was still only 4 MHz. In 1986, Sharp released the X1 turbo Z series with a 4096 color analog RGB monitor. An X1 twin, which had a PC-Engine in the cabinet, was finally released as the last machine of the X1 series in 1987. Then this series was succeeded by the X68000 series.
+
+Sharp continues to sell desktop PC/TV combos in Japan through its Internet Aquos line, where an X1-style red color scheme is available.</systemDescription>
+      <systemManufacturer>Sharp</systemManufacturer>
+      <systemReleaseYear>1982</systemReleaseYear>
+      <systemReleaseDate>1982</systemReleaseDate>
+      <systemReleaseDateFormated>1982</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>c44337</systemColor>
+   </variables>
+</theme>

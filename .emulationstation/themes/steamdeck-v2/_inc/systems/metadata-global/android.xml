@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets. Android is developed by a consortium of developers known as the Open Handset Alliance, though its most widely used version is primarily developed by Google. It was unveiled in November 2007, with the first commercial Android device, the HTC Dream, being launched in September 2008.</systemDescription>
+      <systemManufacturer>Google</systemManufacturer>
+      <systemReleaseYear>2008</systemReleaseYear>
+      <systemReleaseDate>2008-09-23</systemReleaseDate>
+      <systemReleaseDateFormated>September 23, 2008</systemReleaseDateFormated>
+      <systemHardwareType>OS</systemHardwareType>
+      <systemColor>5A9035</systemColor>
+   </variables>
+</theme>

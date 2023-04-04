@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The Watara Supervision, also known as the QuickShot Supervision in the UK, is a monochrome handheld game console, originating from Asia, and introduced in 1992 as a cut-price competitor for Nintendo's Game Boy. It came packaged with a game called Crystball, which is similar to Breakout. One unique feature of the Supervision was that it could be linked up to a television via a link cable. Games played in this way would display in four colors, much like Nintendo's Super Game Boy add-on for the SNES. A full color TV link was also in the works, but because of the Supervision's failure to make a major impression among gamers it was cancelled, along with the games which were in development for it.</systemDescription>
+      <systemManufacturer>Watara</systemManufacturer>
+      <systemReleaseYear>1992</systemReleaseYear>
+      <systemReleaseDate>1992-12-31</systemReleaseDate>
+      <systemReleaseDateFormated>December 31, 1992</systemReleaseDateFormated>
+      <systemHardwareType>Portable</systemHardwareType>
+      <systemColor>2ba9a0</systemColor>
+   </variables>
+</theme>

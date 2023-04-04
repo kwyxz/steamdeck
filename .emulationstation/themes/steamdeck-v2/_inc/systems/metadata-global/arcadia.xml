@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The Arcadia 2001 is a second-generation 8-bit home video game console released by Emerson Radio in May 1982 for a price of US$ 99, several months before the release of ColecoVision. It was discontinued only 18 months later, with a total of 35 games having been released. Emerson licensed the Arcadia 2001 to Bandai, which released it in Japan. Over 30 Arcadia 2001 clones exist.</systemDescription>
+      <systemManufacturer>Emerson Radio</systemManufacturer>
+      <systemReleaseYear>1982</systemReleaseYear>
+      <systemReleaseDate>1982-05</systemReleaseDate>
+      <systemReleaseDateFormated>May 1982</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>D77E1A</systemColor>
+   </variables>
+</theme>

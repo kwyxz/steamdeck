@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>Mugen (stylized as M.U.G.E.N) is a freeware 2D fighting game engine designed by Elecbyte. Content is created by the community, and thousands of fighters, both original and from popular fiction, have been created. It is written in C and originally used the Allegro library. The latest versions of the engine use the SDL library.</systemDescription>
+      <systemManufacturer>Elecbyte</systemManufacturer>
+      <systemReleaseYear>1999</systemReleaseYear>
+      <systemReleaseDate>1999-07-27</systemReleaseDate>
+      <systemReleaseDateFormated>July 27, 1999</systemReleaseDateFormated>
+      <systemHardwareType>Engine</systemHardwareType>
+      <systemColor>CA5617</systemColor>
+   </variables>
+</theme>

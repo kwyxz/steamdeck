@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The RadioShack TRS-80 Color Computer, later marketed as the Tandy Color Computer and sometimes nicknamed the CoCo, is a line of home computers developed and sold by Tandy Corporation. Despite sharing a name with the earlier TRS-80, the Color Computer is a completely different, incompatible system and a radical departure in design and compatibility with its Motorola 6809E processor rather than the Zilog Z80 earlier models were built around.</systemDescription>
+      <systemManufacturer>Tandy Corporation</systemManufacturer>
+      <systemReleaseYear>1984</systemReleaseYear>
+      <systemReleaseDate>1984-09</systemReleaseDate>
+      <systemReleaseDateFormated>September 1984</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>D1AA41</systemColor>
+   </variables>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The Thomson TO8 is a home computer introduced by French company Thomson SA in 1986, with a cost of 2,990 FF. It replaces its predecessor, the Thomson TO7/70, while remaining essentially compatible.  The new features of the TO8, like larger memory (256KB) and better graphics modes (powered by the Thomson EF9369 graphics chip), are shared with the other third generation Thomson computers ( MO6 and TO9+).  The TO8 has a tape drive and Microsoft BASIC 1.0 (in standard and 512 KB versions)[9] on its internal ROM, and there is an optional external floppy drive. Graphics were provided by the Thomson EF9369 chip, allowing the display of 16 colors from a palette of 4096.  More than 120 games exist for the system.</systemDescription>
+      <systemManufacturer>Thomson SA</systemManufacturer>
+      <systemReleaseYear>1986</systemReleaseYear>
+      <systemReleaseDate>1986</systemReleaseDate>
+      <systemReleaseDateFormated>1986</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>306AC0</systemColor>
+   </variables>
+</theme>

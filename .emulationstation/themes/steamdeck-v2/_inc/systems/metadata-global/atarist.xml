@@ -1,0 +1,15 @@
+<theme>
+   <variables>
+      <systemDescription>The Atari ST is a line of home computers from Atari Corporation and the successor to the Atari 8-bit family. The initial model, the 520ST, saw limited release in April–June 1985 and was widely available in July. The 520ST is the first personal computer to come with a bitmapped color GUI, using a version of Digital Research's GEM released in February 1985. The 1040ST, released in 1986, is the first personal computer to ship with a megabyte of RAM in the base configuration and also the first with a cost-per-kilobyte of less than US$1.
+
+The Atari ST is part of a mid-1980s generation of home computers that have 16 or 32-bit processors, 256 KB or more of RAM, and mouse-controlled graphical user interfaces. This generation includes the Macintosh, Amiga, Apple IIGS, and in some markets the Acorn Archimedes. "ST" officially stands for "Sixteen/Thirty-two", which refers to the Motorola 68000's 16-bit external bus and 32-bit internals.
+
+The ST was sold with either Atari's color monitor or the less expensive monochrome monitor. The system's color graphics modes are only available on the former while the highest-resolution mode needs the monochrome monitor.</systemDescription>
+      <systemManufacturer>Atari</systemManufacturer>
+      <systemReleaseYear>1985</systemReleaseYear>
+      <systemReleaseDate>1985-06-01</systemReleaseDate>
+      <systemReleaseDateFormated>June 1, 1985</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>0086d2</systemColor>
+   </variables>
+</theme>

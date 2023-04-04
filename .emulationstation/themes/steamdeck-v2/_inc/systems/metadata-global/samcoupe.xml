@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The SAM Coupé (pronounced /sæm ku:peɪ/ from its original British English branding) is an 8-bit British home computer that was first released in late 1989. It was based on and designed to have compatibility with the ZX Spectrum 48K and marketed as a logical upgrade from the Spectrum. It was originally manufactured by Miles Gordon Technology (MGT), based in Swansea in the United Kingdom.</systemDescription>
+      <systemManufacturer>MGT</systemManufacturer>
+      <systemReleaseYear>1989</systemReleaseYear>
+      <systemReleaseDate>1989</systemReleaseDate>
+      <systemReleaseDateFormated>1989</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>269CED</systemColor>
+   </variables>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The 64DD, colloquially referred to as the Nintendo 64DD, is a magnetic disk drive peripheral for the Nintendo 64 game console developed by Nintendo. It was originally announced in 1995, prior to the Nintendo 64's 1996 launch, and after numerous delays was finally released only in Japan on December 1, 1999. Only ten software titles were released until the unit was discontinued in February 2001. It was a commercial failure, with at least 15,000 total units sold and another 85,000 units unsold.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1999</systemReleaseYear>
+      <systemReleaseDate>1999-12-01</systemReleaseDate>
+      <systemReleaseDateFormated>December 1, 1999</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>1bb861</systemColor>
+   </variables>
+</theme>

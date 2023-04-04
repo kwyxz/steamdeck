@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The Sega Model 3 is an arcade platform produced by Sega in partnership with Lockheed Martin. It is a successor to the Sega Model 2 platform, and was released in 1996. The Model 3 hardware is very different to the Model 1 and Model 2 boards which preceded it. It was desinged with one purpose in mind - to push as many textured polygons as possible for as least money as possible. Upon release, the Model 3 board was more powerful than any other arcade platform on the market, as well as any home console or computer.</systemDescription>
+      <systemManufacturer>Sega</systemManufacturer>
+      <systemReleaseYear>1996</systemReleaseYear>
+      <systemReleaseDate>1996-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 1996</systemReleaseDateFormated>
+      <systemHardwareType>Arcade</systemHardwareType>
+      <systemColor>449aeb</systemColor>
+   </variables>
+</theme>

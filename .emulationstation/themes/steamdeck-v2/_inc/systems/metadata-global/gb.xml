@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The Game Boy is an 8-bit handheld video game console developed and manufactured by Nintendo. It was released in Japan on April 21, 1989, in North America in August 1989, and in Europe in 1990. In Southern Asia, it is known as the "Tata Game Boy" It is the first handheld console in the Game Boy line. It was created by Gunpei Yokoi and Nintendo's Research and Development — the same staff who had designed the Game &amp; Watch series as well as several popular games for the NES. The Game Boy was Nintendo's second handheld system following the Game &amp; Watch series introduced in 1980, and it combined features from both the Nintendo Entertainment System and Game and Watch. It was also the first handheld game to use video game cartridges since Milton Bradley's Microvision handheld console. It was originally bundled with the puzzle game Tetris. Despite many other, technologically superior handheld consoles introduced during its lifetime, the Game Boy was a tremendous success. The Game Boy and Game Boy Color combined have sold 118.69 million units worldwide. Upon its release in the United States, it sold its entire shipment of one million units within weeks.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1989</systemReleaseYear>
+      <systemReleaseDate>1989-04-21</systemReleaseDate>
+      <systemReleaseDateFormated>April 21, 1989</systemReleaseDateFormated>
+      <systemHardwareType>Portable</systemHardwareType>
+      <systemColor>3F518A</systemColor>
+   </variables>
+</theme>

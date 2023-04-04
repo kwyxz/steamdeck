@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The Philips CD-i (Compact Disc Interactive) is an interactive multimedia CD player developed and marketed by Royal Philips Electronics N.V. This category of device was created to provide more functionality than an audio CD player or game console, but at a lower price than a personal computer with CD-ROM drive at the time. The cost savings were due to the lack of a hard drive, floppy drive, keyboard, mouse, monitor (a standard television was used), and less operating system software. In addition to games, educational and multimedia reference titles were produced, such as interactive encyclopedias, museum tours, etc. before public Internet access was widespread. Competitors included the Tandy VIS and Commodore CDTV. Seen as a game console, the CD-i format proved to be a commercial failure. The company lost nearly one billion dollars on the entire project. The failure of the CD-i caused Philips to leave the video game industry after it was discontinued. The CD-i is also one of the earliest consoles to implement internet features, including subscriptions, web browsing, downloading, e-mail, and online play. This was facilitated by the use of an additional hardware modem that Philips released in 1996.</systemDescription>
+      <systemManufacturer>Philips</systemManufacturer>
+      <systemReleaseYear>1991</systemReleaseYear>
+      <systemReleaseDate>1991-12-03</systemReleaseDate>
+      <systemReleaseDateFormated>December 3, 1991</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>C170A5</systemColor>
+   </variables>
+</theme>

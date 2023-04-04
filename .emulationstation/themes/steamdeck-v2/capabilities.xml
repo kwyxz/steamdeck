@@ -1,0 +1,24 @@
+<themeCapabilities>
+   
+   <themeName>Steam Deck (v2)</themeName>
+
+   <aspectRatio>16:9</aspectRatio>
+   <aspectRatio>16:10</aspectRatio>
+
+   <transitions name="transitions">
+      <label>transitions</label>
+      <selectable>false</selectable>
+      <systemToSystem>instant</systemToSystem>
+      <systemToGamelist>slide</systemToGamelist>
+      <gamelistToGamelist>slide</gamelistToGamelist>
+      <gamelistToSystem>slide</gamelistToSystem>
+      <startupToSystem>fade</startupToSystem>
+      <startupToGamelist>fade</startupToGamelist>
+   </transitions>
+   <suppressTransitionProfiles>
+      <entry>builtin-instant</entry>
+      <entry>builtin-slide</entry>
+      <entry>builtin-fade</entry>
+   </suppressTransitionProfiles>
+
+</themeCapabilities>

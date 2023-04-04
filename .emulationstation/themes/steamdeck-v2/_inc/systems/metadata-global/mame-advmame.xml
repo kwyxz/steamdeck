@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>AdvanceMAME, is a port of the MAME 0.106 and MESS 0.106 emulators for Arcade Monitors and TVs but also for LCDs and PC monitors.</systemDescription>
+      <systemManufacturer>AdvanceMAME</systemManufacturer>
+      <systemReleaseYear>1998</systemReleaseYear>
+      <systemReleaseDate>1998-05</systemReleaseDate>
+      <systemReleaseDateFormated>May 1998</systemReleaseDateFormated>
+      <systemHardwareType>Emulator</systemHardwareType>
+      <systemColor>D6A93B</systemColor>
+   </variables>
+</theme>

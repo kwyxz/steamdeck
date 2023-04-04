@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The Atari 5200 SuperSystem, commonly known as the Atari 5200, is a second generation (1976–1992) video game console developed and distributed by Atari, Inc. It was released in November 1982 in North America at a retail price of $269. It was not released outside North America. The 5200's internal hardware was almost identical to Atari's 8-bit computers however it came with an innovative controller featuring a 360-degree non-centering joystick with a numeric keypad, start, pause, and reset buttons. The console was discontinued on May 21, 1984.</systemDescription>
+      <systemManufacturer>Atari</systemManufacturer>
+      <systemReleaseYear>1982</systemReleaseYear>
+      <systemReleaseDate>1982-11-01</systemReleaseDate>
+      <systemReleaseDateFormated>November 1, 1982</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>40599c</systemColor>
+   </variables>
+</theme>

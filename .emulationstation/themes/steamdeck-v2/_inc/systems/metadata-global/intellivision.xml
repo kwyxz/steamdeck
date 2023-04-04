@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The Mattel Intellivision is a second generation (1976–1992) home video game console developed and distributed by Mattel Electronics. It was released in summer 1979 in North America at a retail price of $299. The console was later released in Europe (1981), South America (1982), and Japan (1982). The Intellivision was the first home console to use a tile based playfield and was the first game console to provide real-time human voices in the middle of gameplay, courtesy of the IntelliVoice module. The console was discontinued in early-1990.</systemDescription>
+      <systemManufacturer>Mattel</systemManufacturer>
+      <systemReleaseYear>1979</systemReleaseYear>
+      <systemReleaseDate>1979-12-03</systemReleaseDate>
+      <systemReleaseDateFormated>December 3, 1979</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>f28311</systemColor>
+   </variables>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>View and play your ${system.fullName} games</systemDescription>
+      <systemManufacturer>&#032;</systemManufacturer>
+      <systemReleaseYear>&#032;</systemReleaseYear>
+      <systemReleaseDate>&#032;</systemReleaseDate>
+      <systemReleaseDateFormated>&#032;</systemReleaseDateFormated>
+      <systemHardwareType>System</systemHardwareType>
+      <systemColor>777777</systemColor>
+   </variables>
+</theme>

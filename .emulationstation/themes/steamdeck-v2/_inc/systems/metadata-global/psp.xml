@@ -1,0 +1,13 @@
+<theme>
+   <variables>
+      <systemDescription>The PlayStation Portable (PSP) is a handheld game console developed and marketed by Sony Computer Entertainment. It was first released in Japan on December 12, 2004, in North America on March 24, 2005, and in PAL regions on September 1, 2005, and is the first handheld installment in the PlayStation line of consoles. As a seventh generation console it competed with the Nintendo DS.
+
+Development of the PSP was announced during E3 2003, and the console was unveiled at a Sony press conference on May 11, 2004. The system was the most powerful portable console when it was introduced, and was the first real competitor of Nintendo's handheld consoles after many challengers, such as Nokia's N-Gage, had failed. The PSP's advanced graphics capabilities made it a popular mobile entertainment device, which could connect to the PlayStation 2 and PlayStation 3 consoles, any computer with USB interface, other PSP systems, and the Internet. The PSP also had a vast array of multimedia features such as video playback, and so has been considered a portable media player as well. The PSP is the only handheld console to use an optical disc format – Universal Media Disc (UMD) – as its primary storage medium; both games and movies have been released on the format.</systemDescription>
+      <systemManufacturer>Sony</systemManufacturer>
+      <systemReleaseYear>2004</systemReleaseYear>
+      <systemReleaseDate>2004-12-12</systemReleaseDate>
+      <systemReleaseDateFormated>December 12, 2004</systemReleaseDateFormated>
+      <systemHardwareType>Portable</systemHardwareType>
+      <systemColor>376da9</systemColor>
+   </variables>
+</theme>

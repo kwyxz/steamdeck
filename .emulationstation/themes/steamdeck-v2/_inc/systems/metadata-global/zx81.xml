@@ -1,0 +1,15 @@
+<theme>
+   <variables>
+      <systemDescription>The ZX81 is a home computer that was produced by Sinclair Research and manufactured in Dundee, Scotland, by Timex Corporation. It was launched in the United Kingdom in March 1981 as the successor to Sinclair's ZX80 and designed to be a low-cost introduction to home computing for the general public. It was hugely successful; more than 1.5 million units were sold. In the United States it was initially sold as the ZX-81 under licence by Timex. Timex later produced its own versions of the ZX81: the Timex Sinclair 1000 and Timex Sinclair 1500. Unauthorized ZX81 clones were produced in several countries.
+
+The ZX81 was designed to be small, simple, and above all, inexpensive, with as few components as possible. Video output is to a television set rather than a dedicated monitor. Programs and data are loaded and saved onto compact audio cassettes. It uses only four silicon chips and a mere 1 KB of memory. There is no power switch or any moving parts with the exception of a VHF TV channel selector switch present in some models. It has a pressure-sensitive membrane keyboard. The ZX81's limitations prompted a market in third-party peripherals to improve its capabilities. Its distinctive case and keyboard brought designer Rick Dickinson a Design Council award.
+
+The ZX81 could be bought by mail order preassembled or, for a lower price, in kit form. It was the first inexpensive mass-market home computer to be sold by high street stores, led by W. H. Smith and soon many other retailers. The ZX81 marked the point when computing in Britain became an activity for the general public rather than the preserve of businessmen and electronics hobbyists. It produced a huge community of enthusiasts, some of whom founded their own businesses producing software and hardware for the ZX81. Many went on to play major roles in the British computer industry. The ZX81's commercial success made Sinclair Research one of Britain's leading computer manufacturers and earned a fortune and an eventual knighthood for the company's founder Sir Clive Sinclair.</systemDescription>
+      <systemManufacturer>Sinclair Research</systemManufacturer>
+      <systemReleaseYear>1981</systemReleaseYear>
+      <systemReleaseDate>1981-03-05</systemReleaseDate>
+      <systemReleaseDateFormated>March 5, 1981</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>B92E34</systemColor>
+   </variables>
+</theme>

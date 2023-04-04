@@ -1,0 +1,7 @@
+<theme>
+   <view name="system">
+      <text name="system-title-1-line">
+         <text>Vic-20</text>
+      </text>
+   </view>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>The Epic Games Store is a digital video game storefront for Microsoft Windows and macOS, operated by Epic Games. It launched in December 2018 as both a website and a standalone launcher, of which the latter is required to download and play games. The storefront provides a basic catalog, friends list management, matchmaking, and other features. Epic Games has further plans to expand the feature set of the storefront but it does not plan to add as many features as other digital distribution platforms, such as discussion boards or user reviews, instead using existing social media platforms to support these.</systemDescription>
+      <systemManufacturer>Epic</systemManufacturer>
+      <systemReleaseYear>2018</systemReleaseYear>
+      <systemReleaseDate>2018-12</systemReleaseDate>
+      <systemReleaseDateFormated>December 2018</systemReleaseDateFormated>
+      <systemHardwareType>Store</systemHardwareType>
+      <systemColor>8BA7AE</systemColor>
+   </variables>
+</theme>

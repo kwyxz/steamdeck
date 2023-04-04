@@ -1,0 +1,13 @@
+<theme>
+   <variables>
+      <systemDescription>The TI-99/4 is a home computer released in late 1979 by Texas Instruments. Based on the Texas Instruments TMS9900 microprocessor originally used in minicomputers, it was the first 16-bit home computer. The associated video display controller provides color graphics and among the best sprite support of its era.
+
+It includes a simplified internal design, a full-travel keyboard, improved graphics, and a unique expansion system. At half the price of the original model, sales picked up significantly. TI supported the 4A with peripherals, including a speech synthesizer and a "Peripheral Expansion System" box to contain hardware add-ons. TI released developer information and tools, but the insistence on remaining sole publisher continued to starve the platform of software.</systemDescription>
+      <systemManufacturer>Texas Instruments</systemManufacturer>
+      <systemReleaseYear>1981</systemReleaseYear>
+      <systemReleaseDate>1981-06</systemReleaseDate>
+      <systemReleaseDateFormated>June 1981</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>F5BA2D</systemColor>
+   </variables>
+</theme>

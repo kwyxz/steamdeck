@@ -1,0 +1,15 @@
+<theme>
+   <variables>
+      <systemDescription>Handheld electronic games are very small, portable devices for playing interactive electronic games, often miniaturized versions of video games. The controls, display and speakers are all part of a single unit.
+
+Rather than a general-purpose screen made up of a grid of small pixels, they usually have custom displays designed to play one game. This simplicity means they can be made as small as a smartwatch, and sometimes are. The visual output of these games can range from a few small light bulbs or LED lights to calculator-like alphanumerical screens; later these were mostly displaced by liquid crystal and vacuum fluorescent display screens with detailed images and in the case of VFD games, color. 
+
+Handhelds' popularity was at its peak from the late 1970s into the early 1990s before declining. They are the precursors to the handheld game console.</systemDescription>
+      <systemManufacturer>Various</systemManufacturer>
+      <systemReleaseYear>Various</systemReleaseYear>
+      <systemReleaseDate>Various</systemReleaseDate>
+      <systemReleaseDateFormated>Various</systemReleaseDateFormated>
+      <systemHardwareType>Portable</systemHardwareType>
+      <systemColor>CE413E</systemColor>
+   </variables>
+</theme>
