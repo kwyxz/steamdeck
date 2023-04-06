@@ -22,7 +22,7 @@
     <name>64dd</name>
     <fullname>Nintendo - 1999 - 64DD</fullname>
     <path>%ROMPATH%/64dd</path>
-    <extension>.zip .ZIP</extension>
+    <extension>.ndd .NDD .zip .ZIP .ndd.zip .NDD.ZIP</extension>
     <command label="ParaLLEl N64">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/parallel_n64_libretro.so %ROM%</command>
     <platform>n64</platform>
     <theme>64dd</theme>
@@ -49,7 +49,7 @@
     <name>atari2600</name>
     <fullname>Atari - 1977 - 2600</fullname>
     <path>%ROMPATH%/atari2600</path>
-    <extension>.a26 .zip .A26 .ZIP</extension>
+    <extension>.a26 .A26 .zip .ZIP .a26.zip .A26.ZIP</extension>
     <command label="Stella">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/stella_libretro.so %ROM%</command>
     <platform>atari2600</platform>
     <theme>atari2600</theme>
@@ -58,7 +58,7 @@
     <name>atari5200</name>
     <fullname>Atari - 1982 - 5200</fullname>
     <path>%ROMPATH%/atari5200</path>
-    <extension>.a52 .zip .A52 .ZIP</extension>
+    <extension>.a52 .A52 .zip .ZIP .a52.zip .A52.ZIP</extension>
     <command label="ProSystem">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/atari800_libretro.so %ROM%</command>
     <platform>atari5200</platform>
     <theme>atari5200</theme>
@@ -67,7 +67,7 @@
     <name>atari7800</name>
     <fullname>Atari - 1986 - 7800</fullname>
     <path>%ROMPATH%/atari7800</path>
-    <extension>.a78 .zip .A78 .ZIP</extension>
+    <extension>.a78 .A78 .zip .ZIP .a78.zip .A78.ZIP</extension>
     <command label="Stella">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/prosystem_libretro.so %ROM%</command>
     <platform>atari7800</platform>
     <theme>atari7800</theme>
@@ -76,7 +76,7 @@
     <name>atarijaguar</name>
     <fullname>Atari - 1993 - Jaguar</fullname>
     <path>%ROMPATH%/atarijaguar</path>
-    <extension>.zip .ZIP</extension>
+    <extension>.j64 .J64 .zip .ZIP .j64.zip .J64.ZIP</extension>
     <command label="VirtualJaguar">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/virtualjaguar_libretro.so %ROM%</command>
     <platform>atarijaguar</platform>
     <theme>atarijaguar</theme>
@@ -85,7 +85,7 @@
     <name>atarilynx</name>
     <fullname>Atari - 1989 - Lynx</fullname>
     <path>%ROMPATH%/lynx</path>
-    <extension>.zip .ZIP</extension>
+    <extension>.lnx .LNX .zip .ZIP .lnx.zip .LNX.ZIP</extension>
     <command label="Handy">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/handy_libretro.so %ROM%</command>
     <platform>atarilynx</platform>
     <theme>atarilynx</theme>
@@ -148,7 +148,7 @@
     <name>fds</name>
     <fullname>Nintendo - 1986 - Famicom Disk System</fullname>
     <path>%ROMPATH%/fds</path>
-    <extension>.7z .7Z .zip .ZIP</extension>
+    <extension>.fds .FDS .7z .7Z .zip .ZIP</extension>
     <command label="Mesen">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mesen_libretro.so %ROM%</command>
     <platform>fds</platform>
     <theme>fds</theme>
