@@ -4,7 +4,7 @@
 # Proton Launcher Script
 PROTONLAUNCH="/home/deck/Emulation/tools/proton-launch.sh"
 
-# Cemu.exe location
+# Xenia.exe location
 XENIA="/home/deck/Emulation/roms/xbox360/xenia.exe"
 
 # Call the Proton launcher script and give the arguments
