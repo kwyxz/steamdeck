@@ -1,2 +1,2 @@
-#reference "../../shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Presets/Lite/FB-Neo/FB-Neo-[STD]-[Guest-Mini].slangp"
-HSM_INTRO_WHEN_TO_SHOW = "0.000000"
+#reference "../../shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Presets/Lite/Neo_Geo_AES/NeoGeo_AES-[STD]-[Guest-Mini]-[Bezel]-[Night].slangp"
+HSM_INTRO_LOGO_BLEND_MODE = "0.000000"
