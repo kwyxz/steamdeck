@@ -40,6 +40,8 @@ else
   echo "OK"
   cd ${HOME}
   echo "==== Now installing emulators"
+  sudo flatpak install yuzu -y
+  sudo flatpak install ryujinx -y
 fi
 
 sh ./update-all.sh

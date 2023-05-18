@@ -355,7 +355,7 @@
     <name>ps2</name>
     <fullname>Sony - 2000 - Playstation 2</fullname>
     <path>%ROMPATH%/ps2</path>
-    <extension>.iso .ISO</extension>
+    <extension>.iso .ISO .m3u .M3U</extension>
     <command label="PCSX2 (Standalone)">/usr/bin/bash /home/deck/pcsx2.sh %ROM%</command>
     <platform>ps2</platform>
     <theme>ps2</theme>
@@ -391,7 +391,7 @@
     <name>saturn</name>
     <fullname>Sega - 1994 - Saturn</fullname>
     <path>%ROMPATH%/saturn</path>
-    <extension>.chd .CHD</extension>
+    <extension>.chd .CHD .m3u .M3U</extension>
     <command label="Kronos">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mednafen_saturn_libretro.so %ROM%</command>
     <platform>saturn</platform>
     <theme>saturn</theme>
@@ -445,7 +445,7 @@
     <name>switch</name>
     <fullname>Nintendo - 2017 - Switch</fullname>
     <path>%ROMPATH%/switch</path>
-    <extension>.xci .XCI</extension>
+    <extension>.xci .XCI .nsp .NSP</extension>
     <command label="Yuzu">/usr/bin/flatpak run org.yuzu_emu.yuzu -f -g %ROM%</command>
     <platform>switch</platform>
     <theme>switch</theme>

@@ -11,8 +11,10 @@
     <save_screenshot>true</save_screenshot>
     <vk_warning>false</vk_warning>
     <gp_download>true</gp_download>
+    <macos_disclaimer>false</macos_disclaimer>
     <fullscreen>true</fullscreen>
     <proxy_server></proxy_server>
+    <disable_screensaver>true</disable_screensaver>
     <console_language>1</console_language>
     <window_position>
         <x>-1</x>
@@ -104,6 +106,7 @@
     </Account>
     <Debug>
         <CrashDumpUnix>0</CrashDumpUnix>
+        <GDBPort>1337</GDBPort>
     </Debug>
     <Input>
         <DSUC host="127.0.0.1" port="26760"/>
