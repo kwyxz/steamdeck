@@ -22,8 +22,8 @@
     <name>64dd</name>
     <fullname>Nintendo - 1999 - 64DD</fullname>
     <path>%ROMPATH%/64dd</path>
-    <extension>.ndd .NDD .zip .ZIP</extension>
-    <command label="ParaLLEl N64">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/parallel_n64_libretro.so %ROM%</command>
+    <extension>.z64 .Z64 .ndd .NDD .zip .ZIP</extension>
+    <command label="Mupen64Plus Next">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mupen64plus_next_libretro.so %ROM%</command>
     <platform>n64</platform>
     <theme>64dd</theme>
   </system>
