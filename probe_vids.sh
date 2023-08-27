@@ -7,8 +7,8 @@ echo -e "=== list of problematic video files ===\n" > ${LOGFILE}
 
 for FICH in ${MEDIAPATH}/*/videos/*.mp4
 do
-  if ! ffprobe ${FICH} >/dev/null 2>/dev/null
+  if ! ffprobe "${FICH}" >/dev/null 2>/dev/null
   then
-    echo ${FICH} &>> ${LOGFILE}
+    echo "${FICH}" >> ${LOGFILE}
   fi
 done
