@@ -46,6 +46,7 @@ cemu/cemu-x64.AppImage
 /duckstation/*
 !/duckstation/update.sh
 !/kwyxz.desktop
+!/probe_vids.sh
 !/pcsx2/
 pcsx2/pcsx2-x64.AppImage
 !/redream/
