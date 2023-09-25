@@ -253,6 +253,15 @@
     <theme>model3</theme>
   </system>
   <system>
+    <name>msx</name>
+    <fullname>Microsoft - 1983 - MSX</fullname>
+    <path>%ROMPATH%/msx</path>
+    <extension>.7z .7Z .zip .ZIP</extension>
+    <command label="BlastEm">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/bluemsx_libretro.so %ROM%</command>
+    <platform>msx</platform>
+    <theme>msx</theme>
+  </system>
+  <system>
     <name>n64</name>
     <fullname>Nintendo - 1996 - Nintendo64</fullname>
     <path>%ROMPATH%/n64</path>
