@@ -7,3 +7,4 @@
 ./redream/install-redream.sh
 git pull && git submodule update --recursive --remote
 sudo flatpak update -y
+flatpak update -y
