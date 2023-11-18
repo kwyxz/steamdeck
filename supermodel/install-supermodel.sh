@@ -12,6 +12,7 @@ cd "${SOURCE_PATH}"
 printf "%s\n" "Downloading libraries"
 sudo pacman-key --init
 sudo pacman-key --populate archlinux
+sudo pacman-key --populate holo
 if test -f /usr/include/errno.h; then
   PACMAN_OPTS="--needed"
 else
