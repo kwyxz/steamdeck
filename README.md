@@ -21,7 +21,7 @@ Double-click on the "Turbocharge Emudeck" icon on the desktop again, or manually
 
 ### Redream
 
-Run `./install-redream.sh` script in `/home/deck/redream` to download and install the latest version of the standalone Dreamcast emulator. If you own a paid version, copy redream.key in the same folder. Currently it displays artefacts on most games, which is unfortunate as performance is better than Flycast. Hopefully the Redream author fixes this someday. Redream is configured to look for games in `/home/deck/Emulation/roms/dreamcast`.
+Run `./install-redream.sh` script in `/home/deck/redream` to download and install the latest version of the standalone Dreamcast emulator. If you own a paid version, copy redream.key in the same folder. Redream is much more accurate and fast than RetroArch+Flycast, however it also lacks shaders. Redream is configured to look for games in `/home/deck/Emulation/roms/dreamcast`.
 
 ### SuperModel
 
@@ -79,8 +79,12 @@ The `probe_vids.sh` script will check for corrupted video previews in your downl
 
 ### Theme artworks
 
-I am guilty of using a bunch of artworks I found on DeviantArt without giving artists proper credit, as I was planning on keeping this private before several people expressed interest. Before being rightfully called out, I apologize and will remediate this situation asap.
+I am guilty of using a bunch of artworks I found on DeviantArt without giving artists proper credit, as I was planning on keeping this private before several people expressed interest. Before being rightfully called out, I apologize for this. I am not making any money off this repository, I hope the artists will forgive me. I swear I will try and credit them when possible.
 
 ### Final notes
 
 There is absolutely zero warranty that this will work for you, but it's a good backup for me in case my SD card dies. You never know when a SD card is going to die. *Always use backups, dingdongs*.
+
+I WILL NOT PROVIDE ANY SUPPORT IF THIS REPOSITORY DOES NOT WORK FOR YOU OR WORSE, BRICKS YOUR STEAMDECK (though there is virtually no chance it would).
+USE THE CONTENTS OF THIS REPOSITORY AT YOUR OWN RISKS.
+But I hope it works for you though.
