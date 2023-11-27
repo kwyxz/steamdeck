@@ -57,6 +57,7 @@ redream/redream
 redream/redream.key
 redream/redream.log
 redream/vmu*
+!/scripts/
 !/supermodel/
 !/supermodel/Config
 supermodel/supermodel
