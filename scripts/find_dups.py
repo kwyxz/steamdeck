@@ -22,13 +22,14 @@ dups = {}
 for game in root.findall('game'):
     name = game.find('name').text
     rom = game.find('path').text
-    if name in game_list:
-        if name in dups:
-            dups[name].append(rom)
+    if (' (Disc ' or ' (Disk ') not in rom:
+        if name in game_list:
+            if name in dups:
+                dups[name].append(rom)
+            else:
+                dups[name] = [game_list[name],rom]
         else:
-            dups[name] = [game_list[name],rom]
-    else:
-        game_list[name] = rom
+            game_list[name] = rom
 
 for gamename, romname in sorted(dups.items()):
     print(f"=== GAME : {gamename}")
