@@ -15,6 +15,7 @@
 .config/retroarch/saves/*
 !/.config/retroarch/saves/*.pure.zip
 .config/retroarch/screenshots/
+.config/retroarch/states/
 .config/retroarch/thumbnails/
 !/.emulationstation/
 .emulationstation/collections/
