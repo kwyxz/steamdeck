@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-LOGFILE=${HOME}/${0}.log
+LOGFILE=${PWD}/${0}.log
 MEDIAPATH=/home/deck/Emulation/tools/downloaded_media
 
 echo -e "=== list of problematic video files ===\n" > ${LOGFILE}
