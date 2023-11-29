@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-find duplicates in DAT files
+find duplicates in gamelist XML files
 """
 
 import argparse
