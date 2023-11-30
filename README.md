@@ -81,7 +81,17 @@ The `probe_vids.sh` script will check for corrupted video previews in your downl
 
 The `make_m3u.py` script takes a folder with games as an argument and will attempt to create .m3u folders/files in order to handle multiple files as described in the [multiple game files installation manual](https://gitlab.com/es-de/emulationstation-de/-/blob/master/USERGUIDE.md#multiple-game-files-installation)
 
-The `find_dups.py` script is to be run on the gamelists ES-DE generates _after the scraper has been run_. It will list the games that are duplicates, allowing you to perform some cleanup and save some precious drive space.
+The `find_dups.py` script is to be run on the gamelists ES-DE generates _after the scraper has been run_. It will list the games that are duplicates, allowing you to perform some cleanup and save some precious drive space. It will attempt to show you the best possible version among all available roms, from a list that is configurable by removing or reordering the countries in COUNTRY_LIST on line 14. 
+
+If you are a french speaker and would like the french language roms to have priority above all others, replace the line with:
+```
+COUNTRY_LIST=['(France)', '(USA)','(World)','(Europe)','(Japan) (En)','(Japan) [T-En', '(Japan)']
+```
+
+If you are an english speaker and do not want the french roms, you can remove `'(France)',` from the list and leave it as:
+```
+COUNTRY_LIST=['(USA)','(World)','(Europe)','(Japan) (En)','(Japan) [T-En', '(Japan)']
+```
 
 ### Theme artworks
 
