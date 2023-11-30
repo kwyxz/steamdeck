@@ -85,7 +85,7 @@ The `find_dups.py` script is to be run on the gamelists ES-DE generates _after t
 
 If you are a french speaker and would like the french language roms to have priority above all others, replace the line with:
 ```
-COUNTRY_LIST=['(France)', '(USA)','(World)','(Europe)','(Japan) (En)','(Japan) [T-En', '(Japan)']
+COUNTRY_LIST=['(France)','(USA)','(World)','(Europe)','(Japan) (En)','(Japan) [T-En', '(Japan)']
 ```
 
 If you are an english speaker and do not want the french roms, you can remove `'(France)',` from the list and leave it as:
