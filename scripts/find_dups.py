@@ -10,7 +10,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 ES_PATH=f"{str(Path.home())}/.emulationstation"
-ROM_PATH=f"{str(Path.home())}/Emulation/Roms"
+ROM_PATH=f"{str(Path.home())}/Emulation/roms"
 COUNTRY_LIST=['(USA)','(World)','(Europe)','(France)','(Japan) (En)','(Japan) [T-En', '(Japan)']
 
 def list_dups(root):
