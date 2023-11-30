@@ -5,11 +5,16 @@ find duplicates in gamelist XML files
 """
 
 import argparse
+import os
 import xml.etree.ElementTree as ET
+from pathlib import Path
 
-COUNTRY_LIST=['(USA)','(World)','(Europe)','(France)','(Japan) (En)','(Japan) [T-En']
+ES_PATH=f"{str(Path.home())}/.emulationstation"
+ROM_PATH=f"{str(Path.home())}/Emulation/Roms"
+COUNTRY_LIST=['(USA)','(World)','(Europe)','(France)','(Japan) (En)','(Japan) [T-En', '(Japan)']
 
 def list_dups(root):
+    """list all duplicate roms for specific game"""
     dups = {}
     game_list = {}
     for game in root.findall('game'):
@@ -26,6 +31,7 @@ def list_dups(root):
     return dups
 
 def find_best(roms,countries):
+    """find the best potential rom for specific game"""
     for country in countries:
         for rom in roms:
             if country in rom:
@@ -33,26 +39,59 @@ def find_best(roms,countries):
     return False
 
 def print_dups(dups):
+    """print the names of the duplicates"""
+    to_delete = []
     for gamename, romnames in dups:
-        print(f"=== GAME : {gamename}")
+        print(f"=*=*= {gamename} =*=*=")
         best = find_best(romnames,COUNTRY_LIST)
         for rom in romnames:
             if best and (rom == best):
                 print(f"\033[92m{best.split('/')[1]}\033[0m")
             else:
-                print(rom.split('/')[1])
+                print(f"\033[91m{rom.split('/')[1]}\033[0m")
+                to_delete.append(rom.split('/')[1])
+    return to_delete
+
+def delete_roms(roms):
+    """delete the duplicate files"""
+    for rom in roms:
+        try:
+            os.remove(f"{ROM_PATH}/{ARGS.hardware}/{rom}")
+        except FileNotFoundError:
+            print(f"ERROR: unable to delete {ROM_PATH}/{ARGS.hardware}/{rom}, does the file exist?")
+        else:
+            print(f"SUCCESS: deleted {ROM_PATH}/{ARGS.hardware}/{rom}")
+
+def confirm_delete():
+    """confirm before deleting"""
+    user_input = ''
+    print("\nThe files highlighted in red above will be deleted.")
+    while user_input != 'Y':
+        user_input = input("Confirm? (Y/N) ")
+        if user_input == 'Y':
+            return True
+        if user_input == 'N':
+            print('Quitting. Goodbye!')
+            return False
+        print('Invalid answer, please choose Y or N: ')
 
 def main():
+    """main loop"""
     duplicates = sorted(list_dups(ROOT).items())
-    print_dups(duplicates)
+    delete = print_dups(duplicates)
+    if ARGS.delete and len(delete) > 0:
+        if confirm_delete():
+            delete_roms(delete)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         prog='find_dup',
         description='find duplicates in emulationstation XML files')
-    parser.add_argument('xmlfile', type=argparse.FileType('r'))
+    parser.add_argument('hardware', type=str)
+    parser.add_argument('-d', '--delete', action='store_true', help='delete the duplicate files')
 
     ARGS = parser.parse_args()
-    TREE = ET.parse(ARGS.xmlfile)
+    xmlfile = f"{ES_PATH}/gamelists/{ARGS.hardware}/gamelist.xml"
+    TREE = ET.parse(xmlfile)
     ROOT = TREE.getroot()
     main()
