@@ -144,8 +144,9 @@ def main():
         print_dups(sorted(duplicates.items()))
     elif ARGS.delete:
         to_delete = print_dups(sorted(duplicates.items()))
-        if confirm_delete() and len(to_delete) > 1:
-            delete_roms(to_delete)
+        if len(to_delete)>0:
+            if confirm_delete():
+                delete_roms(to_delete)
     elif ARGS.media:
         display_missing(missing)
     elif ARGS.copy:
