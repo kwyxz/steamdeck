@@ -47,7 +47,7 @@ def list_dups(root):
     for game in root.findall('game'):
         name = game.find('name').text
         rom = game.find('path').text
-        if (' (Disc ' or ' (Disk ') not in rom:
+        if ((' (Disc ' or ' (Disk ') not in rom) and (os.path.exists(rom)):
             if name in game_list:
                 if name in dups:
                     dups[name].append(rom)
@@ -87,7 +87,7 @@ def display_missing(missing):
             if not missing[game][miss]:
                 print(miss)
 
-def copy_media(rom_missing,missing_media,dups_array,mediapath):
+def copy_files(rom_missing,missing_media,dups_array,mediapath):
     """actually copy missing media from duplicate"""
     for rom in dups_array:
         baserom = Path(rom).stem
@@ -98,9 +98,9 @@ def copy_media(rom_missing,missing_media,dups_array,mediapath):
         for mform in media_format:
             existing = f"{mediapath}/{missing_media}/{baserom}.{mform}"
             missing = f"{mediapath}/{missing_media}/{rom_missing}.{mform}"
-            if os.path.exists(existing):
+            if os.path.exists(existing) and not os.path.exists(missing):
                 print(f"Copying {existing} to {missing}")
-#                shutil.copyfile(existing,missing)
+                shutil.copyfile(existing,missing)
 
 def copy_media(missing,dups,mediapath):
     """merge media from duplicates, if available"""
@@ -111,7 +111,7 @@ def copy_media(missing,dups,mediapath):
                 if baserom == missing_media:
                     for miss in missing[missing_media]:
                         if not missing[missing_media][miss]:
-                            copy_media(baserom,miss,dups[game],mediapath)
+                            copy_files(baserom,miss,dups[game],mediapath)
 
 def delete_roms(roms):
     """delete the duplicate files"""
@@ -140,13 +140,12 @@ def main():
     """main loop"""
     missing = find_missing(ROOT,MEDIA_PATH)
     duplicates = list_dups(ROOT)
-    delete = sorted(duplicates.items())
     if ARGS.find:
-        print_dups(delete)
-    elif ARGS.delete and len(delete) > 0:
-        print_dups(delete)
-        if confirm_delete():
-            delete_roms(delete)
+        print_dups(sorted(duplicates.items()))
+    elif ARGS.delete:
+        to_delete = print_dups(sorted(duplicates.items()))
+        if confirm_delete() and len(to_delete) > 1:
+            delete_roms(to_delete)
     elif ARGS.media:
         display_missing(missing)
     elif ARGS.copy:
