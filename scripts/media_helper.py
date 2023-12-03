@@ -17,6 +17,10 @@ DL_MEDIA_PATH=f"{ES_PATH}/downloaded_media"
 ROM_PATH=f"{str(Path.home())}/Emulation/roms"
 COUNTRY_LIST=['(USA)','(World)','(Europe)','(France)','(Japan) (En)','(Japan) [T-En', '(Japan)']
 
+def die(message):
+    print(f"ERROR: {message}")
+    sys.exit(1)
+
 def find_missing(root,mediapath):
     """find missing media"""
     games = {}
@@ -119,7 +123,7 @@ def delete_roms(roms):
         try:
             os.remove(f"{ROM_PATH}/{ARGS.hardware}/{rom}")
         except FileNotFoundError:
-            print(f"ERROR: unable to delete {ROM_PATH}/{ARGS.hardware}/{rom}, does the file exist?")
+            die(f"unable to delete {ROM_PATH}/{ARGS.hardware}/{rom}, does the file exist?")
         else:
             print(f"SUCCESS: deleted {ROM_PATH}/{ARGS.hardware}/{rom}")
 
@@ -166,7 +170,10 @@ if __name__ == "__main__":
     ARGS = parser.parse_args()
     XMLFILE = f"{ES_PATH}/gamelists/{ARGS.hardware}/gamelist.xml"
     MEDIA_PATH = f"{DL_MEDIA_PATH}/{ARGS.hardware}/"
-    TREE = ET.parse(XMLFILE)
+    try:
+        TREE = ET.parse(XMLFILE)
+    except FileNotFoundError:
+        die(f"XML file {XMLFILE} not found")
     ROOT = TREE.getroot()
     main()
     sys.exit(0)
