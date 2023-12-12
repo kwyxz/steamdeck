@@ -8,4 +8,4 @@ PROTONLAUNCH="/home/deck/Emulation/tools/proton-launch.sh"
 XENIA="/home/deck/Emulation/roms/xbox360/xenia_canary.exe"
 
 # Call the Proton launcher script and give the arguments
-"${PROTONLAUNCH}" -p '7.0' -- "${XENIA}" "${@}"
+"${PROTONLAUNCH}" -p 'GE-Proton7-55' -- "${XENIA}" "${@}"
