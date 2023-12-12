@@ -518,7 +518,7 @@
     <fullname>Microsoft - 2005 - Xbox 360</fullname>
     <path>%ROMPATH%/xbox360/roms</path>
     <extension>.iso .ISO</extension>
-    <command label="Xenia (Proton)">/usr/bin/bash /home/deck/xenia.sh z:%ROM%</command>
+    <command label="Xenia (Proton)">/usr/bin/bash /home/deck/xenia_canary.sh z:%ROM%</command>
     <platform>xbox360</platform>
     <theme>xbox360</theme>
   </system>
