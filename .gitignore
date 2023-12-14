@@ -24,8 +24,8 @@
 .emulationstation/scrapers/
 .emulationstation/scripts/
 .emulationstation/themes/*
-!.emulationstation/themes/art-book-next-kwyxz/
-!.emulationstation/themes/epic-noir-kwyxz/
+!/.emulationstation/themes/art-book-next-kwyxz/
+!/.emulationstation/themes/epic-noir-kwyxz/
 .gitattributes
 !/.gitignore
 !/.gitmodules
