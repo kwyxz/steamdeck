@@ -1,4 +1,4 @@
-# Steam Deck (v2) for ES-DE
+# Epic Noir (kwyxz) for ES-DE
 Ported from Epic Noir Revisited, itself a port of the Epic Noir theme (originally by [c64-dev & Chicuelo](https://github.com/c64-dev)) from RetroPie to [ES-DE](https://es-de.org/) v2.x
 
 ## **Changes**

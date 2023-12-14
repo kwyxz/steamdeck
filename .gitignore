@@ -24,8 +24,7 @@
 .emulationstation/scrapers/
 .emulationstation/scripts/
 .emulationstation/themes/*
-!.emulationstation/themes/steamdeck/
-!.emulationstation/themes/steamdeck-v2/
+!.emulationstation/themes/epic-noir-kwyxz/
 .gitattributes
 !/.gitignore
 !/.gitmodules
