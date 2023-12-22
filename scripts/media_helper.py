@@ -13,9 +13,9 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 ES_PATH=f"{str(Path.home())}/.emulationstation"
-DL_MEDIA_PATH=f"{str(Path.home())}/Emulation/tools/downloaded_media"
-ROM_PATH=f"{str(Path.home())}/Emulation/roms"
-COUNTRY_LIST=['(USA)','(World)','(Europe)','(France)','(Japan) (En)','(Japan) [T-En', '(Japan)']
+DL_MEDIA_PATH=f"{ES_PATH}/downloaded_media"
+ROM_PATH=f"{str(Path.home())}/Roms"
+COUNTRY_LIST=['(USA','USA)','(World','World)','(Europe','Europe)','(France','France)','(Japan) (En)','(Japan) [T-En','(T-En','(Japan', 'Japan)']
 
 def die(message):
     print(f"ERROR: {message}")
@@ -51,7 +51,8 @@ def list_dups(root):
     for game in root.findall('game'):
         name = game.find('name').text
         rom = game.find('path').text
-        if ((' (Disc ' or ' (Disk ') not in rom) and (os.path.exists(rom)):
+        absrom =  ROM_PATH + '/' + ARGS.hardware + '/' + rom
+        if ((' (Disc ' or ' (Disk ') not in rom) and (os.path.exists(absrom)):
             if name in game_list:
                 if name in dups:
                     dups[name].append(rom)
@@ -122,8 +123,11 @@ def delete_roms(roms):
     for rom in roms:
         try:
             os.remove(f"{ROM_PATH}/{ARGS.hardware}/{rom}")
-        except FileNotFoundError:
-            die(f"unable to delete {ROM_PATH}/{ARGS.hardware}/{rom}, does the file exist?")
+        except IsADirectoryError:
+            try:
+                shutil.rmtree(f"{ROM_PATH}/{ARGS.hardware}/{rom}")
+            except FileNotFoundError:
+                die(f"unable to delete {ROM_PATH}/{ARGS.hardware}/{rom}, does the file exist?")
         else:
             print(f"SUCCESS: deleted {ROM_PATH}/{ARGS.hardware}/{rom}")
 
