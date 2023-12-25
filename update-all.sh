@@ -6,6 +6,7 @@
 ./supermodel/install-supermodel.sh
 ./redream/install-redream.sh
 ./xemu/install-xemu.sh
+./xenia/install-xenia.sh
 git pull && git submodule update --recursive --remote
 sudo flatpak update -y
 flatpak update -y
