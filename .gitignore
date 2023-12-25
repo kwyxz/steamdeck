@@ -63,3 +63,5 @@ redream/vmu*
 supermodel/supermodel
 supermodel/Supermodel.log
 supermodel/Config/Supermodel.old
+!/xenia/
+xenia/xenia_canary.zip
