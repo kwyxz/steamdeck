@@ -5,8 +5,8 @@
 	path = .config/retroarch/shaders/shaders_slang
 	url = https://github.com/libretro/slang-shaders.git
 [submodule ".emulationstation/themes/epic-noir-kwyxz"]
-	path = .emulationstation/themes/epic-noir-kwyxz
+	path = .emulationstation/themes/epic-noir-kw
 	url = https://github.com/kwyxz/epic-noir-kwyxz.git
 [submodule ".emulationstation/themes/art-book-next-kwyxz"]
-	path = .emulationstation/themes/art-book-next-kwyxz
+	path = .emulationstation/themes/art-book-next-kw
 	url = https://github.com/kwyxz/art-book-next-kwyxz.git
