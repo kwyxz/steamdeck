@@ -27,6 +27,8 @@ def find_missing(root,mediapath):
     missing = {}
     for game in root.findall('game'):
         rom = Path(game.find('path').text)
+        if 'm3u' not in str(rom):
+            rom = rom.stem
         games[rom] = {}
         for file in os.scandir(mediapath):
             fold = file.name
