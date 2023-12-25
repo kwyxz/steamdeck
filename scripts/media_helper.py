@@ -26,7 +26,7 @@ def find_missing(root,mediapath):
     games = {}
     missing = {}
     for game in root.findall('game'):
-        rom = Path(game.find('path').text).stem
+        rom = Path(game.find('path').text)
         games[rom] = {}
         for file in os.scandir(mediapath):
             fold = file.name
