@@ -77,7 +77,7 @@ In the scripts/ folder you will find some helper scripts that will assist dealin
 
 The `fix-shaders-vertical.sh` script heavily uses MAME to find out what arcade games (cps1/cps2/naomi) use a vertical monitor in order to set FBNeo / Flycast and shader options appropriately. MAME doesn't need it as MAME automatically rotates the screen (and does not use the HyperSpaceMadness shaders). NOTE: newer versions of FBNeo / HSM attempt to do this rotation automatically and may cause issues.
 
-The `probe_vids.sh` script will check for corrupted video previews in your downloaded_media folder and log the failing ones in `probe_vids.sh.log` so you know which ones you need to re-scrape.
+The `probe_media.sh` script will check for corrupted media in your downloaded_media folder and log the failing ones in `probe_media.sh.log` so you know which ones you need to re-scrape.
 
 The `make_m3u.py` script takes a folder with games as an argument and will attempt to create .m3u folders/files in order to handle multiple files as described in the [multiple game files installation manual](https://gitlab.com/es-de/emulationstation-de/-/blob/master/USERGUIDE.md#multiple-game-files-installation)
 
