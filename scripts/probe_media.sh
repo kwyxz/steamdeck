@@ -3,12 +3,18 @@
 LOGFILE=${PWD}/${0}.log
 MEDIAPATH=/home/deck/Emulation/tools/downloaded_media
 
-echo -e "=== list of problematic video files ===\n" > ${LOGFILE}
+echo -e "=== list of problematic media files ===\n" > ${LOGFILE}
 
-for FICH in ${MEDIAPATH}/*/videos/*.mp4
+for HW in ${MEDIAPATH}/*
 do
-  if ! ffprobe "${FICH}" >/dev/null 2>/dev/null
-  then
-    echo "${FICH}" >> ${LOGFILE}
-  fi
+  for MEDIATYPE in ${HW}/*
+  do
+    for FICH in ${MEDIATYPE}/*.*
+    do
+      if ! ffprobe "${FICH}" >/dev/null 2>/dev/null
+      then
+        echo "${FICH}" >> "${LOGFILE}"
+      fi
+    done
+  done
 done
