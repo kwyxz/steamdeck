@@ -58,6 +58,7 @@ redream/redream.key
 redream/redream.log
 redream/vmu*
 !/scripts/
+scripts/probe_media.sh.log
 !/supermodel/
 !/supermodel/Config
 supermodel/supermodel
