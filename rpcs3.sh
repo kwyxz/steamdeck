@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-/usr/bin/flatpak run net.rpcs3.RPCS3 "${1}"
+/var/lib/flatpak/exports/bin/net.rpcs3.RPCS3 --no-gui "${1}"
