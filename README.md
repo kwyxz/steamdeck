@@ -57,7 +57,7 @@ I don't like AppImages so I installed the flatpak. More seriously I was having i
 
 ### EmulationStation-DE
 
-Set the theme to "steamdeck" to enjoy my settings. My theme is based heavily on the ES-EpicNoir theme that comes with Emudeck but you don't need to have it installed for the "steamdeck" theme to work. Almost all systems have been reconfigured from the defaults and are now set in `/home/deck/.emulationstation/custom_systems/es_systems.xml`. Several systems were added to the default settings:
+Set the theme to "Epic Noir (kw)" to enjoy my settings. My theme is based heavily on the ES-EpicNoir theme that comes with Emudeck but you don't need to have it installed for the "Epic Noir (kw)" theme to work. Almost all systems have been reconfigured from the defaults and are now set in `/home/deck/.emulationstation/custom_systems/es_systems.xml`. Several systems were added to the default settings:
  - Nintendo 64DD (games in `/home/deck/Emulation/roms/64dd/`)
  - Sammy Atomiswave (games in `/home/deck/Emulation/roms/atomiswave`)
  - Capcom CPS-1 (games in `/home/deck/Emulation/roms/cps1`)
