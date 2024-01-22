@@ -31,6 +31,8 @@ Run `./install-supermodel.sh` script in `/home/deck/supermodel` to download, bui
 
 The included Flatpak was giving me trouble (just the opposite of Yuzu...) so I added a script to download the latest AppImage. The AppImage is the only binary that is supported by the author, nonetheless. So to install Duckstation and / or keep it updated, run the `./install-duckstation.sh` script in `/home/deck/duckstation`.
 
+I updated the settings to add a 6x scaling + box downsampling which gives video a very, very nice and smooth effect, especially coupled with the CRT lottes2 shader. If you don't like it, feel free to disable all that.
+
 ### PCSX2
 
 The AppImage gets updated more regularly than the Flatpak : a good reason to use it. Same as Duckstation, a script is included to download and install it. To install PCSX2 and / or keep it updated, run the `./install-pcsx2.sh` script in `/home/deck/pcsx2`.
