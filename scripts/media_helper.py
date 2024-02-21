@@ -12,7 +12,7 @@ import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-ES_PATH=f"{str(Path.home())}/.emulationstation"
+ES_PATH=f"{str(Path.home())}/ES-DE"
 DL_MEDIA_PATH=f"{str(Path.home())}/Emulation/tools/downloaded_media"
 ROM_PATH=f"{str(Path.home())}/Roms"
 COUNTRY_LIST=['(USA','USA)','(World','World)','(Europe','Europe)','(France','France)','(Japan) (En)','(Japan) [T-En','(T-En','(Japan', 'Japan)']
