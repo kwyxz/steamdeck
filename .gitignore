@@ -44,6 +44,9 @@ ES-DE/themes/*
 !/*.sh
 !/cemu/
 cemu/cemu-x64.AppImage
+!/citra/
+/citra/*
+!/citra/install-citra.sh
 !/duckstation/
 /duckstation/*
 !/duckstation/update.sh
@@ -67,3 +70,6 @@ supermodel/Supermodel.log
 supermodel/Config/Supermodel.old
 !/xenia/
 xenia/xenia_canary.zip
+!/yuzu/
+/yuzu/*
+!/yuzu/install-yuzu.sh

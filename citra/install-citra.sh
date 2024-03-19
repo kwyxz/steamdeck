@@ -1,0 +1,11 @@
+#!/usr/bin/env sh
+
+EMUPATH="/home/deck/citra"
+TARGZ="citra-linux-appimage-20240303-0ff3440.tar.gz"
+URL="https://archive.org/download/citra-nightly-2104"
+
+if ! test -f "${TARGZ}"; then
+  echo -n "Downloading ${TARGZ} ... " && wget -q "${URL}/${TARGZ}" && tar zxf ${TARGZ} -C ${EMUPATH} --strip-components=1 >/dev/null && echo "OK" || echo "ERROR"
+else
+  echo "Nothing to do : citra.AppImage already present"
+fi
