@@ -5,7 +5,6 @@
 ./cemu/install-cemu.sh
 ./citra/install-citra.sh
 ./redream/install-redream.sh
-#./xemu/install-xemu.sh
 ./xenia/install-xenia.sh
 ./yuzu/install-yuzu.sh
 git pull && git submodule update --recursive --remote
