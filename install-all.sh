@@ -40,6 +40,7 @@ else
   echo "OK"
   cd ${HOME}
   echo "==== Now installing emulators"
+  sudo flatpak install org.mamedev.MAME -y
   sudo flatpak install org.ryujinx.Ryujinx -y
 fi
 
