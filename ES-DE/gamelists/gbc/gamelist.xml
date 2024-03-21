@@ -1,7 +1,4 @@
 <?xml version="1.0"?>
-<alternativeEmulator>
-	<label>SameBoy</label>
-</alternativeEmulator>
 <gameList>
 	<game>
 		<path>./007 - The World Is Not Enough (USA, Europe).zip</path>

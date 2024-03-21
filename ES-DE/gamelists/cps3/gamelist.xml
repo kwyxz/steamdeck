@@ -1,7 +1,4 @@
 <?xml version="1.0"?>
-<alternativeEmulator>
-	<label>FinalBurn Neo</label>
-</alternativeEmulator>
 <gameList>
 	<game>
 		<path>./jojoba.zip</path>

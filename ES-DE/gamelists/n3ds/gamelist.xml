@@ -1,7 +1,4 @@
 <?xml version="1.0"?>
-<alternativeEmulator>
-	<label>Citra (Standalone)</label>
-</alternativeEmulator>
 <gameList>
 	<game>
 		<path>./Fire Emblem Echoes - Shadows of Valentia.cci</path>

@@ -1,7 +1,4 @@
 <?xml version="1.0"?>
-<alternativeEmulator>
-	<label>PCSX2 (Standalone)</label>
-</alternativeEmulator>
 <gameList>
 	<game>
 		<path>./Breath of Fire - Dragon Quarter (USA).iso</path>
