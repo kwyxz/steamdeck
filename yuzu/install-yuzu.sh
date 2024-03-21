@@ -7,7 +7,7 @@ URL="https://archive.org/download/yuzu-latest-builds-4th-march-2024"
 
 for IMG in ${IMGEA} ${IMGML}; do
   if ! test -f ${IMG}; then
-    echo -n "Downloading ${IMG} ... " && wget -q "${URL}/${IMG}" -O ${IMG} && chmod 755 ${IMG} && echo "OK" || echo "ERROR"
+    echo -n "Downloading ${IMG} ... " && wget -q "${URL}/${IMG}" -O "${EMUPATH}/${IMG}" && chmod 755 ${IMG} && echo "OK" || echo "ERROR"
   else
     echo "Nothing to do : ${IMG} already present"
   fi
