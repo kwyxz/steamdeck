@@ -20,7 +20,7 @@
 !/ES-DE/
 ES-DE/collections/
 ES-DE/es_log.txt*
-ES-DE/gamelists/
+!/ES-DE/gamelists/
 ES-DE/logs/
 ES-DE/scrapers/
 ES-DE/scripts/
