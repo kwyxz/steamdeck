@@ -1,20 +1,101 @@
 <?xml version="1.0"?>
 <ruleList>
-    <emulator name="BIGPEMUKW">
-        <!-- Jaguar Emulator BigPEmu -->
+    <emulator name="BIGPEMU-KW">
+        <!-- BigPEmu (Jaguar) -->
         <rule type="staticpath">
             <entry>~/Applications/BigPEmu/bigpemu.sh</entry>
         </rule>
-    <emulator name="CITRAKW">
-        <!-- Nintendo 3DS emulator Citra -->
+    </emulator>
+    <emulator name="CEMU-KW">
+        <!-- Cemu (Wii U) -->
+        <rule type="staticpath">
+            <entry>~/Applications/cemu/cemu-x64.AppImage</entry>
+        </rule>
+    </emulator>
+    <emulator name="CITRA-KW">
+        <!-- Citra (3DS) -->
         <rule type="staticpath">
             <entry>~/Applications/citra/citra.AppImage</entry>
         </rule>
     </emulator>
-    <emulator name="MAMEKW">
-        <!-- MAME arcade emulator -->
+    <emulator name="DUCKSTATION-KW">
+        <!-- DuckStation (PS1) -->
+        <rule type="staticpath">
+            <entry>~/Applications/duckstation/DuckStation-x64.AppImage</entry>
+        </rule>
+    </emulator>
+    <emulator name="MAME-KW">
+        <!-- MAME (Arcade) -->
         <rule type="staticpath">
             <entry>/var/lib/flatpak/exports/bin/org.mamedev.MAME</entry>
+        </rule>
+    </emulator>
+    <emulator name="M2EMULATOR-KW">
+        <!-- M2Emulator (Model 2) -->
+        <rule type="staticpath">
+            <entry>~/Emulation/roms/model2/emulator_multicpu.exe</entry>
+        </rule>
+    </emulator>
+    <emulator name="PCSX2-KW">
+        <!-- PCSX2 (PS2) -->
+        <rule type="staticpath">
+            <entry>~/Applications/pcsx2/pcsx2-x64.AppImage</entry>
+        </rule>
+    </emulator>
+    <emulator name="PROTON">
+        <!-- Emudeck Proton helper script -->
+        <rule type="staticpath">
+            <entry>~/Emulation/tools/proton-launch.sh</entry>
+        </rule>
+    </emulator>
+    <emulator name="REDREAM-KW">
+        <!-- Redream (Dreamcast) -->
+        <rule type="staticpath">
+            <entry>~/Applications/redream/redream</entry>
+        </rule>
+    </emulator>
+    <emulator name="RPCS3-KW">
+        <!-- RPCS3 (PS3) -->
+        <rule type="staticpath">
+            <entry>~/Applications/rpcs3.AppImage</entry>
+            <entry>/var/lib/flatpak/exports/bin/net.rpcs3.RPCS3</entry>
+        </rule>
+    </emulator>
+    <emulator name="Supermodel (KW)">
+        <!-- Supermodel (Sega Model 3) -->
+        <rule type="staticpath">
+            <entry>/var/lib/flatpak/exports/bin/com.supermodel3.Supermodel</entry>
+        </rule>
+    </emulator>
+    <emulator name="XEMU-KW">
+        <!-- Xemu (Xbox) -->
+        <rule type="staticpath">
+            <entry>~/Applications/xemu/xemu.AppImage</entry>
+            <entry>/var/lib/flatpak/exports/bin/app.xemu.xemu</entry>
+        </rule>
+    </emulator>
+    <emulator name="XENIA-KW">
+        <!-- Xenia (Xbox 360) -->
+        <rule type="staticpath">
+            <entry>~/Emulation/roms/xbox360/xenia.exe</entry>
+        </rule>
+    </emulator>
+    <emulator name="XENIA-CANARY-KW">
+        <!-- Xenia Canary (Xbox 360) -->
+        <rule type="staticpath">
+            <entry>~/Emulation/roms/xbox360/xenia_canary.exe</entry>
+        </rule>
+    </emulator>
+    <emulator name="YUZU-KW">
+        <!-- Yuzu (Switch) -->
+        <rule type="staticpath">
+            <entry>~/Applications/yuzu/yuzu-mainline-20240304-537296095.AppImage</entry>
+        </rule>
+    </emulator>
+    <emulator name="YUZUEA-KW">
+        <!-- Yuzu EA (Switch) -->
+        <rule type="staticpath">
+            <entry>~/Applications/yuzu/Yuzu-Linux-4176.AppImage</entry>
         </rule>
     </emulator>
 </ruleList>
