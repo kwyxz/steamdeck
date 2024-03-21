@@ -1,0 +1,849 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./18wheelr.zip</path>
+		<name>18 Wheeler: American Pro Trucker</name>
+		<desc>A truck driving game from Sega. Race another trucker across the country, carrying cargo and trying to beat the clock. The main purpose is to make it to the finish line with your cargo within a given time. Players choose one of several trucks, each rated in speed, handling, etc. They then race from point to point across the country, hauling cargo (more difficult cargo will increase your pay for that leg of the journey) while avoiding innocent traffic (blare the horn to get drivers out of your way) and trying to outrun a reckless computer opponent (or player two in linked matches). Good performances are rewarded with bonus stages that require players to maneuver the truck in tight alleyways and park the truck in a limited amount of time.</desc>
+		<releasedate>20000101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./brdown.zip</path>
+		<name>brdown</name>
+	</game>
+	<game>
+		<path>./ausfache.zip</path>
+		<name>Akatsuki Blitzkampf Ausf Achse</name>
+		<desc>Akatsuki Blitzkampf Ausf Achse is based upon the original Akatsuki Blitzkampf Japanese PC d?jin 2D fighting game from SUBTLE STYLE which was originally released on the 30th April 2007.  The original PC game got a lot of attention in Japan for its high-resolution sprites and older style gameplay similar to that of the older Samurai Showdown in the way that you can parry.  This Naomi arcade release features improved graphics as well as an extra character going under the name of Perfect.</desc>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Subtle Style</developer>
+		<publisher>PIC</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./beachspi.zip</path>
+		<name>Beach Spikers: Virtua Beach Volleyball</name>
+		<desc>The typical summer sport, beach volleyball, became an arcade game! Not only the beach volleyball fans but also all the game fans will be extremely excited by the new type of sports game.</desc>
+		<releasedate>20010701T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./cspike.zip</path>
+		<name>Cannon Spike</name>
+		<desc>Cannon Spike (Gunspike in Japan) is an overhead-camera shooting game in the vein of Smash TV and another Capcom creation, the Commando series. Released for the arcades, and later for the Sega Dreamcast. in 2000, Cannon Spike is a linear game, heavily focused towards boss encounters. A main feature of the game is the ability to play as a number of familiar Capcom characters from other franchises.</desc>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./capsnk.zip</path>
+		<name>Capcom vs. SNK: Millennium Fight 2000</name>
+		<desc>Fighting Game Fans Rejoice! 14 characters from Capcom's street fighter face off against 14 characters from SNK's king of Fighters.</desc>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./cfield.zip</path>
+		<name>Chaos Field</name>
+		<desc>Do you love battling the boss ships that appear at the end of each level of your favorite shmup? How about a game where you battle nothing BUT bosses? Your wish is granted with Chaos Field!!
+
+The game draws on elements from other shooters to create its own unique hybrid style of play. You'll have a lock-on feature to take enemies and certain bullets out, as well as a "Radiant Silvergun"-style short-range energy field that will absorb certain bullets.
+
+The action plays out in top-down fashion in the time-honored traditions of the shooting genre. Enemies and bullets will swarm like bees to honey, and it will be up to you to destroy everything, while avoiding getting blown up.</desc>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Able Corp.</developer>
+		<publisher>Milestone</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./chocomk.zip</path>
+		<name>Musapey no Choco Marker</name>
+		<desc>Musapey no Choco Marker is a puzzle game for the Sega Dreamcast console and Sega NAOMI arcade platform.</desc>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Ecole</developer>
+		<publisher>Ecole Software</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./cleoftp.zip</path>
+		<name>Cleopatra Fortune Plus</name>
+		<desc>Cleopatra Fortune is a puzzle game with a difference. Line up the falling stone blocks to entomb treasure and claim it for yourself. With colorful graphics that bring ancient Egypt to life, Cleopatra Fortune offers an unmissable challenge.</desc>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Altron</developer>
+		<publisher>Taito</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./clubk2k3.zip</path>
+		<name>Club Kart: European Session</name>
+		<desc>This European version of "Club Kart" including different courses.</desc>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./csmash.zip</path>
+		<name>Cosmic Smash</name>
+		<desc>Become a funky gymnastic back flipping, somersaulting, wall climbing virtual reality squash player. Travel by a virtual express train to an interstellar cosmic recreation room and smash the blocks.
+
+Break all the blocks in the stage within the time limit, then the player can run to the next stage. There are 50 stages in this game, with many different routes to the final stage. Using a trick smash (there are 28 patterns) increases the destructive power of the ball, allowing the player to complete the stage faster. The penalty for using trick smash is a faster decrease in remaining time. There are normal blocks, unbreakable blocks, bonus blocks and various sizes of blocks moving in various patterns. The ball will also rebound differently from different blocks.</desc>
+		<releasedate>20000101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Tennis</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./crzytaxi.zip</path>
+		<name>Crazy Taxi</name>
+		<desc>Crazy Taxi is an open world racing video game.
+
+The main objective of the game is to pick up customers and take them to their chosen destination as quickly as possible. Along the way, money can be earned by performing stunts such as near misses with other vehicles. The player is directed to a destination by a large green arrow at the top of the screen. The arrow does not adjust based on obstacles, but rather points in the general direction of the destination. Once the player arrives near the destination, they must stop within a specified zone. When the destination is reached, that customer's fare is added to the player's total money earned. Ratings are then awarded depending on how long the player took to complete the journey. If the customer's timer runs out before the player reaches the destination the customer jumps from the taxi.</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./cvs2.zip</path>
+		<name>Capcom vs. SNK 2: Mark of the Millennium 2001</name>
+		<desc>Capcom vs. SNK 2 combines characters and gameplay elements from various Capcom and SNK fighting games, mainly the Street Fighter and The King of Fighters seriesthough elements are also borrowed from the Fatal Fury and Samurai Shodown series.
+
+In contrast to the original Capcom vs. SNK, characters no longer have a specific "Ratio." Instead the player can select up to three characters in a team and give an amount or ratio (up to four) to each as desired. In console versions of the game, players can also choose a 1-on-1 game or a 3-on-3 game in arcade mode with the ratio system removed.
+
+Unlike the first game, which was based on the King of Fighters-style two-strength, four button system of punches and kicks, Capcom vs. SNK 2 is based on the three strength, six-button system of punches and kicks, native to the Street Fighter series, with the SNK characters being tweaked to fit the 6-button style. The overall system is derivative of Street Fighter Alpha, however, a number of different fighting styles called "grooves", which mimic other Capcom and SNK games, are included in the engine. These dictate both the character's Super Gauge system, and special techniques, such as dashes, running, and guard cancels, called "Subsystems".
+
+There are six grooves in total, each designtated with a letter, along with custom grooves that can be programmed in home versions of the game. Each player designates prior to the match which groove his or her team will use.</desc>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./doa2m.zip</path>
+		<name>Dead or Alive 2 Millennium</name>
+		<desc>Update to Dead or Alive 2, including the features of the Dreamcast version, which did not exist in the original.</desc>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./dygolf.zip</path>
+		<name>Virtua Golf</name>
+		<desc>Dynamic Golf is a challenging golf video game for up to four players. Compete in several different sessions including stroke play, match play and skins. The game features precise ball control including backspin, topspin and shot shaping. Players can start at any hole. There are Nearest to the Pin and Longest Drive contests within the multiplayer games.</desc>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Wow Entertainment</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./f355.zip</path>
+		<name>F355 Challenge</name>
+		<desc>F355 Challenge is a realistic racing game developed by SEGA-AM2. It originally appeared in arcades and soon after was ported to the Dreamcast and later to the PS2.</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ggxx.zip</path>
+		<name>Guilty Gear Xx</name>
+		<desc>Guilty Gear X2 is the sequel to Arc System Works' high-resolution fighter, Guilty Gear X. Similar to its predecessor, Guilty Gear X2 offers various tweaks and improvements, along with more tangible additions such as new fighters and extra modes. Gameplay is governed by a multitude of powerful special moves such as Psych Bursts, Roman Cancels, Overdrives, Faultless Defense, Dead Angles, and One-Hit Kills (Sammy Studios nomenclature for a stock selection of, cancels, air juggles and counters). A roster of 23 playable characters (some hidden) awaits players, and features an indiscriminate collection of old and new, though no less quirky, faces. Among the new arrivals are the androgynous, yo-yo wielding Bridget and I-No, a leather-clad woman armed with a guitar.</desc>
+		<releasedate>20020523T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ggxxac.zip</path>
+		<name>Guilty Gear XX Accent Core</name>
+		<desc>This is the 4th edition under the XX banner and allows players to once again get their fill of fast paced intense 2-D anime mayhem. In this version Force Breaks are added which are power moves that use up a quarter of tension gauge. Parrying is another addition, where the fighter flashing gold while parrying. If successful the opponent is vulnerable, if not the fighter cannot block for a limited time.
+Other changes include the air moves cancels to air dash, throw breaks, additional character moves and story arcs.</desc>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ggxxrl.zip</path>
+		<name>Guilty Gear Xx #reload</name>
+		<desc>Guilty Gear XX #Reload is a 2003 fighting game by Sammy and Arc System Works in Arc System Works's Guilty Gear series of fighting games. Sega brought it to the PlayStation Portable in Japan in 2005.
+
+In addition, PlayStation 2, Xbox, and PC versions were also released, but by Sammy (JP/US) and Zoo Digital Publishing (EU), sometimes renamed Guilty Gear X2 #Reload. The Japanese Xbox version uses Sega's "Violent Actions are Included in the Soft" icon. Later releases of the Japanese PS2 version were published by Sega, but neither Sega nor Sony mark when this happened.</desc>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ggxxsla.zip</path>
+		<name>Guilty Gear XX Slash</name>
+		<desc>The second Japan-exclusive revision of Guilty Gear XX adds new balance changes and stage modifications while adding two characters: A.B.A. and Order-Sol.</desc>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./gwing2.zip</path>
+		<name>Giga Wing 2</name>
+		<desc>Giga Wing 2 is an excellent sequel to 'Giga Wing' featuring 3 types of reflects and amazing 3-D graphics.
+
+The rebellion's savage forces have returned in an all-out campaign for universal domination. Only you can defeat them! Pick your aircraft and prepare for hi-tech dogfights, relentless enemy fire, fantastic power-ups and devastating weapons like the Reflect Laser and Reflect Force. Use the Score Multiplier to rack up astronomical high scores.</desc>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Takumi</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ggx.zip</path>
+		<name>Guilty Gear X</name>
+		<desc>Guilty Gear X is an outstanding 2-D fighting game developed for Sega's Naomi hardware. The game features an intense fighting experience featuring a pulse pounding heavy metal soundtrack, amazingly detailed high resolution graphics, and smooth gameplay.</desc>
+		<releasedate>20000713T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./hmgeo.zip</path>
+		<name>Heavy Metal Geomatrix</name>
+		<desc>Heavy Metal Geomatrix is a third-person action game for the Sega NAOMI arcade platform, based on the comic book series, Heavy Metal. It was later ported to the Sega Dreamcast.</desc>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./ikaruga.zip</path>
+		<name>Ikaruga</name>
+		<desc>Ikaruga is a shoot-em-up arcade game which brings a perfect blend of classic arcade shooting and original gameplay. The player's ship can switch between two different 'polarities': White and Dark. The Dark polarity can absorb dark colored enemy bullets while the White polarity can absorb white-colored enemy bullets. If the player kills 3 enemies of the same color in a row, a combo is built up that adds to the score.</desc>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./initdexp.zip</path>
+		<name>Initial D: Arcade Stage</name>
+		<desc>Initial D: Arcade Stage is an arcade racing game based on the Initial D franchise. It was the first in a long line of arcade racers to be published by Sega for Sega arcade platforms, this one seeing a 2002 release on Sega NAOMI 2 hardware. It was released in the US and Europe under the basic title of Initial D. It was not ported to any home consoles.</desc>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race 3rd Pers. view</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./initdv3e.zip</path>
+		<name>Initial D: Version 3</name>
+		<desc>Initial D Arcade Stage Ver 3 "is a car racing game with 3 different game modes:" Legend of the Streets "," Time Attack "and" The Bunta Challenge! " on 9 different tracks. Each checkpoint you pass adds time to the total time limit The first person to cross the finish line within the allotted time wins If you run out of time or cross the finish line second, you lose.</desc>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race 3rd Pers. view</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./karous.zip</path>
+		<name>Karous</name>
+		<desc>Karous is about a girl born of a union between an angel and a human. She gets firepower by gaining equipment like a swords, shields and guns.</desc>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Milestone</developer>
+		<publisher>Milestone</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./mamonoro.zip</path>
+		<name>Mamoru-kun wa Norowarete Shimatta!</name>
+		<desc>Mamoru-kun wa Norowarete Shimatta! is a shoot 'em up developed by G.rev and Gulti, and published by Sega for the Sega NAOMI arcade platform. It was also ported to PlayStation 3 and Xbox 360, with the title Mamorukun Curse! for the western release on PlayStation Network.</desc>
+		<releasedate>20080101T000000</releasedate>
+		<developer>G.Rev</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./mazan.zip</path>
+		<name>Mazan: Flash of the Blade</name>
+		<desc>A motion-sensor based fighting game where the player use a hand-held replica katana blade to fight various on-screen enemies.</desc>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fight</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./mbaa.zip</path>
+		<name>Melty Blood: Actress Again</name>
+		<desc>The followup to Actress Again, Current Code is the 4th installment in the Melty Blood series of fighting games.</desc>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Ecole</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./meltyb.zip</path>
+		<name>Melty Blood: Act Cadenza Version B</name>
+		<desc>Melty Blood: Act Cadenza Version B is a fighting game developed by TYPE-MOON and Ecole Software, and published by Sega for the Sega NAOMI arcade system. It is part of the Melty Blood series, and is an update to Melty Blood: Act Cadenza Ver. A.</desc>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Ecole Software</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./meltybld.zip</path>
+		<name>Melty Blood: Act Cadenza Ver. A</name>
+		<desc>Melty Blood - Act Cadenza ver. A is a collaboration between two top doujin (aka enthusiast) groups - TYPE-MOON and Watanabe Seisakujo - created this series matching the caliber of the best fighting games. This offering is the first Melty Blood after the groups went "official" sometime in 2004.</desc>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Ecole Software</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./moeru.zip</path>
+		<name>Moeru Casinyo</name>
+		<desc>Moeru Casinyo is a gambling game developed by Altron and published by Sega for the Sega NAOMI arcade system. The game features card games and slot machines.</desc>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Altron</developer>
+		<publisher>SEGA</publisher>
+		<genre>Playing cards</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./monkeyba.zip</path>
+		<name>Monkey Ball</name>
+		<desc>Monkey Ball is a Sega NAOMI GD-ROM arcade game, originally released in 2001. It is the first game in the Super Monkey Ball series.
+
+The arcade cabinet of Monkey Ball is unique for its banana-shaped joystick. All the bananas in the game are sponsored by Dole, a practise that would carry through to its successor, Super Monkey Ball and Super Monkey Ball 2. There are three characters, AiAi, MeeMee and Baby, three difficulty levels and numerous puzzles to complete.
+
+Monkey Ball was somewhat unique at the time of release. Though marble/ball rolling games had been done in the past, such as Marble Madness, these types of games are fairly rare, and none had ever been presented in 3D.
+
+Monkey Ball itself was not ported to consoles. Instead, an upgraded version titled Super Monkey Ball was released for the GameCube a few years later. It contains all the levels seen in Monkey Ball, plus enhanced graphics and extra features.</desc>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>SEGA</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./otrigger.zip</path>
+		<name>Outtrigger</name>
+		<desc>Outtrigger is a first/third person shoot-'em-up game originally released for Sega NAOMI arcade hardware before being ported to the Sega Dreamcast. It is compatible with the Dreamcast Mouse, and in Japan, came bundled with one.
+
+Developed by Sega AM2 and produced by Yu Suzuki, the game featured four unique characters, each with their own class and abilities. This makes it the first hero shooter.</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./pstone.zip</path>
+		<name>Power Stone</name>
+		<desc>Choose from eight different characters and do battle in large environment, picking up weapons and collecting Power Stones to transform yourself into a super warrior capable of massive damage.</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./pstone2.zip</path>
+		<name>Power Stone 2</name>
+		<desc>Power Stone 2 is a classic 3D fighting arena video game developed by Capcom for the Sega Dreamcast. It is a sequel of the Power Stone released in 1999.</desc>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./pjustic.zip</path>
+		<name>Project Justice</name>
+		<desc>This game is the second entry in the Rival Schools series. The fighting system has evolved from the previous episodes. It's still a tag-team fighting game, but the teams now have 3 characters instead of 2. There's still the possibility to do a duo attack, but it's now possible to do a powerful "Party-Up" attack by pressing the 3 attack buttons at once.</desc>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./psyvar2.zip</path>
+		<name>Psyvariar 2: The Will To Fabricate</name>
+		<desc>In Psyvariar 2, one player controls one of two mech fighters through five vertically scrolling stages, each of which contains a number of enemies and finishes with a boss. To defeat them, the player can use a regular rapid-fire shot, a more concentrated "rolling shot", or a limited supply of screen-clearing bombs. At the beginning of the game the player can choose between two characters, Kei and Yuhei. Kei plays in a more traditional manner, using a wide shot and normal bomb, while Yuhei has a narrow shot and a bomb which increases the player's Buzz radius.</desc>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Success</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./puyoda.zip</path>
+		<name>Puyo Puyo Da! Featuring Ellena System</name>
+		<desc>Arle Nadja and her friends take some time off from Puyo fighting and challenge players to dance with them. The game features several dance stages similar to those of Dance Dance Revolution. It also introduces a new ELLENA system used to render the game as well as a new exclusive character featuring the same name (Ellena Stevens, the protagonist of the original Broadway Legend Ellena). One or two players can dance to a variety of J-pop tunes by using the controller buttons to copy their opponent's moves. Based on how well a player copies the moves, Nuisance Puyos are sent to their opponent. The player not having Nuisance Puyos on their side of the screen when the song is over wins the stage.</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Compile</publisher>
+		<genre>Rhythm</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./puyofev.zip</path>
+		<name>Puyo Pop Fever</name>
+		<desc>Puyo Pop Fever is a puzzle game of the falling-block variety, the goal of which is to clear your blocks (Puyos) by combining four or more of the same color, which will then vanish. This will produce Nuisance Puyos. These colorless Puyos will fall onto your opponents screen, thus blocking chains and combos they could create. These pesky Puyos can only be exterminated by removing neighboring Puyos.
+When an opponent sends Nuisance Puyos to your screen you can try to "offset" by clearing your own Puyos and limiting the number that would fall on your screen. This will also increase your Fever Meter. When this meter fills you will be given a set of prearranged Puyos with which you can wrack up giant combos and send tons of Nuisance Puyos to your opponent. When any player's field becomes so full that they can no longer drop Puyos they lose the game.</desc>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./radirgy.zip</path>
+		<name>Radirgy</name>
+		<desc>Radirgy is a cartoon style shoot'em up.</desc>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Milestone</developer>
+		<publisher>Milestone</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./radirgyn.zip</path>
+		<name>Radirgy Noa</name>
+		<desc>Radirgy Noa is a cartoon style shoot'em up.</desc>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Milestone</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./rhytngk.zip</path>
+		<name>Rhythm Tengoku</name>
+		<desc>Rhythm Tengoku for arcade is a port of the Gameboy Advance game of the same name.
+It's a music game based around good timing and rhythm. The game has music supplied by the record production company J.P. ROOM, and is developed by the team responsible for Wario Ware, which is visible in the quirky presentation of the game.
+
+The game is actually a series of shorter games bundled into one package. Control is normally very simple - usually, only the A Button is required, but some games make players press multiple buttons for different actions.
+
+Players will punch in time with a karate expert as pots and rocks are thrown; pluck hairs off of an onion; march in time to an instructor; hit a baseball while the screen zooms in and out; shoot ghosts with arrows; chop demons as a samurai; and much more.</desc>
+		<releasedate>20070101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Rhythm</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./ringout.zip</path>
+		<name>Ring Out 4x4</name>
+		<desc>A game for up to four players at once. Choose from one of eight mutated super-vehicles. The object of the game is not to race, but to be the last one standing.Knock all of the other opponents out of the inner circle, using tactics and items which are littered across the arena. These include Long Bumpers, Sonic Bumpers, Speed Ups, Ball Bumpers and Gigantic Icons, which can all offer advantages to those who pick them up.</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./sstrkfgt.zip</path>
+		<name>Sega Strike Fighter</name>
+		<desc>Sega Strike Fighter is an arcade game developed for Sega NAOMI hardware by Sega. It is loosely related to the After Burner series.</desc>
+		<releasedate>20000101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./sgtetris.zip</path>
+		<name>Sega Tetris</name>
+		<desc>Sega Tetris brings the Nintendo classic to the Naomi. Expect the same fundamental gameplay here: Tetris blocks of set shapes drop from the top and you have to line them up on the bottom, forming lines that disappear.</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./senko.zip</path>
+		<name>Senko no Ronde</name>
+		<desc>Senko No Ronde is an oppositional fighting game set in space. Players must try to shoot the enemy's plane and then once the enemy plane is close, the battle changes to hand-to-hand combat and players fight each other directly.</desc>
+		<releasedate>20050101T000000</releasedate>
+		<developer>G.Rev</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./senkosp.zip</path>
+		<name>Senko no Ronde SP</name>
+		<desc>It is the sequel to Senko no Ronde, and includes many features backported from the Xbox 360 game Senko no Ronde Rev. X.</desc>
+		<releasedate>20060101T000000</releasedate>
+		<developer>G.Rev</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./sfz3ugd.zip</path>
+		<name>Street Fighter Zero 3 Upper</name>
+		<desc>"Street Fighter Zero 3" ("Street Fighter Alpha 3" outside Japan and southeast Asia) was released for the Sony PlayStation (1998), Sega Dreamcast (1999) and Sega Saturn (1999) with additional features not found in the original arcade version. This game, "Street Fighter Zero 3 Upper", is the arcade port of those console versions, which was released exclusively in Japan. Changes and additions brought in from the console version includes hidden characters Balrog ('Mike Bison' in Japan), Juni and Juli playable from the start, joining the new characters to the game which includes past Street Fighter legends Guile, Dee Jay, Fei Long and T. Hawk. In total, 34 playable characters are in the game.</desc>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./shikgam2.zip</path>
+		<name>Shikigami no Shiro II</name>
+		<desc>Shikigami no Shiro II is a shoot'em up featuring 7 selectable characters. There are five levels of two stages each.</desc>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Alfa System</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./toukon4.zip</path>
+		<name>Shin Nihon Pro Wrestling Toukon Retsuden 4 Arcade Edition</name>
+		<desc>Shin Nihon Pro Wrestling Toukon Retsuden 4 - Arcade Edition (c) 1999 Namco.  - TECHNICAL -  Sega Naomi Hardware  CPU : Hitachi SH-4 32-bit RISC CPU (200 MHz 360 MIPS / 1.4 GFLOPS) Graphic Engine : PowerVR (PVR2DC) Sound Engine : ARM7 Yamaha AICA 45 MHZ  -</desc>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Yuke's</developer>
+		<publisher>Capcom</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./sl2007.zip</path>
+		<name>Shooting Love 2007</name>
+		<desc>Shooting Love 2007 is a compilation of two shooters:
+
+Exzeal:
+Exzeal follows the similar formula to "Trizeal" in which players progress through the stages and destroy the bosses respectively. However, the weapon power-up system from Trizeal was removed, replaced by the special fixed-weapon system, with a standard attack and a charged attack that can destroy single large enemies once. The player can choose from one of the four weapon sets during the start, with one mimicking the attack pattern of "XII Stag".
+
+Shmups Skill Test:
+A collection of competitive mini-games for shooter fans. A player's proficiency is measured at the end of each mini-game, with both 'Score' and 'Result' displayed, and there are 3 modes in proficiency measurement.</desc>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Triangle Service</developer>
+		<publisher>Triangle Service</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./shootopl.zip</path>
+		<name>Shootout Pool</name>
+		<desc>Shootout Pool is a pool-game controlled with a realistic miniature cue-controller.</desc>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./slashout.zip</path>
+		<name>Slashout</name>
+		<desc>Slash Out (c) 2000 Sega.  - TECHNICAL -  Sega Naomi hardware  CPU : Hitachi SH-4 32-bit RISC CPU (200 MHz 360 MIPS / 1.4 GFLOPS) Graphic Engine : PowerVR (PVR2DC) Sound Engine : ARM7 Yamaha AICA 45 MHZ  - TRIVIA -  Released in July 2000 in Japan.  - TIPS </desc>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./soulsurf.zip</path>
+		<name>Soul Surfer</name>
+		<desc>Surf beaches all over the world, including California, Polynesia, Japan, Hawaii, South Africa, Europe, and Australia.</desc>
+		<releasedate>20020101T000000</releasedate>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./spawn.zip</path>
+		<name>Spawn - In The Demon's Hand</name>
+		<desc>Spawn: In The Demon's Hand is a free-roaming fighter. Each round takes place in various arenas, and each arena contains several rooms or areas. Players are free to roam from room to room, beating the heck out of each other.</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./spkrbtl.zip</path>
+		<name>Spikers Battle</name>
+		<desc>Spikers Battle is the fourth installment to the Spikeout series. Putting an arena-styled competitive twist to the formula, Spikers Battle retains it's 3D beat-'em-up gameplay but takes a more traditional verses fighting game approach.</desc>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./sprtjam.zip</path>
+		<name>Sports Jam</name>
+		<desc>Football, Baseball, Basketball, Hockey, Tennis, Soccer, Golf, and Cycling! You must master skills from each of these sports to take on competitors in your quest to earn the title of King of Sports! Each game features full 3D characters and background graphics detailing your accomplishments or defeats. Play well and you'll learn what it feels like to be a champion in the greatest sports the world has to offer!</desc>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Wow Entertainment</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./starseek.zip</path>
+		<name>Doki Doki Idol Star Seeker</name>
+		<desc>Idol Star Seeker is a minesweeper-style arcade game played on a field of hexagonal tiles. The objective is to mark all of the mines and remove all of the tiles within the time limit to reveal an image of a scantily clad girl. Every stage features a new background image to reveal, but if the stage is not completed in a timely manner the image changes to that of the sulking fully clothed model but the player still has a chance to complete the stage and continue the game. However if the timer runs completely out, then it is game over.</desc>
+		<releasedate>20010101T000000</releasedate>
+		<developer>G.Rev</developer>
+		<publisher>G-Rev</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./takoron.zip</path>
+		<name>Noukone Puzzle Takoron</name>
+		<desc>Noukone Puzzle Takoron is an arcade puzzle game released for Sega NAOMI arcade hardware. The game was released on the Wii as Octomania under another publisher.</desc>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Compile Heart</developer>
+		<publisher>SEGA</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./tetkiwam.zip</path>
+		<name>Tetris Kiwamemichi</name>
+		<desc>Tetris Kiwamemichi is a Tetris games made by Success, heavily influenced by Arika's "Tetris - The Grand Master" series.</desc>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Success</developer>
+		<publisher>Success</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./kingrt66.zip</path>
+		<name>The King of Route 66</name>
+		<desc>The King of Route 66 is the arcade racing game sequel to 18 Wheeler: American Pro Trucker. It was later brought to the PlayStation 2 by Tose.</desc>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./toyfight.zip</path>
+		<name>Toy Fighter</name>
+		<desc>Toy Fighter (c) 1999 Sega.  - TECHNICAL -  Sega Naomi hardware  CPU : Hitachi SH-4 32-bit RISC CPU (200 MHz 360 MIPS / 1.4 GFLOPS) Graphic Engine : PowerVR (PVR2DC) Sound Engine : ARM7 Yamaha AICA 45 MHZ  - TRIVIA -  Released in September 1999.  This game</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Anchor</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./trgheart.zip</path>
+		<name>Trigger Heart Exelica</name>
+		<desc>Trigger Heart Exelica is a shooter where, besides shooting, you can lock on to and capture enemy ships, and then use them as shields and/or throw them at other enemies.</desc>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Warashi</developer>
+		<publisher>Warashi</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./trizeal.zip</path>
+		<name>Trizeal</name>
+		<desc>Trizeal is a vertical shoot'em up. Your spacecraft can be morphed into 3 models supporting different shooting types, including front missiles, homing rockets and wide shot. You will operate your ship with 3 action buttons: shoot, morph and bomb. A power up system allows you to boost your ship into 5 different levels.</desc>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Triangle Service</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./undefeat.zip</path>
+		<name>Under Defeat</name>
+		<desc>In Under Defeat, one or two players control a helicopter through five (generally) vertically scrolling stages. Each stage has a range of military themed enemies, including tanks, gunships and other helicopters, as well as an end of level boss. To encourage risky play for high reward, bosses are harder and yield more points when a player has fewer lives left. Once the player has completed the five stages, the game starts a second loop on stage 2-1, a mirrored version of stage 1-1 with an increased difficulty level and altered background. Once stage 2-5 has been completed, the game is over.</desc>
+		<releasedate>20050101T000000</releasedate>
+		<developer>G.Rev</developer>
+		<publisher>G-Rev</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./vathlete.zip</path>
+		<name>Virtua Athlete</name>
+		<desc>Virtua Athlete is a sport simulation.</desc>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./vf4tuned.zip</path>
+		<name>Virtua Fighter 4 Final Tuned</name>
+		<desc>Final Tuned is the final update to Virtua Fighter 4. This version of the game was released only into Japanese arcades, and it made some gameplay fixes and added new stages. Also, new customization items were added.</desc>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./vf4cart.zip</path>
+		<name>Virtua Fighter 4</name>
+		<desc>In this fourth installment of the Virtua Fighter series, smash your opponents in beautiful graphics, and train your own fighter!</desc>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./vf4evoct.zip</path>
+		<name>Virtua Fighter 4 Evolution</name>
+		<desc>An updated version of "Virtua Fighter 4" with some new features, mainly two additional fighters: Brad Burns (a kick boxer) and Gou Hinogami (a judo master).</desc>
+		<releasedate>20020101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./virnba.zip</path>
+		<name>Virtua NBA</name>
+		<desc>Virtua NBA presents its basketball action on a 3D court, but it essentially maintains a 2D perspective for most of the viewing, save for its replay sequences. Essentially, it looks like a highly detailed 3D version of NBA Showtime. Because Sega opted to allow only five preselected characters per team, it could focus on making sure those players look very life-like (rather than attempt to bring every NBA player into the game). The players all animate well, and their shadows and reflections look very slick. Other than that, the crowd looks more realistic than any I've ever seen before - go up for a shot and people will actually look up at you. Very well done.</desc>
+		<releasedate>20000101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./vs2_2k.zip</path>
+		<name>Virtua Striker 2 Ver. 2000</name>
+		<desc>Virtua Striker 2 is a football game. Players compete as 1 of 32 international teams, detailed down to the members' uniforms and playing styles. As the most dedicated soccer fanatic expects, the gameplay is highly detailed and the action is fast and furious. The realistic, motion-captured players perform a plethora of stylish moves, including bicycle kicks, headers, and slide tackles. One cool feature: as the virtual clock ticks away the hours from morning through evening, the environmental lighting adjusts accordingly. Of course, a social game like soccer is twice as fun with a fellow Pelé wannabe, which is why there's a head-to-head two-person multiplayer mode.</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./vstrik3c.zip</path>
+		<name>Virtua Striker 3</name>
+		<desc>Virtua Striker 3 (c) 2001 Sega.  - TECHNICAL -  Sega NAOMI 2 hardware  CPU : 2 x Hitachi SH-4 32-bit RISC CPU (200 MHz 360 MIPS / 1.4 GFLOPS) Graphic Engine : 2 x PowerVR 2 (PVR2DC-CLX2) GPU's Geometry Processor : Custom Videologic T+L chip 'Elan' (100mhz</desc>
+		<releasedate>20010101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./vtennis.zip</path>
+		<name>Virtua Tennis</name>
+		<desc>A tennis game where the user can play as a number of real-life professional tennis players of the era competing in a number of real tournaments.At the time of release it was widely regarded as the most realistic tennis simulator ever produced, and received very positive reviews from critics.Virtua Tennis only includes male players, specifically those active in the game during the late 1990s. Female players were not introdced until Virtua Tennis 2.</desc>
+		<releasedate>20000712T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./vtenis2c.zip</path>
+		<name>Virtua Tennis 2</name>
+		<desc>Virtua Tennis 2 builds on the gameplay found in its predecessor, and adds the option to play as female professional tennis players and mixed doubles matches.</desc>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./asndynmt.zip</path>
+		<name>Asian Dynamite</name>
+		<desc>Asian Dynamite is a Sega NAOMI arcade beat-'em-up game. It is known as Dynamite Deka EX in Japan, and is a direct sequel to Dynamite Deka, meaning in its localised form, Asian Dynamite is a direct sequel to Die Hard Arcade, with the references to the movie franchise removed.
+
+The game has not been ported to home platforms, nor has it even seen a US release. It is extremely similar to Dynamite Cop in design, simply sporting an updated Asian aesthetic and replacing Jean Ivy and Eddie Brown with Caroline Powell and Jennifer Genuine, respectively. Caroline is the president's daughter from the first game grown up.</desc>
+		<releasedate>20070101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./clubkpzb.zip</path>
+		<name>Club Kart Prize</name>
+		<desc>As the name suggests, this version of Club Kart will award the player with prizes depending on how well he or she plays - you collect coins during the race and these will be awarded to you at the end.</desc>
+		<releasedate>20030101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./f355twn2.zip</path>
+		<name>F355 Challenge 2: International Course Edition</name>
+		<desc>Sequel to Ferrari F355 Challenge. This is basically the same game, using the same hardware, but with 4 more racetracks.
+</desc>
+		<releasedate>20010101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./mvsc2.zip</path>
+		<name>Marvel vs. Capcom 2: New Age of Heroes</name>
+		<desc>The best of the best are back! Fight with 28 characters and unlock 28 extra fighters on 3 on 3 tag battles. Learn to master the new 'Delayed hyper combo system' to combine your 3 characters hyper moves and defeat the mighty Abyss.</desc>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./bdrdown.zip</path>
+		<name>Border Down</name>
+		<desc>Border Down is a pseudo sequel to Taito's Metal Black. The games share certain enemy designs, story elements, gameplay mechanics and staff members.
+It's a horizontal Shoot 'em up developed by G.rev and released after the "death" of the Dreamcast</desc>
+		<releasedate>20030101T000000</releasedate>
+		<developer>G.rev Ltd.</developer>
+		<publisher>G.rev Ltd.</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1</players>
+	</game>
+</gameList>

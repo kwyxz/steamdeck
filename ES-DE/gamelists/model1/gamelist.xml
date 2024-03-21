@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./swa.zip</path>
+		<name>Star Wars Arcade</name>
+		<desc>Star Wars Arcade is a superb 3-D shoot-em-up for one or two players, based on the legendary 1977 movie of the same name. In the two player game, one player takes on the role of the pilot, who controls both the speed and direction of the fighter ship, and who can only shoot at the centre of the screen. The second other player takes on the role of the 'gunner' and can target a much larger area on-screen.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./vf.zip</path>
+		<name>Virtua Fighter</name>
+		<desc>In this 3-D fighting game, the game's battle system is simple, yet complex. There are 3 buttons: Punch, Kick and Guard. Movement is strictly confined to a horizontal plane.
+
+Battles are won by draining the energy bar of your opponent or by pushing your opponent off the edges of the ring (known as a 'Ring-out').</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./vr.zip</path>
+		<name>Virtua Racing</name>
+		<desc>Sega once again prove themselves to be kings of the racing genre with the superb and innovative "Virtua Racing". This was the first racing game to be fully rendered with shaded, filled polygon graphics (the first game to ever be rendered in filled polygons was Atari's incredible 1983 release, "I, Robot").
+
+As well as the sublime graphics and superb playability, Virtua Racing also allowed players to switch camera views to suit their preferred style of play. The game features 3 well designed and varied courses; 'Big Forest', 'Bay Bridge' and 'Acropolis'.</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./wingwar.zip</path>
+		<name>Wing War</name>
+		<desc>Wing War is a flight/combat simulation. The object of the game is by where the players fight head-to-head in airplanes trying to shoot the other players out of the sky.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+</gameList>

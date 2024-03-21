@@ -1,0 +1,371 @@
+<?xml version="1.0"?>
+<alternativeEmulator>
+	<label>Dolphin (Standalone)</label>
+</alternativeEmulator>
+<gameList>
+	<game>
+		<path>./1080 Avalanche (USA).rvz</path>
+		<name>1080° Avalanche</name>
+		<desc>Nintendo takes players back to the slopes with 1080 Avalanche, the sequel to the popular N64 title 1080 Snowboarding. Detailed character models, interactive environments and overhauled snowboarding physics take advantage of the processing power of the GameCube. The game features more than a dozen snow-filled mountain tracks, complete with varied snow conditions and interactive environments that throw new challenges at players, including dangerous avalanches, collapsing bridges, cave-ins, and more. Race against computer opponents, against course times, in four player mode, or just to earn trick points. Master a new set of tricks involving flips, twists, grabs and grinds.</desc>
+		<releasedate>20031201T000000</releasedate>
+		<developer>NST</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Auto Modellista (USA).rvz</path>
+		<name>Auto Modellista</name>
+		<desc>Faithful port of Capcom's cel-shaded PlayStation 2 racer, sans online support. The game features nine tracks in all, eight normal and one hidden, and 69 real-world, licensed vehicles -- presented anime-style thanks to the toon-shading technique. Players can choose from arcade mode, a standard enter and race scenario, garage life, which is the career mode of the game, and VJ and Theater, an arena enabling players to watch, edit and direct race replays of their choice. Cars can be fully customized down to the tires, brakes, suspension, turbine kits, mufflers, transmissions and more with hundreds of parts to choose from. Supports two-player split-screen racing.</desc>
+		<releasedate>20030930T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Baten Kaitos - Eternal Wings and the Lost Ocean (USA).m3u</path>
+		<name>Baten Kaitos: Eternal Wings and the Lost Ocean</name>
+		<desc>An original roleplaying game for Nintendo GameCube from the team behind Xenosaga. The game makes heavy use of cards for everything from fighting battles to purchasing items. Cards are actually a central part of the story as well, as they are holders for "Magnus" which is short for "Magna Essence." Magnus is the true nature of all things throughout the world, including swords, magic spells and even apples that are gathered in the town in which your adventures start out. A real item can be turned into Magnus form and stored in a blank card. It can then be taken out from the card and will turn back into real form. Features detailed CG cutscenes to tell the story and turn-based battle sequences.</desc>
+		<releasedate>20050401T000000</releasedate>
+		<developer>Monolith Software (JP)</developer>
+		<publisher>Namco</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Baten Kaitos Origins (USA).m3u</path>
+		<name>Baten Kaitos Origins</name>
+		<desc>Baten Kaitos Origins is a prequel to Baten Kaitos: Eternal Wings and the Lost Ocean. Long ago, the evil god Malpercio attempted to destroy the other gods; a large battle of the gods ensued, and following this the people of the world were forced to flee to various islands floating in the sky. 1000 years after the war the people live peacefully in the sky for the most part; but Emperor Olgen, the emperor of one of these islands, has begun a plot to gain control of all the islands.
+
+The main character of the story is Sagi, a "Spirit-born" individual who has been given a secret mission to assassinate Emperor Olgen. In similar fashion to Eternal Wings and the Lost Ocean, you don't actually control Sagi in the game but rather his guardian spirit. Throughout the game you can give Sagi advice, and as you progress the story will unfold revealing the plot that may threaten all of the islands...
+
+Gameplay is similar to Eternal Wings and the Lost Ocean and features a card based battle system. Many items in the world have a "magna essence"; these items can be captured in a card for use later. Some items are useful for attacking and defending, others can help replenish your health, and some can be used to solve puzzles. When a battle begins your deck of cards will be randomly dealt to you; battles are turn based, on each turn you can select cards from those visible to use. Different cards also feature different attributes, and various combos are possible. When a battle is won, your characters will earn experience points, gold, and will also recover all hit points.
+
+The battles in the game aren't random; as you explore the worlds, enemies will be visible on screen in some areas and contact with them begins the battle. In addition to the main story line, numerous sub-quests will also become available by talking with various characters; completing a sub-quest will typically earn a useful item for you as well as provide an opportunity for your characters to level up. You will encounter many types of enemies on both the main quest and subquests; since different enemies may require different strategies, you have the ability to customize the deck of cards you will use in battle. As you gain experience, you will also gain the ability to create multiple decks.</desc>
+		<releasedate>20060223T000000</releasedate>
+		<developer>tri-Crescendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Battalion Wars (USA).rvz</path>
+		<name>Battalion Wars</name>
+		<desc>You play in a fictional world, where war has erupted between the Frontiers and the Tundrans.  You are ordered to command the Frontiers to victory.  Using your troops you can command them to attack, defend, and follow you, as well as garrison them in bunkers, capture bases, and hop in vehicles.  You can switch between a first-person view, and control one of your men to lead in battle, or you can use the top-down view, where you have a good view of the battlefield.  Through an expansive campaign, a number of different nations, and a garrison that would impress even Napoleon, you can see just how fun war may be.</desc>
+		<releasedate>20050919T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Kuju Entertainment</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Beach Spikers - Virtua Beach Volleyball (USA).rvz</path>
+		<name>Beach Spikers</name>
+		<desc>Beach Spikers is an action beach volleyball game for one to four players. Several modes of gameplay are included: arcade (a conversion of the arcade game), world tour (the player creates a team, develops a relationship with their partner to increase her ability, and aims to be the world champs), vs mode (play against other players or the cpu) and a tutorial mode. Several mini-games are also featured, such as beach countdown where teams play volleyball with a bomb and hope it doesn't explode on their side of the net, and beach flags where the player needs to capture a flag before their opponent.
+
+Beach Spikers comes with a number of predefined teams, or the player can create their own team from a variety of female athletes. Each character can be customized in appearance as well, from hair and skin color to uniform.</desc>
+		<releasedate>20020812T000000</releasedate>
+		<developer>SEGA AM2</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./BMX XXX (USA).rvz</path>
+		<name>BMX XXX</name>
+		<desc>Slightly unusual for a tricks/stunt game, BMX XXX adds a twist to its genre by employing themes involving foul language, nudity and toilet humour.
+
+The "Hardcore Tour" mode has you playing the levels, pulling off tricks and completing goals to unlock things such as new levels or stripper videos. The goals are of the odd variety, including things like collecting yellow snow for an icecream man, or gathering empty cans for a homeless guy. Also have to watch out for a health bar which accounts for your injuries and can make you start over levels if you run out of it.
+
+Do well enough in the game and you unlock a topless mode, where the riders are all.. well.. 
+
+There's also a 'create-a-ride' mode, and a two player split screen option, with different games of its own. The game plays on Acclaim's own Dave Mirra series' engine.</desc>
+		<developer>Z-Axis</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Chibi-Robo! Plug into Adventure! (USA).rvz</path>
+		<name>Chibi-Robo! Plug into Adventure!</name>
+		<desc>Gamers take control of the Chibi Robo, a pint-sized machine designed specifically to take care of a family's house. The robot needs to keep the house "happy." To do that, Chibi must walk around the home and clean it up, interact with other machines and people, and even -- according to the storyline - stop a group of bumbling thieves from making off with precious valuables. An electricity counter located in the bottom-right corner of the screen constantly counts down. When Chibi is getting low, players will want to recharge. The game features a day and night system, where days last about 10 minutes and nights the same. The environments slightly change depending on the time of day. For instance, a character not available in the day might be sleeping on the couch at night, and robots normally roaming the level in the afternoon might be gone in the evening.</desc>
+		<releasedate>20060208T000000</releasedate>
+		<developer>Skip</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./F-Zero GX (USA).rvz</path>
+		<name>F-Zero GX</name>
+		<desc>The classic Nintendo franchise that has inspired countless futuristic racing games returns with F-Zero GX on the Nintendo GameCube. Long-time rival Sega collaborated with Nintendo to redefine the futuristic racing genre with intense competition, blazing speeds, and brilliant track designs. F-Zero GX offers 20 different tracks and over 30 unique pilots, as well as a custom craft editor where players can create their own vehicle. Multiple game modes including Grand Prix, Time Attack, Versus mode, and the all new challenging story mode offer a multitude of alternatives to traditional racing. Players can laso save their game data on a memory card and use it to race custom vehicles in the arcade version of F-Zero GX.</desc>
+		<releasedate>20030825T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Fire Emblem - Path of Radiance (USA).rvz</path>
+		<name>Fire Emblem : Path of Radiance</name>
+		<desc>First console installment of the strategy-RPG series since the SNES days. Previously released on Famicom (Japan-only), Super Famicom (Japan-only), and Game Boy Advance, Fire Emblem leaves the 2D overhead maps of old behind to serve up 3D villages, fields, and caves, and polygonal battle sequences. The continent of Tellius is divided into humans and half-man/half-beast demi-humans. These two races have battled for centuries and only recently established an uneasy peace. Now, a new force threatens to tear apart the seven kingdoms and reignite the flames of war. Joining the Fire Emblem ranks are new units, such as such as the shape-shifting laguz who transform into beasts to attack their foes. Additionally, characters can now learn unique skills as they gain experience, giving players even more ways to customize their strategy.</desc>
+		<releasedate>20051017T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Geist (USA).rvz</path>
+		<name>Geist</name>
+		<desc>John Raimi is assigned to infiltrate the Volks Corporation in Southern France. This corporation specializes in weapons but has been conducting bizarre experiments. John becomes a part of one of those experiments, and his spirit is separated from his body. As a ghost, he must possess other beings to find out what happened to his body. John has to find his body before it perishes.
+
+Players start the game as John Raimi in human form. The game plays as though it is a regular first-person shooter. Players in human form can strafe, aim, run, and shoot enemies. In spirit form, they must possess people or animals to keep from being pulled into the afterlife; they can also drain the life from plants. To possess a being, first players have to frighten it. Players achieve this by possessing objects in the environment and making them do strange things.</desc>
+		<releasedate>20050815T000000</releasedate>
+		<developer>n-Space</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Kirby Air Ride (USA).rvz</path>
+		<name>Kirby Air Ride</name>
+		<desc>Kirby arrives on the Nintendo GameCube at warp speed in his first-ever racing game. Based on the same principles as games like Super Smash Brothers and past Kirby titles, Kirby Air Ride offers an entirely new approach to the racing genre. The ultra-easy controls give Kirby Air Ride instant playability no matter how skilled the players may be. You control Kirby with the analog stick and the A button -- that's it. The stick steers the character left and right (he accelerates perpetually) and the A button when pressed slows him down and when released delivers a temporary speed boost. The idea is to hold the button down around corners, drift them, and then shoot out with a burst of speed. The game features a four-player split-screen mode and LAN support for link-up play.</desc>
+		<releasedate>20030711T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Luigi's Mansion (USA).rvz</path>
+		<name>Luigi's Mansion</name>
+		<desc>Luigi's Mansion pits you as Luigi, Mario's forgotten brother.
+
+Luigi, while checking his mail, found out he won a mansion in a contest.  What's weird, is he never entered any contest to begin with.  Being the curious person he is, he calls up his brother, Mario, and asks to meet him at the house.
+
+Luigi sets forth through a dark and scary jungle to find the house, but sees that Mario is nowhere to be found.  Puzzled, Luigi enters the mansion, only to encounter ghosts.  He meets up with a scientist, Professor E. Gadd, who explains the situation and hands over the Poltergust 3000.  Luigi must now make his way through the mansion's many rooms, sucking up as many ghosts as he can.
+
+As you explore, you must solve mysteries, collect cash/gems/jewels/coins, and encounter boss characters.  Luigi's vacuum has the ability to suck up ghosts that have inhabited this strange mansion.  However, the ghosts will not give up so easily.  You must struggle with them and pull them back to catch your prey with your trusty vacuum.  As you continue to your goal, you must face off with the deceased denizens of the house and the boos that haunt it, and unlock new rooms with the keys you find along the way.  You can also gain special abilities for your vacuum, such as the ability to shoot fire, water, or ice.  Remember though, treasure is scattered everywhere.  Check all the objects for coins and paper money, and who knows, you may just make enough money for Luigi to buy a mansion of his own...
+
+As you explore the strange mansion, the plot slowly unravels and it becomes apparent that something more sinister is going on in that haunted house.  Will you ever see your lost brother Mario again?</desc>
+		<releasedate>20011117T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Mario Golf - Toadstool Tour (USA).rvz</path>
+		<name>Mario Golf : Toadstool Tour</name>
+		<desc>Hit the links in the Mushroom Kingdom!
+
+Mario, Peach, Yoshi, Donkey Kong and others have tee times reserved in the Mushroom Kingdom! Challenge them to tournaments, or take them on in character matches to collect rings or nab coins! Play on resort-style courses or look out for Chain Chomps, Warp Pipes and Thwomps on the Mushroom Kingdom courses!</desc>
+		<releasedate>20030729T000000</releasedate>
+		<developer>Camelot Software</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./P.N. 03 (USA).rvz</path>
+		<name>P.n.03</name>
+		<desc>The Computer Arms Management System (CAMS) is the basic form of defense for planets against any enemy. But a terrible accident leaves an entire colony dead, and its up to a human to put an end to the out of control system.
+
+Enter Vanessa Z. Schneider, a freelance mercenary, who has been charged with the task of bringing CAMS under control. But she has another mission in hand: revenge for CAMS destruction of her family.
+
+Control Vanessa through the various landscapes in a 3rd person perspective, using her upgradeable abilities to destroy the CAMS, while dodging fire with a range of acrobatic moves.</desc>
+		<releasedate>20030829T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Paper Mario - The Thousand-Year Door (USA).rvz</path>
+		<name>Paper Mario: The Thousand-Year Door</name>
+		<desc>What Sleeps Behind the Door?
+
+Time passes, the pages turn' and a new chapter unfolds in an unfamiliar land! Get ready for a two-dimensional role-playing adventure for the ages as Mario returns to paper form to discover a mystery that sleeps behind an ancient, legendary portal called the Thousand-Year Door. The quest is long, the dangers many, and this time, Mario will have to make full use of his papery qualities just to survive.
+
+Take to the stage! Impressing the crowd builds power for super attacks, but don't disappoint the audience, or you'll pay!
+
+No need to go it alone! You'll need to rely on sidekicks to survive, and even enemies have roles to play?
+
+Don't fold under pressure! Fold into a paper airplane, turn sideways to slip through cracks, and much more.
+
+Stay on your toes! Stamp foes, swing your hammer, and use timely button presses to do damage!</desc>
+		<releasedate>20041011T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Resident Evil - Code - Veronica X (USA).m3u</path>
+		<name>Resident Evil - Code: Veronica X</name>
+		<desc>Direct GameCube port of the Resident Evil/BioHazard side chapter, previously released on Dreamcast and later PS2. This time you play as Claire Redfield from Resident Evil 2. After narrowly surviving the horrific onslaught in Raccoon City, Claire now seeks clues in search of her missing brother, Chris. To her horror, she discovers Umbrella Corporation's insidious activities are not isolated to the remote, mid-western city. Something much larger is going on! Flesh-eating zombies and horrific beasts haunt Claire's every move. Just how far does this twisted conspiracy extend? What is Umbrella Corporation really up to? And who is behind this bio-tech terror? Ships on two discs.</desc>
+		<releasedate>20031202T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Resident Evil Zero (USA).m3u</path>
+		<name>Resident Evil Zero</name>
+		<desc>Before the events of Resident Evil, the residents of Raccoon City lived their lives unaware of the dark fate that surrounded them. Now, along with your S.T.A.R.S. Bravo Team, you're sent in to investigate a series of grisly murders in the area. As Rebecca Chambers, a rookie cop, or Billy Cowen, an escaped convict, you'll fight zombies, solve challenging puzzles, and slowly uncover the truth behind the murders. A new Partner Zapping System lets you quickly switch between each character.</desc>
+		<releasedate>20021112T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Skies of Arcadia Legends (USA).rvz</path>
+		<name>Skies of Arcadia Legends</name>
+		<desc>Enhanced port of the Dreamcast RPG, offering a mix of real-time exploration and turn-based battle sequences. Like the RPGs of old, Final Fantasy and Dragon Warrior, the basic idea is to send a player out into the world to slay groups of enemies, gain experience, buy weapons and items, and accomplish something grand. As lead character Vyse and his trusty female sidekick, Aika, you dock one of the evil Valuan's ships to take it over and grab some loot. As members of the Blue Rogues -- pirates that in Robin Hood fashion give to the poor and steal from the corrupted rich -- it's your whole life. In the process, you stumble into more than you bargained for. The actual gameplay itself revolves around several different devices: turn-based ground and air battles, airship-to-airship duels, and real-time 3D exploration.</desc>
+		<releasedate>20030129T000000</releasedate>
+		<developer>Overworks</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es).rvz</path>
+		<name>Sonic Adventure 2</name>
+		<desc>Sonic and company are back and better than ever in Sonic Adventure 2: Battle for Nintendo GameCube. Dr. Eggman is up to his old tricks, and it's up to Sonic, Tails, and Knuckles to stop him yet again. Sonic Adventure 2: Battle features faster action, all-new two-player games, and a branching storyline that lets you choose to save the world as the Hero side, or conquer it as the Dark side.
+
+Two new playable characters enter the Sonic universe -- a mysterious dark hedgehog called Shadow, and a jewel-thieving bat named Rouge. In the single-player mode, you'll go through more than 30 unique stages, which include everything from a forgotten pyramid, an abandoned military base, and a giant space station. Then there's the expanded two-player mode, which features 12 playable characters competing in new head-to-head games. All of this adds up to Sonic's biggest adventure yet!</desc>
+		<releasedate>20020211T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es).rvz</path>
+		<name>Sonic Adventure DX : Director's Cut</name>
+		<desc>Dr. Eggman is up to his old tricks again, but in this special Director's Cut version, there are a whole lot more of them to trip up Sonic and his pals. Get ready to go on 50 new adventures in the all-new Mission Mode as you strive to dismantle the evil genius' plans to rule the world. There are 12 exciting Bonus Games to unlock in the form of classic Sonic Game Gear titles. Whether you play as Sonic, Tails, Knuckles, Amy Rose, Big the Cat, or E102 Gamma, you'll get a unique adventure every time as each character has their own deep storyline and unique type of gameplay. Don't forget to visit your favorite Chao in the Chao Garden where you can take a break from saving the world and pit your Chao against others in a variety of tournaments.</desc>
+		<releasedate>20030618T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Soulcalibur II (USA).rvz</path>
+		<name>SoulCalibur II</name>
+		<desc>The quest for the all-powerful sword known as Soul Edge continues in Soulcalibur II, as old favorites and exciting new characters compete for the right to wield its power. Featuring seven game modes including Arcade, Time Attack, Survival Mode, Versus Mode, and Team Battle. Unlock and use over 200 different weapons and items in the updated Weapon Master Mode. Exclusive console-specific characters are in different versions of Soulcalibur II. The GameCube version boasts Nintendo's Link, of The Legend of Zelda fame.</desc>
+		<releasedate>20030827T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20240319T001024</lastplayed>
+	</game>
+	<game>
+		<path>./Star Fox - Assault (USA).rvz</path>
+		<name>StarFox : Assault</name>
+		<desc>Team Star Fox is back for more intense combat as they engage a new threat by air and by land. A few years after disaster was barely averted on Dinosaur Planet, Lylat Central Command gets wind of a new threat spreading throughout the solar system. The Star Fox team--composed of classic team members Fox McCloud, Slippy Toad, Peppy Hare, and Falco Lombardi, along with some new faces--is sent in to engage this new enemy. Now, as part of the Star Fox team, you can participate in solo or co-op missions or plug in with up to three other players.</desc>
+		<releasedate>20050214T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Star Fox Adventures (USA) (Rev 1).rvz</path>
+		<name>Star Fox - Adventures</name>
+		<desc>Fox McCloud and his animal compatriots are together again in this journey through time. Unfortunately, none of the old crew is willing to hit the front lines with Fox this time around; Peppy has taken a role in mission support, Slippy has gotten into the world of research and development, while Falco has decided to launch a solo career. This means you'll have to go it alone as Fox, battling enemies, flying combative missions, making discoveries, and more. The story begins when McCloud finds a magical staff, compelling him to leave the land of Arwing to travel the world. Eventually, you'll meet up with a loopy new sidekick named Prince Tricky, learn how to ride on the backs of dinosaurs, fight enemies in hand-to-hand combat, and much more. A bold departure from earlier STAR FOX titles, Dinosaur Planet is a mixture of just about every gaming genre imaginable. Whether you're solving puzzles, mastering flight, getting into bare-knuckle brawls, or making allies, you'll have your hands full with this gargantuan title that's only available for the Nintendo Game Cube.</desc>
+		<releasedate>20020923T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Star Wars - Rogue Squadron II - Rogue Leader (USA).rvz</path>
+		<name>Star Wars : Rogue Squadron II : Rogue Leader</name>
+		<desc>In Star Wars Rogue Squadron II you get the chance to jump into the cockpit of an X-wing and join Luke Skywalker and the Star Wars galaxy's most daring pilots as they return to face off against the Empire. As in the original hit game for N64, you'll relive favorite Star Wars battles including the perilous Death Star trench run, a daring space attack on a Star Destroyer and the legendary battle on the ice planet Hoth. Rogue Leader features stunning, movie like visuals and immerses players in an intense action-arcade experience. Aerial conflict takes place in a variety of craft such as the legendary X-wing, A-wing, and B-wing. For the first time, the game also features on-foot ground combat in missions directly based on or inspired by the original movie trilogy.</desc>
+		<releasedate>20011118T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>Factor 5</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Star Wars - Rogue Squadron III - Rebel Strike (USA).rvz</path>
+		<name>Star Wars : Rogue Squadron III : Rebel Strike</name>
+		<desc>Factor 5's follow-up to the successful Star Wars launch title recreates battles from the first three movies both in the air and on the ground. Pilot your favorite vehicles from the movies such as AT-Sts, B-wings, A-wings, and speederbikes, and navigate them through various places in the Star Wars universe. Participate in multiplayer modes including co-op mode, capture-the-base, endurance mode, and dogfighting. Star Wars Rogue Squadron III: Rebel Strike takes full advantage of the technical capabilities of the Nintendo GameCube supporting HDTV Progressive Scan, and vivid 5-channel Dolby Pro Logic 2 surround sound.</desc>
+		<releasedate>20031024T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>Factor 5</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Tales of Symphonia (USA).m3u</path>
+		<name>Tales Of Symphonia</name>
+		<desc>In a dying village on Sylvarant, legend has it that a Chosen One will one day appear from among the people, and the land will be reborn. Now, you must enter a cel-shaded world in which you command real-time battles. Execute and combine hundreds of special attacks, magic spells, and combos. Each character grows to suit your fighting style, and the storyline changes based on the characters' relationships. The line between good and evil blurs in this immersive adventure where the fate of two interlocked worlds hangs in the balance.</desc>
+		<releasedate>20040713T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Role playing games</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./TimeSplitters - Future Perfect (USA).rvz</path>
+		<name>TimeSplitters: Future Perfect</name>
+		<desc>In TimeSplitters: Future Perfect, humanity is on the brink of destruction by the evil TimeSplitters. With the help of some familiar faces, Cortez--the tough hero from previous installments--must chase a mystery foe across different time periods to trace the origins of the TimeSplitters. As Cortez, you'll have access to weapons, gadgets, characters, and environments that are unique to each time period. You can also correct the mistakes made in the past or team up with past and future versions of yourself in battles.</desc>
+		<releasedate>20050321T000000</releasedate>
+		<developer>Radical Software</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./TimeSplitters 2 (USA).rvz</path>
+		<name>TimeSplitters 2</name>
+		<desc>The evil race of TimeSplitters is traveling back into human history authoring events that are leading to the enslavement of mankind. In control of a motley crew of renegade characters, you must hunt down the TimeSplitters in historical eras like the gangster-ridden 1920s, the lush jungles of Aztec temples, soviet military installations of the Cold War, and futuristic robot factories in space. To end their evil plot, seek and recover the crystals required to seal the rift in time.</desc>
+		<releasedate>20021016T000000</releasedate>
+		<developer>Radical Software</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Wario World (USA).rvz</path>
+		<name>Wario World</name>
+		<desc>He's the good, the bad and the ugly all rolled into one, and now he's 3D. Wario, Mario's jealous rival, plays the hero -- well, kind of -- in his first console adventure. In the depths of Wario's castle lies the plunder of his many adventures on the Game Boy, Game Boy Advance and elsewhere. While Wario kicks back in his crib, enjoying the videogame equivalent of bling-bling, a mysterious black jewel in his trove transforms gems into monsters. His wealth, which was once a source of pride, becomes his greatest foe. Now, Wario must scramble to recover his riches. Developed by Treasure, the game takes the form of a fixed-perspective 3D brawler/platform game, with combo-based attacks and lots of creatures to beat up.</desc>
+		<releasedate>20030624T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./WarioWare, Inc. - Mega Party Game$! (USA).rvz</path>
+		<name>Wario Ware Inc. : Mega Party Game$</name>
+		<desc>Wario is back in the video game biz, and this time the tightfisted microgame master is servin' up some insane party games on Nintendo GameCube. The 200+ hysterical microgames from Wario Ware, Inc.: Mega Microgame$ are making a triumphant return on the big screen, supported by wildly creative multiplayer matches starring Wario's crazy crew of video game developers.</desc>
+		<releasedate>20040406T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Casual Game</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Wave Race - Blue Storm (USA).rvz</path>
+		<name>Wave Race : Blue Storm</name>
+		<desc>Storm Warning!
+
+                Prepare for the wettest, wildest racing ever as Wave Race splashes onto the Nintendo GameCube!</desc>
+		<releasedate>20011118T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-4</players>
+	</game>
+</gameList>

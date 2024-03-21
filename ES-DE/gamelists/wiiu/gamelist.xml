@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Xenoblade Chronicles X (US) (v48).wua</path>
+		<name>Xenoblade Chronicles X</name>
+		<desc>The next massive sci-fi role-playing game from Monolith Soft, creators of Baten Kaitos and Xenoblade Chronicles, comes exclusively to Wii U. In Xenoblade Chronicles X, a terrible intergalactic war leaves just a handful of Earth survivors trying to live in a beautiful yet hostile environment. Players engage in battles against powerful creatures of all forms and sizes using the deep battle system that builds on the triumphs of the team's previous RPG adventures.</desc>
+		<releasedate>20151204T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Monolith Soft</publisher>
+		<genre>Adventure</genre>
+		<players>1-32</players>
+	</game>
+</gameList>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Farland Story FX (Japan) [T-En by Djlpap R2].chd</path>
+		<name>Farland Story FX</name>
+		<desc>Farland Story is the first in the row of successful Japanese strategy RPG games. The main hero of the game is a knight named Arc, who is in love with the beautiful priestess Ferio. One day, when Arc and his best friend Randia are out of town, a hostile army under the command of a mysterious Black Knight invades the town and kidnaps Ferio. Thus begins Arc's quest to defeat the enemies and to rescue his beloved one from their clutches.
+
+Farland Story consists entirely of battles (save cut scenes and the ability to shop if you are near a town after a battle). During battles, you move Arc and his party over the terrain, and attack when there are enemies in range. The party consists of different classes - knights attack with swords, archers specialize in long-ranged combat, priestesses heal, etc. Every attack leads to a counter-attack, from the enemy's side as well as from yours. You gain experience points for every attack, and can level up in the middle of a battle.</desc>
+		<releasedate>19961108T000000</releasedate>
+		<developer>Technical Group Laboratory</developer>
+		<publisher>Technical Group Laboratory</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./God-Fighter Zeroigar (Japan) [T-En by SamIAm &amp; Elmer &amp; Esteban v1.0.1] [n].chd</path>
+		<name>Choushin Heiki Zeroigar</name>
+		<desc>The Galactic Emperor Zemu is conquering one planet after the other, planning to expand his empire to the known limits of the galaxy. The reason for his success are huge robots who fight in his armies, developed with the technology invented by the genius scientist Dr. Lulu. But the doctor understands herself that her inventions have caused misery and destruction to other nations. She runs away, taking design plans for the giant robots with her. She arrives on the Earth (Japan, to be exact) shortly after World War II, and with the help of local scientists, develops a powerful robot, that alone can protect Earth from Zemu's attacks: Super God Trooper Zeroigar!
+
+ Zeroigar is the only shooter for the PC-FX system, continuing the legacy of vertically scrolling shooters from the PC Engine (TurboGrafx) era. The player controls Zeroigar as a plane and as a robot (for boss battles). As in most shooters, power-ups appear frequently. Every level starts with the default weapon, which can be enhanced with these power-ups. Secondary weapons (bombs, torpedoes, etc.) can also be found. A somewhat unusual feature of "Zeroigar" is its leveling-up system. The player is awarded experience points, depending on his performance during a stage. After completing a stage (or after a Game Over screen), the player is able to use those points to increase Zeroigar's parameters (health, defense, weapon power, etc.). The player is given unlimited continues, but he has to begin the level from the first screen each time. Anime-style movies advance the story between levels.</desc>
+		<releasedate>19970808T000000</releasedate>
+		<developer>Fupac</developer>
+		<publisher>NEC</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ruruli Ra Rura (Japan) [T-En by Nekozomb v1-Infinity] [i].chd</path>
+		<name>Rururi Ra Rura</name>
+		<desc>Rururi Ra Rura is a platformer/puzzle game. The player has to find the right way through the vast, maze-like world, using different characters to overcome various obstacles. For example, Axid can use his sword to cut wood or ropes, Reinas uses fire magic to melt ice, etc. As the game progresses, more and more characters will join, each with unique abilities needed to advance, including a frog with long-range jump and a liquid character who can squeeze himself though cracks. Every location has at least one camp, where the player can switch characters.
+
+The large locations have multiple exits, and it is often necessary to return to a location with different characters to unlock new areas or an exit to a new location. There are various enemies in the game, who can be defeated by using physical attacks or character-specific magic. Boss battles are take place on separate screens. There are also plenty of stat-rising and healing items scattered around.</desc>
+		<releasedate>19980920T000000</releasedate>
+		<developer>NEC</developer>
+		<publisher>NEC</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Welcome to Pia Carrot!! We've Been Waiting for You (Japan) [T-En by David Michel &amp; Filler] [Add by BabaJeanmel v1.0] [n].chd</path>
+		<name>Pia Carrot E Ykoso!!</name>
+		<desc>In Pia Carrot e Yokoso! the player controls Yusuke Kinoshita, an 18-year-old Japanese high school student. He intends to have a pleasant summer holiday, but realises that he has no money. Left with no choice, he takes a job in his father's restaurant, "Pia Carrot". And so begins an adventure that's far more exciting than the summer holiday he'd dreamed of: he meets lots of beautiful girls in the restaurant, and has to decide which one is the love of his life...
+The game is a genuine dating simulation, with gameplay that focuses on setting schedules and choosing activities for the protagonist. At the start of each day, the player chooses an action before leaving for work. At work, the player must set up a schedule for Yusuke, sending him to work in different places. After work, it's time to choose which girl to talk to.</desc>
+		<releasedate>19970523T000000</releasedate>
+		<developer>Hunex</developer>
+		<publisher>Cocktail Soft</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+	</game>
+</gameList>

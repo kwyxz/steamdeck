@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Super_Mario_Bros_Wonder.xci</path>
+		<name>Super Mario Bros. Wonder</name>
+		<desc>Find wonder in the next evolution of Mario funClassic Mario side-scrolling gameplay is turned on its head with the addition of Wonder Flowers. These game-changing items trigger spectacular moments you have to see to believe...Witness pipes coming alive, wreak havoc as a giant spiky ball, and see even more unexpected events called Wonder Effects.Pick from heroic Super Mario™ characters and Power-UpsChoose from familiar characters including Mario, Luigi, Peach, Daisy, Yoshi and Toad. Transform into Elephant Mario to use your trunk to trounce enemies with a surprising new Power-Up!Share the wonder with friends and Mario fansTeam up with up to three friends locally* and gather around one Nintendo Switch™ system to experience the game-bending Wonder Effects together as you tackle courses as a team and help each other on your way to the goal.</desc>
+		<releasedate>20231020T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Advance_Wars_1+2_Reboot_Camp.USA.nsp</path>
+		<name>Advance Wars 1+2: Re-Boot Camp</name>
+		<desc>Each CO affects your units in different ways, and they each possess a unique ability that can turn the tide of battle. Do you like to go toe-to-toe, or engage from a distance? Choose the CO that best complements your playstyle!</desc>
+		<releasedate>20230421T000000</releasedate>
+		<developer>Wayforward</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Astral_Chain.Euro.xci</path>
+		<name>Astral Chain</name>
+		<desc>Master multiple combat styles in this synergetic action game!Humanity’s last chance against an interdimensional invasion is a special living weapon called the Legion. As a rookie officer in the elite police task force Neuron, you and your Legion will work together to solve cases and save humankind.The ASTRAL CHAIN game gives you full control over two characters at once for thrilling Synergetic Action, courtesy of PlatinumGames. Alternate between several Legion types and skills to save the world your way.</desc>
+		<releasedate>20190830T000000</releasedate>
+		<developer>PlatinumGames Inc</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Baten_Kaitos_I_II_Remaster.xci</path>
+		<name>Baten Kaitos I &amp; II HD Remaster</name>
+		<desc>Two JRPG masterpieces return. Baten Kaitos: Eternal Wings and the Lost Ocean and Baten Kaitos Origins are back with improved graphics and new features to aid game progression, making them even easier to play!
+A long time ago, there was a great conflict between the evil god and the people. After a fierce battle, the people managed to seal off the evil god, but what was left behind was only a desolate land. The people thus chose to abandon the land and live in the sky.
+Such fairy tales were passed down as legends. At this time, people had wings called Wings of the Heart and lived a peaceful life. It was an era of long-lasting tranquility. ...But the collapse had quietly begun.
+When a young man calls your name, the name of the spirit, the story begins to unfold. A story set on a floating continent in the sky, where thoughts and prayers intersect.
+*Baten Kaitos: Eternal Wings and the Lost Ocean is available with subtitles in English, French, Italian, German and Spanish.
+Baten Kaitos Origins is available with subtitles only in English.</desc>
+		<releasedate>20230914T000000</releasedate>
+		<developer>Logicalbeat</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Mario_vs_Donkey_Kong.USA.nsp</path>
+		<name>Mario vs Donkey Kong</name>
+		<desc>Solve all kinds of puzzles and test your platforming smarts as you try to recover the stolen Mini-Marios in Mario vs. Donkey Kong on Nintendo Switch.</desc>
+		<releasedate>20240216T000000</releasedate>
+		<publisher>Nintendo</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Octopath_Traveller.Euro.xci</path>
+		<name>Octopath Traveler</name>
+		<desc>Choose your fate. Eight stories await. Eight travelers. Eight adventures. Eight roles to play in a new world brought to life by Square Enix. Explore each traveler's story and use their abilities in and out of battle. Will you expand your horizons as the Merchant or track down a traitor as the Warrior? Where will you go? Who will join you? You alone can choose your path.</desc>
+		<releasedate>20180713T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Wild_Guns_Reloaded.USA.xci</path>
+		<name>Wild Guns Reloaded</name>
+		<desc>Wild Guns is a fast-paced arcade-style shooter, mixing the Wild West with steampunk. Play as Clint, Annie, Doris, or Bullet the dog with his sentry drone.</desc>
+		<releasedate>20180417T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Natsume</publisher>
+		<genre>Shooter</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Yoshis_Crafted_World.Euro.xci</path>
+		<name>Yoshi's Crafted World</name>
+		<desc>Jump into a new Yoshi adventure in a world made of everyday objects—like boxes and paper cups! As Yoshi, you'll leap up high, gulp down enemies, and set out on a treasure hunt to find all the different collectables. On the flip side, stages can be played backwards, providing new perspectives to explore and new ways to locate some of the more craftily hidden items!
+
+It all started when Kamek and Baby Bowser set out to steal a gem-set stone. Legend has it that this fabled artifact can grant the bearer their wildest dreams! But when the artifact's gems are sent flying, it falls upon Yoshi and friends to find them. Luckily, saving the day can be cooperative and challenging. Pass a Joy-Con controller to a friend to team up as fellow Yoshis. Also, Mellow mode gives Yoshi wings for a breezier experience, which may come in handy! Finding all the flowers, coins, and Poochy Pups is no small feat! For extra protection, suit up in one of the handicraft costumes you can unlock in-game or by tapping select amiibo figures!</desc>
+		<releasedate>20190329T000000</releasedate>
+		<developer>Good-Feel</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+</gameList>

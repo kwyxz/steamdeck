@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Bangai-O (USA).chd</path>
+		<name>Bangai-O</name>
+		<desc>Ever wanted to just unleash the ultimate weapon? Blow up 500 enemies at once? Cause the ultimate amount of mayhem ever? In true Treasure fashion...you just got that power!
+
+As the pilots of the Bangaioh mech, you've got to stop a mad group from taking over the world by giving them a little dose of insane destruction. Wanna just be crazy and let them kill you? Go ahead...just hit that trigger before it happens...
+
+The Nintendo 64 version was only released in Japan. The Dreamcast version exists in the U.S. and Europe.</desc>
+		<releasedate>20010321T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Entertainment Software Publishing</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Cannon Spike (USA).chd</path>
+		<name>Cannon Spike</name>
+		<desc>Originally an arcade game, this shooter was converted and is now found on the Dreamcast. Somewhat similar in style to Smash T.V. in gameplay, you do battle in ten levels, containing two to four areas each.
+Players can choose from a variety of characters including Mega man (or Rockman) from the Mega man series, Knight Arthur from Ghost 'N' Goblins series, Charlie and Cammy, both from Street Fighter series and B. B. Hood from Darkstalkers as well as two original characters: Shiba and Simone.
+The different characters use slightly different attacks but each share the setup of one regular ranged attack and one powerful ditto as well as one regular and one powerful mêlee attack.</desc>
+		<releasedate>20001115T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Bigben Interactive</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan).chd</path>
+		<name>Capcom vs. SNK 2 Millionaire Fighting 2001</name>
+		<desc>Capcom vs SNK 2: Millionaire Fighting 2001 is the sequel to the fighting game Capcom VS SNK.
+It was originally published on NAOMI terminals in arcades.
+As in the original, players choose a team of fighters from the different Capcom and SNK games and then battle against other teams, winning each battle by beating all of the opponents of the other team.</desc>
+		<releasedate>20010913T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Daytona USA (USA).chd</path>
+		<name>Daytona USA</name>
+		<desc>Just like the arcade version, pick one of three tracks (beginner, advanced, or expert) and either automatic or standard transmission. A pounding music soundtrack kicks in as you are slapped into your car to await the green light. The game offers both a traditional arcade mode with checkpoint time splits and a special PC mode that pits you against the other cars over different race distances. The PC mode also offers more car choices, with a variety of speed, acceleration, and grip characteristics. It even rewards successful players (meaning those finishing first, second, or third in the difficult setting) by offering up to ten more upgraded cars to drive. Once underway, the goal is to work from last to first as smoothly and quickly as possible
+</desc>
+		<releasedate>20010313T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Dead or Alive 2 (USA).chd</path>
+		<name>Dead or Alive 2</name>
+		<desc>The arcade conversion adds an improved tag feature, with new stadiums to fight in, new character moves to play with, and plenty of windows, walls and ledges to fall over and crash through. Unlike Tekken Tag Tournament, however, DOA2 also includes a single player mode, a dodge button (allowing you to move left and right away from attacks), and multi-level arenas.</desc>
+		<releasedate>20000229T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fight</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Grandia II (USA).chd</path>
+		<name>Grandia II</name>
+		<desc>Ryudo has been hired to protect a young priestess who must participate in a ceremony to halt the encroaching rebirth of Valmar, the God of Darkness. Embroiled between the forces of good and evil, Ryudo must follow his destiny and save the people he detests so much.</desc>
+		<releasedate>20001206T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ikaruga (Japan).chd</path>
+		<name>Ikaruga</name>
+		<desc>Vertical shoot-em-up ported from the Naomi Arcade version. Ikaruga is more or less a sequel to Radiant Silvergun by Treasure, on the Sega Saturn.
+Based on a two-colors system, the player has to switch between the black &amp; white sides of his ship during gameplay.
+The black side is immune to black enemy bullets which it consider as bonus, and dies on impact with a white enemy bullets. Your own black bullets damages white enemies twice as more as white bullets. And vice-versa for the white side. Those properties makes a balance between protecting yourself well and killing enemies fast.
+This aspect, combined with specific enemy patterns and a combo system makes Ikaruga an original shoot-em-up with a dose of strategy.</desc>
+		<releasedate>20020905T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Treasure</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Marvel vs. Capcom 2 (USA).chd</path>
+		<name>Marvel vs. Capcom 2</name>
+		<desc>Marvel vs. Capcom 2: New Age of Heroes is the sequel to the 2D fighting game Marvel vs. Capcom: Clash of Super Heroes. 
+The game allows you to tag in all three players (instead of two, while the third is only used for special attacks, in the predecessor).
+There are now up to 56 characters to use (most you have to unlock), including new characters like Jill Valentine from Resident Evil and Tron Bonne from Mega Man Legends.
+Another new gameplay feature allows your team mates to come in during battle and give you a little health boost. This helps in lasting the distance in Survival mode, but they can also be hit by on coming attacks from the enemy.</desc>
+		<releasedate>20000627T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Virgin</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./MSR - Metropolis Street Racer (USA) (Rev A).chd</path>
+		<name>Metropolis Street Racer</name>
+		<desc>Enter a new age of driving, a new form of thinking and feeling, and totally immerse yourself in the most advanced driving game ever created. Your 'Kudos' is the only path to success, since this is a unique test of skill, style and precision, which spans the streets of London, Tokyo and San Francisco. Be astounded by the realism, push your limits round 250+ different circuits, in hundreds of challenging events. Indulge up to 8 people in a unique multiplayer experience, and prepare yourself for the ultimate internet Kudos Challenge. From established racing game developers, Bizarre Creations, and featuring music from the renowned Richard Jacques, this game will change the way you think about driving forever.</desc>
+		<releasedate>20010116T000000</releasedate>
+		<developer>Bizarre Creations</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Project Justice (USA).chd</path>
+		<name>Project Justice</name>
+		<desc>Project Justice is the sequel to Shiritsu Justice Gakuen: Nekketsu Seishun Nikki 2. It once more thrusts you into the shoes of a team of students, trying to find out what is causing all the bizarre events.
+
+Players pick a school to fight for and smash their way through the other schools, questioning them until you find out what is happening. The gameplay is very similar in style to the original Rival Schools, featuring bombastic special moves and team-up attacks, along with the same, highly caricatured students.</desc>
+		<releasedate>20010516T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Fight</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Rent a Hero No.1 (Japan) [T-En by Rent-A-Modders Team v1.0].chd</path>
+		<name>Rent A Hero No.1</name>
+		<desc>Rent A Hero No. 1, a remake of the original Mega Drive game, was released for the Dreamcast in 2000. It features similar events to Rent A Hero, this time adding Rent A Hiroko, a female counterpart of Taro. The fighting engine used for the game is the same used for Sega's Spikeout games and allows the player to receive hints via in-game email.</desc>
+		<releasedate>20000525T000000</releasedate>
+		<developer>Aspect</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Rez (Europe) (En,Ja,Fr,De,Es,It).chd</path>
+		<name>Rez</name>
+		<desc>Rez is a fast-action shooter that takes you deep into the world’s computer network. The “Project K” Network has recently been upgraded to handle the rapid expansion of the information age and the core, known as “Eden,” holds the most advanced artificial intelligence the world has ever seen. Unfortunately, Eden cannot handle the ability to create her own thoughts and buckles under the pressure in an existential breakdown. She is lost deep inside the system, and you’re the only one that can bring her back online, saving the world from utter chaos.
+
+You must blast complex viruses, unlock passwords, and destroy firewall bosses as you search for Eden. Each stage is in a constant state of flux dependent on your shooting techniques, which ultimately control the music and colors of your environment. The deeper you get into the dreamlike cyber world of Rez, your form will evolve or devolve depending on your progress.</desc>
+		<releasedate>20011122T000000</releasedate>
+		<developer>United Game Artists</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Soulcalibur (USA).chd</path>
+		<name>SoulCalibur</name>
+		<desc>A fighting game to end all fighting games.  A sequel to Soul Blade, Soul Calibur takes place in a time inspired by a mixture of 16th-century ancient China and oriental medieval fantasies and legends.  
+
+All characters have weapons and distinct fighting styles with over 100 individual moves per character.  In addition to high, mid, and low attacks, characters can hold/throw, block, and perform special attacks -- one or more of which is deemed "un-blockable" and must be avoided by ducking, jumping, or rotating around your attacker. 
+
+In addition to several locales in which to fight and alternate models/costumes per character, the Dreamcast conversion of Soul Calibur contains many additional features over the arcade coin-op, including hidden characters and locales, a campaign mode, and tournament mode.  There is also a "museum" where you can view character profiles and view motion-captured martial arts demonstrations.</desc>
+		<releasedate>19990909T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Tennis 2K2 (USA) (En,Ja,Fr,De,Es) (Rev A).chd</path>
+		<name>Tennis 2K2</name>
+		<desc>Sequel to the original game which was released two years prior. The games graphics have been improved, and there is a greater roster of players to choose from. The most noteworthy addition is that of female players, such as Monica Seles and Venus and Serena Williams. You cannot however play as a male against a female.
+The gameplay is a lot faster than the original. The players you control move a lot faster, as do the AI computer players. Less diving, but more getting at shots that go behind you and over the shoulder shots.
+
+The game modes from the original are the same, featuring tournament mode, where you play against the pros; exhibition mode for a one-on-one, best-out-of-three game; and world tour mode which now features the option of creating and customizing your own player. Build you player up, buy equipment and hire pros to play in doubles matches with you.</desc>
+		<releasedate>20011023T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+	</game>
+</gameList>

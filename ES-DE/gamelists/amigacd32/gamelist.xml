@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Banshee (Europe) (En,Fr,De,Da).chd</path>
+		<name>Banshee</name>
+		<desc>A vertically-scrolling shoot 'em up from the old school, with similarities to games like 1942 and SWIV. There are lots of big, brash enemy vehicles to take on, plus individual soldiers (these often lie in a pool of blood afterwards, a gruesome sight making full use of AGA graphics) and civilians. Many of the enemies have good hiding places and can emerge surprisingly, Commando-style.
+There are four large levels, which also scroll a small amount horizontally, the idea being that you can evade some opposition. There's a special loop-the-loop type feature available, which can double as an attack or an evasive move.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Bubble and Squeak (Europe).chd</path>
+		<name>Bubble And Squeak</name>
+		<desc>Bubble and Squeak starts off similarly to many other platform games. Controlling a bald child, you move through a scrolling array of ledges, avoiding contact with nasties who release coins when shot. There are hidden areas to find as well.
+Halfway through the first of the 30 levels, you meet Squeak and the full nature of the game starts. Squeak is a blue alien, who must also be guided through the levels. As he can't jump as high as you, he must sometimes be instructed to wait while you flick a switch or otherwise solve the puzzle of how to guide him through. If you stand on top of Squeak you can be launched into an extra-high jump.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Audiogenic Software</developer>
+		<publisher>Audiogenic Software</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Bump 'n' Burn (Europe).chd</path>
+		<name>Bump 'n' Burn</name>
+		<desc>Mario Kart is taken one step further in this racer. The computer racers include Loretta Lâ€™Amour, the Buck-Toothed Beavers, and the uncompromising Colonel Carnage, each of which have individual looking cars, varied weapons, and some attempts at humour and pathos.
+
+The courses are quite lengthy, and are laden with hazards and power-ups such as oil slicks and homing missiles. The computer cars appear to be faster when behind you than when in front â€“ strange.
+
+The handling is deliberately arcadey, with fast acceleration and braking as well as the chance to brake and steer at the same time. The graphics are third-person, with a split-screen option, in the grand Mario Kart / OutRun tradition.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Softeyes</developer>
+		<publisher>Grandslam Entertainment</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Chaos Engine, The (Europe) (Spectacular Voyage).chd</path>
+		<name>The Chaos Engine</name>
+		<desc>A time traveler from the future was stranded in Victorian England, and his knowledge of yet unknown technological inventions was passed to the Royal Society, headed by Baron Fortesque. With the help of this knowledge, Fortesque managed to construct an immensely complex artificial intelligence known as the Chaos Engine. However, creation rebelled against its creator, assimilated its mind, and turned Britain into a war zone populated by mad machines. Mercenaries are willing to enter this dangerous place and put an end to the chaos, hoping for an appropriate reward.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>The Bitmap Brothers</developer>
+		<publisher>Renegade Software</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Classic Lotus Trilogy, The (Europe).chd</path>
+		<name>Lotus Trilogy</name>
+		<desc>This collection features the whole trilogy:
+- Lotus Esprit Turbo Challenge
+- Lotus Turbo Challenge 2
+- Lotus 3: The Ultimate Challenge
+The first game features lap-based racing against 19 other cars. The second game involves driving to checkpoints against the clock, with 8 distinct settings and a full screen single-player mode. The third game adds the RECS course creator, and combines lap-based racing and checkpoint-based racing from the original, with 5 new settings.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Software Design</developer>
+		<publisher>Gremlin Graphics Software</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Deep Core (Europe) (v1.01).chd</path>
+		<name>Deep Core</name>
+		<desc>An underwater nuclear research base has been invaded by a hostile craft. Captain Dawnrazer is sent in to wipe up the aliens and other beings, and that's where you come in. Deep Core is a dark platform adventure with similarities to Gods. There are nine main levels, each of which is split into sub-levels and also has bonus sections leading off from it. Each of the 6 weapons which are on offer can be boosted in power.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Dynafield Systems International</developer>
+		<publisher>International Computer Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Exile (Europe).chd</path>
+		<name>Exile</name>
+		<desc>When a terraforming team on an unexplored planet sends worrying messages to Earth, then doesn't respond at all, a space adventurer is sent to find out what has happened.
+The player takes on the role of a spaceman who has to explore a gigantic extraterrestrial underground network. From the outset, he has a whole range of weapons and powers at his disposal. They move around in a jet pack, which is subject to gravity, wind and its own inertia. Objects are also subject to the laws of physics. When a spaceman dies, he reappears at the last teleportation point. The player must find a way to reach the depths of the planet to save the terraforming team and defeat the evil Triax!</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Audiogenic Software</developer>
+		<publisher>Audiogenic Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Fire &amp; Ice - The Daring Adventures of Cool Coyote (Europe) (En,Fr,De,It).chd</path>
+		<name>Fire And Ice - The Daring Adventures Of Cool Coyote</name>
+		<desc>The background story of Fire &amp; Ice is quick to tell: A coyote (you) runs, throwing ice cubes, through various worlds. In the levels you must jump on platforms and kill your enemies. The enemies (for example, birds and penguins) can be shot with your ice cubes; they become frozen, so you smash them. Sometimes they leave part of a key behind after they're destroyed. The complete key, assembled from all the pieces, opens the door to the next world. 
+
+In this "jump &amp; run" you can also get some power-ups. You can find some coyote puppies; these puppies follow you, are invulnerable, and also shoot enemies. In higher regions you find some snow-flakes; enough of these and you get a great snowball for freezing more enemies on the screen.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Graftgold</developer>
+		<publisher>Renegade Software</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Fury of the Furries (Europe).chd</path>
+		<name>Fury Of The Furries</name>
+		<desc>In Fury of the Furries, you control a cute, round creature called Tiny, who must defeat "the wicked one" who has captured the King, and turned all the Tinies into mindless monsters. Fortunately your Tiny has special powers. It can transform himself into a swimmer, rock eater, fireball spitter, or rope swinger during its quest.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Atreid Concept</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Legends (Europe) (En,Fr,De).chd</path>
+		<name>Legends</name>
+		<desc>Legends is an action-adventure with Zelda-inspired gameplay. The player controls a character pertinent to the time period (an American Indian from 1400 A.D. - America, a knight from medieval England, a Chinese warrior from Imperial China, an Egyptian acolyte from ancient Egypt, and Billy in the alien spaceship).</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Krisalis Software</developer>
+		<publisher>Guildhall Leisure Service</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Morph (Europe).chd</path>
+		<name>Morph</name>
+		<desc>Young Morris Rolph has been trapped in limbo due to a malfunction on Dr Krankenpot's new teleport machine. Now he's been split into his 4 component parts, represented by liquid, gas, a hard ball and a bouncy ball, and he must get through 24 levels (36 on the special A1200 version - mirroring the game's plot-line of improved technology causing more problems for Morris) to retrieve the parts of the machine so it can be rebuilt to bring him back to life.
+
+The gameplay is vaguely influenced by Lemmings, as the levels are populated by lots of points which can't be crossed in all forms - walls, fires, gaps, thornbushes and suchlike. You get a set number of transformations on each level, although extra ones can be picked up at times, and there are heaters and freezers dotted around which cause transformations in some states. All this is done against a time limit. Like Lemmings 2, you can take on the next level in each of the worlds at any time, so you have to be stuck 4 times before you can't progress.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Millennium Interactive</developer>
+		<publisher>Millennium Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Pinball Fantasies (Europe).chd</path>
+		<name>Pinball Fantasies</name>
+		<desc>Like Pinball Dreams, Pinball Fantasies contains four themed tables with various difficulty levels. "Party Land", the table included in the shareware release, is oriented around an amusement park, where the letters of either PARTY or CRAZY must be lit to start a high-scoring event. "Speed Devils" is focused on car racing, and the player must overtake cars to take the lead. "Billion Dollar Gameshow" is a game show-style table where the player attempts to win prizes by achieving certain combinations of ramps. "Stones 'N Bones" is based on a haunted house, where the player must light eight successively more rewarding modes by completing a bank of targets marked STONE-BONE and then cycle continuously through the modes.
+
+All four tables award one extra ball at the instant the highest score in the list is exceeded, and when the match at the end succeeds.
+
+Each table has one special ramp, usually one but with two on Speed Devils, which keeps track of the number of hits as a running total of Cyclones (Party Land), Miles (Speed Devils), Skills (Billion Dollar) or Screams (Stones). The first shot counts for two. Each of these shots is worth 100,000 in the bonus. Except for Party Land, the tables also award special awards at specific numbers.
+
+Each of the four tables has one or two high-scoring rounds that can be started by achieving certain objectives. Specific numbers of Miles and Skills trigger their respective tables' rounds. The scores for these modes, excluding Tower Hunt, are awarded as part of the bonus though not multiplied, and can be lost if the game is tilted.</desc>
+		<developer>Digital Illusions</developer>
+		<publisher>20th Century Fox</publisher>
+		<genre>Pinball</genre>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Pinball Illusions (Europe).chd</path>
+		<name>Pinball Illusions</name>
+		<desc>Pinball Illusions is the successor to the Pinball Fantasies, using an upgraded game engine. The tables are Babewatch, Law &amp; Justice, Extreme Sports and (on PC CD versions) The Vikings. These contain ramps, bonus areas and combo sequences to set up. All the artwork were produced in true 256 colors from the ground up for AGA Amigas and the PC, rather than originating in 32 colors on older Amigas. New to this version is multi-ball: Pinball Illusions supports up to six balls simultaneously, in which case it switches to high resolution mode. CD versions use CD audio for music.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Digital Illusions</developer>
+		<publisher>20th Century Fox</publisher>
+		<genre>Pinball</genre>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Project-X &amp; Ultimate Body Blows (Europe).chd</path>
+		<name>Project-x And Ultimate Body Blows</name>
+		<desc>A compilation of two games: Projet-X, an excellent shoot'em up that, while not very original (the weapon system and some bosses are inevitably reminiscent of the Gradius series), is nevertheless very neat (and very difficult), and Ultimate Body Blows, which combines the two fighting games Body Blows 1 and its successor Body Blows Galactic. Choose from 22 playable characters and fight your way through the various animated environments.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>Compilation</genre>
+	</game>
+	<game>
+		<path>./Roadkill (Europe).chd</path>
+		<name>Roadkill</name>
+		<desc>Set in the future, Roadkill is a racing game featuring all manner of gruesome additions. There are 9 computer opponents in each race, and you must finish in the top 3 every time. Rockets and homing missiles can be collected so as to shoot the rival cars out. The tracks feature in-built hazards and treacherous shortcuts.
+
+Money is a big factor in all of this - the higher you finish in a race, the more you get; each car you destroy gives you more money than the previous one, as you go for the Jackpot and then the Super Jackpot.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Vision Software</developer>
+		<publisher>Acid</publisher>
+		<genre>Race, Driving</genre>
+	</game>
+	<game>
+		<path>./Simon the Sorcerer (Europe).chd</path>
+		<name>Simon The Sorcerer</name>
+		<desc>The story begins with an ordinary teenager, called Simon, who hears his dog, "Chippy", up in in the loft of his house Seeking to investigate, Simon finds that the dog had discovered a spellbook titled "Ye Olde Spellbooke" in an old chest; both the dog and the book had turned up sometime before the story from an unknown location. Simon throws the book onto the floor in contempt, not believing in magic, only for a portal to open above it as a result. Chippy quickly goes through the portal and Simon follows, ending up in another world. After escaping from some goblins who intended to eat Simon, he quickly discovers a house in a village belonging to a wizard called Calypso, along with a letter from him. Through it, Simon learns he was brought to this world to save Calypso from the evil sorcerer, Sordid.
+
+Instructed to become a wizard, Simon is told to seek out wizards in the local tavern, and complete tasks with them. Helping them to acquire a staff, and paying a subscription fee, he then performs tasks for various people, recovering the spell book he lost, as well as locating Sordid's tower. Gaining entry with a potion that shrinks him, he quickly winds up in the tower's garden and finds a mushroom that restores his size. Searching the tower, Simon helps to send some demons back, and uses a teleporter to take him to the Fiery Pits of Rondor, so as to destroy Sordid's wand. Although Simon transforms him into stone, Sordid is revived the moment his wand is destroyed. Surviving an attempt on his life, Simon quickly outwits him, defeats him, and is sent back to his world.
+
+Although he assumes he had a dream, a portal opens in his bedroom, and a large gloved hand appears, taking him back through it.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Adventure Soft</developer>
+		<publisher>Adventure Soft</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Speris Legacy, The (Europe).chd</path>
+		<name>The Speris Legacy</name>
+		<desc>Cho is a young farmer who travels the world in search of adventure, fame, and fortune. He is asked by the king to find out the whereabouts of the evil prince Gallus, overpower him, and bring him back to the king to serve his punishment for burning down the palace and murdering Kane the previous day. If Cho succeeds in his quest, the king will hand the throne over to him. Unfortunately, Cho doesn't have anything to start off with, so he must find some weapons and protection before he starts.
+
+Your quest begins in Sharma City, where the palace resides. You can talk to people to get some hints on what to do and where to go. Along the way you may find some weapons that can be found hidden in treasure cheats or are given to Cho. Some of these weapons include swords for killing enemies, and bombs for blowing up obstacles that get in your way. Some locations have teleports (one-way only) that will get you from one place to another, and you can reveal any hidden items by shooting any flora.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Binary Emotions</developer>
+		<publisher>Team 17</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Super Skidmarks (Europe).chd</path>
+		<name>Super Skidmarks</name>
+		<desc>Experience total rally rage with Super Skidmarks. Race at top speed, slide, scream, and crush car metal over the toughest dirt tracks devised. Choose from a variety of challenging play modes and thrill to simultaneous four-player power. Super Skidmarks features six unique vehicles (bug, 4x4, sports car, compact, grand prix car, and cow -- yes, cow) plus ultimate turbo models of each, 24 of the wildest 3D isometric tracks with twisting gradients, and full and split-screen modes for up to four at once.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Acid</developer>
+		<publisher>Guildhall Leisure Service</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Superfrog (Europe).chd</path>
+		<name>Superfrog</name>
+		<desc>Superfrog is a traditional jump &amp; run platformer. You're -surprise- a frog. Your enemies are all animals - like bees, hedgehogs or snails. You have no weapons.
+The story concerns an unnamed prince, who is turned into a frog by a jealous witch. His princess girlfriend is then abducted by the same witch. Subsequently sulking by the "River O' Despair", the prince chances upon a floating bottle of Lucozade, which confers upon him super powers.
+There are 24 regular levels, divided into six differently-themed worlds. The goal of each level is to collect a set number of coins, and then reach the exit, which will only open if Superfrog has collected enough coins. Extra factors of gameplay include a timer countdown and a number of health points, both of which can be restored by finding bottles of Lucozade among the levels.
+The only way to kill the enemies is to jump on them. Every stage has a time limit. In this limit you have to collect a pre-determined number of coins.
+Each of the six worlds has four stages. Every stage has a password. After all you can type your name into a high score table.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Top Gear 2 (Europe).chd</path>
+		<name>Top Gear 2</name>
+		<desc>This third-person racing game resembles Gremlin's earlier Lotus series, in terms of its general look and feel, right down to the text font used in the game. Your task is to race through 16 countries, each of which features four races, with many real-world circuits recreated in incongruous locations (such as the Monza layout in Ayers Rock, and the old Hockenheim in Vancouver). 
+
+These four-race blocks each represent their own mini-championship, in which you race against 19 cars, needing to finish in the top 10 to continue, and with the top 6 scoring points 10-6-4-3-2-1, and the respective amount of money in thousands. This can be spent on various upgrades, ranging from engine to tires (wet and dry) and from shocks (front, side and rear) to gearboxes. The ideal approach is to buy the more expensive versions ASAP, as you get no saving when upgrading. If you win the four-race championship, you get the next password. 
+
+You get a set amount of nitro boost to use during each race, although bonus nitros, money and instant speed-up token appear on many tracks. Hazards such as puddles, barriers and ramps are also frequent.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+	</game>
+</gameList>

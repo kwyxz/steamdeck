@@ -5,7 +5,7 @@
     <fullname>The 3DO Company - 1993 - 3DO</fullname>
     <path>%ROMPATH%/3do</path>
     <extension>.chd .CHD</extension>
-    <command label="Opera">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/opera_libretro.so %ROM%</command>
+    <command label="Opera (KW)">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/opera_libretro.so %ROM%</command>
     <platform>3do</platform>
     <theme>3do</theme>
   </system>
@@ -14,7 +14,7 @@
     <fullname>Nintendo - 2011 - 3DS</fullname>
     <path>%ROMPATH%/3ds</path>
     <extension>.zip .ZIP .7z .7Z .cci .CCI .3ds .3DS</extension>
-    <command label="Citra (Libretro)">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/citra_libretro.so %ROM%</command>
+    <command label="Citra (KW)">%EMULATOR_CITRAKW% -f %ROM%</command>
     <platform>n3ds</platform>
     <theme>n3ds</theme>
   </system>
@@ -23,7 +23,7 @@
     <fullname>Nintendo - 1999 - 64DD</fullname>
     <path>%ROMPATH%/64dd</path>
     <extension>.z64 .Z64 .ndd .NDD .zip .ZIP</extension>
-    <command label="Mupen64Plus Next">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mupen64plus_next_libretro.so %ROM%</command>
+    <command label="Mupen64Plus (KW)">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/mupen64plus_next_libretro.so %ROM%</command>
     <platform>n64</platform>
     <theme>64dd</theme>
   </system>
@@ -32,7 +32,7 @@
     <fullname>Commodore - 1993 - Amiga CD32</fullname>
     <path>%ROMPATH%/amigacd32</path>
     <extension>.chd .CHD</extension>
-    <command label="PUAE">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/puae_libretro.so %ROM%</command>
+    <command label="PUAE (KW)">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/puae_libretro.so %ROM%</command>
     <platform>amigacd32</platform>
     <theme>amigacd32</theme>
   </system>
@@ -41,7 +41,7 @@
     <fullname>Arcade - 19XX</fullname>
     <path>%ROMPATH%/arcade</path>
     <extension>.7z .7Z .zip .ZIP</extension>
-    <command label="MAME (Standalone)">/usr/bin/bash /home/deck/mame.sh %BASENAME%</command>
+    <command label="MAME (KW)">%EMULATOR_MAMEKW% -verbose -inipath /home/deck/.mame/ -video bgfx -bgfx_path /home/deck/.mame/bgfx -bgfx_backend vulkan -bgfx_screen_chains crt-geom-deluxe %BASENAME%</command>
     <platform>arcade</platform>
     <theme>arcade</theme>
   </system>
@@ -50,7 +50,7 @@
     <fullname>Atari - 1977 - 2600</fullname>
     <path>%ROMPATH%/atari2600</path>
     <extension>.a26 .A26 .zip .ZIP</extension>
-    <command label="Stella">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/stella_libretro.so %ROM%</command>
+    <command label="Stella (KW)">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/stella_libretro.so %ROM%</command>
     <platform>atari2600</platform>
     <theme>atari2600</theme>
   </system>
@@ -59,7 +59,7 @@
     <fullname>Atari - 1982 - 5200</fullname>
     <path>%ROMPATH%/atari5200</path>
     <extension>.a52 .A52 .zip .ZIP</extension>
-    <command label="ProSystem">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/atari800_libretro.so %ROM%</command>
+    <command label="Atari 800 (KW)">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/atari800_libretro.so %ROM%</command>
     <platform>atari5200</platform>
     <theme>atari5200</theme>
   </system>
@@ -68,7 +68,7 @@
     <fullname>Atari - 1986 - 7800</fullname>
     <path>%ROMPATH%/atari7800</path>
     <extension>.a78 .A78 .zip .ZIP</extension>
-    <command label="Stella">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/prosystem_libretro.so %ROM%</command>
+    <command label="ProSystem (KW)">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/prosystem_libretro.so %ROM%</command>
     <platform>atari7800</platform>
     <theme>atari7800</theme>
   </system>
@@ -77,7 +77,8 @@
     <fullname>Atari - 1993 - Jaguar</fullname>
     <path>%ROMPATH%/atarijaguar</path>
     <extension>.j64 .J64 .zip .ZIP</extension>
-    <command label="VirtualJaguar">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/virtualjaguar_libretro.so %ROM%</command>
+    <command label="VirtualJaguar (KW)">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/virtualjaguar_libretro.so %ROM%</command>
+    <command label="BigPEmu (KW)">%EMULATOR_BIGPEMUKW% %ROM%</command>
     <platform>atarijaguar</platform>
     <theme>atarijaguar</theme>
   </system>
@@ -237,7 +238,7 @@
   <system>
     <name>model2</name>
     <fullname>Sega - 199X - Model 2</fullname>
-    <path>%ROMPATH%/model2</path>
+    <path>%ROMPATH%/model2/roms</path>
     <extension>.7z .7Z .zip .ZIP</extension>
     <command label="MAME (Standalone)">/usr/bin/bash /home/deck/mame.sh %BASENAME%</command>
     <platform>arcade</platform>

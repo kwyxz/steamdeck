@@ -1,0 +1,332 @@
+<?xml version="1.0"?>
+<alternativeEmulator>
+	<label>PCSX2 (Standalone)</label>
+</alternativeEmulator>
+<gameList>
+	<game>
+		<path>./Breath of Fire - Dragon Quarter (USA).iso</path>
+		<name>Breath of Fire : Dragon Quarter</name>
+		<desc>Breath of Fire: Dragon Quarter is a radical departure from the previous titles of the Breath of Fire series, and in some ways from standard Japanese-style role-playing games in general. The game is built like a huge dungeon crawler, with no overworld map. The combat is tactical: each character has action points (AP), which can be used to move around the screen during an enemy encounter, and perform a variety of combo attacks. There is no magic in the game, and many of the items found in dungeons are random. All the enemies are visible on screen. Depending on who first initiated a physical contact, the party or the enemies get an extra turn in battles.
+
+The game allows (and even encourages) the player to restart it from the beginning, keeping the items and the party experience. The game also features a special counter - Ryu can use his traditional dragon transformation abilities, but the counter raises with each such transformation, and when the counter reaches 100, the game is over. Raising the D-ratio allows characters to access new areas every time the game is replayed.</desc>
+		<releasedate>20030216T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Burnout Revenge (USA).iso</path>
+		<name>Burnout Revenge</name>
+		<desc>In Burnout Revenge, players compete in a range of racing game types with different aims. These take place within rush-hour traffic, and include circuit racing, Road Rage (where players cause as many rivals to crash as possible within a time limit, or until the player's car is wrecked), Burning Lap (a single-lap, single-racer time attack mode), Eliminator (a circuit race where every thirty seconds, the last-placed racer's car is detonated; the race continues until only one racer is left), and Crash (where the player is placed at a junction with the aim of accumulating as many "Crash Dollars" as possible). A new gameplay feature in Burnout Revenge is the ability to ram same-way small to medium traffic, known as "traffic checking", propelling the rammed car forward; the event in which a "checked" car hits a rival is considered as a Traffic Takedown. Traffic checking is the focus of a new race type, Traffic Attack (whereby a player must earn a set amount of Crash Dollars through checking traffic), which can be used later on.</desc>
+		<releasedate>20050913T000000</releasedate>
+		<developer>Criterion Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Castlevania - Lament of Innocence (USA).iso</path>
+		<name>Castlevania : Lament of Innocence</name>
+		<desc>Konami's whip-wielding, vampire-killing series makes its PlayStation 2 debut with Castlevania: Lament of Innocence. Set in the 11th century, the game traces the origins of the Belmont family through the story of original vampire hunter Leon Belmont.
+ You play Leon Belmont, who was once a Baron for the King. After his betrothed, Sara, was kidnapped and taken to a large castle, Leon asked the Church for permission to command his underlings to attack the castle. Because of the Crusades going on in the East, he is denied such. But because of his love for Sara, he denounces his title and leaves, going with no weapon or clue to the castle. He is stopped by an alchemist named Rinaldo, who was once a vampire-hunter himself. He gives Leon the Whip of Alchemy, offers to help him further in his quest, and sends him on his way.</desc>
+		<releasedate>20031021T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Dawn of Mana (USA).iso</path>
+		<name>Dawn of Mana</name>
+		<desc>Dawn of Mana, as the title suggests, focuses on the origins of Square's Secret of Mana action RPG series, touching upon the genesis of both the Mana Tree and the Sword of Mana. The game takes place on the once idyllic island named Illusia, where the life-giving Mana Tree has dried up and turned to stone. In desperate need of a hero, Illusia calls upon one of its own to save the land from a dire threat. Players will guide this young warrior on an epic quest that will have them adventuring across a completely 3D world for the first time in the series. From majestic plains to towering mountains, the interactive environments in Dawn of Mana offer an assortment of places to visit, characters to meet, and creatures to battle. The combat system once again unfolds in real-time, with players able to jump, slash with a sword, fire projectiles, and even swing a whip that can attach itself to objects.</desc>
+		<releasedate>20070522T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Disaster Report (USA).iso</path>
+		<name>Disaster Report</name>
+		<desc>Keith Miyamoto is a reporter who works for an important newspaper in Los Angeles. In 2005, he travels to an island called Capital City, where he has to get a new job. However, on his way from the airport to the city, a terrible earthquake occurs. The train collapses and Keith finds himself abandoned by the rescue team. Now he has to escape the island, try to save the people stranded on it, and discover the true reasons behind the chaos in the city. But that will be anything but easy. The earthquake continues, and any time Keith steps on a half-collapsed bridge, crawls over a pile of rumble, or climbs a narrow path between ruined houses, the Earth can start trembling...
+
+Disaster Report is a combination of pure adventure and survival horror genres. Controls, inventory management, fixed camera angles and relative vulnerability of the protagonist are reminiscent of Alone in the Dark and similar games, while the complete lack of enemies to fight reminds of a classic adventure. There are many ways to preserve Keith from constant dying. You can find items and combine them into new ones (for example, finding a helmet and a lamp will allow you to build a helmet with a flashlight attached to it). Keith will also need to quench his thirst, so you'll have to find water for him. The water taps found in the game also serve as save points.</desc>
+		<releasedate>20030228T000000</releasedate>
+		<developer>Bigben Interactive</developer>
+		<publisher>Irem</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Fight Club (USA).iso</path>
+		<name>Fight Club</name>
+		<desc>Fight Club is based on David Fincher's film adaption of Chuck Palahniuk's novel of the same name. Fed up with consumerist American culture, a fight club is founded as a new type of therapy through bare-knuckle fighting. The game focuses on the fights and uses many characters and environments from the original story. You can create a new fighter or clone one of the generated characters. There are three general fighting styles to choose from: grappling, kung fu or brawling. The moves range from basic punches to devastating moves with broken bones, ripped clothes and real-time facial deformation. After each successful fight, you earn Character Development Points (CDP's) which can be used to upgrade or heal your character.
+
+Aside from the regular arcade, survival and training mode, there is a story mode in which you need to work your way up as a rookie to become a key player in Project Mayhem in a storyline very loosely based on the original plot. Both the PS2 and Xbox version have an online multiplayer mode as well.</desc>
+		<releasedate>20041116T000000</releasedate>
+		<developer>Genuine Games</developer>
+		<publisher>Sierra</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Final Fight - Streetwise (USA).iso</path>
+		<name>Final Fight : Streetwise</name>
+		<desc>Play as one of four characters alone or with your friend in this traditional beat em up.
+
+Kyle and Cody Travers are brothers who take part in the sport of underground fighting. As Cody Travers' younger brother, Kyle is the star of the underground Metro City fight club, spending nights fighting various other fighters in order to earn enough quick cash to make ends meet. After the end of a fight one evening, Kyle and Cody decide to meet at the local bar to celebrate with some beers and a round of pool; however, Cody has some unspoken business that delays his arrival for an hour. After Kyle arrives at the bar, he plays a game with his girlfriend and bar owner Vanessa Simms, while waiting for Cody. Kyle later finds out that Cody is using a powerful strength-enhancing drug called "glow", which helps the arthritis in his knees. Kyle later discovers that glow is being made by a psychotic priest named Father Bella, who hopes to use the drug to bring about the apocalypse. When Kyle finds Bella on the roof of his church, Cody is with him, mutated by a concentrated dose of glow. It is later revealed that Bella is actually the younger brother of Belger, the antagonist of the original game, just before he and Kyle begin to fight.</desc>
+		<releasedate>20060228T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Gladius (USA).iso</path>
+		<name>Gladius</name>
+		<desc>In the tradition of films like Gladiator and Spartacus comes Gladius, an action RPG taking place in the world of gladiatorial combat. As one of two principal characters, Ursula and Valens, players must train and lead a team of warriors to compete in the 20 coliseums and arenas found in four regions around the world. As a gladiator team trains and fights, warriors become more experienced and eventually develop new abilities.
+ Each battle is fought using a combination of steel, magic, and projectiles as players recruit from a pool of 16 distinct fighter classes, including Imperial Legionaries, Galdr witches, and javelin-throwing Peltasts. Over 400 pieces of equipment can be used in combat, and Gladius offers over 100 customizable characters as players win the certificates required to enter new regions through successful battles.</desc>
+		<releasedate>20031028T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Gradius III and IV (USA).iso</path>
+		<name>Gradius III and IV</name>
+		<desc>Players take control of the InterDimensional Vic Viper ship in a solitary attempt to repel an overwhelming invasion force from the planet Bacterian. The rest of the United Gradius World Forces were destroyed prior to Gradius III because they were "badly outnumbered." So now you're alone, in an attempt to destroy all who dare stand in your way.
+ Gradius III offers a standard One-Player mode, an alternating Two-Player mode, and an Options screen to customize key features. Gradius IV adds a Boss Attack mode, where players go through a timed series of battles with the bosses found throughout the game. Your ship is fully powered-up during the mode, regardless of how many times you may die.
+ The Vic Viper can be powered up through speed-ups, "double" shots that add shots and/or potential directions to fire in, various types of missiles, lasers, and "option" fighters. Option fighters are indestructible orange globes that follow the Vic Viper and add firepower. Multiple levels of difficulty are also included, as well as the option to select which stage to begin on.</desc>
+		<releasedate>20001115T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Gradius V (USA).iso</path>
+		<name>Gradius V</name>
+		<desc>Gradius V is a Japanese-developed shoot 'em up video game published by Konami for the Sony PlayStation 2 video game console in 2004. Gradius V was largely developed under contract by Treasure, who had previously worked on Radiant Silvergun and Ikaruga.
+ The game is set predominantly in outer space where players control a fictional spacecraft called Vic Viper through a continuously scrolling background depicting the territories of Bacterian?an evil empire which serves as the player's enemy
+ The soundtrack was composed by Basiscape composer Hitoshi Sakimoto whose previous video game work includes the soundtrack to the tactical role-playing game Final Fantasy Tactics, the shoot'em up Radiant Silvergun and the action/RPG hybrid Vagrant Story
+</desc>
+		<releasedate>20040914T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Grandia III (USA).m3u</path>
+		<name>Grandia III</name>
+		<desc>The longstanding RPG series returns to PlayStation 2 in this skyward-bound sequel. Players begin in the role of a young man named Yuki, who dreams of becoming an airplane pilot. He soon meets Alfina, a gifted "Communicator" who can actually speak with the "Guardian" gods who protect the world, but who faces some troubles in her own family. The two soon realize that the lands they love are on the brink of destruction, and that together, they may the save the good people of the world and shape its future for generations to come. Grandia III features an enhanced version of the series' distinct battle system, which is designed to combine the tactical empowerment of turn-based decision-making with the immediacy and urgency of real-time battle.</desc>
+		<releasedate>20060214T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Grandia Xtreme (USA).iso</path>
+		<name>Grandia Xtreme</name>
+		<desc>The Spirits, who once protected the world, have gone loose. Running around wildly, they created monsters who disturbed the peace in the world and provoked two mighty nations to start an all-destroying war. After years of battles and pain, the two nations finally decided to sign a peace agreement. Now they wish concentrate together on hunting down and eliminating the insane Spirits. You control a young boy named Evan, who wants to become a Ranger (a fighter who possesses unique abilities), like his father. But before he can be initiated as a Ranger, he has to fulfill an important mission and help to save his world from the Spirits.
+
+Grandia Xtreme is the first Grandia game to be originally released for Playstation 2. Its combat system is virtually the same as in the previous two games, a mixture of strategic planning and combo attacks. Your party members can run around, avoid enemy attacks, and their attack power depends on their distance from the enemies. Grandia Xtreme is heavily based on combat, with more dungeons, more fighting, and less story than the two previous installments of the series.</desc>
+		<releasedate>20021103T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ico (USA).iso</path>
+		<name>ICO</name>
+		<desc>A young boy in a magical world has been born with a strange deformity: large horns that jut out of both sides of his head. The people of his village, fearful of retribution from above, feel they have no choice but to sacrifice this mutant child to appease their gods. To that end, they have taken this boy, named Ico, to a massive, supposedly deserted castle and left him in a giant urn. But when the urn breaks, spilling Ico into the bowels of the fortress, he will soon find his adventure is just beginning. Along the way he'll meet a mysterious princess who has been held captive in the castle for untold years. Although they cannot communicate through speech, they soon forge an unspoken bond, and it is clear that if either of them wants to make it out of the castle alive, their destinies must remain intertwined.</desc>
+		<releasedate>20010924T000000</releasedate>
+		<developer>SCE Japan Studio</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./KOF2 - Maximum Impact II (Japan).iso</path>
+		<name>The King of Fighters 2006</name>
+		<desc>The King of Fighters: Maximum Impact 2 was released in North America as The King of Fighters 2006, and is a sequel to The King of Fighters: Maximum Impact. MI2 brings you back to the team fighting universe of the KOF with the added spin of using a polygonal engine.
+
+All of the characters from the original MI return, and are joined by 4 newcomers and 14 secret guest stars, totaling a whopping 38 characters, each with a unique story mode and dozens of possible costumes.
+
+The story this time deals with the appearance of the evil Jivatma in South Town, where all the heroes converge for their own personal reasons. Gameplay changes include the ability to sidestep and super cancel several moves; additional backgrounds and bonus features can be unlocked after beating the story mode, as well as completing the mission mode and time attack challenges</desc>
+		<releasedate>20060919T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>Ignition Entertainment</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Mark of Kri, The (USA).iso</path>
+		<name>The Mark of Kri</name>
+		<desc>In this action adventure, you play Rau, a warrior hero. Accompanying him is his sacred bird, Kuzo, who helps him by activating items, scouting ahead, and reading ancient scripts. This is a beat 'em up game with many twists. There is a unique targeting system that helps you decide which enemy to attack by pressing the corresponding buttons. Bash your enemies with the game's nice combo system. Rau has several weapons to choose from like his sword, Taiaha, axe, and even a bow. But Rau isn't just a brawny "walk up and beat him up guy", he can also work stealthly, taking out his enemies in single strikes. The cutscenes are hand drawn and animated. There are many items to unlock and other modes of play.</desc>
+		<releasedate>20020729T000000</releasedate>
+		<developer>San Diego</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Maximo - Ghosts to Glory (USA).iso</path>
+		<name>Maximo : Ghosts to Glory</name>
+		<desc>The game is based in the Ghosts'n Goblins universe and features original character designs by Japanese illustrator Susumu Matsushita.
+
+The character is controlled by the player and can move freely within areas by running, jumping, crouching, and performing other various motions. Gameplay revolves around defeating large numbers of enemies, which can be accomplished by attacking with a sword and shield and combos and special moves. Maximo fights wearing armor, if he is hit, he will lose corresponding pieces of armor and eventually be reduced to wearing his boxer shorts, with another hit resulting in him losing a life. If Maximo loses all his lives, he can continue by giving Death Coins to the Grim Reaper. However, every time he loses all his lives, the required cost for a continue increases.</desc>
+		<releasedate>20020213T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Maximo vs Army of Zin (USA).iso</path>
+		<name>Maximo vs Army of Zin</name>
+		<desc>The sequel to Maximo: From Ghosts to Glory, which was loosely based on the classic Ghosts 'n Goblins series, Maximo vs Army of Zin puts players in the role of Maximo, a master swordsman with a penchant for battling undead creatures. The action picks up where Ghosts to Glory left off, as the title hero must abandon his kingdom in order to search for his missing girlfriend. The developers at Capcom promise a more engrossing story this time around and have removed the hub screen, meaning each level flows into the next. There are 26 levels in all spread across six different environments.
+ As in earlier games in the series, Maximo wears boxer shorts beneath his armor. However, the underwear in this game actually serves a functional purpose beyond comic relief. </desc>
+		<releasedate>20040120T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Neo Contra (USA).iso</path>
+		<name>Neo Contra</name>
+		<desc>Neo Contra is the tenth video game in the Contra series by Konami. It was developed by Team Neo Kijirushi, a group of staff members within Konami Computer Entertainment Tokyo, and released for the PlayStation 2 in 2004. The game is a direct follow-up to Contra: Shattered Soldier and is a departure from the traditional scrolling shooter formula from previous games.
+</desc>
+		<releasedate>20041019T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Raw Danger (USA).iso</path>
+		<name>Raw Danger</name>
+		<desc>After the dedication of your new city is washed away in a cataclysmic flood, you find yourself in Raw Danger. Civilization as you know it has collapsed and now you must make your way out of the city while staying dry and warm in a metropolis that now resembles Atlantis. Gamers may take the role of six different people and play through several different storylines as they progress through the game. Each person is influenced by the actions of another. For example, if you place supplies and clothes in a locker the next character you play can find and use those items.
+ The enemy in the game is hypothermia and water. If you remain in wet clothes and out of shelter for too long your body temperature drops and you die. To combat the cold you can locate such items as dry clothes and space heaters throughout the city while you search for a way out. </desc>
+		<releasedate>20070619T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Agetec</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Rogue Galaxy (USA).iso</path>
+		<name>Rogue Galaxy</name>
+		<desc>The development team behind the PlayStation 2's Dark Cloud series returns to the genre with Rogue Galaxy, an original action role-playing game offering an estimated 100 hours of content.
+ Rogue Galaxy is a science fiction role-playing video game developed by Level-5 and published by Sony Computer Entertainment for the PlayStation 2. The game was first released in Japan on December 8, 2005, and later in North America on January 30, 2007. A European release was initially expected in 2006 but after a series of postponements it was released in most European countries on September 5, 2007 and Australia on September 30, 2007. A Director's Cut of the game was also released in Japan on March 15, 2007. This version includes all the added features and improvements of the North American and European localizations.</desc>
+		<releasedate>20070130T000000</releasedate>
+		<developer>Level 5</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Rule of Rose (USA).iso</path>
+		<name>Rule of Rose</name>
+		<desc>Shut the curtains and turn down the lights, Rule of Rose is coming to haunt your PlayStation 2. Featuring 50 minutes of spooky cut-scenes selected by the Annecy 2006 International Animated Film Festival, and musical score by Yutaka Minobe.
+ The events of the game take place in England in the 1930s, and its story crosses the borders between reality and imagination. Jennifer is a young girl who has lost her memory and now finds herself on a bus, holding a storybook given to her by an enigmatic little boy. Following the boy into the dark countryside, Jennifer discovers a strange orphanage. Soon she finds herself trapped in an area controlled by a group of twisted orphan children, who call themselves the Red Crayon Aristocrats. Unwillingly, Jennifer has to obey the rules of this society's hierarchy, re-discover her own past, and distinguish between reality and nightmare...</desc>
+		<releasedate>20060912T000000</releasedate>
+		<developer>Punchline</developer>
+		<publisher>505 Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Rumble Roses (USA).iso</path>
+		<name>Rumble Roses</name>
+		<desc>Konami rolls out a wrestling game for the PS2 where players control an all-vixen cast looking to suplex, dropkick, and fling mud in the faces of their opponents. Rumble Roses features 11 scantly clad, and at times very dirty, female characters. In Mud Mode, players will take on their opponents in a mud wrestling match designed to reveal more than just wrestling expertise. Classic wrestling moves are available, such as suplexes, kicks, and flying elbows, as well as the ability for players to taunt and insult their opponents, which can provide advantages in the ring.
+ A "Super Star" system can offer advantages as well, based on a character's popularity with the crowd. Players are encouraged to develop a persona for their character, and different special moves become available depending on whether they choose to fight dirty or clean in the ring.</desc>
+		<releasedate>20041109T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Rygar - The Legendary Adventure (USA).iso</path>
+		<name>Rygar : The Legendary Adventure</name>
+		<desc>Tecmo revisits a character from the arcades, NES, and Atari Lynx in this new 3D adventure for the PlayStation 2. Players take on the role of legendary warrior Rygar as he fights mythological beasts and foes throughout locales inspired by Ancient Greece. The island of Argus has plunged into chaos with the abduction of Princess Harmonia at the mighty hands of the Titans. Equipped with a multipurpose shield called the Diskarmor, Rygar sets out to free Princess Harmonia from captivity and restore peace to his home.
+ As Rygar advances through shrines, coliseums, and mysterious labyrinths, he will develop new moves and abilities. Rygar can learn to slide to squeeze through narrow passageways, stomp on enemies or objects, push or lift items, and use the Diskarmor to hang from ledges, grapple onto objects and then swing across chasms. Attacks involve pressing various button combinations, the result of which vary depending on the Diskarmor's abilities at the time. Rygar can power-up his magical shield and use it as a projectile weapon as well as for defense.</desc>
+		<releasedate>20021126T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Wanadoo Edition</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shinobi (USA) (En,Ja).iso</path>
+		<name>Shinobi</name>
+		<desc>The legendary ninja returns, haunted by the dead and hindered by the very rage that spurs him on. In Shinobi, you'll play the role of Hotsuma, leader of the Oboro clan, as he battles through the demon-filled streets of a postapocalyptic Tokyo in search of answers. You'll have all the skills of a ninja, including sword and shuriken mastery, Ninja Magic, and the ability to run along walls and scale buildings. With stealth-dash technique, you can chain your attacks together to consecutively destroy hordes of enemies.</desc>
+		<releasedate>20021110T000000</releasedate>
+		<developer>Overworks</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Soulcalibur III (USA).iso</path>
+		<name>Soulcalibur III</name>
+		<desc>Soulcalibur III is a 3D fighting game featuring a variety of characters, each carrying a distinctive weapon and unique fighting style. The basics of the combat is a derived, in different stances, from a combination of Horizontal Attacks, Vertical Attacks, Throws, Kicks and a Soul Charge. Characters engage one another in 1vs1 fights that end when the energy of one side is lost, removed from the ring or run out of time.</desc>
+		<releasedate>20051025T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Star Ocean - Till the End of Time (USA).m3u</path>
+		<name>Star Ocean : Till the End of Time</name>
+		<desc>An attack from an unknown power in space threatens the peace between humans and aliens. The attack forces Fayt Leingod and his friend Sophia Esteed to separate from Fayt's parents and flee from the planet. Now it's up to you to guide these two characters through a variety of side quests and sub-events to find their loved ones. Dress your characters, equip them with weapons, and then conquer the land. Up to three characters can fight and move together on the battlefields.</desc>
+		<releasedate>20030227T000000</releasedate>
+		<developer>Tri-Ace</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Suikoden III (USA).iso</path>
+		<name>Suikoden III</name>
+		<desc>Fifteen years after the events of Suikoden II, the stories of Hugo (the son of a village chief), Chris (the virtuous Knight of Zexen), and Geddoe (the rebellious unit commander) intertwine as they gather the 108 Stars of Destiny. Suikoden III features three different battle systems and three styles of combat in a 3D world. Customize each of your three character's skills, and then pair them together to unleash devastating combo attacks.</desc>
+		<releasedate>20021022T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Suikoden IV (USA).iso</path>
+		<name>Suikoden IV</name>
+		<desc>An orphan boy was brought up in a noble household on the island of Razril, part of a federation known as the Island Nations, which is threatened by their powerful neighbor, the Kooluk Empire. When the boy grows up, he trains together with other young people, hoping to become a knight in the Gaien order. One day, during an escort mission, the knights' ship is attacked by pirates. Through a series of events, the hero is branded with the Rune of Punishment, one of the twenty-seven legendary True Runes. While devastating the enemies, this rune is also bound to deplete its bearer's life. Blamed for the death of his commander, who was unable to withstand the power of the rune, the young knight is exiled from his homeland. He must find a way to use his powers for the good of the Island Nations, fight against a Kooluk invasion, and restore his honor in the process.
+
+Suikoden IV is a prequel to the entire series. The events of the game take place a hundred and fifty years before those of the first game, and the region of the Suikoden universe they occur in are the islands south of Toran. The game retains many classic features of the series: the ability to recruit 108 characters (Stars of Destiny);  building and customization of army headquarters (this time a large ship instead of a castle); emphasis on political issues in the story; the ability to equip runes of various kinds in combat that allow the usage of magic spells, etc. 
+
+The amount of active combatants in the party has been reduced from six to four in this installment. Once again, there are three types of combat in the game: the most frequent turn-based party-vs.-party combat, duels, and tactical battles, which now take place on sea. The player can customize the the naval forces by choosing captains and commanding officers, and assigning to them runic elements. Each element has strengths and weaknesses to another one, and the player must use them tactically to gain the upper hand. Ship placement on the battle grid and attack angles play a role as well.
+
+New to the series is ship navigation - instead of exploring an overworld on foot, the player navigates a ship, discovering new lands and islands. Also for the first time in the series there is voice acting, a fully rotatable camera, and the possibility to navigate the main character from first-person perspective.</desc>
+		<releasedate>20050111T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Suikoden V (USA).iso</path>
+		<name>Suikoden V</name>
+		<desc>Suikoden V, like its predecessors, features unparalleled in-depth gameplay, a riveting storyline as well as the series' trademark 108 Stars of Destiny. Thrust into a time of unbalance and unrest, a dynamic drama unfolds revolving around one of the 27 True Runes, the Sun Rune. Players are tasked to explore the lands of Falena, gather allies and become stronger to ultimately bring back peace and prosperity. While on their quest through rich 3D environments, exciting new secrets of the Suikoden world will be revealed. The game features significant enhancements from all the previous installments of the series, including 6-member battle parties, multiple mini-games and the homebase system, where all of your allies gather together along with new features to create a unique gameplay experience like no other.</desc>
+		<releasedate>20060321T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+</gameList>

@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Fist of the North Star (2005) (SEGA, ARC System Works).chd</path>
+		<name>Fist of the North Star</name>
+		<desc>Hokuto No Ken is probably one of the most interesting games on Atomiswave, both for its fast and brutal gameplay and for the charm of the characters and the story it represents.</desc>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Guilty Gear Isuka (2003) (Sammy, ARC System Works).chd</path>
+		<name>Guilty Gear Isuka</name>
+		<desc>Guilty Gear Isuka introduces new characters, new arenas, and several new franchise firsts. Now, four players can brawl in two-on-two fighting or cooperatively against the computer AI. A new mode lets you customize your own character's appearance, moves, and combos with points earned during matches. Guilty Gear Isuka also features three new characters, all-new arenas, and a side-scrolling Action Game mode. Prove that you're skilled enough to win the tournament, and save humans from the Gear threat.</desc>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Guilty Gear X ver 1.5 (2003) (Sammy, ARC System Works).chd</path>
+		<name>Guilty Gear X Ver. 1.5</name>
+		<desc>Taking place a few weeks after the first game. A new Commander Gear was discovered by the name Dizzy. Worried that a second War would start, another Holy Knights Tournament was started. The person who could capture and kill this Gear would be rewarded 500,000 World Dollars.</desc>
+		<releasedate>20030221T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./King of Fighters Neowave, The (2004) (Sammy, SNK Playmore).chd</path>
+		<name>The King of Fighters Neowave</name>
+		<desc>The King of Fighters: Neowave is a 2D 3-on-3 fighting game in the King of Fighters series, featuring three gameplay styles and new hardware.</desc>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Metal Slug 6 (2006) (SEGA, SNK Playmore).chd</path>
+		<name>Metal Slug 6</name>
+		<desc>Metal Slug 6 returns to the Rebel-Martian alliance featured in Metal Slugs 2, X, and 3, but on a much broader scale. Rather than repeating the previous games' events of the Martians breaking the alliance and the Rebels assisting the player in turn, the player now teams up with the Rebels and Martians to combat an even greater threat.
+
+Metal Slug 6 introduces a new play mechanic dubbed the 'Weapon Stock System'. Two gun power-ups can now be carried at the same time. Players can switch between the two weapons, or simply put them both away in favor of the default weapon. When obtaining a new weapon power-up, it will automatically occupy the inactive slot, or, if both are holstered, replace the less recent weapon of the two.
+The score is now multiplied by powers of 2. The faster the speed at which enemies are killed, the higher the power, as a meter at the bottom of the screen shows. When it says "Max" enemies and destructible objects will drop coins for an extra high score.</desc>
+		<releasedate>20060224T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Neogeo Battle Coliseum (2005) (SEGA, SNK Playmore).chd</path>
+		<name>NeoGeo Battle Coliseum</name>
+		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
+		<releasedate>20050727T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Rumble Fish 2, The (2005) (SEGA, Dimps).chd</path>
+		<name>The Rumble Fish 2</name>
+		<desc>The Rumble Fish 2 uses all of the elements from the first game and adds some new ones.
+
+The Offense and Defense gauges have been divided into three sections each, allowing for more usage of Offensive and Defensive Arts, as well as techniques tied to each gauge. An addition to the system is the Boost Dive, which puts each character into a powered-up state according to their style.
+
+Most characters have had modifications to their movelists in some way, such as new moves, new commands for old moves, and so forth.</desc>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Rumble Fish, The (2004) (Sammy, Dimps).chd</path>
+		<name>The Rumble Fish</name>
+		<desc>The Rumble Fish is a fighting game created by Dimps for the Atomiswave arcade platform. Its most distinguishing quality is its graphics engine, which animates the characters' limbs separately.</desc>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Samurai Spirits Tenkaichi Kenkakuden (2005) (SEGA, SNK Playmore).chd</path>
+		<name>Samurai Shodown 6 - Tale of the World's Greatest Swordsman</name>
+		<desc>Among other series changes, aerial blocking was removed entirely, and the switch-around move, which enabled a player to shift quickly behind the other's back, as well as the dodge (evade, side-step), in which the move virtually brings a semi-3D environment to the defense in attempt to use each sword more effectively.
+
+One can no longer charge one's own "pow" gauge. The off-screen delivery man was omitted entirely from the game. The "CD combo" was added, wherein a player can press the C and D buttons together, triggering a strike that can be followed up by a sequence of button taps.
+
+SNK also added a "suicide" move, wherein one's character forfeits the round. The bonus to this is that the one committing suicide will start the next round with a full "POW" gauge. Certain finishes also enable a "fatality" move in the vein of Mortal Kombat.</desc>
+		<releasedate>20050101T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./King of Fighters XI, The (2005) (SEGA, SNK Playmore).chd</path>
+		<name>The King of Fighters XI</name>
+		<desc>The eleventh game in the KOF series following The King of Fighters 2003. According to Sega: 'For over 10 years, the King of Fighters series has been the choice of game players around the world. The 11th team of fighters continues this tradition. KOF11 is suited for one to two players, with continuous buy-in. Choose from 33 fighters, including 4 new characters. A fifth control button was added to enhance your skills by delivering a devastating blow to your opponent, if hit at the right time. A New Skill Gauge performs a variety of tag-off moves and new attacks. A player can also custom construct a Three-Fighter Tag-Team by selecting three choice combatants.'</desc>
+		<releasedate>20050101T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
+	</game>
+</gameList>

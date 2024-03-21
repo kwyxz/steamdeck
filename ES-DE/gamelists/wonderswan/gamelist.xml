@@ -1,0 +1,1401 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Anchorz Field (Japan).zip</path>
+		<name>Anchorz Field</name>
+		<desc>Anchorz Field is a Strategy game, developed and published by Sammy Studios, which was released in Japan in 1999.</desc>
+		<releasedate>19990624T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Armored Unit (Japan).zip</path>
+		<name>Armored Unit</name>
+		<desc>Armored Unit is a WonderSwan exclusive sci-fi turn-based strategy game. Main gameplay modes are story mode, trial mode, and duel mode. In the story mode the player starts by selecting an armored unit out of several available which vary in type (i.e. knight, ranger, seeker), weapons, and basic stats such as health and energy, after which one progresses through a series of stages backed up by a short dialogue cut-scenes between the stages. The basic movement occurs on a square map field where you can move your armored unit horizontally or vertically. You fight an opponent which is a hidden armored unit, visible only when you are adjacent to it or if you have a radar that can uncover it within a certain radius. Armed with weapons and special attacks based on the type of unit you have selected your goal is to defeat the enemy unit and progress to the next stage. You can fight at random map fields or use weapons of mass destruction to try and hit enemy unit without knowing where exactly it is located. After each stage, you are able to upgrade and edit your current weapon arsenal, or add new weapons and gadgets.</desc>
+		<releasedate>19991118T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Bakusou Dekotora Densetsu for WonderSwan (Japan).zip</path>
+		<name>Bakus Dekotora Densetsu</name>
+		<desc>You are a young man who lives in Japan and likes driving trucks. There is a competition of truck drivers who deliver goods all across the country. Willing to impress your girlfriend Yukie, you decide to participate in the races and to win the title of the best trucker in Japan.
+
+Dekotora is short for "decorated truck", and this racing game consists not only of driving your truck through the highway, trying to be faster than your rivals, but also of buying various stuff for your truck and decorating it. Depending on your results in the races, you can buy truck parts and customize it the way you wish.
+</desc>
+		<releasedate>19991222T000000</releasedate>
+		<developer>Kindle Imagine Develop</developer>
+		<publisher>Human</publisher>
+		<genre>Simulation</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./beatmania for WonderSwan (Japan).zip</path>
+		<name>Beatmania</name>
+		<desc>This is a portable version of beatmania and as such it contains everything one could hope for in such a game, a series of music track (with reproduced vocals!), a lot of buttons to press, and a lot of vinyl to scratch.
+
+After you select the music you want to play you'll have a vertical scroll which will indicate when you should hit one of the left directional buttons along with the music. The game also indicates when you should 'scratch' which should be be familiar to anyone who has played a beatmania arcade game. This refers to the scratching of a record, one might think that the WonderSwan is ill-equiped for such a for of input, well think again! beatmania for WonderSwan included in its packaging a miniature record that could be fitted over the right directional keys to  make scratching more realistic.
+
+As you finish songs you'll on lock more difficult and interesting(?) tunes. The game plays vertically.
+</desc>
+		<releasedate>19990428T000000</releasedate>
+		<developer>ICCE Japan</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Buffers Evolution (Japan).zip</path>
+		<name>Buffers Evolution</name>
+		<desc>In a post-apocalyptic future a gambling syndicate seeks to make a quick buck in the gritty remains of earth. By fusing the best of animal and mechanical traits they create three bestial androids from a bird, a lion, and a rhinoceros. Bets are taken and then the robots are loosed into hostile mazes of scrap metal on old earth. Maybe they'll even make it back alive...
+
+The goal of BUFFERS EVOLUTION is to run through a course while collecting ten parts in the best time possible. The courses are large and vary between jungle scenes, deserts, old factories, and general mechanical wastes. These areas are cased in by electricity to stop the contests from escaping and thereby ruining the entertainment of the masses. This will keep you in the bounds of the course. With the press of a button your character will momentarily turn into a 'buffer', a sharp pisiform metallic object, while being a buffer you can destroy enemies by slamming into them, this will often bounce you in a given direction, which is useful for reaching high ledges. 
+
+Although you do not need to get all the parts to clear an area special items can be accrued by collection parts, while on the course proper these parts will heal any damage you may have taken. Perhaps if you collect all the part in all nine areas you'll have the means to escape you captors? 
+
+Gameplay is reminiscent of Sonic the Hedghog
+ although in those games you race against a countdown while here you are merely trying to get good times.</desc>
+		<releasedate>19991209T000000</releasedate>
+		<developer>Koto</developer>
+		<publisher>Bandai</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan).zip</path>
+		<name>Cardcaptor Sakura - Sakura To Fushigi Na Clow Card</name>
+		<desc>Card Captor Sakura: Sakura to Fushigi na Clow Card is a Role-Playing game, developed by Sims and published by Bandai, which was released in Japan in 1999.</desc>
+		<releasedate>19991202T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>Bandai</publisher>
+		<genre>Role playing games</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Chaos Gear - Michibikareshi Mono (Japan).zip</path>
+		<name>Chaos Gear - Michibikareshi Mono</name>
+		<desc>Chaos Gear: Michibikareshi Mono is a Strategy game, developed by Lay-Up and published by Bandai, which was released in Japan in 1999.</desc>
+		<releasedate>19990527T000000</releasedate>
+		<developer>Lay-Up</developer>
+		<publisher>Bandai</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2) [T-En by Higsby &amp; SpecialAgentApe v1.1].zip</path>
+		<name>Chocobo No Fushigi Na Dungeon</name>
+		<desc>This is the first game in the Chocobo's Dungeon series.  You take on the character of Chocobo and adventure through a randomly created dungeon.
+
+The story evolves from the opening movie when a fellow chocobo is "turned" evil by a crystal he finds in a garden.  When the evil chocobo kicks you into a dungeon, the adventure begins.  Travel through an ever changing dungeon, collecting items and weapons to become more powerful, so you can defeat the increasingly difficult enemies.</desc>
+		<releasedate>19990304T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Bandai</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4).zip</path>
+		<name>Ch Aniki - Otoko No Tamafuda</name>
+		<desc>Cho Aniki makes it's first appearance in a handheld console with Cho Aniki: Otoko no Tamafuda, only this time the game isn't a 2D shooter developed by Masaya, but instead a card-fighting RPG.
+
+You select your character from a roster of Cho Aniki characters and set out to explore it's funky body-building universe and challenge the many npcs for a few rounds of card combat. Win and you get to increase your collection. Special cards can be unlocked by defeating another player in the vs. mode.</desc>
+		<releasedate>20000210T000000</releasedate>
+		<developer>C.P. Brain</developer>
+		<publisher>Bandai</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3).zip</path>
+		<name>Chou Denki Card Battle - Youfu Makai</name>
+		<desc>Chou-Denki Card Battle: Youfu Makai - Kikuchi Shuugyou is a card based simulation game, published by Koubunsha, which was released in Japan in 1999.</desc>
+		<releasedate>19991216T000000</releasedate>
+		<developer>Kobunsha</developer>
+		<publisher>Kobunsha</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Clock Tower for WonderSwan (Japan) (Rev 1).zip</path>
+		<name>Clock Tower</name>
+		<desc>Jennifer and her friends are adopted by a nice lady named Mary one day. They expect to be going to a wonderful new home, at the Barrows Mansion. There they will live with Mary and Mr. Barrows. Unfortunately, something goes terribly wrong and Jennifer's friends are showing up dead one by one.  While this is happening, Mary is missing and Jennifer ends up being chased by a crazed psychopath known only as...Scissorman. 
+
+Now she must survive and get out of the mansion in this point-and-click horror adventure... Being a teenage girl, you have no special abilities at all, just your wits and your will to survive, there are a few enemies that can kill you instantly, but Scissorman is the true horror that will give you trouble.</desc>
+		<releasedate>19991209T000000</releasedate>
+		<developer>Human</developer>
+		<publisher>Naxat Soft</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Crazy Climber (Japan).zip</path>
+		<name>Crazy Climber</name>
+		<desc>Dans la peau de Crazy Climber, grimpez jusqu'au sommet d'une série de bâtiments, où un hélicoptère vous attend pour vous récupérer et vous emmener au bâtiment suivant. Lorsque Climber escalade un bâtiment, il est capable de monter et de se déplacer latéralement, mais il ne peut pas descendre.
+Pendant l'escalade d'un bâtiment, les fenêtres s'ouvrent et se ferment simultanément. Si une fenêtre se ferme sur l'une de ses mains, il perd sa prise. Cependant, si une fenêtre se ferme sur ses deux mains, il tombera et mourra, ce qui entraînera la perte d'une vie. Vous disposez de trois grimpeurs au total, mais un grimpeur supplémentaire vous est attribué tous les 30 000 points.</desc>
+		<releasedate>19990729T000000</releasedate>
+		<developer>Nichibutsu</developer>
+		<publisher>Nichibutsu</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).zip</path>
+		<name>D's Garage 21 - Koubo Game - Tane Wo Maku Tori</name>
+		<desc>The raven has made a friend. But sorrow be to this raven, for this fellow avian migrates, and will not return for seasons. Filled with sadness and regret the raven takes wing. As he soars through his lonely world his tears begin to fall... and water dying flowers. At last he knows what he must do until his friend returns, he will make new friends in the flowers. He will help them grow and spread their seeds. 
+
+Each level in Tane wo Maku Tori contains four pillars bridged by a series of horizontal or vertical rows. These rows are different for each of the three spaces formed by the pillar. The rows may be moved up and down, one set at a time. At the foot of a column, up to three in harder areas, will be a nascent flower. Water drops will fall along the path of the pillars, which will have a different theme for each level, and eventually either fall onto the ground or a flower. Water drops will always move along a bridge if it intersects their path, drops can't go up diagonals. Drops an combine to create larger faster moving drops. Any more than three drops and it will simply fall off the pillar, or bridge, and be of no use.
+
+When a flower gets enough rain drops, or tear drops, it will bloom, when all the flowers on the stage bloom it will be cleared. 
+
+Enemies also roam the stage, gobbling up hydrogen based solution and plants. They follow the same laws as the drops and will move along beams when encountered, however they can go up vertical beams. Should one reach a flower it will nibble at it until dead. This ends the game; however, enemies can be destroyed by three drops combined. 
+
+A time mode is available where the player picks a difficulty level and then plays on the level until a flower is eaten or they run out of time, each completed flower will add to the time. 
+
+A two player mode is available through the Communication Cable
+
+This game is played vertically.</desc>
+		<releasedate>19990502T000000</releasedate>
+		<developer>Ludic</developer>
+		<publisher>Bandai</publisher>
+		<genre>Various</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Densha de Go! (Japan) (Rev 1).zip</path>
+		<name>Densha De Go!</name>
+		<desc>Based on the 1996 arcade game, Densha de Go! was one of the first commercial train-driving simulation games, and went on to spawn numerous successors.
+
+The player can choose from a variety of tracks and trains and will then have to drive the train to the designated stations while sticking to the tight schedule, stopping exactly at the marked positions, obeying all signs and signals, and ensuring passenger safety and comfort.
+
+Whenever the player makes a mistake, points are deducted from a counter which at the start of each round is initialized to a value depending on the selected difficulty. If it reaches zero, the game is over.
+
+The following lines are featured:
+
+1. Sagano Main Line (Sanin Line) from Kameoka to Kyoto
+2. Keihin-Tohoku Line from Shinagawa to Yokohama
+3. Tokaido Main Line (JR Kyoto Line) from Kyoto to Osaka
+4. Yamanote Line (Inner Circle) from Shibuya to Tokyo Station
+5. Tokaido Main Line EX from Takatsuki to Osaka, part of the rapid Tokaido Main Line from the original version, but this time with stops at every station (Windows only)
+6. Sagano Line EX from Kameoka to Kyoto, without the shortcut from Saga-Arashiyama to Tambaguchi from the original version (Windows only)</desc>
+		<releasedate>19990304T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Densha de Go! 2 (Japan).zip</path>
+		<name>Densha De Go! 2</name>
+		<desc>The 1998 sequel of the popular Japanese train driving game by Taito has once again been ported to various home systems. For the first time on the PlayStation, it is possible to drive through the snow, and take a seat in the cockpit of a Shinkansen bullet train.
+
+The gameplay is more arcade than simulation. The focus is on stopping at the stations at the perfect moment and position, keeping up with the schedule, obeying signals and speed limits, and ensuring the safety and comfort of the passengers. Mistakes result in points being deducted from a counter. If it reaches 0, the game is over.
+
+The following routes are available:
+
+1. Hokuhoku Line from Naoetsu to Uragawara
+2. Tohoku Shinkansen from Morioka to Shin-Hanamaki
+3. Akita Shinkansen from Akita to Omagari
+4. Keihin-Tohoku Line from Shinagawa to Ueno
+5. Osaka Loop Line from Osaka to Tennoji (not in the Arcade original)
+6. Kagoshima Main Line from Hakata to Kokura (only in PlayStation and Windows versions)</desc>
+		<releasedate>19991007T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>CyberFront Corporation</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Digimon - Ver. WonderSwan (Hong Kong) (En).zip</path>
+		<name>Digimon - Ver. Wonderswan</name>
+		<desc>Digimon Ver. WonderSwan is a Japanese handheld version of the original Tamagotchi-like Digimon pet for the WonderSwan. It includes all of the original Digimon from the five different pet devices. In this game the player can have up to five different Digim</desc>
+		<releasedate>19990325T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>Bandai</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Digimon Adventure - Anode Tamer (Japan).zip</path>
+		<name>Digimon Adventure - Anode Tamer</name>
+		<desc>The game is based on the popular manga series Digimon, which follows the adventures of children who can gain access into the digital world and fight digital monsters there. In this game, the evil Milenniamon has kidnapped several children and is planning to take control over the Digiworld. One of the good monsters, Agumon, escaped, and transported the hero Ryou to the Digiworld. Now Ryou has to fight monsters, capture them, and assemble an army to overthrow Milenniamon and to rescue his friends.
+
+The gameplay involves mainly hunting monsters in dungeons and then sending them to fight other monsters. In the town you can buy supplies and take care of your monsters. The battles are turn-based, and you can move freely over the battle field. Once a contact with an enemy is initiated, an automatic battle sequence follows.</desc>
+		<releasedate>19991216T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>Bandai</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Digimon Adventure - Cathode Tamer (Japan).zip</path>
+		<name>Digimon Adventure - Cathode Tamer</name>
+		<desc>This is the second game in Digimon Adventure series, a kind of an add-on to  Anode Tamer. The game is based on the popular manga Digimon. The hero, a boy named Ryou, has to travel to digital world in order to free his friends from the clutches of the evil digital monster Milenniamon.
+
+The story of this game is identical to that of "Anode Tamer", and gameplay mechanics are exactly the same: you descend into dungeons to fight monsters in turn-based style, capture the monsters after the battles and then send them to fight new ones. The difference between the two games are the monsters themselves: "Cathode Tamers" features a brand new set of monsters, and since the beginning of the game you encounter different foes. The full collection of monsters can be achieved only if you complete both games.</desc>
+		<releasedate>20000120T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>Bandai</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Digital Partner (Japan).zip</path>
+		<name>Digital Partner</name>
+		<desc>Digital Partner is a Strategy game, developed by Tom Create and published by Bandai, which was released in Japan in 2000.</desc>
+		<releasedate>20000505T000000</releasedate>
+		<developer>Tom Create</developer>
+		<publisher>Bandai</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Dokodemo Hamster (Japan).zip</path>
+		<name>Dokodemo Hamster</name>
+		<desc>In this game, you are the owner of a hamster. Your hamster is inside a cage, and is living its life in real time, regardless of your actions, walking around, sleeping, etc. However, you can do many things to help your hamster feel better. There is a list of topics you can "discuss" with the hamster: for example, you can order it to run inside a wheel, or ask it whether it is hungry or not. You can feed it some typical hamster food, clean the cage from time to time, and even write e-mails to your hamster. Depending on your actions the disposition of the hamster will change.</desc>
+		<releasedate>20000106T000000</releasedate>
+		<developer>BEC</developer>
+		<publisher>BEC</publisher>
+		<genre>Simulation</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Engacho! for WonderSwan (Japan).zip</path>
+		<name>Engacho! for Wonderswan</name>
+		<desc>Engacho is based on a popular Japanese children game. You play a little boy named Sunzuki, who wants to prove to his angry father that he is not a coward and can stand up against the terrible monsters of the Oops Five group. Those five guys are extremely ugly and can contaminate you with an awful disease the moment they touch you. So you should outsmart them and run away before they can catch you. The gameplay is turn-based.</desc>
+		<releasedate>19991028T000000</releasedate>
+		<developer>Nihon Application</developer>
+		<publisher>Nihon Application</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan).zip</path>
+		<name>Fever - Sankyo Koushiki Pachinko Simulation</name>
+		<desc>Fever is a pachinko simulator. Pachinko is a Japanese  cross between a pinball case and a slot machine. This game supplies the player with a number of different pachinko machines, with rotating slot numbers. These can be either in a classic form of rotating wheels or an interactive digital screen. As the balls pop around the pachinko machine they'll land in different areas and effect your earnings. The player can always choose the speed at which balls are being launched onto the field which will change how they land.
+
+This simulator also has a collection hall where the player can use his pachinko earnings to buy gambling machines and related memorabilia. These can be viewed along with information about their history.</desc>
+		<releasedate>19991209T000000</releasedate>
+		<developer>BEC</developer>
+		<publisher>BEC</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Final Lap 2000 (Japan).zip</path>
+		<name>Final Lap 2000</name>
+		<desc>Final Lap 2000 is the first hand-held incarnation of Namco's Final Lap racing games. 
+
+This version presents a number of modes, a track building feature, and only one vehicle; an open-wheel car.
+
+The modes are as follows:
+
+1. World Tour: in the mode the player will compete against five other racers and progress through many tracks located around the world. Although the graphics are not  very descriptive of location, the course's shape and curves will always change.
+
+2. Arcade: in this classic mode you'll race against a single opponent through one of the many global tracks of your choosing.
+
+3. Time Trial: here the player will attempt to make the best time on a course of his choosing. The player is the only car on the track for this mode.
+
+The track editing feature can only be used to make simple tracks at the start of the game; however, playing the World Tour will unlock new track parts based on your performance. Using the communication cable players can transfer tracks between different copies of Final Lap 2000.</desc>
+		<releasedate>20000323T000000</releasedate>
+		<developer>Soft Machine</developer>
+		<publisher>Bandai</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Fire Pro Wrestling for WonderSwan (Japan) (Rev 5).zip</path>
+		<name>Fire Pro Wrestling for WonderSwan</name>
+		<desc>The first North American release of the Fire Pro Wrestling series comes to the Game Boy Advance.
+
+Fire Pro Wrestling has a stacked roster, comprised of many not-quite-copyright-infringing wrestlers like "The Bionic Man" Steve Majors ("Stone Cold" Steve Austin) and Axe Duggan (Hulk Hogan), making WCW vs. WWF vs. ECW matches possible.  The controls are much more than the typical "mash buttons until something happens" that were so popular in earlier wrestling games, instead relying on timing to properly execute a move or hold.</desc>
+		<releasedate>20000821T000000</releasedate>
+		<developer>Shimada Kikaku</developer>
+		<publisher>Kaga Tech</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Fishing Freaks - Bass Rise for WonderSwan (Japan).zip</path>
+		<name>Fishing Freaks - Bassrise For Wonderswan</name>
+		<desc>Following in the footsteps of the fishing simulation/rpg Bass Rise this portable remake. Although one can no longer select the gender of  the character there  still remains a great variety of lures and poles to select. As well as five locations. Once a location has been selected a prompt to fill the tacklebox with the lures that and rod that might be most appropriate for the environment. The player then selects where to want to stand on the shore and then the ideal location for a cast.
+
+The view then switches to a closer overhead of the body of water and the player's avatar. A power meter sways over head and should the play manage to stop the meter at just the right point he will be rewarded with his cast going closer to where he intended. Once in the water the player's lure will always be in the center of the screen.
+
+Catching fish is no easy matter as the PlayStation version frequently points out; it is all about finesse. The player will have to entice the fish with wiggles and jolts from the lure... this is of course assuming that the player has selected the right lure. Once a fish is caught a small screen will pop up within the screen, showing a close up of the fish's shadow on the surface of the water. The player will get a chance to see if he hooked something good should the fish jump, as they reel it in.
+
+Records can be shared by means of the Communication Cable.</desc>
+		<releasedate>20000224T000000</releasedate>
+		<developer>BEC</developer>
+		<publisher>BEC</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./From TV Animation One Piece - Mezase Kaizoku Ou! (Japan).zip</path>
+		<name>From Tv Animation One Piece - Mezase Kaizoku Ou!</name>
+		<desc>From TV Animation One Piece: Mezase Kaizoku Ou! is an Adventure game, developed and published by Bandai, which was released in Japan in 2000.</desc>
+		<releasedate>20000719T000000</releasedate>
+		<developer>Soft Machine</developer>
+		<publisher>Bandai</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ganso Jajamaru-kun (Japan).zip</path>
+		<name>Ganso Jajamaru-kun</name>
+		<desc>Ganso JaJaMaru-kun is a remake of the NES platformer Ninja JaJaMaru-kun. It includes new levels and bosses that stretch the gameplay in novel ways.
+
+Lord Namazu Dayuu has kidnapped JaJaMaru-kun's beloved Princess Sakura. This piratical lord is no laughing matter, despite his sadistically gleeful disposition, he possess an army of creatures drawn from Japanese folklore to prevent you from reuniting with your princess ever again.
+
+The game is quite simple and plays, for the most part, much like its predecessor. Jajamaru-kun begins on the bottom of a three tiered horizontal field. On each level of this field there are two enemies on each tier. The tiers have weak brick points in that Jajamaru-kun can break by hitting them with his head while, a common trait for arcade heroes. Once a passage is made Jajamaru-kun can move through them as can enemies. To clear a level all enemies must be defeated, most enemies can be killed by having a shuriken thrown at them, the only weapon available without a power-up, some need to be stunned either by falling through a hole in a tier or by being jumped on. Enemy projectiles can also be canceled out by the shuriken. Being touched by an enemy projectile, or in a few cases an enemies body, will instantly kill Jajamaru-kun. After an enemy has been killed its spirit will ascend, you can grab this for extra points.
+
+Each of these stages has a leader who will posses some special attribute and present a new sprite. After the level in which the leader appears he/she/it will show up in the following levels as a standard level enemy often a bit weaker. Each stage gives you two minutes to complete it, except bosses and special stages. When about one minute remains Lord Namazu will send an orb of fire onto the stage that will slowly home after Jajamaru-kun.
+
+You start the game with two extra lives and three continues. More lives can be found in the game, or by accruing points.  
+
+There are four levels in each game area, village, graveyard, castle and town, seaside and ship, and the hidden island. However it is not enough to kill all the enemies in a stage to progress to the next area. Each level has its a cherry blossom that will descend from the top of the screen at a certain point. If you should kill all the enemies before the blossom arrives or the blossom floats of the bottom of the screen you'll go onto the next level but have to return to get it later, in this case all the enemies will have returned. Collecting all four cherry blossoms will allow you to go onto a special stage and the area boss.
+
+Each game area has one special stage. These stages use the familiar tiers but now they scroll upwards and are littered with traps and hazards; such as, wheels of fire, falling logs, spikes, conveyor belts, etc.. As the scrolling is automatic should Jajamaru-kun not keep up and fall off the bottom of the screen he will die, touching any deadly hazard will also dispatch our hero. Should the player reach the top of the tiers he will be confronted with a gate that his shuriken will open, this leads to a boss.
+
+Each area boss is attacked in a unique boxed in area, sometimes with platforms. The final boss is the only area where Jajamaru-kun may throw his shuriken vertically. There are no power-ups in boss rooms.
+
+The power-ups that can be found in the bricks between tiers wear out after a certain amount of time, with the exception of the frog. They will appear on the upper right hand corner of the screen so you know which ones you've picked up recently, getting the frog clears this list.
+
+1. Invisibility potion: an invisible ninja is an unstoppable ninja. Once a ninja takes the potion you'll become an ninja outline and can go through enemies. Nothing can harm you, but that doesn't limit your ability to dispatch foes.
+
+2. Ninja Cart: this is a small velocoped for ninja, one in this cart you'll be able to kill enemies by barreling into them, even though it doesn't make physical sense you can still jump in this cart.
+
+3. Big Shuriken: this will make your ninja stars about as big as you are, easily defeating evasive enemies
+
+4. Long Distance: this weapon upgrade will make your attacks go across the entire screen.
+
+5. Katana: a fearsome sword, the katana can do away with any foe, regardless of if they have armor or are to low to hit with your normal attack. The katana also destroys incoming projectiles, however, this blade has a very limited range so be careful.
+
+6. Boomerang: causes your shuriken to fly back at you, it wont harm you, but it is great for picking off foes that are weak from behind.
+
+7. Speed increase: this spherical power-up increases Jajamaru-kun speed to the the peril of his enemies, and himself.
+
+8. Watch: this item will give you more time.
+
+9. Extra Ninja: this item will grant you an extra life, very rare! They do not count as a collected item.
+
+10. Inscribed Coin: these coins available in white and black are worth varying amounts of points. They do not count as a collected item.
+
+11. Bombs: these items look like two speed boost orbs, or the wheels of the cart, however, they are a trap. Jumping into these means instant death for Jajamaru-kun
+
+12. Trusty Frog: Jajamaru-kun's noble steed, a humongous man-eating frog. Should you collect four power-ups instead of receiving the power of the fourth you will get to ride on your gigantic frog and eat all the enemies on the stage. This can be dangerous though if you have not yet gotten the stages petal as once on the frog it won't show up. There is no time limit on how long the frog stays, unless of course the time runs out entirely before you gobble up all the enemies. Once a stage ends you will have to repeat the item collection process to ride the frog again. Items in your collection carry over between stages so you can strategically pick a fourth on a stage where you need the frog.</desc>
+		<releasedate>19990415T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Glocal Hexcite (Japan).zip</path>
+		<name>Glocal Hexcite</name>
+		<desc>Hexcite: The Shapes of Victory is a puzzle game played on a honeycomb-like playing field. In the center is a hexagon; six more hexagons make up the entire playing field. Because of the turn-based gameplay, two people can play using only one system. Two-player link mode is also supported.
+
+Players begin by placing a geometric shape (triangle, hexagon, parallelogram, etc.) in the center hexagon. The CPU or human opponent then places another shape adjacent (and touching completely on one side) to a previously played piece. Players score bonus points for completing any full hexagon. Much of the strategy in this game is in tricking your opponent into letting you take a bonus. Bonuses are also scored for placing a piece so that two sides will contribute a score. The game is over when all pieces have been played, or if the remaining pieces cannot be played. In that case points are subtracted for any remaining pieces, based on the complexity of the shape (twice as many points are subtracted for a hexagon compared to a triangle).</desc>
+		<releasedate>20000629T000000</releasedate>
+		<developer>Gu Inc</developer>
+		<publisher>Success</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Gomoku Narabe &amp; Reversi - Touryuumon (Japan).zip</path>
+		<name>Gomoku Narabe And Reversi Touryuumon</name>
+		<desc>A simple collection of two classic puzzle games Gomoku Narabe &amp; Reversi/Othello.
+
+Gomoku Narabe, is a ancient Japanese game the title of which means "five stones in a row". The goal of the game is to place five tokens of your color (white or black) in a row. Of course your opponent will be trying to block you. The game ends when  a player achieves tis penta-worthy task. The board is 14 x 14.
+
+Reversi is a game commonly know under the name that it is marketed by Pressman, Othello. In reversi ones goal is to flip the opponents tiles (white or black) by surrounding the opposing token(s) on either end with your own. The board is 8x8.
+
+A challenge mode approaches! You can battle your way through ranks of board game master beginning with a horrid smiling goblin and moving up to a mysterious old guru.
+
+Two players can play the game through the Communication Cable, which is odd as it would seem feasible to play the games on a single system, but what can ya do?</desc>
+		<releasedate>20000113T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Various</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Goraku Ou Tango! (Japan) (Rev 2).zip</path>
+		<name>Goraku Ou Tango!</name>
+		<desc>Go Raku Ou Tango! is a simple word game mimicking the puzzles found in the pages of popular printed Japanese word-puzzle publisher Sekai Bunka. These puzzles consist of taking words writing in English and the two syllabaries of Japan Hiragana, or Katakana, and moving tiles around beneath the word(s) to recreate them in a different writing style. There are several variants on this gameplay.
+
+There is a story mode featuring a family of archaeologists who are digging up Japanese orthography across the globe. Sweden, for instance, is known not only as being the home of lost Atlantis but also troves of buried Japanese writing! A family member is missing perhaps there will be clues in this the ruins of these global ancient Japanese ruins? By completing the puzzles you will get to see a scene and a new more difficult puzzle.</desc>
+		<releasedate>19990401T000000</releasedate>
+		<developer>Mebius</developer>
+		<publisher>Mebius</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Hanafuda Shiyouyo (Japan).zip</path>
+		<name>Hanafuda Shiyouyo</name>
+		<desc>Hanafuda Shiyouyo is an action based card game, published by Kaga Tech, which was released in Japan in 2000.</desc>
+		<releasedate>20000217T000000</releasedate>
+		<developer>Success</developer>
+		<publisher>Success</publisher>
+		<genre>Various</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Harobots (Japan).zip</path>
+		<name>Harobots</name>
+		<desc>Harobots is a game series developed by Sunrise Interactive, it features Haro from Gundam series, as a protagonist's pet. Haro can be customized and battle for its trainer from any mecha series by Sunrise. This game series never released outside Japan due </desc>
+		<releasedate>19991007T000000</releasedate>
+		<developer>Sunrise Software</developer>
+		<publisher>Sunrise Software</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2).zip</path>
+		<name>Hunter X Hunter - Ishi O Tsugu Mono</name>
+		<desc>Hunter X Hunter is a Japanese manga series written and illustrated by Yoshihiro Togashi. The story focuses on a young boy named Gon, who discovers that his father, whom he was told was dead, is actually alive and well. He learns that his father, Ging, is </desc>
+		<releasedate>20000601T000000</releasedate>
+		<developer>Access Games</developer>
+		<publisher>Bandai</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).zip</path>
+		<name>Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen</name>
+		<desc>Kakutou Ryouri Densetsu Bistro Recipe: Wonder Battle Hen is a Strategy game, developed and published by Banpresto, which was released in Japan in 1999.</desc>
+		<releasedate>19990930T000000</releasedate>
+		<developer>Banpresto</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Keiba Yosou Shien Soft - Yosou Shinkaron (Japan).zip</path>
+		<name>Keiba Yosou Shien Soft - Yosou Shinkaron</name>
+		<desc>Yosou Shin Karon is a Horse Racing game, published by Media Entertainment, which was released in Japan in 1999.</desc>
+		<releasedate>19990914T000000</releasedate>
+		<developer>Media Entertainment</developer>
+		<publisher>Media Entertainment</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Kiss Yori... - Seaside Serenade (Japan) (Rev 2).zip</path>
+		<name>Kiss Yori... - Seaside Serenade</name>
+		<desc>Kiss Yori... Seaside Serenade is an Adventure game, developed by Kid, which was released in Japan in 1999.</desc>
+		<releasedate>19991202T000000</releasedate>
+		<developer>Kindle Imagine Develop</developer>
+		<publisher>Kindle Imagine Develop</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 &amp; RayCarrot &amp; Rcs709 &amp; StarryScarab v1.1] [n].zip</path>
+		<name>Kaze No Klonoa - Moonlight Museum</name>
+		<desc>In this game, you control a boy named Klonoa. One day he sees a dream in which he learns that somebody has stolen a fragment of the moon. He is told that the thieves are probably some painters who took the moon fragment into a museum. As Klonoa enters the music, he gets teleported into a mysterious world. Now he has to use his wit in order to overcome all the obstacles in this world and retrieve the moon fragment.
+
+Kaze no Klonoa: Moonlight Museum is a platform game with an emphasis on puzzle-solving. The enemies you encounter can be inflated with the help of Klonoa's yo-yo, and carried around. You can throw them at other enemies, or use them to jump to higher ledges. In addition, there are various kinds of symbols you have to collect to open locked doors, teleporters, switches, time bombs, and other ingredients for puzzles.</desc>
+		<releasedate>19990520T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Bandai</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Kosodate Quiz - Dokodemo My Angel (Japan).zip</path>
+		<name>Kosodate Quiz Dokodemo - My Angel</name>
+		<desc>Kosodate Quiz Dokodemo: My Angel is a Trivia / Game Show game, developed by Namco and published by Bandai, which was released in Japan in 1999.</desc>
+		<releasedate>19990415T000000</releasedate>
+		<publisher>Namco</publisher>
+		<genre>Quiz</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1).zip</path>
+		<name>Kyousouba Ikusei Simulation - Keiba</name>
+		<desc>This game begins by asking you to name your own stable, and then your first horse, quickly introducing you to the world of this horse raising, breeding, and racing game. The majority of the gameplay focuses on micromanaging your horses training and care. You an select the races that you think you're horse is ready for in an attempt to win coveted ribbons, and wealth beyond the dreams of avarice!
+
+Once you enter a race you'll be taken out of control and see if all you're hard work has payed off as your beast makes it around the track. An announcer follows the competition of there Muybridge wannabes, narrating what you see.
+
+Regardless how good your horse is it will be economically prudent to continue its line. Through shrewd husbandry you can translate the positive traits of race horse to a new generation. You'll be able to select a proper mate from other stables. 
+
+Horse information and stable data can be shared with other players via the Communication Cable.</desc>
+		<releasedate>19991118T000000</releasedate>
+		<developer>BEC</developer>
+		<publisher>BEC</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Langrisser Millennium WS - The Last Century (Japan) (Rev 1).zip</path>
+		<name>Langrisser Millennium</name>
+		<desc>"Langrisser Millennium" is yet another installment of the long-running Japanese strategy RPG series. You control five main characters: Taji, a young boy whom was chosen as the ruler of the country Salem; Nei Lee Sun, the ruler of Chin, who helps Taji when he gets involved in a war; Masariva, a half-beast and a former slave who became a queen, but preferred the life of a wanderer; Rumaty Marf, the queen of the country Misla, on a quest for an angel who appeared in her dream; and Saryune, the ruler of Vidern, whose only desire is power. Those five rulers meet each other, when they get involved in a war with hostile countries. However, soon they learn a greater evil has appeared in the world - they must reach a faraway island to prevent the reincarnation of an evil god...
+
+The gameplay "Langrisser Millenium" is divided into "Map Mode" and "Battle Mode". In map mode, you move your characters over a map, trying to reach enemy fortresses and to prevent the enemy to reach yours. Everything happens in real time: if you do nothing, the enemy will come and conquer your country. Once in battle mode, you control several teams. You only assign actions to the team leaders, while others fight automatically in round-based strategy combat.</desc>
+		<releasedate>20000309T000000</releasedate>
+		<developer>Masaya Games</developer>
+		<publisher>NCS Corporation</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Last Stand (Japan).zip</path>
+		<name>Last Stand</name>
+		<desc>Last Stand is a Strategy game, developed by Soft Machine and published by Bandai, which was released in Japan in 1999.</desc>
+		<releasedate>19990527T000000</releasedate>
+		<developer>Soft Machine</developer>
+		<publisher>Bandai</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Lode Runner for WonderSwan (Japan).zip</path>
+		<name>Lode Runner</name>
+		<desc>The Bungeling Empire has stolen a huge cache of gold from its rightful owners, and your mission is to infiltrate its treasury and recapture it. This entails progressing through 150 screens of platforms, ladders and ropes.
+
+The Empire has sent robotic guards down to protect the gold, and contact with any of these will cost you a life. Your method of escaping them is to press fire to dig a hole in their line of movement, thus causing them to fall in briefly, allowing you to move across the gap safely. Once all the gold has been collected, a ladder allowing you to move onto the next screen is added. Completing these screens often requires forward planning and precision.
+
+This was one of the earliest games to include a level editor, allowing the creation of new level designs with no programming skill.</desc>
+		<releasedate>20000420T000000</releasedate>
+		<developer>Brøderbund Software</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Macross - True Love Song (Japan).zip</path>
+		<name>Macross - True Love Song</name>
+		<desc>Macross: True Love Song is a Strategy game, developed and published by Lay-Up, which was released in Japan in 2000.</desc>
+		<releasedate>20000323T000000</releasedate>
+		<developer>Layup - Upstar</developer>
+		<publisher>Layup - Upstar</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Magical Drop for WonderSwan (Japan).zip</path>
+		<name>Magical Drop</name>
+		<desc>Somewhere in the world, there is a precious item called magical drop. Anyone who finds it will be granted happiness, or will be able to execute revenge upon his enemy. No wonder many people are trying to get this item. But the way to obtain it is not easy...
+
+This is a puzzle game in which different balloons are falling down and you must match three balloons of the same type to make them disappear and to prevent them from crushing you. The player character is running sideways on the bottom of the top-down screen, and is shooting the balloons to make them change shapes and match each other. There are different player characters, all of which are Tarot cards: Demon, Justice, Priestess, etc. Each character shoots a different kind of special ball, which can be matched against any combination of other two.</desc>
+		<releasedate>19991014T000000</releasedate>
+		<developer>Gaibrain</developer>
+		<publisher>Data East</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Mahjong Touryuumon (Japan) (Rev 3).zip</path>
+		<name>Mahjong Touryuumon</name>
+		<desc>Mahjong Touryuumon is a Board game, developed by Chat Noir and published by Sammy Studios, which was released in Japan in 1999.</desc>
+		<releasedate>19990311T000000</releasedate>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Makaimura for WonderSwan (Japan).zip</path>
+		<name>Makai Mura For Wonderswan</name>
+		<desc>Arthur the brave knight must rescue his beloved Princess Prin-Prin from the Demon Emperor Azazel and his forces. Among them are various undead (ghosts, zombies), bats, ogres and goblins. Other challenges include moving platforms, ladders and water/fire hazards. This game combines enemies from all three previous Ghosts 'N Goblins games.</desc>
+		<releasedate>19990722T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Bandai</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Medarot Perfect Edition - Kabuto Version (Japan).zip</path>
+		<name>Medarot Perfect Edition - Kabuto Version</name>
+		<desc>Medarot: Perfect Edition is a RPG developed by Natsume and published by Imagineer in 1999 for the WonderSwan, and is a "director's cut" edition of the original game released on the Nintendo Game Boy in 1997.
+It follows Hikaru Agata on his quest to compete in Robottle tournaments and defeat the evil Roborobo Gang. It was released in two versions: Kabuto (Rhinoceros beetle), where the player's starting Medarot is Metal Beetle, and Kuwagata (Stag beetle), where the player starts with Head Scissors.</desc>
+		<releasedate>19990504T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Imagineer</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Medarot Perfect Edition - Kuwagata Version (Japan).zip</path>
+		<name>Medarot Perfect Edition - Kuwagata Version</name>
+		<desc>Medarot: Perfect Edition is a RPG developed by Natsume and published by Imagineer in 1999 for the WonderSwan, and is a "director's cut" edition of the original game released on the Nintendo Game Boy in 1997.
+It follows Hikaru Agata on his quest to compete in Robottle tournaments and defeat the evil Roborobo Gang. It was released in two versions: Kabuto (Rhinoceros beetle), where the player's starting Medarot is Metal Beetle, and Kuwagata (Stag beetle), where the player starts with Head Scissors.</desc>
+		<releasedate>19990504T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Imagineer</publisher>
+		<genre>Role playing games</genre>
+	</game>
+	<game>
+		<path>./Megaman &amp; Bass - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n].zip</path>
+		<name>Rockman And Forte - Mirai Kara No Chousensha</name>
+		<desc>Join Mega Man and Bass's fight for humankind as you face off with the newest menace in town--Robot King. King's captured all of the data plans for Dr. Wily's creations. They will equip King with all the knowledge he needs to build his own indestructible army of robots. As either Mega Man or Bass, you'll set out separate adventures using a variety of battle moves and weapons to defeat robot masters. Hidden bolts and CDs give you extra items to assist in battles.</desc>
+		<releasedate>19991028T000000</releasedate>
+		<developer>Lay-Up</developer>
+		<publisher>Bandai</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Meitantei Conan - Majutsushi no Chousenjou! (Japan).zip</path>
+		<name>Meitantei Conan - Majutsushi No Chsenj!</name>
+		<desc>Conan Edogawa is the pseudonym of Shin'ichi Kudo, but more than just a pseudonym, a pseudoform. Shin'ichi Kudo, an inquisitive seventeen year old student, was investigating a blackmail case when attacked by members of the Black Organization. He was forced to take an experimental APTX 4869 drug which caused, in a rare side-effect, his body to transform into that of a seven-year-old. 
+
+This does not stop Shin'ichi, adopting the name Conan Edogawa he moves in with Ran Mori, his childhood friend and sweetheart. Enrolling in a elementary school to complete his disguise he vows to find out who is backing the Black Organization, and to have his revenge. With the help of his his oddball classmates, an ex-member of the Black Organization Ai Haibara, whose also been turned into a child, and his beloved he just might do it...
+
+The games story follows the Conan through his school life which intertwines with his search for justice. He forms a Junior Detective League in his school to help him out. This cast of characters will help supply you information throughout the game.
+
+The gameplay consists of using a map screen to travel to a number of areas collecting clues for the case you are on. Each area offers you the ability to examine the area, talk to bystanders, collect items, and sometimes attack if a threat is apparent. 
+
+After collecting information you will have the chance to open your notebook, which will cause the WonderSwan to switch to a vertical orientation, and review your information. Also in the note books is a logic grid. On the grid you will have to select where you've deduced something intersects,who was at the scene at what time, by marking it with a circle and voiding all impossibilities with crosses. Once you've completed an entire grid you'll be able to present your deductions or press a point further allowing you to progress. If you've gotten your reasoning wrong, however, it is back to the drawing board and time to recheck you evidence and maybe time to see if you missed some clues.
+
+This game includes five scenarios, roughly translated to English as:
+
+1. Continuous high school girl kidnapping
+2. Murder on the suspense drama set
+3. Jack the Ripper murder
+ 
+The mysteries incident's letter of notice
+4. Treasure cases at the end of the century</desc>
+		<releasedate>19990805T000000</releasedate>
+		<developer>Tomcat System</developer>
+		<publisher>Bandai</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan).zip</path>
+		<name>Meitantei Conan - Nishi No Meitantei Saidai No Kiki !?</name>
+		<desc>Detective Conan returns to the WonderSwans continuing his efforts to thwart the dreaded Black Organization. The game features new mysteries and new characters from the Conan universe. 
+
+New features include finding keys. Keys represent actual bits of evidence you can use to solve the logic puzzles in the game once you find all the keys you will be able to attempt to solve the puzzle. However, often in the search for keys one finds hints. Hints are bits of information that will point you in the right direction of a key. Hints also be presented, singularly or combined, to various people in an attempt to extract information, or keys. Once you have all the keys you will be able to have an entire logic grid, otherwise there will be grayed out areas on the grid.
+
+There is also now a mode in some cases where Conan will have to chase the suspect through several areas before subduing him. 
+
+The game records your information at the start of the game to work a character based off of you into the game. This character can be swapped with other owners of 
+Meitantei Conan: Nishi no Meitantei Saidai no Kiki !? through the Communication Cable.
+
+This game alternates between horizontal display for regular play and investigation, and vertical display for Conan's detective notebook.</desc>
+		<releasedate>20000727T000000</releasedate>
+		<developer>Tomcat System</developer>
+		<publisher>Bandai</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Metakomi Theraphy - Nee Kiite! (Japan).zip</path>
+		<name>Metakomi Theraphy - Nee Kiite!</name>
+		<desc>Metakomi Theraphy: Nee Kiite! is a Strategy game, developed by Yoshidayama Workshop and published by Media Entertainment, which was released in Japan in 2000.</desc>
+		<releasedate>20000323T000000</releasedate>
+		<developer>Yoshidayama Workshop</developer>
+		<publisher>Media Enterprise</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Mingle Magnet (Japan) (En,Ja) (Rev 1).zip</path>
+		<name>Mingle Magnet</name>
+		<desc>Mingle Magnet is a simple puzzle game of the falling block variety. The player oversees a 10 x 10 square field where the first four rows (three on easy) have been filled by blocks. Each block shows one of three symbols, a dark gray circle, a light gray circle, and a white circle. When ever any of blocks with matching symbols touch they will form a link. By moving the cursor over a chain and clicking on it the player will be given points based on its size on the chain will be removed. The goal is to get a large score while making sure that new pieces can still enter the field. Once no more pieces can enter the game ends. Blocks fall at the same time one square apart, when the next set of blocks fall they will occupy the space given by the previous drop.
+
+The "magnet" aspect of Mingle Magnet come into play in how the player can control the placement of the blocks. All the blocks are attracted to a magnet which, although not seen, can be placed on any side of the field. All blocks will be drawn to the magnet. For example, if one has the magnet at the south of the field and then puts it to the north what was the top of the block pile will now be the bottom, and blocks will fall onto what was the bottom. The direction of the magnet is indicated by a magnetic field animation behind the action.
+
+This game is played vertically.</desc>
+		<releasedate>19991102T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>HAL Laboratory</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Mobile Suit Gundam MSVS (Japan).zip</path>
+		<name>Mobile Suit Gundam Msvs</name>
+		<desc>A must for anyone who can sing the Gundam theme tune. Great shading make this a very atmospheric title that does justice to the WonderSwan. Mr. Gunpei Yokoi would have been very proud.  Players assume the role of an Anaheim Electronics test pilot as they </desc>
+		<releasedate>19990926T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>Bandai</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Moero!! Pro Yakyuu Rookies (Japan).zip</path>
+		<name>Moero!! Pro Yakyuu Rookies</name>
+		<desc>Moero!! Pro Yakyuu Rookies is a Baseball Sim game, developed by TOSE and published by Jaleco Entertainment, which was released in Japan in 2000.</desc>
+		<releasedate>20000330T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Morita Shougi for WonderSwan (Japan).zip</path>
+		<name>Morita Shougi For Wonderswan</name>
+		<desc>Morita Shogi for WonderSwan is a Board game, developed and published by Yuki, which was released in Japan in 1999.</desc>
+		<releasedate>19991222T000000</releasedate>
+		<developer>Yuki Enterprise</developer>
+		<publisher>Yuki Enterprise</publisher>
+		<genre>Various</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Nazo Ou Pocket (Japan).zip</path>
+		<name>Nazo Ou Pocket</name>
+		<desc>Nazo-Oh Pocket is an Adventure game, developed by Bandai Visual and published by Bandai, which was released in Japan in 1999.</desc>
+		<releasedate>19991118T000000</releasedate>
+		<publisher>Kaga Tech</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Nice On (Japan) (Rev 1).zip</path>
+		<name>Nice On</name>
+		<desc>A simple golf game; Nice On brings the gray-gradient green into the hands itinerant gamers. 
+
+The mechanism for golfing in this game is simple as it is classic. The players chibi avatar stands by the tee club aloft whilst a 'power bar' fluctuates up and down beside it. When the player presses a button the power bars movements will stop and how height the bar was will effect the distance of the shot. Before this the player may of course state the direction they'd like to hit the ball and where on it's surface they would like to strike it. Hazards are or course a threat to the novice, such as sand traps, meddlesome trees, etc. The flight of the ball is shown in an overhead view.
+
+Once the ball is on the putting green the view remains over head regardless if the ball is in motion or being struck. The player may here select the direction of the strike to the ball, and the power bar will recommence it's spasms; however, the golfer ball will move of its own accord without any golfer in sight. The putting green is covered by marks that indicate the subtle slopping of the ground that seeks to keep you away from your triple bogey. 
+
+Should you find endlessly teeing off with yourself a bit tedious you may use the Communication Cable to play with another human, or you may challenge the npc character. This veritable samurai of the rough, swarthily attired in a fly fishing hat, will critique your game as he putts against you.</desc>
+		<releasedate>19990408T000000</releasedate>
+		<developer>Aisystem Tokyo</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2).zip</path>
+		<name>Nihon Pro Mahjong Renmei Kounin - Tetsuman</name>
+		<desc>Nihon Pro Mahjong Renmei Kounin: Tetsuman is a Mahjong game, developed by Chat Noir and published by Kaga Tech, which was released in Japan in 1999.</desc>
+		<releasedate>19990715T000000</releasedate>
+		<publisher>Kaga Tech</publisher>
+		<genre>Various</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Nobunaga no Yabou for WonderSwan (Japan).zip</path>
+		<name>Nobunaga No Yabou For Wonderswan</name>
+		<desc>In the 16th century, Japan's Sengoku period divided the nation into numerous feudal states, each ruled by a daimyo. Many dreamt of conquering the land, becoming the Shogun and ruling the entire country. One of those daimyos was the ambitious Nobunaga Oda, a merciless ruler and a renowned strategist. Players take on the role of Nobunaga Oda or one of many other daimyos to try to conquer Japan.
+
+Nobunaga's Ambition is a turn-based strategy game which can be played in different modes.  Players begin by selecting either a 17 regions scenario or a larger 50 scenario. Then, the player must select a daimyo, each of which is rated attributes in several categories; Age, Health, Ambition, Luck, Charm and IQ. As the game progresses, these values change depending on events in the game. The age value represents a time limit of sorts, as an elderly daimyo becomes increasingly likely to die of old age or sickness.</desc>
+		<releasedate>19990311T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Ou-chan no Oekaki Logic (Japan).zip</path>
+		<name>Ou-chan No Oekaki Logic</name>
+		<desc>Ou-chan no Oekaki Logic is a digital conversion, with anime mascots, of the classic Japanese newspaper puzzle nonograms. A nonogram is a puzzle on a square or rectangular grid the object of which is to reveal a hidden picture. Along each row and column there is a number or series of numbers which indicate how many squares will be colored in that row or grid. Example; "5 9 4" would mean there would be sets of five, nine, and four colored squares in the grid, in that order, with at least one blank in between. 
+
+Ou-chan no Oekaki Logic adds a story mode where Ou-Chan, representing the player, competes with other blobby anime characters in finding hidden images in the nonogram grids.</desc>
+		<releasedate>20000106T000000</releasedate>
+		<developer>Santa Claus</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Pocket Fighter (Japan).zip</path>
+		<name>Pocket Fighter</name>
+		<desc>Pocket Fighter is a crossover fighting game that takes characters from the Street Fighter, Darkstalkers, and Red Earth fighting series, and presents them in a cute shrunken chibi form with ridiculous moves and costumes. The games fights take place in various Capcom locations.
+
+At the top of the screen is your, and your opponents, health bar. Below that is a meter showing how many gems you've collected. Gems are produced from a character when they are hit by a kick or a punch, these gems will then lie on the ground until someone picks them up. Filling up your gem gauge will increase your special attack meters on the bottom of the screen. Ideally one aims to achieve a special attack level of 9 by picking up gems, however, battle will often having you using these up before you reach that lofty number.
+
+The main difference between the Sega Saturn and PlayStation version of Pocket Fighter is a card battle mode. 
+
+In the card battle mode you will be presented with a set of three to six cards to choose from to form an attack, after which you'll view the combat and get new cards to pick from until one player is K.O.'ed
+
+The cards will have a attack power and a defense power. By combing cards you'll get an attack, defense, and counter value
+which determine an overall power value. The player who has selected the higher power value will attack that turn, unless your foe has picked a guard card, an evasion card, or a high enough counter value. Other cards include recovery cards and special move cards.
+
+"Collectible Cards", cards featuring various graphics of the game's characters, can be obtained by playing the games various modes, such as "Arcade", and traded via the Communication Cable
+
+The game also featured an online high score board through the WonderGate.</desc>
+		<releasedate>20000406T000000</releasedate>
+		<developer>Soft Machine</developer>
+		<publisher>Bandai</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1).zip</path>
+		<name>Pro Mahjong Kiwame For Wonderswan</name>
+		<desc>Pro Mahjong Kiwame for WonderSwan is a mahjong game, published by Athena, which was released in Japan in 1999.</desc>
+		<releasedate>19991007T000000</releasedate>
+		<developer>Athena</developer>
+		<publisher>Athena</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Puyo Puyo Tsuu (Japan).zip</path>
+		<name>Puyo Puyo 2</name>
+		<desc>A falling block game in which the goal is the combine four or more blocks of the same color which then disappear. The remain blocks will fall down and can produce combos which can cause special blocks (can only be destroyed by eliminating adjunct blocks) to appear at the enemies field.
+
+This game includes a story mode, in which Arle (the main character) fights against computer enemies, a vs player mode, a four player mode (SNES only), and an endless mode (SNES only).</desc>
+		<releasedate>19990411T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>SEGA</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Puzzle Bobble (Japan).zip</path>
+		<name>Puzzle Bobble</name>
+		<desc>Bust-A-Move (also known as Puzzle Bobble) is a real-time puzzle game in which the player controls a device called "pointer" at the bottom of the screen, aiming and releasing randomly colored bubbles upwards. Depending on the aiming, the bubbles may float </desc>
+		<releasedate>19990701T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Rainbow Islands - Putty's Party (Japan) [T-En by NikcDC v1.0].zip</path>
+		<name>Rainbow Islands - Putty's Party</name>
+		<desc>A spin-off of the Rainbow Islands games, this title features Putty instead of the classic Bub &amp; Bob. Like the previous games set on the island the character's main tools and weapons are rainbows. These rainbows can be walked on to scale heights or cover gaps. Rainbows can also be used to kill enemies by striking them with the arc as it is created, or after it has taken form jumping on it so that it breaks and the shards rain death on those below. Enemies can also be trapped in rainbows. Enemies killed by rainbow shards will sometimes drop a special item or a gem. A series of gems are needed to properly clear each level.
+
+The goal of each area, aside from collecting gems, is to scale to the top of the island. Islands are made out of a series of themed platforms covered with associated enemies. These areas are scattered with items, mostly food, that will increase your score. Sometimes a rainbow will dislodge hidden food or an enemy will drop some when killed. If your score is high enough you will start to  send out more than one rainbow at a time. At the end of each island there will be a boss. If you fulfilled certain requirements in the level you may get a special item.
+
+The islands in this game are, here listed with their theme:
+
+1. Insect Island: Insects and nature
+2. Monster Island: Classic horror monsters
+3. Doh Island: Geometric
+4. Darius Island: Machines
+
+This game plays vertically.</desc>
+		<releasedate>20000629T000000</releasedate>
+		<developer>MegaHouse Corporation</developer>
+		<publisher>Takara</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ring Infinity (Japan).zip</path>
+		<name>Ring Infinity</name>
+		<desc>Finally, "Ring" has appeared as the second novel in the Theater!
+The curse of the "Ring" that has infected novels, movies, TV dramas and all kinds of media has finally involved Wonder Swan!
+The first "TERRORS" that was popular as a novel theater. The characteristic of "Ring ∞" is that the power of "TERRORS" is greatly improved in the quality of graphics and sound. In addition, the text is a little larger than "TERRORS", so the readability of the text is considerably improved. In terms of systems, more thrilling improvements have been made, such as the addition of "normal branch" and "branch by teller points" and "branch by time".
+The player becomes the main character who has watched Sadako's video and advances the game. Naturally, the scenario uses a multi-ending style, so even if you can survive and finish the scenario safely, it is not the end of the game. From there, a new "Ring" story begins. Then, as I play a number of scenarios, the truth gradually becomes clear...
+This software supports Wonder Gate, so if you download new data using Wonder Gate, you can enjoy additional scenarios from the perspective of the hero's best friend.</desc>
+		<releasedate>20000810T000000</releasedate>
+		<developer>Kadokawa Shoten</developer>
+		<publisher>Bandai</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Robot Works (Japan).zip</path>
+		<name>Robot Works</name>
+		<desc>The WonderBorg is a programmable consumer robot kit that was bundled with specialized software known as "Robot Works", which is used to program the robot. 
+
+While mainly used to program the movement of the physical robot, it also comes with a game where your aim is to get a virtual WonderBorg from start to finish with predetermined instructions: you first see the map, then give a series of instructions "two forward, turn left, one forward" etc and then run your program to see whether you managed to get the robot over the finish line.</desc>
+		<releasedate>20001207T000000</releasedate>
+		<developer>Bandai</developer>
+		<publisher>Bandai</publisher>
+		<genre>Educational</genre>
+		<players>8+</players>
+	</game>
+	<game>
+		<path>./Sangokushi for WonderSwan (Japan).zip</path>
+		<name>Sangokushi For Wonderswan</name>
+		<desc>Sangokushi, or Romance of the Three Kingdoms, is a video game based on the historical novel of the same name by Luo Guanzhong. It was developed and published by Koei in 1999 for the WonderSwan.
+The game casts the player in the role of one of the many warlords rivaling for control after the Yellow Turban Rebellion.
+This turn-based strategy game introduces hundreds of historical characters of the Three Kingdoms era. The game's main objective is to become the supreme ruler of the remnants of the falling Han Dynasty. To do this the player has to build a mighty empire by conquering provinces and recruiting generals worthy of command. Fight massive battles, triumph over natural disasters and capture enemy strongholds.</desc>
+		<releasedate>19990401T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Sangokushi II for WonderSwan (Japan).zip</path>
+		<name>Sangokushi 2 For Wonderswan</name>
+		<desc>Sangokushi II, or Romance of the Three Kingdoms II, is a video game based on the historical novel of the same name by Luo Guanzhong. It was developed and published by Koei in 2000 for the WonderSwan and is the sequel to the first game released in 1999.
+Upon starting the game, players choose from one of six scenarios that determine the initial layout of power in ancient China. The scenarios loosely depict allegiances and territories controlled by the warlords as according to the novel, although gameplay does not follow events in the novel after the game begins. The player wins the game by conquering all territories in China. This is accomplished by being in control of every province on the map.</desc>
+		<releasedate>20000406T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./SD Gundam - Emotional Jam (Japan) (Rev 3).zip</path>
+		<name>Sd Gundam - Emotional Jam</name>
+		<desc>SD Gundam: Emotional Jam is a Strategy game, developed by Tom Create and published by Bandai, which was released in Japan in 1999.</desc>
+		<releasedate>19990527T000000</releasedate>
+		<developer>Tom Create</developer>
+		<publisher>Bandai</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./SD Gundam G Generation - Gather Beat (Japan).zip</path>
+		<name>Sd Gundam G Generation - Gather Beat</name>
+		<desc>SD Gundam G Generation is a series of strategy-RPG video games that focus on the Gundam anime franchise. The G Generation series most distinctive feature is the fact that the machines are always depicted in a super deformed fashion.  Gather Beat is the fi</desc>
+		<releasedate>20000713T000000</releasedate>
+		<developer>Vanguard Works</developer>
+		<publisher>Bandai</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./SD Gundam Gashapon Senki - Episode 1 (Japan).zip</path>
+		<name>Sd Gundam Gashapon Senki - Episode 1</name>
+		<desc>SD Gundam: Gashapon Senki Episode 1 is a Strategy game which focuses on the Gundam anime franchise. It was developed by Graphic Research, published by Bandai, and was released in Japan in 1999.</desc>
+		<releasedate>19991229T000000</releasedate>
+		<developer>Graphic Research</developer>
+		<publisher>Bandai</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan).zip</path>
+		<name>Senkaiden - Tv Animation Senkaiden Houshin Engi Yori</name>
+		<desc>Senkaiden: TV Animation Senkaiden Houshin Engi Yori is a Role-Playing game, developed by Opera House and published by Bandai, which was released in Japan in 2000.</desc>
+		<releasedate>20000224T000000</releasedate>
+		<developer>Graphic Research</developer>
+		<publisher>Bandai</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Sennou Millennium (Japan).zip</path>
+		<name>Sennou Millennium</name>
+		<desc>Sennou Millennium is a Puzzle game, developed by Kouyousha and published by Bandai, which was released in Japan in 2000.</desc>
+		<releasedate>20000316T000000</releasedate>
+		<developer>Kouyousha</developer>
+		<publisher>Bandai</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shanghai Pocket (Japan).zip</path>
+		<name>Shanghai Pocket</name>
+		<desc>This is a portable edition of the solitaire game Shanghai, the game uses traditional Mah Jong tiles. The aim of the game is to match tiles, four of each type will be put on the playing field, when two tiles are matched they are removed when none remain you win. Only tiles that can be moved freely to the left or right may be matched. A wrong move may result in you not being able to clear the field. 
+
+A slight story mode is presented in the Shanghai mode; each tile setup is based on a Zodiac animal that needs it power restored. The goal is to complete all twelve of these stages there by restoring the animals power. 
+
+Some variants are also included:
+
+1. Kong Kong: Compete against a computer to clear tiles. If you go slowly you will have tiles sent over to your by your opponent. This type of play is similar to games like Puyo Pop. Kong Kong may be played against another player by using a link cable or against a computer.
+
+2. Challenge (WonderSwan only): A large Shanghai game that you'll try to race through to get the best score. 
+
+3. Goldrush: In this mode you will race against an opponent to reach a tile marked 'G'. G is for GOLD, boy! So get cracking.</desc>
+		<releasedate>19990401T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1).zip</path>
+		<name>Shin Nihon Pro Wrestling Toukon Retsuden</name>
+		<desc>Straight from the National Japan Pro-Wrestling (NJPW) come the greatest wrestlers of the Land of the Rising Sun; beware the Thunder Lyger!
+
+Shin Nihon Pro Wrestling Toukon Retsuden is a simple wrestling game where the player takes control of one of six wrestlers, who were current figures at the time of the games publication. Random battles can be arranged or competition in a tournament against all the games wrestlers.
+
+A player controls their wrestler with the directional X buttons and the A &amp;amp; B buttons. A &amp;amp; B perform punches and kicks, in close enough a punch can perform a grab. Once a wrestler is locked in a grab they can be tossed according to the directional buttons. The more abuse a character take the longer it will take them to stand up, this makes them very agreeable to kick or jump upon. 
+
+By punching a fallen gladiator you will get him in a lock. When done closer to the injured legs you will usually try to bend them and when done closer to his head you will crush his cranium between your mighty thighs. If you can do this for ten seconds without him breaking free, your chosen wrestler will win.</desc>
+		<releasedate>19990304T000000</releasedate>
+		<developer>Tomy</developer>
+		<publisher>Tomy</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shougi Touryuumon (Japan).zip</path>
+		<name>Shougi Touryuumon</name>
+		<releasedate>19991028T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Shougi</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Side Pocket for WonderSwan (Japan).zip</path>
+		<name>Side Pocket</name>
+		<desc>The main objective is to cross different USA cities and reach the predetermined scores to go ahead. But remember: you'll have only 16 balls and every error can be lethal!
+
+The game also comes with modes for 2 players with two variants: 2P Pocket Game (the traditional mode) and 2P 9-Ball Game, where the premise is to sink 9 balls before the other player makes them first. If you prefer, test your target in Trick Game or even hear your favorite song in Jukebox.
+
+After each stage completed (and some luck), a bonus stage will appear, as well as the chance to earn extra balls. You will only need a good target in the parquet block!</desc>
+		<releasedate>19991125T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Simulation</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Slither Link (Japan).zip</path>
+		<name>Slither Link</name>
+		<desc>Slither Link is a fiendishly simple puzzle game from the pages of the Nikoli puzzle magazine. While Nikoli is widely known for coining the puzzle name Sudoku they also have produced a myriad of puzzles often dealing with numbers. 
+
+In this puzzle the player needs to create a loop around the fields grid with out having the loop's line cross itself. This would of course present little challenge if it weren't for those pesky numbers. The field is dotted with numerals that signal how many times the line may be next to it. The number one may only have the line contiguous with it on one side, the two two sides, the three three side. Four of course does not exist as that would, by a requirement to have four sides, create a square and thus a intersection of the line. Zeros also exist these may not have any lines bordering them at all. 
+
+When a loop has been created so that all numbers are 'touched' appropriately and the line make a full loop you've cleared the puzzle. The game possesses six levels of difficulty and is played vertically on the WonderSwan.</desc>
+		<releasedate>20000420T000000</releasedate>
+		<developer>Tomcat System</developer>
+		<publisher>Bandai</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Soccer Yarou! - Challenge the World (Japan).zip</path>
+		<name>Soccer Yarou! ~challenge The World~</name>
+		<desc>Like Coconuts Japan Entertainment Co., Ltd.'s other WonderSwan title Soccer Yarou! ~Challenge The World~ can largely be summed up by it's title; you will pick one of many global soccer teams and set off on a crusade against the rest.
+
+The player controls a single one of their chosen team's members. The AI clumsily takes care of the rest. The player's selected splinter of the team avatar will move in the direction the player presses while dribbling the ball, should it be in his possession. When a button is pressed the ball will be kicked, should fortune spare your 2.49 inch screen a glance, to another player on your team. If another team member gets the ball you will automatically switch to that player. Kicking the ball is achieved by pressing a button which will more likely cause the player's character to fall on his face.
+
+A penalty shot mini-game is included where the view shifts to behind the player making the shot.</desc>
+		<releasedate>19990812T000000</releasedate>
+		<developer>Coconuts Japan</developer>
+		<publisher>Coconuts Japan</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Sotsugyou for WonderSwan (Japan) (Rev 1).zip</path>
+		<name>Sotsugyou For Wonderswan</name>
+		<desc>Graduation is a Japanese anime "life-sim" game which are popular in Japan. Except for Princessmaker 2, which was never officially released, this is the only game of its type that I know of which was ever translated to English. In Graduation you take the r</desc>
+		<releasedate>19991216T000000</releasedate>
+		<developer>Image Works</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Space Invaders (Japan).zip</path>
+		<name>Space Invaders</name>
+		<desc>A conversion of the classic arcade title, Space Invaders. This version, as part of the Arcade Classic series on Game Boy, has both 1 and 2 player modes using the usual 2 color Game Boy tones (black, grey) to re-create the addictive shooter. However, plug the cart into a Super Game Boy (an accessory of the Super Nintendo) and you have the option of playing the game in full color, with the original arcade cabinet as border art to the action while you play.
+
+The game is very simple to play. Shoot down the incoming invaders while dodging their fire. They will advance slowly at first towards you, but the closer they come, the faster they get.</desc>
+		<releasedate>19990513T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Super Robot Taisen Compact (Japan).zip</path>
+		<name>Super Robot Taisen Compact</name>
+		<desc>The very first installment of the Super Robot Taisen series is quite different from all of its successors; most notably, the robots are treated as sentient organisms, and all pilots are absent from the game. As the intro tells, they live on the planet of </desc>
+		<releasedate>19990428T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan).zip</path>
+		<name>Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen</name>
+		<desc>Super Robot Taisen Compact 2 - Dai Ichibu - Chijou Gekidou Hen is a Sci-Fi Turn-Based Strategy game, developed by TOSE and published by Bandai, which was released in Japan in 2000.</desc>
+		<releasedate>20000323T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4).zip</path>
+		<name>Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen</name>
+		<desc>Super Robot Taisen Compact 2 was the second Super Robot Taisen strategy RPG to be released on the WonderSwan. Like Super Robot Taisen F/ F Final before it, Compact 2 is split into multiple parts: Part 1 and Part 2 occur simultaneously, while Part 3 continues from Part 2. Using the WonderSwan's internal memory, players can send their clear data to each successive game; several events are altered based on the player's previous save, gained items are carried over to Part 3, and a special final scenario can be unlocked by clearing the entire trilogy within 777 turns. The game, like its predecessor, borrows almost all of its gameplay mechanics from F/F Final; however, it introduces the "Support System" which immediately became a core mechanic of the SRW franchise. In Part 2, Excellen Browning and the Londo Bell forces fend off enemies in outer space.</desc>
+		<releasedate>20000914T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2).zip</path>
+		<name>Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen</name>
+		<desc>Super Robot Taisen Compact 2 Dai-3-Bu: Ginga Kessen-hen is a Sci-Fi Turn-Based Strategy game, developed by TOSE and published by Banpresto, which was released in Japan in 2001.</desc>
+		<releasedate>20010128T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Taikyoku Igo - Heisei Kiin (Japan).zip</path>
+		<name>Taikyoku Igo - Heisei Kiin</name>
+		<desc>Taikyoku Igo: Heisei Kiin is a Board game, developed by Success and published by Kaga Tech, which was released in Japan in 2000.</desc>
+		<releasedate>20000224T000000</releasedate>
+		<developer>Success</developer>
+		<publisher>Success</publisher>
+		<genre>Various</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Tanjou Debut for WonderSwan (Japan) (Rev 1).zip</path>
+		<name>Tanjou Debut For Wonderswan</name>
+		<desc>TanjÅ: Debut puts the player into the role of a music company agent, who has to work with three potential stars of entertainment: three young girls named Aki, Kumi, and Saori. In the beginning of the game, the player views the statistics of each girl and</desc>
+		<releasedate>20000224T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Tare Panda no GunPey (Japan).zip</path>
+		<name>Tarepanda No Gunpey</name>
+		<desc>Tarepanda no Gunpey is a Gunpey style puzzler which has the modes of Gunpey EX with an additional Tarepanda story mode. 
+
+The game includes classic Gunpey, endless Gunpey, a timed line removal mode, and a mode where the player must clear all lines at once. Two players can also link up to challenge each other and exchange high-scores. 
+
+A story mode is also included. Tarepanda discovers the existence of other lazy pandas all around the world; wondering what other floppy pandas are like Tare rolls off in search of them.
+
+Each panda wears headgear associated with its homeland, top hat for Britain, turban for India, etc. When our hero is about to reach the new lazy panda something gets in the way, usually an incline too large to roll over. By finishing a certain number of lines you'll give your stymied panda the energy to jump the obstacle. 
+
+In the story mode a number of novel hazards are presented. Your lines may flip angles, or parts of the screen may be entirely blocked out.</desc>
+		<releasedate>19991209T000000</releasedate>
+		<developer>Bandai</developer>
+		<publisher>Bandai</publisher>
+		<genre>Sports / Wrestling</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Tekken Card Challenge (Japan).zip</path>
+		<name>Tekken Card Challenge</name>
+		<desc>Fighting games are generally interested in making a player hit a complex mash of buttons to perform pugilistic wonders. This game is however card based, how can that work? During a battle between two opponents a set of five moves will appear on a roulette. The player hits a button to stop the rotation of the selector to semi-randomly select a field. A higher number card will always cancels out a lower number card. Higher number cards also do more damage. Block cards and counter cards also exist.
+
+A number of different attacks are available: combo cards pile up, allowing multiple cards to be selected until a combo card is reselected or a non-combo card is selected; juggling cards which allow for classic fighting game mechanics by allowing another attack after the first; charge cards allow the player to wait a turn to do extra damage should the player use an attack the next turn.
+
+All cards have different visuals, and oft times different names, for different characters. 
+
+There are several game modes: a classic arcade battle where the player selects a character and a computer controlled character to face; an adventure mode where the player finds new cards and unlocks new character by defeating them; and a multiplayer vs. match for WonderSwan wielding humans.
+
+The story mode plays on a 15x15 grid map covered with shrines, villages, and impassible mountains. You will only have a certain number of steps to make it to stage exit or you'll lose. Of course this Harshadic field is populated with a grave propensity of villains. Roving in the dark, for all the area of the world is obscured by 'fog' until the player walks there, are mysterious stormtroopers called Crow, Owl, Eagle. Also wandering the land are Tekken characters who hold long standing grudges against the player's character. Above it all in a high tower is the heinous Ogre, can he be defeated? 
+
+Along the way cards can be found that will increase the amount of moves that can be performed in combat. Sacred ziggurats exist, two per map, that will heal wounds and, if enough enemies have been defeated since the last shrine, a new form of attack card be obtained. These shrines may not be reentered. 
+
+Players may fight their friends or foes using the Communication Cable to connect two WonderSwans for a fight.</desc>
+		<releasedate>19990617T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Bandai</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Terrors (Japan).zip</path>
+		<name>Terrors</name>
+		<desc>Terrors is an Adventure game, developed by Megas and published by Bandai, which was released in Japan in 1999.</desc>
+		<releasedate>19990805T000000</releasedate>
+		<developer>Megas</developer>
+		<publisher>Bandai</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Tetsujin 28 Gou (Japan).zip</path>
+		<name>Tetsujin 28 Gou</name>
+		<desc>Tetsujin 28-gou is an Adventure game, published by MegaHouse, which was released in Japan in 1999.</desc>
+		<releasedate>19991222T000000</releasedate>
+		<developer>Hikari-Pro</developer>
+		<publisher>Mega House</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan).zip</path>
+		<name>Time Bokan Series - Bokan Densetsu - Butamo Odaterya Doronbou</name>
+		<desc>Time BÃ´kan Series: BÃ´kan Densetsu - Butamo Odaterya Doronbou is an RPG based on Tatsunoko's Time Bokan anime franchise.  It was developed by Alpha Unit, published by Banpresto, and was released in Japan in 2000.</desc>
+		<releasedate>20000427T000000</releasedate>
+		<developer>Alpha Unit</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Tokyo Majin Gakuen - Fuju Houroku (Japan).zip</path>
+		<name>Tokyo Majin Gakuen - Fuju Houroku</name>
+		<desc>It is the Bakumatsu era in Japan - 1860-ies, the time when the feudal rulers of Japan, the dynasty of Tokugawa shoguns, were continuously suffering under the attacks of rebelling groups that wished to end the Tokugawa reign and to restore the Empire. You are a god who does battle using unique cards, of which 500 various types are available. The game's story covers thirteen chapters set in the unique Tokyo Majin Gakuen world.</desc>
+		<releasedate>20001012T000000</releasedate>
+		<developer>Shout!Designworks</developer>
+		<publisher>Asmik</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1).zip</path>
+		<name>Trump Collection - Bottom-up Teki Trump Seikatsu</name>
+		<desc>Trump Collection: Bottom Up Teki Trump Seikatsu is a Gambling game, developed and published by Bottom Up, which was released in Japan in 1999.</desc>
+		<releasedate>19990701T000000</releasedate>
+		<developer>Bottom Up Interactive</developer>
+		<publisher>Bottom Up Interactive</publisher>
+		<genre>Playing cards</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1).zip</path>
+		<name>Trump Collection 2 - Bottom-up Teki Sekaiisshuu No Tabi</name>
+		<desc>Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi is a Gambling game, published by Bottom Up, which was released in Japan in 2000.</desc>
+		<releasedate>20000928T000000</releasedate>
+		<developer>Bottom Up Interactive</developer>
+		<publisher>Bottom Up Interactive</publisher>
+		<genre>Playing cards</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Turntablist - DJ Battle (Japan).zip</path>
+		<name>Turntablist - Dj Battle</name>
+		<desc>Turntablist: DJ Battle is a Rhythm / Music game, developed and published by Bandai, which was released in Japan in 1999.</desc>
+		<releasedate>19991125T000000</releasedate>
+		<developer>Vestax</developer>
+		<publisher>Bandai</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Umizuri ni Ikou! (Japan).zip</path>
+		<name>Umitsuri Ni Ikou!</name>
+		<desc>Umitsuri ni Ikou! is a simple fishing simulator where you control a little boy at a variety of seaside locations; a pier, a beach, a stone outcropping, and out on the ocean.
+
+As you cast a bar will rise and fall on the right side of the screen, when you press the A button the the bar will stop. Depending on how high the bar is when you stop it correlates to how far your line goes. Bigger fish lurk farther out; however, bigger fish are more difficult to real in given their distance from shore.
+
+One your hook is in the water you will be treated to a [fisheye?] view of it in the brine. The background water is represented in different gradients so that the player can tell if they are moving up and down. A meter on the right hand side of the screen shows how deep you are, the farther you cast the deeper you'll be. 
+
+By pulling the line up with fish will be attracted to the hook. Should one grab on you'll get a "HIT". The view will now revert to being behind the fisher. Based on indications from a bar on the bottom you will have to push left and right, based on how the fish is trying to escape while pressing A. 
+
+Once caught you'll learn how big your fish was and be able to exchange data about it with other WonderSwan players.
+</desc>
+		<releasedate>19990401T000000</releasedate>
+		<developer>Coconuts Japan</developer>
+		<publisher>Coconuts Japan</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4).zip</path>
+		<name>Uzumaki - Denshi Kaikihen</name>
+		<desc>This interactive manga tells the tale of the town of a small Japanese town, Kurôzu-Cho, trapped in a vast spiraling curse. The story is told from the perspective of a woman, Kirie Goshima, who lived Kurôzu-Cho and now looks back to certain events that took place during here high school years.</desc>
+		<releasedate>20000203T000000</releasedate>
+		<developer>Omega Micott Inc.</developer>
+		<publisher>Omega Micott Inc.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Uzumaki - Noroi Simulation (Japan).zip</path>
+		<name>Uzumaki - Noroi Simulation</name>
+		<desc>In this game you take play as the "Spiral Curse" of Uzumaki trying to bring curling madness to all of Kurôzu-Cho! Kirie Goshima returns but no longer as a beloved protagonist. Now she is a target, one of many, that you will try to infect with the spiral curse. In this oddly comic twist on the old horror story, not to say that this game is devoid of similar horrific elements of its predecessor.
+
+After a brief explanation of your role as the Spiral Curse, given by Uzumaki Sen'nin (The Spiral Master) you begin your task. Generally you make life worse as merry mischief making curse.
+
+You will be presented with a map of Kurôzu-Cho; from which you can select where to travel. At each locations you will meet different people and be able to collect unique items. Items can be used to make the influence of the Spiral grow in certain areas, along with interacting with various people. 
+
+As you cause more mayhem more areas being to open, which allow you torment the old heroes even more!
+
+A small human/slug monster hybrid virtual pet can be accessed from the main menu.</desc>
+		<releasedate>20000304T000000</releasedate>
+		<developer>Omega Micott Inc.</developer>
+		<publisher>Omega Micott Inc.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Vaitz Blade (Japan) (Rev 1).zip</path>
+		<name>Vaitz Blade</name>
+		<desc>Vaitz Blade is an RPG set in a medieval European-style world, where you collect monsters by lowering their hitpoints. You can also fuse two monsters to create a stronger one. The game has 200 collectible species. The main point of this game is the "Vaitz" in the title. It is a generic term for monsters, and there are more than 180 different types of Vaitz in total in "Vaitz Blade". And it's not just monsters that can be combined with each other, but also items that can be combined with each other in this game. The variety of battles is one of the game's charms. In addition to the normal battles in which the player makes full use of the weapons and items he/she has created, the game also includes events and special battles in the arena (one-on-one combat, tag team matches, team battles, winner-take-all battles and time attacks) that add to the excitement of the game. There are also plenty of events during the story, such as a vertical shooting game that takes advantage of the unique characteristics of WonderSwan.</desc>
+		<releasedate>19990624T000000</releasedate>
+		<developer>Tom Create</developer>
+		<publisher>Bandai</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Wasabi Produce - Street Dancer (Japan).zip</path>
+		<name>Wasabi Produce - Street Dancer</name>
+		<desc>Street Dancer is a rhythm game starring the crew of wuz?b? a Japanese pop music performance group. 
+
+The game features standard with a line of button prompts scrolling across the bottom of the play are that you will have to press when they reach the center of the screen. Before you start a game you will be asked to select a member of the wuz?b? crew; Nana, Kaoru, Shino, or U. As you press buttons the chosen terpsichorean will shake it or stare at you in stupefaction, depending on your performance. A 'life bar' is presented on the screen if you fail to perform well the bar will go down, when it is empty your game ends. To clear a stage and unlock a new background with a harder song you'll have to get about a 60% perfect score. You can always record your performances to watch over and over.
+
+When a stage is clear you unlock new dance moves, these dance moves will appear in the game and in the "Step Book". In the step book you can watch the members of wuz?b? perform all their signature moves. You can also have the dancers perform in any way you like which you can record and repay for your friends. 
+
+Three different musical styles are represented: jazz, hip hop, and rock. The game makes each of these modes unique, not just by changing musical tone but, by having the player change the way he holds the WonderSwan for each genre.
+
+The forms are:
+
+1. Hip hop: the screen is held in the normal horizontal position so that the left hand can hit the A+B buttons and right hand can press the basic directional keys.
+
+2. Lockin' [sic]: In the mode the system is held so that both hands can press the directional buttons.This mode also requires you to press two notes at a time usually matching directions on both sets of directional buttons.
+
+3. Jazz: This is a total reversal of the hip hop mode. The system will now be horizontal but essentially upside down. Now the directional keys and A+B buttons will be at the top of the console
+
+A multiplayer mode is also included for two people on one system. both players take one set of the WonderSwans directional buttons and both players select different dancers. The multiplayer mode takes place in the vertical "lockin'" style, with two columns of press commands scrolling on the right. Both players are instructed by one of the columns, the player that is doing better will have their chosen dancer displayed on the screen.
+</desc>
+		<releasedate>20000427T000000</releasedate>
+		<developer>Amuse, Inc.</developer>
+		<publisher>Bandai</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Wonder Stadium '99 (Japan).zip</path>
+		<name>Wonder Stadium '99</name>
+		<desc>Wonder Stadium '99 was released a mere five months after the original Wonder Stadium and does not add much in the way of gameplay. This update adds information about the 1999 Japanese baseball season to the game. Such as Seibu's Matsuzaka and Uehara of the Yomiuri Giants.
+
+The game gives you a selection of 14 fictional and professional teams as well as three different stadiums, just as the original did.</desc>
+		<releasedate>19990930T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Bandai</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Wonder Stadium (Japan).zip</path>
+		<name>Wonder Stadium</name>
+		<desc>Wonder Stadium, not to be confused with the near identical Wonder Stadium '99, presents a monochrome baseball experience for the WonderSwan. Players will quickly be able to start playing as one of fourteen teams, twelve professional two fictional, in All-Star Duel, Exhibition Game, or Homerun Competition modes. Player can also personalize their teams by giving the generic characters who comprise the teams names. 
+
+When starting a game you'll be asked to select a team, a stadium; classic, seaside, or space, and how many innings the game will run from 1 to 9.
+
+Hitting the ball is the 'simple' affair that it usually is, time your swing and if you timed well your ball will fly into or out of the field. Wonder Stadium does give the ability to bunt and tweak the direction that bunt will go. 
+
+While playing the field you'll have considerable command over a number of different pitches. From moving your pitchers subtly around the mound to how hard a throw you'll give. Once your opposing team manages to get a hit the game stops giving you the view from behind the plate a switches to a birds-eye view of the field.
+
+Each ballplayer is hooked to another for instance when you move your man on first base the fellow in the field behind him will move in the same way, a bit clumsy but an acceptable compromise. The person nearest the ball will always be under your control. Once you get the ball you may throw it toward a base of your choice.</desc>
+		<releasedate>19990311T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Bandai</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./WonderSwan Handy Sonar (Japan) (Rev 2).zip</path>
+		<name>Wonderswan Handy Sonar</name>
+		<desc>WonderSwan Handy Sonar is a fishing game developed and published by Bandai in 1999 for the WonderSwan. It is bundled with the Handy Sonar, a fish-finder device similar to the Pocket Sonar also released by Bandai for the Nintendo Game Boy.</desc>
+		<releasedate>19990513T000000</releasedate>
+		<developer>Bandai</developer>
+		<publisher>Bandai</publisher>
+		<genre>Fishing</genre>
+	</game>
+	<game>
+		<path>./Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n].zip</path>
+		<name>Digimon Adventure 02 - Tag Tamers</name>
+		<desc>The game is based on the manga series Digimon, in which children can travel to a digital world and help good digital monsters to defeat evil ones. In this game, the two heroes, Ryou and Ken, are summoned to the Digiworld to fight against the archenemy Millenniumon and his side-kick Diablomon. Upon defeating the two evil monsters once again, the heroes realize that Millenniumon has taken a different shape and is reborn to conquer the Digiworld anew. Now you must recruit digital monsters and lead them into the ultimate battle.
+
+The gameplay follows traditional Digimon outlines: you descend into dungeons and have your monster friends fight other monsters in turn-based combat. Upon returning to the town, you can make those monsters participate in future battles. Unlike the two previous Digimon Adventure games,  Anode and  Cathode Tamers, you cannot move over the battle field.</desc>
+		<releasedate>20000803T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>Bandai</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Neon Genesis Evangelion - Angel Raising Project (Japan) [T-En by Anime Game Translations Team v1.0] [n].zip</path>
+		<name>Neon Genesis Evangelion - Shito Ikusei</name>
+		<desc>Neon Genesis Evangelion Shito Ikusei is a Japanese video game for the WonderSwan which was developed by Gainax and published by Bandai in 1999.
+This game has Tamagotchi-elements to it. You play as Ryoji Kaji. You have to take care of Adam, or "Shito" as it is named in the game, in an embryonic state. You'll be able to make it evolve through different options. It will evolve into different forms depending of its stats. You can then make it battle the three Evangelions of Shinji, Rei and Asuka.
+You can also explore different places from the Evangelion anime as Kaji himself, talk to different characters and acquire different items for Shito.</desc>
+		<releasedate>19990722T000000</releasedate>
+		<developer>Soft Machine</developer>
+		<publisher>Bandai</publisher>
+		<genre>Simulation</genre>
+		<players>1-2</players>
+	</game>
+</gameList>

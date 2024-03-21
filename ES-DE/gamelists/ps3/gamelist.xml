@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./After Burner Climax.ps3</path>
+		<name>After Burner Climax</name>
+		<desc>After Burner Climax introduces two new flyable aircraft to the series: the F/A-18E Super Hornet and F-15E Strike Eagle. The iconic F-14 Tomcat from previous games has been replaced with the F-14D Super Tomcat. The player selects the aircraft at the start screen.
+While choosing their plane, the player can use the throttle to choose between four different paintjobs for each of the three planes. These paint jobs consist of a "Standard" scheme, "Camouflage" scheme, "Special" scheme, and "Low Visibility" scheme. After choosing their plane, the player can also choose to listen to After Burner Climax's music or the original soundtrack from After Burner II by holding the throttle back and hitting the missile button.</desc>
+		<releasedate>20100422T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Daytona USA.ps3</path>
+		<name>Daytona Usa</name>
+		<desc>Daytona USA on PS3 is the remake of the famous arcade title. This edition includes the game modes of the time as well as a Karaoke mode and an online multiplayer that allows up to 8 users to compete.</desc>
+		<releasedate>20111025T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Hard Corps Uprising.ps3</path>
+		<name>Hard Corps : Uprising</name>
+		<desc>Hard Corps: Uprising is an action game available for download on Playstation 3. The game is a prequel to Contra: Hard Corps which was released on Megadrive in 1994. It also features Colonel Bahamut, the main villain of the 1994 game. This new adventure allows us to better understand the motivations of the man who was a real national hero before becoming a figurehead of the resistance and then public enemy number one.</desc>
+		<releasedate>20110101T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./OutRun Online Arcade.ps3</path>
+		<name>Outrun Online Arcade</name>
+		<releasedate>20090416T000000</releasedate>
+		<developer>Sumo Digital</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+</gameList>
