@@ -44,13 +44,13 @@ Applications/pcsx2/*
 !/Applications/redream/
 Applications/redream/*
 !/Applications/duckstation/install-redream.sh
-!/Applications/xemu
+!/Applications/xemu/
 /Applications/xemu/*
 !/Applications/xemu/install-xemu.sh
-!/Applications/xenia
+!/Applications/xenia/
 /Applications/xenia/*
 !/Applications/xenia/install-xenia.sh
-!/Applications/yuzu
+!/Applications/yuzu/
 /Applications/yuzu/*
 !/Applications/yuzu/install-yuzu.sh
 !/ES-DE/
