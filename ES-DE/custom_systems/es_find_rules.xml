@@ -70,7 +70,7 @@
     <emulator name="XEMU-KW">
         <!-- Xemu (Xbox) -->
         <rule type="staticpath">
-            <entry>~/Applications/xemu/xemu.AppImage</entry>
+            <entry>~/Applications/xemu/xemu-x64.AppImage</entry>
             <entry>/var/lib/flatpak/exports/bin/app.xemu.xemu</entry>
         </rule>
     </emulator>
