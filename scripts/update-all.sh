@@ -1,5 +1,6 @@
 #/usr/bin/env sh
 
+git checkout main
 /home/deck/Applications/duckstation/install-duckstation.sh
 /home/deck/Applications/pcsx2/install-pcsx2.sh
 /home/deck/Applications/cemu/install-cemu.sh
