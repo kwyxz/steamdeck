@@ -7,6 +7,7 @@
     <language>0</language>
     <use_discord_presence>true</use_discord_presence>
     <fullscreen_menubar>false</fullscreen_menubar>
+    <feral_gamemode>false</feral_gamemode>
     <check_update>false</check_update>
     <save_screenshot>true</save_screenshot>
     <vk_warning>false</vk_warning>
@@ -44,10 +45,8 @@
         <game_time_width>140</game_time_width>
         <game_started_width>160</game_started_width>
         <region_width>80</region_width>
+        <title_id>500</title_id>
     </GameList>
-    <RecentLaunchFiles>
-        <Entry>/home/deck/Emulation/roms/wiiu/roms/Xenoblade Chronicles X (US) (v48).wua</Entry>
-    </RecentLaunchFiles>
     <RecentNFCFiles/>
     <GamePaths>
         <Entry>/home/deck/cemu/roms</Entry>
