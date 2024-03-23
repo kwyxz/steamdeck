@@ -1,0 +1,4 @@
+#reference "../../shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Presets/Lite/SEGA_Game_Gear/Game_Gear-[STD]-[LCD-GRID]-[Night].slangp"
+HSM_VIEWPORT_ZOOM = "149.999237"
+HSM_VIEWPORT_POSITION_Y = "-50.000000"
+HSM_INTRO_WHEN_TO_SHOW = "0.000000"

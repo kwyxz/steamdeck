@@ -50,13 +50,13 @@
     <RecentLaunchFiles/>
     <RecentNFCFiles/>
     <GamePaths>
-        <Entry>/home/deck/cemu/roms</Entry>
+        <Entry>/home/deck/Emulation/roms/wiiu</Entry>
     </GamePaths>
     <GameCache/>
     <GraphicPack/>
     <Graphic>
         <api>1</api>
-        <device>00000000000000000000000000000000</device>
+        <device>00000000040000000000000000000000</device>
         <VSync>0</VSync>
         <GX2DrawdoneSync>true</GX2DrawdoneSync>
         <UpscaleFilter>1</UpscaleFilter>
@@ -87,7 +87,7 @@
         </Notification>
     </Graphic>
     <Audio>
-        <api>0</api>
+        <api>3</api>
         <delay>2</delay>
         <TVChannels>1</TVChannels>
         <PadChannels>1</PadChannels>
@@ -95,7 +95,7 @@
         <TVVolume>50</TVVolume>
         <PadVolume>0</PadVolume>
         <InputVolume>50</InputVolume>
-        <TVDevice>default</TVDevice>
+        <TVDevice></TVDevice>
         <PadDevice></PadDevice>
         <InputDevice></InputDevice>
     </Audio>
