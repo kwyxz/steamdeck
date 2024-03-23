@@ -6,6 +6,7 @@ git checkout main
 /home/deck/Applications/cemu/install-cemu.sh
 /home/deck/Applications/citra/install-citra.sh
 /home/deck/Applications/redream/install-redream.sh
+/home/deck/Applications/ryujinx/install-ryujinx.sh
 /home/deck/Applications/xemu/install-xemu.sh
 /home/deck/Applications/xenia/install-xenia.sh
 /home/deck/Applications/yuzu/install-yuzu.sh
