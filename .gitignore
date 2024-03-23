@@ -6,6 +6,7 @@
 /.config/retroarch/*
 !/.config/retroarch/config
 !/.config/retroarch/retroarch.cfg
+!/.config/retroarch/shaders/
 !/.local/
 /.local/*
 !/.local/share/
