@@ -47,6 +47,7 @@
         <region_width>80</region_width>
         <title_id>500</title_id>
     </GameList>
+    <RecentLaunchFiles/>
     <RecentNFCFiles/>
     <GamePaths>
         <Entry>/home/deck/cemu/roms</Entry>
