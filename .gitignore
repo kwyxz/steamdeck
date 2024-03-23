@@ -36,6 +36,9 @@
 !/Applications/redream/
 /Applications/redream/*
 !Applications/redream/install-redream.sh
+!/Applications/ryujinx/
+/Applications/ryujinx/*
+!/Applications/ryujinx/install-ryujinx.sh
 !/Applications/xemu/
 /Applications/xemu/*
 !Applications/xemu/install-xemu.sh
