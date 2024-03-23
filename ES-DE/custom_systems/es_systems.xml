@@ -190,7 +190,8 @@
         <fullname>Sammy - 2003 - Atomiswave</fullname>
         <path>%ROMPATH%/atomiswave</path>
         <extension>.bin .BIN .chd .CHD .dat .DAT .elf .ELF .lst .LST .7z .7Z .zip .ZIP</extension>
-        <command label="Redream (KW)">%EMULATOR_REDREAM-KW% %ROM%</command>
+        <command label="Flycast">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/flycast_libretro.so %ROM%</command>
+        <command label="Redream (KW)">%EMULATOR_REDREAM-KW% --gamedir %ROMPATH%/atomiswave --fullmode borderless --vsync 1 %ROM%</command>
         <command label="Flycast">%EMULATOR_RETROARCH% -L %CORE_RETROARCH%/flycast_libretro.so %ROM%</command>
         <command label="Flycast (Standalone)">%EMULATOR_FLYCAST% %ROM%</command>
         <command label="Flycast Dojo (Standalone)">%EMULATOR_FLYCAST-DOJO% %ROM%</command>
@@ -268,7 +269,8 @@
         <fullname>Sega - 1998 - Dreamcast</fullname>
         <path>%ROMPATH%/dreamcast</path>
         <extension>.cdi .CDI .chd .CHD .cue .CUE .dat .DAT .elf .ELF .gdi .GDI .iso .ISO .lst .LST .m3u .M3U .7z .7Z .zip .ZIP</extension>
-        <command label="Redream (KW)">%EMULATOR_REDREAM-KW% %ROM%</command>
+        <command label="Flycast (KW)">%EMULATOR_RETROARCH% -c /home/deck/.config/retroarch/retroarch.cfg -L %CORE_RETROARCH%/flycast_libretro.so %ROM%</command>
+        <command label="Redream (KW)">%EMULATOR_REDREAM-KW% --gamedir %ROMPATH%/dreamcast --fullmode borderless --vsync 1 %ROM%</command>
         <command label="Flycast">%EMULATOR_RETROARCH% -L %CORE_RETROARCH%/flycast_libretro.so %ROM%</command>
         <command label="Flycast (Standalone)">%EMULATOR_FLYCAST% %ROM%</command>
         <command label="Flycast Dojo (Standalone)">%EMULATOR_FLYCAST-DOJO% %ROM%</command>
@@ -489,15 +491,16 @@
         <fullname>Sega - 1992 - Model 1</fullname>
         <path>%ROMPATH%/model1</path>
         <extension>.7z .7Z .zip .ZIP</extension>
-        <command label="MAME (KW)">%EMULATOR_MAME-KW% -verbose -inipath /home/deck/.mame/ -rompath %GAMEDIR%\;%ROMPATH%/arcade -video bgfx -bgfx_path /home/deck/.mame/bgfx -bgfx_backend vulkan -bgfx_screen_chains crt-geom-deluxe %BASENAME%</command>
+        <command label="MAME (KW)">%EMULATOR_MAME-KW% -verbose -inipath /home/deck/.mame/ -rompath %GAMEDIR%\;%ROMPATH%/model1 -video bgfx -bgfx_path /home/deck/.mame/bgfx -bgfx_backend vulkan -bgfx_screen_chains crt-geom-deluxe %BASENAME%</command>
         <platform>arcade</platform>
         <theme>model1</theme>
     </system>
     <system>
         <name>model2</name>
         <fullname>Sega - 1993 - Model 2</fullname>
-        <path>%ROMPATH%/model2</path>
+        <path>%ROMPATH%/model2/roms</path>
         <extension>.7z .7Z .zip .ZIP</extension>
+        <command label="MAME (KW)">%EMULATOR_MAME-KW% -verbose -inipath /home/deck/.mame/ -rompath %GAMEDIR%\;%ROMPATH%/model2/roms -video bgfx -bgfx_path /home/deck/.mame/bgfx -bgfx_backend vulkan -bgfx_screen_chains crt-geom-deluxe %BASENAME%</command>
         <command label="Model 2 Emulator (KW)">%STARTDIR%=%EMUDIR% %PRECOMMAND_PROTONSH% %EMULATOR_M2EMULATOR-KW% %BASENAME%</command>
         <command label="MAME - Current">%EMULATOR_RETROARCH% -L %CORE_RETROARCH%/mame_libretro.so %ROM%</command>
         <command label="MAME (Standalone)">%STARTDIR%=~/.mame %EMULATOR_MAME% -rompath %GAMEDIR%\;%ROMPATH%/model2 %BASENAME%</command>
@@ -936,7 +939,7 @@
     <system>
         <name>wiiu</name>
         <fullname>Nintendo - 2012 - Wii U</fullname>
-        <path>%ROMPATH%/wiiu</path>
+        <path>%ROMPATH%/wiiu/roms</path>
         <extension>.rpx .RPX .wua .WUA .wud .WUD .wux .WUX</extension>
         <command label="Cemu (KW)">%EMULATOR_CEMU-KW% -f -g %ROM%</command>
         <command label="Cemu (Standalone)">%EMULATOR_CEMU% -g %ROM%</command>
@@ -983,8 +986,8 @@
         <fullname>Microsoft - 2005 - Xbox 360</fullname>
         <path>%ROMPATH%/xbox360/roms</path>
         <extension>. .desktop .iso .ISO .sh .xex .XEX .zar .ZAR</extension>
-        <command label="xenia canary (KW)">%STARTDIR%=%EMUDIR% %PRECOMMAND_PROTONSH% -p 'GE-Proton7-55' %EMULATOR_XENIA-CANARY-KW% %ROM%</command>
-        <command label="xenia (KW)">%STARTDIR%=%EMUDIR% %PRECOMMAND_PROTONSH% -p '7.0' %EMULATOR_XENIA-KW% %ROM%</command>
+        <command label="xenia canary (KW)">%STARTDIR%=%EMUDIR% %PRECOMMAND_PROTONSH% %EMULATOR_XENIA-CANARY-KW% %ROM%</command>
+        <command label="xenia (KW)">%STARTDIR%=%EMUDIR% %PRECOMMAND_PROTONSH% %EMULATOR_XENIA-KW% %ROM%</command>
         <command label="xenia (Wine)">%STARTDIR%=%EMUDIR% %PRECOMMAND_WINE% %EMULATOR_XENIA-WINDOWS% %ROM%</command>
         <command label="xenia (Proton)">%STARTDIR%=%EMUDIR% %PRECOMMAND_PROTON% %EMULATOR_XENIA-WINDOWS% %ROM%</command>
         <command label="Shortcut or script">%ENABLESHORTCUTS% %EMULATOR_OS-SHELL% %ROM%</command>
