@@ -98,22 +98,6 @@ To aid the entry for people new to the franchise, the game features an introduct
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Super Paper Mario (USA) (Rev 2).nkit.gcz</path>
-		<name>Super Paper Mario</name>
-		<desc>In this action-platformer, Bowser and Peach find themselves at the wedding altar, forced into marriage by the evil Count Bleck. With this union, a void will engulf the entire universe as foretold by the book, the Dark Prognosticus. Before Luigi can stop Count Bleck, the villain escapes with an item known as the Chaos Heart. However, there is another book, called the Light Prognosticus, which can counteract the Dark Prognosticus. The Light Prognosticus foretells of a hero dressed in overalls. This hero is believed to possess the power to stop certain destruction of the universe.
-
-Mario, joined by Peach, Bowser, and a new group of friends, must travel through eight worlds in search of Pure Hearts. Each character has a special ability, which can help the player solve the game's many puzzles. Mario can flip between the second and third dimensions in order to find items, secret pathways, and pound enemies. Peach can use her parasol to float long distances and to defend against enemy attacks. Bowser uses his fire breath to light things and to fry enemies.
-
-Super Paper Mario does not fully depart from its RPG roots. For instance Mario and friends receive points from baddies. These points allow Mario and company to level up. Items can also be used to attack enemies or gain lives. Players collect coins to pay for more items.
-
-Players can shake the Wii remote after jumping on bad guys but before hitting the ground to gain extra experience points. Players use Tippi, a Pixl, allowing them to point the remote at the screen to find secrets. Other Pixls, who help in other ways, can be found along the way. Pixls besides Tippi can be used by pressing the 1 button.</desc>
-		<releasedate>20070409T000000</releasedate>
-		<developer>Intelligent Systems</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Tatsunoko vs. Capcom - Ultimate All-Stars (USA).nkit.gcz</path>
 		<name>Tatsunoko vs. Capcom: Ultimate All-Stars</name>
 		<desc>From Capcom's 30-year history comes characters like Ryu and Chun-Li from the Street Fighter series, Morrigan from Darkstalkers and company mascot Mega Man Volnutt from Mega Man Legends. Tatsunoko's near half-century of Japanese animation excellence is represented by the likes of Ken the Eagle and Jun the Swan from the Science Ninja Team Gatchaman anime (known in Europe as Battle of the Planets or G-Force), cybernetic warrior Casshan and comedic action hero Yatterman No. 1. All together, there are more than 20 colourful combatants to choose from in order to form the ultimate tag team combination. Gameplay will instantly set fighting game fans' fingers twitching, combining elements from Capcom games like Street Fighter and previous entries in the VS series, TATSUNOKO VS. CAPCOM ULTIMATE ALL-STARS is a fun fighting game designed for all levels of players.</desc>
@@ -147,5 +131,21 @@ Samus will employ well-known power-ups like the Grapple Beam and Morph Ball, as 
 		<genre>Action</genre>
 		<players>1</players>
 		<altemulator>PrimeHack (Standalone)</altemulator>
+	</game>
+	<game>
+		<path>./Super Paper Mario (USA) (Rev 2).nkit.gcz</path>
+		<name>Super Paper Mario</name>
+		<desc>In this action-platformer, Bowser and Peach find themselves at the wedding altar, forced into marriage by the evil Count Bleck. With this union, a void will engulf the entire universe as foretold by the book, the Dark Prognosticus. Before Luigi can stop Count Bleck, the villain escapes with an item known as the Chaos Heart. However, there is another book, called the Light Prognosticus, which can counteract the Dark Prognosticus. The Light Prognosticus foretells of a hero dressed in overalls. This hero is believed to possess the power to stop certain destruction of the universe.
+
+Mario, joined by Peach, Bowser, and a new group of friends, must travel through eight worlds in search of Pure Hearts. Each character has a special ability, which can help the player solve the game's many puzzles. Mario can flip between the second and third dimensions in order to find items, secret pathways, and pound enemies. Peach can use her parasol to float long distances and to defend against enemy attacks. Bowser uses his fire breath to light things and to fry enemies.
+
+Super Paper Mario does not fully depart from its RPG roots. For instance Mario and friends receive points from baddies. These points allow Mario and company to level up. Items can also be used to attack enemies or gain lives. Players collect coins to pay for more items.
+
+Players can shake the Wii remote after jumping on bad guys but before hitting the ground to gain extra experience points. Players use Tippi, a Pixl, allowing them to point the remote at the screen to find secrets. Other Pixls, who help in other ways, can be found along the way. Pixls besides Tippi can be used by pressing the 1 button.</desc>
+		<releasedate>20070409T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
 	</game>
 </gameList>

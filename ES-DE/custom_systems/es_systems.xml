@@ -936,7 +936,7 @@
     <system>
         <name>wiiu</name>
         <fullname>Nintendo - 2012 - Wii U</fullname>
-        <path>%ROMPATH%/wiiu</path>
+        <path>%ROMPATH%/wiiu/roms</path>
         <extension>.rpx .RPX .wua .WUA .wud .WUD .wux .WUX</extension>
         <command label="Cemu (KW)">%EMULATOR_CEMU-KW% -f -g %ROM%</command>
         <command label="Cemu (Standalone)">%EMULATOR_CEMU% -g %ROM%</command>
