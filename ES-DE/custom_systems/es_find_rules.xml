@@ -58,20 +58,18 @@
         <!-- RPCS3 (PS3) -->
         <rule type="staticpath">
             <entry>~/Applications/rpcs3.AppImage</entry>
-            <entry>/var/lib/flatpak/exports/bin/net.rpcs3.RPCS3</entry>
         </rule>
     </emulator>
-    <emulator name="Supermodel (KW)">
+    <emulator name="SUPERMODEL-KW">
         <!-- Supermodel (Sega Model 3) -->
         <rule type="staticpath">
-            <entry>/var/lib/flatpak/exports/bin/com.supermodel3.Supermodel</entry>
+            <entry>~/.local/share/flatpak/exports/bin/com.supermodel3.Supermodel</entry>
         </rule>
     </emulator>
     <emulator name="XEMU-KW">
         <!-- Xemu (Xbox) -->
         <rule type="staticpath">
             <entry>~/Applications/xemu/xemu-x64.AppImage</entry>
-            <entry>/var/lib/flatpak/exports/bin/app.xemu.xemu</entry>
         </rule>
     </emulator>
     <emulator name="XENIA-KW">
