@@ -984,8 +984,8 @@
         <fullname>Microsoft - 2005 - Xbox 360</fullname>
         <path>%ROMPATH%/xbox360/roms</path>
         <extension>. .desktop .iso .ISO .sh .xex .XEX .zar .ZAR</extension>
-        <command label="xenia canary (KW)">%STARTDIR%=%EMUDIR% %PRECOMMAND_PROTONSH% -p 'GE-Proton7-55' %EMULATOR_XENIA-CANARY-KW% %ROM%</command>
-        <command label="xenia (KW)">%STARTDIR%=%EMUDIR% %PRECOMMAND_PROTONSH% -p '7.0' %EMULATOR_XENIA-KW% %ROM%</command>
+        <command label="xenia canary (KW)">%STARTDIR%=%EMUDIR% %PRECOMMAND_PROTONSH% %EMULATOR_XENIA-CANARY-KW% %ROM%</command>
+        <command label="xenia (KW)">%STARTDIR%=%EMUDIR% %PRECOMMAND_PROTONSH% %EMULATOR_XENIA-KW% %ROM%</command>
         <command label="xenia (Wine)">%STARTDIR%=%EMUDIR% %PRECOMMAND_WINE% %EMULATOR_XENIA-WINDOWS% %ROM%</command>
         <command label="xenia (Proton)">%STARTDIR%=%EMUDIR% %PRECOMMAND_PROTON% %EMULATOR_XENIA-WINDOWS% %ROM%</command>
         <command label="Shortcut or script">%ENABLESHORTCUTS% %EMULATOR_OS-SHELL% %ROM%</command>
