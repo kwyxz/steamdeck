@@ -198,8 +198,6 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<publisher>SEGA</publisher>
 		<genre>Race, Driving</genre>
 		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>20240318T224441</lastplayed>
 	</game>
 	<game>
 		<path>./harley.zip</path>
