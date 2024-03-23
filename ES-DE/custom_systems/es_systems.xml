@@ -496,7 +496,7 @@
     <system>
         <name>model2</name>
         <fullname>Sega - 1993 - Model 2</fullname>
-        <path>%ROMPATH%/model2</path>
+        <path>%ROMPATH%/model2/roms</path>
         <extension>.7z .7Z .zip .ZIP</extension>
         <command label="MAME (KW)">%EMULATOR_MAME-KW% -verbose -inipath /home/deck/.mame/ -rompath %GAMEDIR%\;%ROMPATH%/model2/roms -video bgfx -bgfx_path /home/deck/.mame/bgfx -bgfx_backend vulkan -bgfx_screen_chains crt-geom-deluxe %BASENAME%</command>
         <command label="Model 2 Emulator (KW)">%STARTDIR%=%EMUDIR% %PRECOMMAND_PROTONSH% %EMULATOR_M2EMULATOR-KW% %BASENAME%</command>
