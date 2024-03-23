@@ -42,7 +42,7 @@
             <entry>~/Applications/pcsx2/pcsx2-x64.AppImage</entry>
         </rule>
     </emulator>
-    <emulator name="PROTON">
+    <emulator name="PROTONSH">
         <!-- Emudeck Proton helper script -->
         <rule type="staticpath">
             <entry>~/Emulation/tools/proton-launch.sh</entry>
@@ -70,7 +70,7 @@
     <emulator name="XEMU-KW">
         <!-- Xemu (Xbox) -->
         <rule type="staticpath">
-            <entry>~/Applications/xemu/xemu.AppImage</entry>
+            <entry>~/Applications/xemu/xemu-x64.AppImage</entry>
             <entry>/var/lib/flatpak/exports/bin/app.xemu.xemu</entry>
         </rule>
     </emulator>

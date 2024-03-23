@@ -4,16 +4,6 @@
 </alternativeEmulator>
 <gameList>
 	<game>
-		<path>./1080 Avalanche (USA).rvz</path>
-		<name>1080° Avalanche</name>
-		<desc>Nintendo takes players back to the slopes with 1080 Avalanche, the sequel to the popular N64 title 1080 Snowboarding. Detailed character models, interactive environments and overhauled snowboarding physics take advantage of the processing power of the GameCube. The game features more than a dozen snow-filled mountain tracks, complete with varied snow conditions and interactive environments that throw new challenges at players, including dangerous avalanches, collapsing bridges, cave-ins, and more. Race against computer opponents, against course times, in four player mode, or just to earn trick points. Master a new set of tricks involving flips, twists, grabs and grinds.</desc>
-		<releasedate>20031201T000000</releasedate>
-		<developer>NST</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./Auto Modellista (USA).rvz</path>
 		<name>Auto Modellista</name>
 		<desc>Faithful port of Capcom's cel-shaded PlayStation 2 racer, sans online support. The game features nine tracks in all, eight normal and one hidden, and 69 real-world, licensed vehicles -- presented anime-style thanks to the toon-shading technique. Players can choose from arcade mode, a standard enter and race scenario, garage life, which is the career mode of the game, and VJ and Theater, an arena enabling players to watch, edit and direct race replays of their choice. Cars can be fully customized down to the tires, brakes, suspension, turbine kits, mufflers, transmissions and more with hundreds of parts to choose from. Supports two-player split-screen racing.</desc>
@@ -364,6 +354,16 @@ Two new playable characters enter the Sonic universe -- a mysterious dark hedgeh
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Race, Driving</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./1080 Avalanche (USA).rvz</path>
+		<name>1080° Avalanche</name>
+		<desc>Nintendo takes players back to the slopes with 1080 Avalanche, the sequel to the popular N64 title 1080 Snowboarding. Detailed character models, interactive environments and overhauled snowboarding physics take advantage of the processing power of the GameCube. The game features more than a dozen snow-filled mountain tracks, complete with varied snow conditions and interactive environments that throw new challenges at players, including dangerous avalanches, collapsing bridges, cave-ins, and more. Race against computer opponents, against course times, in four player mode, or just to earn trick points. Master a new set of tricks involving flips, twists, grabs and grinds.</desc>
+		<releasedate>20031201T000000</releasedate>
+		<developer>NST</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
 		<players>1-4</players>
 	</game>
 </gameList>
