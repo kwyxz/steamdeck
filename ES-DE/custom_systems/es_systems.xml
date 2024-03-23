@@ -908,8 +908,8 @@
         <fullname>Nintendo - 2017 - Switch</fullname>
         <path>%ROMPATH%/switch</path>
         <extension>.nca .NCA .nro .NRO .nso .NSO .nsp .NSP .xci .XCI</extension>
-        <command label="Yuzu (KW)">%EMULATOR_YUZU-KW% -f -g %ROM%</command>
         <command label="Yuzu EA (KW)">%EMULATOR_YUZUEA-KW% -f -g %ROM%</command>
+        <command label="Yuzu (KW)">%EMULATOR_YUZU-KW% -f -g %ROM%</command>
         <command label="Ryujinx (Standalone)">%EMULATOR_RYUJINX% %ROM%</command>
         <platform>switch</platform>
         <theme>switch</theme>
