@@ -81,7 +81,7 @@
         <fullname>Various - 197X - Arcade</fullname>
         <path>%ROMPATH%/arcade</path>
         <extension>.cmd .CMD .desktop .neo .NEO .sh .7z .7Z .zip .ZIP</extension>
-        <command label="MAME (KW)">%EMULATOR_MAME-KW% -verbose -inipath /home/deck/.mame/ -rompath %GAMEDIR%\;%ROMPATH%/arcade -video bgfx -bgfx_path /home/deck/.mame/bgfx -bgfx_backend vulkan -bgfx_screen_chains crt-geom-deluxe %BASENAME%</command>
+        <command label="MAME (KW)">%EMULATOR_MAME-KW% -verbose -inipath /home/deck/.mame/ -rompath ~/Emulation/bios/mame/bios;%ROMPATH%/arcade -video bgfx -bgfx_path /home/deck/.mame/bgfx -bgfx_backend vulkan -bgfx_screen_chains crt-geom-deluxe %BASENAME%</command>
         <command label="MAME - Current">%EMULATOR_RETROARCH% -L %CORE_RETROARCH%/mame_libretro.so %ROM%</command>
         <command label="MAME 2010">%EMULATOR_RETROARCH% -L %CORE_RETROARCH%/mame2010_libretro.so %ROM%</command>
         <command label="MAME 2003-Plus">%EMULATOR_RETROARCH% -L %CORE_RETROARCH%/mame2003_plus_libretro.so %ROM%</command>
@@ -491,7 +491,7 @@
         <fullname>Sega - 1992 - Model 1</fullname>
         <path>%ROMPATH%/model1</path>
         <extension>.7z .7Z .zip .ZIP</extension>
-        <command label="MAME (KW)">%EMULATOR_MAME-KW% -verbose -inipath /home/deck/.mame/ -rompath %GAMEDIR%\;%ROMPATH%/model1 -video bgfx -bgfx_path /home/deck/.mame/bgfx -bgfx_backend vulkan -bgfx_screen_chains crt-geom-deluxe %BASENAME%</command>
+        <command label="MAME (KW)">%EMULATOR_MAME-KW% -verbose -inipath /home/deck/.mame/ -rompath ~/Emulation/bios/mame/bios;%ROMPATH%/model1 -video bgfx -bgfx_path /home/deck/.mame/bgfx -bgfx_backend vulkan -bgfx_screen_chains crt-geom-deluxe %BASENAME%</command>
         <platform>arcade</platform>
         <theme>model1</theme>
     </system>
@@ -500,7 +500,7 @@
         <fullname>Sega - 1993 - Model 2</fullname>
         <path>%ROMPATH%/model2/roms</path>
         <extension>.7z .7Z .zip .ZIP</extension>
-        <command label="MAME (KW)">%EMULATOR_MAME-KW% -verbose -inipath /home/deck/.mame/ -rompath %GAMEDIR%\;%ROMPATH%/model2/roms -video bgfx -bgfx_path /home/deck/.mame/bgfx -bgfx_backend vulkan -bgfx_screen_chains crt-geom-deluxe %BASENAME%</command>
+        <command label="MAME (KW)">%EMULATOR_MAME-KW% -verbose -inipath /home/deck/.mame/ -rompath ~/Emulation/bios/mame/bios;%ROMPATH%/model2/roms -video bgfx -bgfx_path /home/deck/.mame/bgfx -bgfx_backend vulkan -bgfx_screen_chains crt-geom-deluxe %BASENAME%</command>
         <command label="Model 2 Emulator (KW)">%STARTDIR%=%EMUDIR% %PRECOMMAND_PROTONSH% %EMULATOR_M2EMULATOR-KW% %BASENAME%</command>
         <command label="MAME - Current">%EMULATOR_RETROARCH% -L %CORE_RETROARCH%/mame_libretro.so %ROM%</command>
         <command label="MAME (Standalone)">%STARTDIR%=~/.mame %EMULATOR_MAME% -rompath %GAMEDIR%\;%ROMPATH%/model2 %BASENAME%</command>
