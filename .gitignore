@@ -11,6 +11,7 @@
 !/.local/share/
 /.local/share/*
 !/.local/share/duckstation
+/.local/share/duckstation/cache
 !/.gitignore
 !/.gitmodules
 !/.mame/
