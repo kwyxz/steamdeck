@@ -13,6 +13,7 @@
 /.local/share/*
 !/.local/share/duckstation
 /.local/share/duckstation/cache
+/.local/share/duckstation/playtime.dat
 !/.gitignore
 !/.gitmodules
 !/.mame/
