@@ -2,7 +2,7 @@
 <content>
     <logflag>0</logflag>
     <advanced_ppc_logging>false</advanced_ppc_logging>
-    <mlc_path>/home/deck/cemu/mlc01</mlc_path>
+    <mlc_path>/home/deck/Applications/cemu/mlc01</mlc_path>
     <permanent_storage>true</permanent_storage>
     <language>0</language>
     <use_discord_presence>true</use_discord_presence>
@@ -13,7 +13,7 @@
     <vk_warning>false</vk_warning>
     <gp_download>true</gp_download>
     <macos_disclaimer>false</macos_disclaimer>
-    <fullscreen>true</fullscreen>
+    <fullscreen>false</fullscreen>
     <proxy_server></proxy_server>
     <disable_screensaver>true</disable_screensaver>
     <console_language>1</console_language>
@@ -44,19 +44,19 @@
         <dlc_width>50</dlc_width>
         <game_time_width>140</game_time_width>
         <game_started_width>160</game_started_width>
-        <region_width>80</region_width>
-        <title_id>500</title_id>
+        <region_width>306</region_width>
+        <title_id>0</title_id>
     </GameList>
     <RecentLaunchFiles/>
     <RecentNFCFiles/>
     <GamePaths>
-        <Entry>/home/deck/Emulation/roms/wiiu</Entry>
+        <Entry>/home/deck/Emulation/roms/wiiu/roms</Entry>
     </GamePaths>
     <GameCache/>
     <GraphicPack/>
     <Graphic>
         <api>1</api>
-        <device>00000000040000000000000000000000</device>
+        <device>00000000000000000000000000000000</device>
         <VSync>0</VSync>
         <GX2DrawdoneSync>true</GX2DrawdoneSync>
         <UpscaleFilter>1</UpscaleFilter>
@@ -87,7 +87,7 @@
         </Notification>
     </Graphic>
     <Audio>
-        <api>3</api>
+        <api>0</api>
         <delay>2</delay>
         <TVChannels>1</TVChannels>
         <PadChannels>1</PadChannels>
@@ -95,7 +95,7 @@
         <TVVolume>50</TVVolume>
         <PadVolume>0</PadVolume>
         <InputVolume>50</InputVolume>
-        <TVDevice></TVDevice>
+        <TVDevice>default</TVDevice>
         <PadDevice></PadDevice>
         <InputDevice></InputDevice>
     </Audio>
