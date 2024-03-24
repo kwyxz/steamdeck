@@ -47,7 +47,9 @@
         <region_width>306</region_width>
         <title_id>0</title_id>
     </GameList>
-    <RecentLaunchFiles/>
+    <RecentLaunchFiles>
+        <Entry>/home/deck/Emulation/roms/wiiu/roms/Xenoblade Chronicles X (US) (v48).wua</Entry>
+    </RecentLaunchFiles>
     <RecentNFCFiles/>
     <GamePaths>
         <Entry>/home/deck/Emulation/roms/wiiu/roms</Entry>

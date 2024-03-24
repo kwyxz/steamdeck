@@ -68,18 +68,6 @@ Aside from the regular arcade, survival and training mode, there is a story mode
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Final Fight - Streetwise (USA).iso</path>
-		<name>Final Fight : Streetwise</name>
-		<desc>Play as one of four characters alone or with your friend in this traditional beat em up.
-
-Kyle and Cody Travers are brothers who take part in the sport of underground fighting. As Cody Travers' younger brother, Kyle is the star of the underground Metro City fight club, spending nights fighting various other fighters in order to earn enough quick cash to make ends meet. After the end of a fight one evening, Kyle and Cody decide to meet at the local bar to celebrate with some beers and a round of pool; however, Cody has some unspoken business that delays his arrival for an hour. After Kyle arrives at the bar, he plays a game with his girlfriend and bar owner Vanessa Simms, while waiting for Cody. Kyle later finds out that Cody is using a powerful strength-enhancing drug called "glow", which helps the arthritis in his knees. Kyle later discovers that glow is being made by a psychotic priest named Father Bella, who hopes to use the drug to bring about the apocalypse. When Kyle finds Bella on the roof of his church, Cody is with him, mutated by a concentrated dose of glow. It is later revealed that Bella is actually the younger brother of Belger, the antagonist of the original game, just before he and Kyle begin to fight.</desc>
-		<releasedate>20060228T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Gladius (USA).iso</path>
 		<name>Gladius</name>
 		<desc>In the tradition of films like Gladiator and Spartacus comes Gladius, an action RPG taking place in the world of gladiatorial combat. As one of two principal characters, Ursula and Valens, players must train and lead a team of warriors to compete in the 20 coliseums and arenas found in four regions around the world. As a gladiator team trains and fights, warriors become more experienced and eventually develop new abilities.
@@ -325,5 +313,17 @@ New to the series is ship navigation - instead of exploring an overworld on foot
 		<publisher>Konami</publisher>
 		<genre>Role playing games</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./Final Fight - Streetwise (USA).iso</path>
+		<name>Final Fight : Streetwise</name>
+		<desc>Play as one of four characters alone or with your friend in this traditional beat em up.
+
+Kyle and Cody Travers are brothers who take part in the sport of underground fighting. As Cody Travers' younger brother, Kyle is the star of the underground Metro City fight club, spending nights fighting various other fighters in order to earn enough quick cash to make ends meet. After the end of a fight one evening, Kyle and Cody decide to meet at the local bar to celebrate with some beers and a round of pool; however, Cody has some unspoken business that delays his arrival for an hour. After Kyle arrives at the bar, he plays a game with his girlfriend and bar owner Vanessa Simms, while waiting for Cody. Kyle later finds out that Cody is using a powerful strength-enhancing drug called "glow", which helps the arthritis in his knees. Kyle later discovers that glow is being made by a psychotic priest named Father Bella, who hopes to use the drug to bring about the apocalypse. When Kyle finds Bella on the roof of his church, Cody is with him, mutated by a concentrated dose of glow. It is later revealed that Bella is actually the younger brother of Belger, the antagonist of the original game, just before he and Kyle begin to fight.</desc>
+		<releasedate>20060228T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
 	</game>
 </gameList>

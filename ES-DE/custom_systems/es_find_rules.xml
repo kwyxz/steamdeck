@@ -3,7 +3,7 @@
     <emulator name="BIGPEMU-KW">
         <!-- BigPEmu (Jaguar) -->
         <rule type="staticpath">
-            <entry>~/Applications/BigPEmu/bigpemu.sh</entry>
+            <entry>~/Applications/BigPEmu/BigPEmu.exe</entry>
         </rule>
     </emulator>
     <emulator name="CEMU-KW">
