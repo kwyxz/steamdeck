@@ -6,9 +6,9 @@ What this is, is a bunch of settings and customizations I apply on top of Emudec
 _Again, most of what is in this repository requires Emudeck to work_, at least for now.
 Do yourself a favor and install it, a lot of stuff has been preconfigured to make your life easier: https://www.emudeck.com
 
-Games go in /home/deck/Emulation/roms/ per Emudeck settings. If need be, create a symlink to your roms folder.
+Games go in /home/deck/Emulation/roms/ per Emudeck settings. If need be, create a symlink to your roms folder. If you do not know what a symlink is, or how to create one, then maybe my repository is not for you. I tried to make this as easy to use as possible but there's only so much I can do, sorry.
 
-*I do not recommend using the Steam ROM tool Emudeck provides that creates shortcuts within Steam*. It is fine if you have only a handful of retro games per platform. If you have a bunch, your Steam interface will become messy and annoying to browse. Add these games to EmulationStation-DE and be happy. As a generic piece of advice : you should very much use EmulationStation-DE to start all your retro games as I have spent hours configuring shortcuts / launchers that work within EmulationStation-DE. The only reason to start an emulator from Desktop Mode would be to update some configuration details. Besides that, run EmulationStation-DE from Gaming Mode, enjoy the nice theme, videos and metadata, and start some games.
+For managing your roms, *I do not recommend using the Steam ROM tool Emudeck provides that creates shortcuts within Steam*. It is fine if you have only a handful of retro games per platform. If you have a bunch, your Steam interface will become messy and annoying to browse. Add these games to EmulationStation-DE and be happy. You can, however, use the Steam ROM Manager to create shortcuts to your Emulators in Steam : it's faster than adding them manually one by one.
 
 ### How do I use this repository?
 
@@ -19,19 +19,44 @@ It will pull the whole repository, then install all the extra fancy emulators th
 
 Double-click on the "Turbocharge Emudeck" icon on the desktop again, or manually run "update-all.sh" in the scripts directory.
 
+### ES-DE
+
+As a generic piece of advice : you should very much use EmulationStation-DE to start all your retro games as I have spent hours configuring shortcuts / launchers that work within EmulationStation-DE. The only reason to start an emulator from Desktop Mode would be to update some configuration details. Besides that, run EmulationStation-DE from Gaming Mode, enjoy the nice theme, create an account on screenscraper.fr and edit `ES-DE/settings/es_settings.xml` to set your screenscraper username and password then scrape the videos, artworks and metadata, and start some games.
+
+Set the theme to "Epic Noir (KW)" or "Art Book (KW)" to enjoy my settings. Both are based heavily on the same name themes that come with Emudeck but you don't need to have them installed for the customized themes to work. 
+
+Almost all systems have been reconfigured from the defaults and are now set in `/home/deck/.emulationstation/custom_systems/es_systems.xml` however you know still have the ability to switch back to the Emudeck configured emulators if you feel like it.
+
+Several systems were added to the default settings:
+ - Nintendo 64DD (games in `/home/deck/Emulation/roms/64dd/`)
+ - Sammy Atomiswave (games in `/home/deck/Emulation/roms/atomiswave`)
+ - Capcom CPS-1 (games in `/home/deck/Emulation/roms/cps1`)
+ - Capcom CPS-2 (games in `/home/deck/Emulation/roms/cps2`)
+ - Capcom CPS-3 (games in `/home/deck/Emulation/roms/cps3`)
+ - Sega Model 1 (games in `/home/deck/Emulation/roms/model1`)
+ - Sega Model 2 (games in `/home/deck/Emulation/roms/model2`)
+ - Sega Model 3 (games in `/home/deck/Emulation/roms/model3`)
+ - Sega Naomi (games in `/home/deck/Emulation/roms/naomi`)
+
+I did remove various templates I was not interested in from the original theme. So if too many things are missing for your setup, you can go back to ES-EpicNoir, no hard feelings.
+
+The gamelists are full of pre-fetched Metadata, but you'll need to scrape the rest of the Media (boxarts, videos, etc).
+
 ### Redream
 
 Run `./install-redream.sh` script in `/home/deck/Applications/redream` to download and install the latest version of the standalone Dreamcast emulator. If you own a paid version, copy redream.key in the same folder. Redream is much more accurate and fast than RetroArch+Flycast, however it also lacks shaders. Redream is configured to look for games in `/home/deck/Emulation/roms/dreamcast`.
 
+At this time, starting Redream from ES-DE fails and ends up in a blank screen. I am not sure what causes this. You can add Redream as a Non-Steam Game from Steam in Desktop mode, and then start it in Gaming mode then point it to your Dreamcast / Dreamcast-converted Atomiswave games.
+
 ### SuperModel
 
-EmuDeck now installs a flatpak build of SuperModel, there is no need to build it from source any more.
+EmuDeck now installs a flatpak build of SuperModel, there is no need to build it from source any more. This makes installs and updates much easier.
 
 ### Duckstation
 
-The included Flatpak was giving me trouble (just the opposite of Yuzu...) so I added a script to download the latest AppImage. The AppImage is the only binary that is supported by the author, nonetheless. So to install Duckstation and / or keep it updated, run the `./install-duckstation.sh` script in `/home/deck/Applications/duckstation`.
+The included Flatpak was giving me trouble so I added a script to download the latest AppImage. The AppImage is the only binary that is supported by the author, nonetheless. So to install Duckstation and / or keep it updated, run the `./install-duckstation.sh` script in `/home/deck/Applications/duckstation`.
 
-I updated the settings to add a 6x scaling + box downsampling which gives video a very, very nice and smooth effect, especially coupled with the CRT lottes2 shader. If you don't like it, feel free to disable all that.
+The Steamdeck is able to handle a 6x scaling + box downsampling which gives video a very, very nice and smooth effect, especially coupled with the CRT lottes2 shader.
 
 ### PCSX2
 
@@ -63,27 +88,11 @@ See Yuzu above.
 
 ### Xemu & Xenia
 
-I am providing update scripts for both emulators. See Applications/xemu and Applications/xenia for details. The `update-all.sh` script will update both.
-
-### EmulationStation-DE
-
-Set the theme to "Epic Noir (kw)" to enjoy my settings. My theme is based heavily on the ES-EpicNoir theme that comes with Emudeck but you don't need to have it installed for the "Epic Noir (kw)" theme to work. Almost all systems have been reconfigured from the defaults and are now set in `/home/deck/.emulationstation/custom_systems/es_systems.xml`. Several systems were added to the default settings:
- - Nintendo 64DD (games in `/home/deck/Emulation/roms/64dd/`)
- - Sammy Atomiswave (games in `/home/deck/Emulation/roms/atomiswave`)
- - Capcom CPS-1 (games in `/home/deck/Emulation/roms/cps1`)
- - Capcom CPS-2 (games in `/home/deck/Emulation/roms/cps2`)
- - Capcom CPS-3 (games in `/home/deck/Emulation/roms/cps3`)
- - Sega Model 1 (games in `/home/deck/Emulation/roms/model1`)
- - Sega Model 2 (games in `/home/deck/Emulation/roms/model2`)
- - Sega Model 3 (games in `/home/deck/Emulation/roms/model3`)
- - Sega Naomi (games in `/home/deck/Emulation/roms/naomi`)
-
-I did remove various templates I was not interested in from the original theme. So if too many things are missing for your setup, you can go back to ES-EpicNoir, no hard feelings.
-The gamelists are full of pre-fetched Metadata, but you'll need to scrape the rest of the Media (boxarts, videos, etc).
+I am providing update scripts for both emulators. See Applications/xemu and Applications/xenia for details. The `update-all.sh` script will update both. Xenia seems to not like having to switch between Proton versions. If Xenia gives you a blank screen, clear the cache.
 
 ### Helper Scripts
 
-In the scripts/ folder you will find some helper scripts that will assist dealing with EmulationStation and roms / media files.
+In the `scripts/` folder you will find some helper scripts that will assist dealing with EmulationStation and roms / media files.
 
 The `fix-shaders-vertical.sh` script heavily uses MAME to find out what arcade games (cps1/cps2/naomi) use a vertical monitor in order to set FBNeo / Flycast and shader options appropriately. MAME doesn't need it as MAME automatically rotates the screen (and does not use the HyperSpaceMadness shaders). NOTE: newer versions of FBNeo / HSM attempt to do this rotation automatically and may cause issues.
 
@@ -129,5 +138,6 @@ scripts/media_helper.py -c snes
 There is absolutely zero warranty that this will work for you, but it's a good backup for me in case my SD card dies. You never know when a SD card is going to die. *Always use backups, dingdongs*.
 
 I WILL NOT PROVIDE ANY SUPPORT IF THIS REPOSITORY DOES NOT WORK FOR YOU OR WORSE, BRICKS YOUR STEAMDECK (though there is virtually no chance it would).
+
 USE THE CONTENTS OF THIS REPOSITORY AT YOUR OWN RISKS.
 But I hope it works for you though.
