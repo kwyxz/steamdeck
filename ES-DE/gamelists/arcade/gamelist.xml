@@ -6466,16 +6466,6 @@ In the Xbox version, additional game modes, such as Storming the Mothership and 
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./mslug5.zip</path>
-		<name>Metal Slug 5</name>
-		<desc>The latest installment of the most famous arcade-shooting series brings a lot of changes: this time, you will not face Morden's army like in the previous games, but with a new group of enemies that composes the already mentioned Ptolemaic Army. More content in this title, 3 guns and 2 vehicles from past games were reincorporated, as well as all brand new stuff of 3 vehicles. The most important addition is a sliding move: pressing the B Button when ducking will make your character slide for a short time in the ground. You are not be able to throw grenades, but your gun can be fired normally.</desc>
-		<releasedate>20030101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Platform / Shooter Scrolling</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./mslugx.zip</path>
 		<name>Metal Slug X - Super Vehicle-001</name>
 		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
@@ -6969,18 +6959,6 @@ The gong that determines the new ?Master of Muscle Bomber? is sounded?</desc>
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./mutnat.zip</path>
-		<name>Mutation Nation</name>
-		<desc>The Slum... an area of town completely forgotten. No one could imagine the cruelness suffered by innocent people who were transformed into horrible mutant creatures by genetic experiments. They hovered everywhere and completely took control of the town.
-
-Mutation Nation is a 1-2 player action game where you must control your hero and beat up any mutant that gets in your way, by either using your fists or one of four special attacks. A boss at the end of each area needs to be defeated if you want to proceed further through the game.</desc>
-		<releasedate>19920101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./mvp.zip</path>
 		<name>Mvp</name>
 		<desc>M.V.P. (c) 1989 Sega.  A hilarious baseball game.  - TECHNICAL -  Sega System 16B hardware Game ID : 317-0142 / 317-0143  Main CPU : 68000 (@ 10 Mhz) Sound CPU : Z80 (@ 5 Mhz) Sound Chips : YM2151 (@ 4 Mhz), UPD7759 (@ 640 Khz)  Players : 2 Control : 8-wa</desc>
@@ -7033,16 +7011,6 @@ Players are armed with both Shuriken throwing stars and with a sword for close e
 		<publisher>Konami</publisher>
 		<genre>Fight</genre>
 		<players>1-4</players>
-	</game>
-	<game>
-		<path>./nam1975.zip</path>
-		<name>NAM-1975</name>
-		<desc>As a soldier, you and/or a friend must travel through Vietnam to stop the scientist and his world destroying laser machine. In the game, you must shoot enemy soldiers, tanks, helicopters, jeeps, and more by aiming the machine gun cursor and shooting at them. Within each location, you can pick up more powerful weapons such as machine guns and flame throwers, but these have a limited supply of ammunition. Pressing down on the joystick while running at the same time will cause your character to perform a somersault and be invincible for a second. At the end of every location, you will need to defeat a series of bosses, which are not the same every play. Cut-scenes are viewed in between locations, and contain dramatic digitized dialogue.</desc>
-		<releasedate>19900101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
 	</game>
 	<game>
 		<path>./namenayo.zip</path>
@@ -14200,16 +14168,6 @@ If the player's ship is equipped with one or more red/blue extra guns, pushing b
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./hsf2.zip</path>
-		<name>Hyper Street Fighter II: The Anniversary Edition</name>
-		<desc>Hyper Street Fighter II: The Anniversary Edition is a competitive fighting game by Capcom that was originally released for the PlayStation 2 in 2003 in Japan and in 2004 in North America and Asia. Released to commemorate the 15th anniversary of the Street Fighter series, Hyper Street Fighter II is a modified port of Super Street Fighter II Turbo in which players can control any versions of the main characters from the five Street Fighter II games previously released for the arcades. Although, originally released as a home console game, an arcade port was released shortly afterwards in limited quantities, turning it into the sixth and final arcade iteration.</desc>
-		<releasedate>20040101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./hotrod.zip</path>
 		<name>Hot Rod</name>
 		<desc>Hot-Rod is a scrolling top-down racing game in which up to four players race each other over a variety of different surfaces on a selection of narrow, twisting roads. Each player's vehicle has a fuel (gas) meter that constantly depletes as the race progresses. Extra fuel and bonus pick-ups are placed at regular intervals on each track and can be collected by driving over them. If a car runs out of fuel it is automatically disqualified from the race. </desc>
@@ -14228,6 +14186,48 @@ Final Fight consists of six stages or "rounds", as well as two bonus rounds. Eac
 		<releasedate>19890101T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./hsf2.zip</path>
+		<name>Hyper Street Fighter II: The Anniversary Edition</name>
+		<desc>Hyper Street Fighter II: The Anniversary Edition is a competitive fighting game by Capcom that was originally released for the PlayStation 2 in 2003 in Japan and in 2004 in North America and Asia. Released to commemorate the 15th anniversary of the Street Fighter series, Hyper Street Fighter II is a modified port of Super Street Fighter II Turbo in which players can control any versions of the main characters from the five Street Fighter II games previously released for the arcades. Although, originally released as a home console game, an arcade port was released shortly afterwards in limited quantities, turning it into the sixth and final arcade iteration.</desc>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./mslug5.zip</path>
+		<name>Metal Slug 5</name>
+		<desc>The latest installment of the most famous arcade-shooting series brings a lot of changes: this time, you will not face Morden's army like in the previous games, but with a new group of enemies that composes the already mentioned Ptolemaic Army. More content in this title, 3 guns and 2 vehicles from past games were reincorporated, as well as all brand new stuff of 3 vehicles. The most important addition is a sliding move: pressing the B Button when ducking will make your character slide for a short time in the ground. You are not be able to throw grenades, but your gun can be fired normally.</desc>
+		<releasedate>20030101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./nam1975.zip</path>
+		<name>NAM-1975</name>
+		<desc>As a soldier, you and/or a friend must travel through Vietnam to stop the scientist and his world destroying laser machine. In the game, you must shoot enemy soldiers, tanks, helicopters, jeeps, and more by aiming the machine gun cursor and shooting at them. Within each location, you can pick up more powerful weapons such as machine guns and flame throwers, but these have a limited supply of ammunition. Pressing down on the joystick while running at the same time will cause your character to perform a somersault and be invincible for a second. At the end of every location, you will need to defeat a series of bosses, which are not the same every play. Cut-scenes are viewed in between locations, and contain dramatic digitized dialogue.</desc>
+		<releasedate>19900101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./mutnat.zip</path>
+		<name>Mutation Nation</name>
+		<desc>The Slum... an area of town completely forgotten. No one could imagine the cruelness suffered by innocent people who were transformed into horrible mutant creatures by genetic experiments. They hovered everywhere and completely took control of the town.
+
+Mutation Nation is a 1-2 player action game where you must control your hero and beat up any mutant that gets in your way, by either using your fists or one of four special attacks. A boss at the end of each area needs to be defeated if you want to proceed further through the game.</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
 		<genre>Beat'em Up</genre>
 		<players>1-2</players>
 	</game>

@@ -45,22 +45,6 @@ For each event, points are earned based on how well you do (this can be based on
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Air Raid (USA).zip</path>
-		<name>Air Raid</name>
-		<desc>The object of this game is to defend the buildings at the bottom of the screen.
-
-There are four types of attacking ships moving down the screen. You are moving just above the buildings. The enemies are dropping bombs to try to damage your buildings or destroy you. You must fire missiles up to destroy them. The waves of enemies never ends.
-
-The game ends when all three of your ships are destroyed or when both buildings have taken so much damage that they collapse.
-
-There are eight game variations. Some where the ships move side-to-side while moving down, some where your shots move to the side when you do, some faster and some with combinations of any or all of these.</desc>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Men-A-Vision</developer>
-		<publisher>Men-A-Vision</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Air Raiders (USA).zip</path>
 		<name>Air Raiders</name>
 		<desc>A simple flight simulator and dogfighting game. Shoot the planes, avoid the flak. You have a limited amount of ammuntion and fuel. Shoot down 10 planes and you can land to refuel, but you may lose ammo. You'll only be given as much ammunition as you successfully used to shoot down planes the last time up.</desc>
@@ -6165,18 +6149,6 @@ There are two skill levels, and the higher your score, the harder the game becom
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Tunnel Runner (USA).zip</path>
-		<name>Tunnel Runner</name>
-		<desc>Tunnel Runner is an advanced 3D Maze Game, essentially what a 1st person version of Pac-Man game would be like.  Because "Tunnel Runner" was designed with a built-in expanded memory chip (RAM Plus!), it's 12KB of memory gives it the ability to present the maze in three dimensions.  Therefore, the playfield is a colorful, three-dimensional maze, so you never see yourself... just the walls on either side of you that form the corridors you travel along.  As you move along the passage-ways, additional tunnels appear on either side, which you can turn into by pressing left and right.
-
-Your primary goal is to locate and collect the hidden key, located in a different spot within each maze.  Through the assistance of a MAP, you can maneuver within the maze.  While attempting to locate the key to exit the level, you must also avoid the hungry Zot's.  You will discover these enemy creatures throughout the maze.  Successfully recovering the key without being intercepted by the Zot's opens the portal to the next level.  As you pass each level, you will discover that the complexity and difficulty increases, while your MAP gradually reveals less and less information… ultimately, your map will be of little use, requiring you to survive solely by instincts and quick thinking!</desc>
-		<releasedate>19830101T000000</releasedate>
-		<developer>CBS Software</developer>
-		<publisher>CBS Software</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Turmoil (USA).zip</path>
 		<name>Turmoil</name>
 		<desc>Turmoil is a fast-paced shooter. You pilot a ship that is trapped within a chamber of seven tunnels.  Your ship can only move up and down along a vertical corridor connecting the tunnels.  You are not alone, however.  A variety of enemies travel along these tunnels, focused on destroying you.  Therefore, the ultimate objective of "Turmoil" is to zoom up and down the center alley and blast aliens as they streak by.  Keep shooting and keep moving, and you will survive to live another day!  As you move quickly up and down, you must also fire your own weapons into to the left or right side.  Part of the intensity of this game is driven by the fact that you can't stay in one place for too long.  If you do, an indestructible enemy will come flying at you, forcing to move onward once more.
@@ -6639,6 +6611,34 @@ Each cage hides a mini games where you have to catch the animal to calm it and t
 		<releasedate>19830101T000000</releasedate>
 		<publisher>Home Vision</publisher>
 		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Tunnel Runner (USA).zip</path>
+		<name>Tunnel Runner</name>
+		<desc>Tunnel Runner is an advanced 3D Maze Game, essentially what a 1st person version of Pac-Man game would be like.  Because "Tunnel Runner" was designed with a built-in expanded memory chip (RAM Plus!), it's 12KB of memory gives it the ability to present the maze in three dimensions.  Therefore, the playfield is a colorful, three-dimensional maze, so you never see yourself... just the walls on either side of you that form the corridors you travel along.  As you move along the passage-ways, additional tunnels appear on either side, which you can turn into by pressing left and right.
+
+Your primary goal is to locate and collect the hidden key, located in a different spot within each maze.  Through the assistance of a MAP, you can maneuver within the maze.  While attempting to locate the key to exit the level, you must also avoid the hungry Zot's.  You will discover these enemy creatures throughout the maze.  Successfully recovering the key without being intercepted by the Zot's opens the portal to the next level.  As you pass each level, you will discover that the complexity and difficulty increases, while your MAP gradually reveals less and less information… ultimately, your map will be of little use, requiring you to survive solely by instincts and quick thinking!</desc>
+		<releasedate>19830101T000000</releasedate>
+		<developer>CBS Software</developer>
+		<publisher>CBS Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Air Raid (USA).zip</path>
+		<name>Air Raid</name>
+		<desc>The object of this game is to defend the buildings at the bottom of the screen.
+
+There are four types of attacking ships moving down the screen. You are moving just above the buildings. The enemies are dropping bombs to try to damage your buildings or destroy you. You must fire missiles up to destroy them. The waves of enemies never ends.
+
+The game ends when all three of your ships are destroyed or when both buildings have taken so much damage that they collapse.
+
+There are eight game variations. Some where the ships move side-to-side while moving down, some where your shots move to the side when you do, some faster and some with combinations of any or all of these.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Men-A-Vision</developer>
+		<publisher>Men-A-Vision</publisher>
+		<genre>Action</genre>
 		<players>1</players>
 	</game>
 </gameList>
