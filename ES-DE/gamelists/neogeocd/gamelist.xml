@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt).chd</path>
-		<name>The Last Blade</name>
-		<desc>Choose one of several characters to play with, each with their own unique moves and special attacks. Each stage in the game has two battles, where the object of each is to drain your opponent's energy in order to complete the battle, and you will complete the stage if you do this twice. If there is a draw, then a third battle is then played. There is a time limit, and when this expires, the player with the most energy wins the battle.</desc>
-		<releasedate>19980326T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt).chd</path>
-		<name>The Last Blade 2: Heart of the Samurai</name>
-		<desc>The Last Blade 2: Heart of the Samurai is a 2D fighting game which features anime-style characters that fight each other with swords, clubs, and even fishing poles. These characters pull off their special moves with that 'quarter-circle-to-half-circle' and 'double-half-circle' controller motions, reminiscent of Street Fighter.</desc>
-		<releasedate>19990227T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./King of Fighters '94, The (Japan, USA) (En,Ja) (Rev 1).chd</path>
 		<name>The King of Fighters '94</name>
 		<desc>This is the first game of the series that conquered legions of fighter fans from all over the world. The King of Fighters '94 joins together fighters from other SNK Corporation franchises: Art of Fighting (Ryo Sakazaki, Robert Garcia, Takuma Sakazaki, Yuri Sakazaki, King), Fatal Fury (Terry Bogard, Andy Bogard, Joe Higashi, Mai Shiranui, Kim Kaphwan) and Ikari Warriors (Ralf Jones, Clark Steel, Heidern), as well as totally new fighters such as Kyo Kusanagi, Benimaru Nikaido, and Goro Daimon (from the Japanese team).
@@ -69,22 +49,71 @@ New characters include the New Face Team, the Fatal Fury Outlaw Team (featuring 
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja).chd</path>
-		<name>The King of Fighters '98: The Slugfest</name>
-		<desc>The King of Fighters '98 takes a break from the Orochi plot line and instead is presented as a "Dream Match" game where the KOF roster duke it out for the top spot (similar to Ultimate Mortal Kombat 3, but without the storyline component). Most of the characters from the past four years return, thus providing the player with a very large roster containing 38 characters. Many of the characters have been altered in an attempt to make the game balanced regardless of the player's choice of fighter. Rugal Bernstein is provided as a non-secret character for the first time in KOF '98, and several regular characters have hidden "alternate" versions that may also be used in-game. 
-
-KOF '98 uses the same gameplay system present in The King of Fighters '97, so players may still choose between Extra and Advanced modes. In addition to the Survival battle mode and the ability to choose between Single Play or Team Play, versions of the game on console systems that use CDs to contain their media (PSX, Neo-Geo CD) also include an Art Gallery one may look at.</desc>
-		<releasedate>19981223T000000</releasedate>
+		<path>./ADK World (Japan).chd</path>
+		<name>ADK World</name>
+		<desc>ADK World (ADK Special in Japan) is a mini-game video game developed by ADK and published by SNK in 1995 only in Japan and only on Neo-Geo CD.
+The software allows you to access a menu in the form of a city map called ADK Town. The laboratory of the professor Brown allows to access to cards of the characters of World Heroes and to a drawing of World Heroes Perfect. The ADK Cafe provides access to information, covers and artworks on characters from the ADK universe: Magician Lord, Ninja Combat, Ninja Commando, Aggressors of Dark Kombat, Crossed Swords II, World Heroes, Blue's Journey and Rally Chase. The ADK Building is a fan questionnaire that ADK answers. ADK Corner, a discussion about ADK. Mysterious Shack allows to unlock hidden options.</desc>
+		<releasedate>19951110T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Crossed Swords II (Japan) (En,Ja).chd</path>
+		<name>Crossed Swords II</name>
+		<desc>Crossed Swords II features the same gameplay from its predecessor (Crossed Swords on Neo Geo MVS and AES). The player is given a first-person view with a third-person silhouette/wire-frame view of the character similar to the Punch-Out!! arcade game. New to this sequel is the addition of a new button for jumping and dashing, giving the player more maneuverability and allowing him to dodge incoming attacks. By pressing the attack button after dashing the player will make a horizontal slash which stuns enemies briefly, and by pressing the attack button after jumping the player will make a powerful downward slash.</desc>
+		<releasedate>19950502T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>ADK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt).chd</path>
+		<name>The Last Blade</name>
+		<desc>Choose one of several characters to play with, each with their own unique moves and special attacks. Each stage in the game has two battles, where the object of each is to drain your opponent's energy in order to complete the battle, and you will complete the stage if you do this twice. If there is a draw, then a third battle is then played. There is a time limit, and when this expires, the player with the most energy wins the battle.</desc>
+		<releasedate>19980326T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt).chd</path>
+		<name>The Last Blade 2: Heart of the Samurai</name>
+		<desc>The Last Blade 2: Heart of the Samurai is a 2D fighting game which features anime-style characters that fight each other with swords, clubs, and even fishing poles. These characters pull off their special moves with that 'quarter-circle-to-half-circle' and 'double-half-circle' controller motions, reminiscent of Street Fighter.</desc>
+		<releasedate>19990227T000000</releasedate>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle (Japan, USA) (En,Ja,Es,Pt).chd</path>
-		<name>The King of Fighters '99: Millennium Battle</name>
-		<desc>It's time once again for the famous KOF Tournament! New faces and old alike join together to participate in the latest KOF tournament, but something seems wrong. Why was this year's tournament announced without fanfare? What could be up? That's for you to find out! Featuring classic KOF gameplay with a new twist: The Striker Match!</desc>
-		<releasedate>19991202T000000</releasedate>
+		<path>./Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja).chd</path>
+		<name>Ironclad</name>
+		<desc>Ironclad is a side-scrolling shoot 'em up for the Neo Geo CD. Use your war ship to save the Kingdom of Chop from the Iron Mask Republic. You can use three main blast weapons, which are upgradable when you collect more items, a charged attack available when Iron Clad is attached to your ship, three melee weapons, a bomber that clears all enemy bullets, and varying shooting patterns. Stages are selectable, and there are multiple endings.</desc>
+		<releasedate>19960920T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Oshidashi Zintrick ~ ZinTricK (Japan) (En,Ja).chd</path>
+		<name>Zintrick</name>
+		<desc>Yet another puzzle game on Neo-Geo! Every four years to Asgard, the "Tournament Zintrick" occurs. During the competition, participants from around the world come to compete for the honor, glory and wealth.</desc>
+		<releasedate>19960322T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle-Game / Throw</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Real Bout Garou Densetsu ~ Real Bout Fatal Fury (Japan, USA) (En,Ja,Es,Pt).chd</path>
+		<name>Real Bout Fatal Fury</name>
+		<desc>The fourth title of fighting Fatal Fury series. Now, you can destroy fight scene objects and the "Fatal Fury 2" fighters are back forming this list: Terry Bogard, Andy Bogard, Joe Higashi, Franco Bash, Mai Shiranui, Bob Wilson, Geese Howard, Billy Kane, Hon-Fu, Ryuji Yamazaki, Sokaku Mochizuki, Blue Mary, Kim Kaphwan, Jin Chonrei, Jin Chonshu and Duck King.</desc>
+		<releasedate>19960126T000000</releasedate>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre>Action</genre>
@@ -102,10 +131,11 @@ Also, the game maintains the capacity to destroy some things of the fight zone.<
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Real Bout Garou Densetsu ~ Real Bout Fatal Fury (Japan, USA) (En,Ja,Es,Pt).chd</path>
-		<name>Real Bout Fatal Fury</name>
-		<desc>The fourth title of fighting Fatal Fury series. Now, you can destroy fight scene objects and the "Fatal Fury 2" fighters are back forming this list: Terry Bogard, Andy Bogard, Joe Higashi, Franco Bash, Mai Shiranui, Bob Wilson, Geese Howard, Billy Kane, Hon-Fu, Ryuji Yamazaki, Sokaku Mochizuki, Blue Mary, Kim Kaphwan, Jin Chonrei, Jin Chonshu and Duck King.</desc>
-		<releasedate>19960126T000000</releasedate>
+		<path>./Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja).chd</path>
+		<name>Samurai Shodown</name>
+		<desc>In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness.
+Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.</desc>
+		<releasedate>19940909T000000</releasedate>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre>Action</genre>
@@ -136,17 +166,6 @@ With the intention to provide more action in the battles, the "No Contest" Moves
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja).chd</path>
-		<name>Samurai Shodown</name>
-		<desc>In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness.
-Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.</desc>
-		<releasedate>19940909T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (Japan, USA) (En,Ja).chd</path>
 		<name>Samurai Shodown II</name>
 		<desc>One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.</desc>
@@ -166,5 +185,27 @@ The greed, like the diseases, is spreading through the human heart. The devil wi
 		<publisher>SNK</publisher>
 		<genre>Role playing games</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja).chd</path>
+		<name>The King of Fighters '98: The Slugfest</name>
+		<desc>The King of Fighters '98 takes a break from the Orochi plot line and instead is presented as a "Dream Match" game where the KOF roster duke it out for the top spot (similar to Ultimate Mortal Kombat 3, but without the storyline component). Most of the characters from the past four years return, thus providing the player with a very large roster containing 38 characters. Many of the characters have been altered in an attempt to make the game balanced regardless of the player's choice of fighter. Rugal Bernstein is provided as a non-secret character for the first time in KOF '98, and several regular characters have hidden "alternate" versions that may also be used in-game. 
+
+KOF '98 uses the same gameplay system present in The King of Fighters '97, so players may still choose between Extra and Advanced modes. In addition to the Survival battle mode and the ability to choose between Single Play or Team Play, versions of the game on console systems that use CDs to contain their media (PSX, Neo-Geo CD) also include an Art Gallery one may look at.</desc>
+		<releasedate>19981223T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle (Japan, USA) (En,Ja,Es,Pt).chd</path>
+		<name>The King of Fighters '99: Millennium Battle</name>
+		<desc>It's time once again for the famous KOF Tournament! New faces and old alike join together to participate in the latest KOF tournament, but something seems wrong. Why was this year's tournament announced without fanfare? What could be up? That's for you to find out! Featuring classic KOF gameplay with a new twist: The Striker Match!</desc>
+		<releasedate>19991202T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
 	</game>
 </gameList>
