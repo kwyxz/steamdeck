@@ -9518,20 +9518,6 @@ By exploring these 25 cities, children can familiarize themselves with the landm
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Matsumoto Tooru no Kabushiki Hisshou Gaku (Japan).zip</path>
-		<name>Matsumoto Tooru No Kabushiki Hisshou Gaku - Vol. 1</name>
-		<desc>Matsumoto Tooru no Kabushiki Hisshou Gaku ("Matsumoto Tooru's Stock Success Knowledge") is a stock exchange simulation developed and published by Imagineer. The goal of the game is to make 100 million yen (approximately $1.3mil) in the stock market in the span of a single year via a series of shrewd financial decisions and listening to advice about which way a certain type of stock might turn.
-
-The game is fronted by Matsumoto Tooru, a nationally well-known financial adviser who is often considered to have an expansive knowledge of the Japanese stock market. The game also features the song "The Entertainer" by Scott Joplin.
-
-Though it focused on unusually complex subject matter for a video game, it sold enough copies to inspire a sequel that was released the following year.</desc>
-		<releasedate>19880218T000000</releasedate>
-		<developer>Imagineer</developer>
-		<publisher>Imagineer</publisher>
-		<genre>Simulation / Life</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Matsumoto Tooru no Kabushiki Hisshou Gaku - Part II (Japan).zip</path>
 		<name>Matsumoto Tooru No Kabushiki Hisshou Gaku - Part 2</name>
 		<desc>Matsumoto Tooru no Kabushiki Hisshou Gaku 2 is the sequel to the original Matsumoto Tooru no Kabushiki Hisshou Gaku and like that game is a stock trading simulator akin to something like Wall Street Kid. The player needs to keep track of which stocks are rising and falling, identify trends and invest wisely to ensure a wealthy and happy life.</desc>
@@ -9657,22 +9643,6 @@ Could Rockman's supposed brother, the strange but good-hearted Blues, be the one
 
 Like the other early Rockman / Mega Man games, the Playstation version was only released in Japan, as part of the Complete Works series.</desc>
 		<releasedate>19921202T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Mega Man 6 (USA).zip</path>
-		<name>Mega Man 6</name>
-		<desc>The sixth (and supposedly final) volume in the Rockman Complete Works series contains the final NES/Famicom Rockman title: Rockman 6: The Biggest Battle in History!!
-
-In Rockman 6, the whole world is alive and buzzing with word of the 1st Annual Robot Design Contest. Hundreds of robot designers from all corners of the globe enter their most powerful robots into the contest in hopes of taking home the ultimate prize. The sponsor of the contest, the mysterious Mr. X, suddenly declares that he has decided on winners...and takes 8 of the Robot Masters for his own purpose...taking over the world!! Rockman confronts him and demands an explanation, and what Mr. X replies with shocks him.
-
-Mr. X declares to Rockman that he had been using Dr. Wily as a puppet the entire time, and now HE would take over the world, and nothing could stand in his way! Rockman finally decides to stop Mr. X once and for all, and sets off to defeat his 8 new Robot Masters and then the madman himself!
-
-The Rockman Complete Works series was only released in Japan.</desc>
-		<releasedate>19940302T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<genre>Platform</genre>
@@ -11489,16 +11459,6 @@ The adventure continues as Peacock faces the incarnation of general Nobunaga Oda
 		<publisher>ASCII Corporation</publisher>
 		<genre>Action</genre>
 		<players>1-8</players>
-	</game>
-	<game>
-		<path>./Pennant League!! - Home Run Nighter (Japan).zip</path>
-		<name>Pennant League - Home Run Nighter</name>
-		<desc>Home Run Nighter: Pennant League!! is a Famicom baseball game in the mold of Pro Yakyuu Family Stadium: All the athletes have a cartoonish super-deformed look to them. Home Run Nighter goes one step further than its contemporaries by having every batter in the fictional teams that comprise the Pennant League their own unique sprite. Some will be taller than others, or have exaggerated facial features. It's possible that some of the athletes (and the managers, which appear during the preparation stage) are modeled on actual Japanese baseballers.</desc>
-		<releasedate>19890331T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Sports / Baseball</genre>
-		<players>1-2</players>
 	</game>
 	<game>
 		<path>./Pennant League, The - Home Run Nighter '90 (Japan).zip</path>
@@ -14521,18 +14481,6 @@ The Black Onyx is the very first RPG made by a Japanese company. It is similar i
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Super Chinese 3 (Japan) [T-En by DDSTranslation v1] [n].zip</path>
-		<name>Super Chinese 3</name>
-		<desc>Super Chinese 3 is an action RPG video game released in 1991 for the Nintendo Entertainment System. It is the last of the NES Super Chinese games and was not released outside Japan.
-
-Similar to Little Ninja Brothers before it, Super Chinese 3 incorporates role-playing video game elements into the gameplay.</desc>
-		<releasedate>19910301T000000</releasedate>
-		<developer>Culture Brain</developer>
-		<publisher>Culture Brain</publisher>
-		<genre>Action RPG</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Super Dodge Ball (USA).zip</path>
 		<name>Super Dodge Ball</name>
 		<desc>This ain't elementary school and it sure as heck ain't gym class. This is Super Dodge Ball. Control your team of six players to pummel the opposing team into submission using only the ball and your team's unique skills. Each player has his own special attacks and each team has their own unique attributes.
@@ -14835,30 +14783,6 @@ The player can also find buildings to enter into. The game turns from being a ve
 		<developer>Tecmo</developer>
 		<publisher>Tecmo</publisher>
 		<genre>Shoot'em Up</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Super Team Games (USA).zip</path>
-		<name>Super Team Games</name>
-		<desc>Super Team Games is a side scrolling game where two players compete in races on an obstacle course. The game utilizes the Nintendo Power Pad; to control your on screen character you will need to run in place on the Power Pad to make your character run, and actually jump to make him jump. In the basic game you need to run and jump your way to the finish line as fast as possible. Some additional game variations are available, such as the belly bump ball (you need to roll a giant ball through the obstacle course by running into it), the crab walk (make it to the finish line walking like a crab!), the water cross (water is found on the track; if you mistime your jump and land in the water you need to swim to get out costing you valuable time), the bubble run (racing through the course inside a giant bubble), or the skateboard race. Several cooperative games are included as well, including a tug of war, relay race, and six legged race.</desc>
-		<releasedate>19881101T000000</releasedate>
-		<developer>Sonata</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Super Turrican (Europe).zip</path>
-		<name>Super Turrican</name>
-		<desc>Like other entries in the series, Super Turrican for the NES is a side-scrolling platformer in which players explore large levels filled with enemies items and secret areas. Three different, upgradable weapons are available: multiple (spreadshot), laser and rebound. Holding down the fire button activates a rotatable laser that is useful for discovering hidden power-up capsules.
-
-Despite carrying the same name as one of its big brothers, Super Turrican for the NES is based on Turrican and Turrican II. While some levels are very similar to those found in Turrican I and II (with only slight changes of layout and enemy types), others are entirely new. 
-
-Apart from different/new level design, there are other notable changes: Holding down the fire button let's Turrican run, there is no time limit to levels anymore, energy wheel usage is limitless and the shield isn't time based anymore, but can sustain a certain number of hits.</desc>
-		<releasedate>19930722T000000</releasedate>
-		<developer>Rainbow Arts</developer>
-		<publisher>Imagineer</publisher>
-		<genre>Platform</genre>
 		<players>1</players>
 	</game>
 	<game>
@@ -15599,34 +15523,6 @@ You're shooting tanks, ships, aircraft carriers and trains while flying towards 
 		<developer>Rareware</developer>
 		<publisher>Milton Bradley Co.</publisher>
 		<genre>Action</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Time Zone (Japan) [T-En by KingMike's Translations v1.3] [n].zip</path>
-		<name>Time Zone</name>
-		<desc>Oh, no! On the way to meet your girlfriend Haruka, our intrepid little hero has gotten ambushed by that nefarious, time-traveling villain, Professor Time. Now it's time to join him as he crosses time and space to save her from his evil clutches.
-
-In this run and jump action game, you'll find yourself flung anywhere from prehistoric times to the far future and back again, defeating anything from dinosaurs to samurai to aliens just to get her back.
-
-Your main weapon — your ever-sturdy baseball cap. Just toss it forward and let it simply boomerang back or jump as it boomerangs back to let it fly around you for a short amount of time. And if you're lucky enough to collect enough chimes, you'll get to witness the awesome destructive power and invincibility of the skateboard.
-
-Combined that with a host of hazardous obstacles so prevalent in platformers and you've got yourself into quite a pickle trying to tackle Professor Time. Pursue and flog him with your cap so that the hero and Haruka can live happily ever after.</desc>
-		<releasedate>19911025T000000</releasedate>
-		<developer>EIM Ltd.</developer>
-		<publisher>Sigma Enterprises</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Times of Lore (USA).zip</path>
-		<name>Times of Lore</name>
-		<desc>A simple action-RPG following the adventures of a young warrior (strong barbarian, armored knight, or quick valkyrie) to assist a weakened kingdom from various threats, and to recover special Artifacts that once made the kingdom strong.
-
-Gameplay consists of moving your character in real-time through various terrains, like forests, towns, and dungeons. The player gathers basic items, like health and magic potions, and increasingly powerful weapons as you progress through the story. Conversations are handled through keyphrases. Combat is real-time as well, against a few types of creatures (skeletons, orcs, rogues) of which there can be various flavors.</desc>
-		<releasedate>19910502T000000</releasedate>
-		<developer>Origin Systems</developer>
-		<publisher>Toho Company</publisher>
-		<genre>Adventure</genre>
 		<players>1</players>
 	</game>
 	<game>
@@ -18074,6 +17970,110 @@ Combat whisks you away from the top-down perspective to a battle view in which y
 		<developer>Another Ltd.</developer>
 		<publisher>Hot-B</publisher>
 		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Times of Lore (USA).zip</path>
+		<name>Times of Lore</name>
+		<desc>A simple action-RPG following the adventures of a young warrior (strong barbarian, armored knight, or quick valkyrie) to assist a weakened kingdom from various threats, and to recover special Artifacts that once made the kingdom strong.
+
+Gameplay consists of moving your character in real-time through various terrains, like forests, towns, and dungeons. The player gathers basic items, like health and magic potions, and increasingly powerful weapons as you progress through the story. Conversations are handled through keyphrases. Combat is real-time as well, against a few types of creatures (skeletons, orcs, rogues) of which there can be various flavors.</desc>
+		<releasedate>19910502T000000</releasedate>
+		<developer>Origins</developer>
+		<publisher>Toho Company</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Time Zone (Japan) [T-En by KingMike's Translations v1.3] [n].zip</path>
+		<name>Time Zone</name>
+		<desc>Oh, no! On the way to meet your girlfriend Haruka, our intrepid little hero has gotten ambushed by that nefarious, time-traveling villain, Professor Time. Now it's time to join him as he crosses time and space to save her from his evil clutches.
+
+In this run and jump action game, you'll find yourself flung anywhere from prehistoric times to the far future and back again, defeating anything from dinosaurs to samurai to aliens just to get her back.
+
+Your main weapon — your ever-sturdy baseball cap. Just toss it forward and let it simply boomerang back or jump as it boomerangs back to let it fly around you for a short amount of time. And if you're lucky enough to collect enough chimes, you'll get to witness the awesome destructive power and invincibility of the skateboard.
+
+Combined that with a host of hazardous obstacles so prevalent in platformers and you've got yourself into quite a pickle trying to tackle Professor Time. Pursue and flog him with your cap so that the hero and Haruka can live happily ever after.</desc>
+		<releasedate>19911025T000000</releasedate>
+		<developer>EIM Ltd.</developer>
+		<publisher>Sigma Enterprises</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Mega Man 6 (USA).zip</path>
+		<name>Mega Man 6</name>
+		<desc>The sixth (and supposedly final) volume in the Rockman Complete Works series contains the final NES/Famicom Rockman title: Rockman 6: The Biggest Battle in History!!
+
+In Rockman 6, the whole world is alive and buzzing with word of the 1st Annual Robot Design Contest. Hundreds of robot designers from all corners of the globe enter their most powerful robots into the contest in hopes of taking home the ultimate prize. The sponsor of the contest, the mysterious Mr. X, suddenly declares that he has decided on winners...and takes 8 of the Robot Masters for his own purpose...taking over the world!! Rockman confronts him and demands an explanation, and what Mr. X replies with shocks him.
+
+Mr. X declares to Rockman that he had been using Dr. Wily as a puppet the entire time, and now HE would take over the world, and nothing could stand in his way! Rockman finally decides to stop Mr. X once and for all, and sets off to defeat his 8 new Robot Masters and then the madman himself!
+
+The Rockman Complete Works series was only released in Japan.</desc>
+		<releasedate>19940302T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Matsumoto Tooru no Kabushiki Hisshou Gaku (Japan).zip</path>
+		<name>Matsumoto Tooru No Kabushiki Hisshou Gaku - Vol. 1</name>
+		<desc>Matsumoto Tooru no Kabushiki Hisshou Gaku ("Matsumoto Tooru's Stock Success Knowledge") is a stock exchange simulation developed and published by Imagineer. The goal of the game is to make 100 million yen (approximately $1.3mil) in the stock market in the span of a single year via a series of shrewd financial decisions and listening to advice about which way a certain type of stock might turn.
+
+The game is fronted by Matsumoto Tooru, a nationally well-known financial adviser who is often considered to have an expansive knowledge of the Japanese stock market. The game also features the song "The Entertainer" by Scott Joplin.
+
+Though it focused on unusually complex subject matter for a video game, it sold enough copies to inspire a sequel that was released the following year.</desc>
+		<releasedate>19880218T000000</releasedate>
+		<developer>Imagineer</developer>
+		<publisher>Imagineer</publisher>
+		<genre>Simulation / Life</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Pennant League!! - Home Run Nighter (Japan).zip</path>
+		<name>Pennant League - Home Run Nighter</name>
+		<desc>Home Run Nighter: Pennant League!! is a Famicom baseball game in the mold of Pro Yakyuu Family Stadium: All the athletes have a cartoonish super-deformed look to them. Home Run Nighter goes one step further than its contemporaries by having every batter in the fictional teams that comprise the Pennant League their own unique sprite. Some will be taller than others, or have exaggerated facial features. It's possible that some of the athletes (and the managers, which appear during the preparation stage) are modeled on actual Japanese baseballers.</desc>
+		<releasedate>19890331T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Super Chinese 3 (Japan) [T-En by DDSTranslation v1] [n].zip</path>
+		<name>Super Chinese 3</name>
+		<desc>Super Chinese 3 is an action RPG video game released in 1991 for the Nintendo Entertainment System. It is the last of the NES Super Chinese games and was not released outside Japan.
+
+Similar to Little Ninja Brothers before it, Super Chinese 3 incorporates role-playing video game elements into the gameplay.</desc>
+		<releasedate>19910301T000000</releasedate>
+		<developer>Culture Brain</developer>
+		<publisher>Culture Brain</publisher>
+		<genre>Action RPG</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Super Team Games (USA).zip</path>
+		<name>Super Team Games</name>
+		<desc>Super Team Games is a side scrolling game where two players compete in races on an obstacle course. The game utilizes the Nintendo Power Pad; to control your on screen character you will need to run in place on the Power Pad to make your character run, and actually jump to make him jump. In the basic game you need to run and jump your way to the finish line as fast as possible. Some additional game variations are available, such as the belly bump ball (you need to roll a giant ball through the obstacle course by running into it), the crab walk (make it to the finish line walking like a crab!), the water cross (water is found on the track; if you mistime your jump and land in the water you need to swim to get out costing you valuable time), the bubble run (racing through the course inside a giant bubble), or the skateboard race. Several cooperative games are included as well, including a tug of war, relay race, and six legged race.</desc>
+		<releasedate>19881101T000000</releasedate>
+		<developer>Sonata</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Super Turrican (Europe).zip</path>
+		<name>Super Turrican</name>
+		<desc>Like other entries in the series, Super Turrican for the NES is a side-scrolling platformer in which players explore large levels filled with enemies items and secret areas. Three different, upgradable weapons are available: multiple (spreadshot), laser and rebound. Holding down the fire button activates a rotatable laser that is useful for discovering hidden power-up capsules.
+
+Despite carrying the same name as one of its big brothers, Super Turrican for the NES is based on Turrican and Turrican II. While some levels are very similar to those found in Turrican I and II (with only slight changes of layout and enemy types), others are entirely new. 
+
+Apart from different/new level design, there are other notable changes: Holding down the fire button let's Turrican run, there is no time limit to levels anymore, energy wheel usage is limitless and the shield isn't time based anymore, but can sustain a certain number of hits.</desc>
+		<releasedate>19930722T000000</releasedate>
+		<developer>Rainbow Arts</developer>
+		<publisher>Imagineer</publisher>
+		<genre>Platform</genre>
 		<players>1</players>
 	</game>
 </gameList>
