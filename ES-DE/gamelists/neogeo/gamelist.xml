@@ -832,16 +832,6 @@ While completely 2D, the game uses pre-rendered 3D sprites and includes fully an
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./pbobblen.zip</path>
-		<name>Puzzle Bobble</name>
-		<desc>Puzzle Bobble (known as Bust-A-Move outside of Japan) is a spin-off of the Bubble Bobble series, featuring themes from the original game (such as enemies trapped in bubbles by the cutesy dinosaur duo Bub and Bob that must be popped). Players attempt to clear a board of colored bubbles by firing other bubbles at an angle and matching multiple bubbles of the same color. Its characteristically cute Japanese animation and music, along with its play mechanics and level designs, made it successful as an arcade title and spawned several sequels and ports to home gaming systems.</desc>
-		<releasedate>19941221T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./pbobbl2n.zip</path>
 		<name>Puzzle Bobble 2</name>
 		<desc>Bub and Bob are back! Like in Tetris in reverse, you shoot bubbles at an array of different-colored bubbles stuck in an ever descending ceiling, attempting to match them up three by three to make them disappear. This edition contains both puzzle challenges, multiplayer and normal progressive stages.</desc>
@@ -1519,6 +1509,16 @@ This sequel features all-new stages and music, and improved animation and graphi
 		<releasedate>19970101T000000</releasedate>
 		<developer>Saurus</developer>
 		<publisher>SNK</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./pbobblen.zip</path>
+		<name>Puzzle Bobble</name>
+		<desc>Puzzle Bobble (known as Bust-A-Move outside of Japan) is a spin-off of the Bubble Bobble series, featuring themes from the original game (such as enemies trapped in bubbles by the cutesy dinosaur duo Bub and Bob that must be popped). Players attempt to clear a board of colored bubbles by firing other bubbles at an angle and matching multiple bubbles of the same color. Its characteristically cute Japanese animation and music, along with its play mechanics and level designs, made it successful as an arcade title and spawned several sequels and ports to home gaming systems.</desc>
+		<releasedate>19941221T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
 		<genre>Puzzle-Game</genre>
 		<players>1-2</players>
 	</game>

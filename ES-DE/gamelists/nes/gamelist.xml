@@ -16919,32 +16919,6 @@ This game was sold as a pack-in cart with the Power Pad accessory, and as a 3-in
 		<players>1-6</players>
 	</game>
 	<game>
-		<path>./World Games (USA).zip</path>
-		<name>World Games</name>
-		<desc>Get ready - get set - get psyched! The World Games are here! And you're a star athlete in this awesome international competition! Go for the gold as you challenge the world's best athletes on their home turf!
-
-Leap from the treacherous cliffs of Acapulico. Go stomach-to-stomach with a 400-pound Japanese sumo wrestler. Jump barrels on an icy lake in Germany. And pump heavy iron in the Soviet Union.
-
-Travel to Scotland for the amazing caber toss! Then to Canada for frantic footwork with log rolling lumberjacks. Ski the slalom on the snow-covered French Alps. And ride the meanest, orneriest bull in the U.S.A.!
-
-Return home with enough gold medals and join the World Hall of Fame!
-
-8 International Events:
--Cliff Diving
--Sumo Wrestling
--Bull Riding
--Barrel Jumping
--Log Rolling
--Slalom Skiing
--Cabe Toss
--Weight Lifting</desc>
-		<releasedate>19890301T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Milton Bradley Co.</publisher>
-		<genre>Sports</genre>
-		<players>1-8</players>
-	</game>
-	<game>
 		<path>./Wrath of the Black Manta (USA).zip</path>
 		<name>Wrath of the Black Manta</name>
 		<desc>The Big Apple is being overrun with crime, and the cities children have been mysteriously disappearing. It is up to the Black Manta to rescue the children and stop whomever is behind this. In addition to your ninja skills, you will be able to find additional powers (including invisibility and teleportation) to help you out against the numerous and well armed villians. Wrath of the Black Manta is a side scrolling arcade style action game with five different levels. Throughout each level you may come across various clues to help you find where to go next or lead you to a hidden location. Some of the bad guys you come across may also possess useful knowledge and can be interrogated (if they don't kill you first that is!)</desc>
@@ -18075,5 +18049,31 @@ Apart from different/new level design, there are other notable changes: Holding 
 		<publisher>Imagineer</publisher>
 		<genre>Platform</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./World Games (USA).zip</path>
+		<name>World Games</name>
+		<desc>Get ready - get set - get psyched! The World Games are here! And you're a star athlete in this awesome international competition! Go for the gold as you challenge the world's best athletes on their home turf!
+
+Leap from the treacherous cliffs of Acapulico. Go stomach-to-stomach with a 400-pound Japanese sumo wrestler. Jump barrels on an icy lake in Germany. And pump heavy iron in the Soviet Union.
+
+Travel to Scotland for the amazing caber toss! Then to Canada for frantic footwork with log rolling lumberjacks. Ski the slalom on the snow-covered French Alps. And ride the meanest, orneriest bull in the U.S.A.!
+
+Return home with enough gold medals and join the World Hall of Fame!
+
+8 International Events:
+-Cliff Diving
+-Sumo Wrestling
+-Bull Riding
+-Barrel Jumping
+-Log Rolling
+-Slalom Skiing
+-Cabe Toss
+-Weight Lifting</desc>
+		<releasedate>19890301T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Milton Bradley Co.</publisher>
+		<genre>Sports</genre>
+		<players>1-8</players>
 	</game>
 </gameList>

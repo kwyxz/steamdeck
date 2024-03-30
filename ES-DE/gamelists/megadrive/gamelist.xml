@@ -581,20 +581,6 @@ The game let's you play on three different courses; Japan, the United States, an
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Art of Fighting (USA).zip</path>
-		<name>Art of Fighting</name>
-		<desc>Yuri Sakazaki has been kidnapped! Her big brother Ryo Sakazaki and Robert Garcia, his best friend, go search for her on the streets of South Town. As they go deeper and deeper they will find clues as to who ordered the kidnapping, the Sakazaki family's relation to the mob, and a person from their past.
-
-This fighting game is a coin-op conversion of the Neo-Geo hit of the same name, and has all characters, stages, and moves featured in the arcade unit. Unlike the original arcade version, players can now play as Mr. Big and the elusive Mr. Karate.
-
-The gameplay differs from most fighting games. In this game, you have a Spirit meter. A Spirit meter is in the game and will decrease as you perform special moves. It can be recharged, but doing so leaves you open to attack. When your health is almost gone, you can perform a secret combination that will unleash a deadly attack on your opponent - provided you have a full Spirit meter.</desc>
-		<releasedate>19941001T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Asterix and the Great Rescue (USA).zip</path>
 		<name>Astérix and the Great Rescue</name>
 		<desc>The game is based on the popular French comics series Astérix. It is 50 B.C., and the entire Gaul (today's France) is conquered by the Romans. Only one village still remains independent, thanks to the incredible powers of its two great warriors, Asterix and Obelix. In the game, they must first of all liberate the village Orvio and rescue their friend Dogmatix.
@@ -5088,18 +5074,6 @@ The game now has more polygonal roadside objects than F1, and there is still a T
 		<developer>Tokai Engineering</developer>
 		<publisher>Anco</publisher>
 		<genre>Sports</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Kid Chameleon (USA, Europe).zip</path>
-		<name>Kid Chameleon</name>
-		<desc>Kid Chameleon is a side-scrolling platform game in which the main character has entered a virtual reality game called "Wild Side" to free the other kids inside that have been captured (*cuckoo*). He can change his shape into various other forms (hence the "Chameleon"). This gives him special abilities which must be used to pass each of the game's 100+ stages.
-
-An interesting point about Kid Chameleon is that the game has 100+ levels (most of which are very, very difficult) which must be played in sequence AND there is no save feature or password feature - which means completing this game would be a major feat of endurance (and patience).</desc>
-		<releasedate>19920301T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform</genre>
 		<players>1-2</players>
 	</game>
 	<game>
@@ -12242,5 +12216,31 @@ Mado Monogatari I is a puzzle/RPG mixture. Featuring characters and puzzles from
 		<publisher>Human</publisher>
 		<genre>Action</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./Kid Chameleon (USA, Europe).zip</path>
+		<name>Kid Chameleon</name>
+		<desc>Kid Chameleon is a side-scrolling platform game in which the main character has entered a virtual reality game called "Wild Side" to free the other kids inside that have been captured (*cuckoo*). He can change his shape into various other forms (hence the "Chameleon"). This gives him special abilities which must be used to pass each of the game's 100+ stages.
+
+An interesting point about Kid Chameleon is that the game has 100+ levels (most of which are very, very difficult) which must be played in sequence AND there is no save feature or password feature - which means completing this game would be a major feat of endurance (and patience).</desc>
+		<releasedate>19920301T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Art of Fighting (USA).zip</path>
+		<name>Art of Fighting</name>
+		<desc>Yuri Sakazaki has been kidnapped! Her big brother Ryo Sakazaki and Robert Garcia, his best friend, go search for her on the streets of South Town. As they go deeper and deeper they will find clues as to who ordered the kidnapping, the Sakazaki family's relation to the mob, and a person from their past.
+
+This fighting game is a coin-op conversion of the Neo-Geo hit of the same name, and has all characters, stages, and moves featured in the arcade unit. Unlike the original arcade version, players can now play as Mr. Big and the elusive Mr. Karate.
+
+The gameplay differs from most fighting games. In this game, you have a Spirit meter. A Spirit meter is in the game and will decrease as you perform special moves. It can be recharged, but doing so leaves you open to attack. When your health is almost gone, you can perform a secret combination that will unleash a deadly attack on your opponent - provided you have a full Spirit meter.</desc>
+		<releasedate>19941001T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
 	</game>
 </gameList>

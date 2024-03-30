@@ -177,22 +177,6 @@ The hero of the game is Edge, one of the soldiers of the mighty Empire. The Empi
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Policenauts (Japan) [T-En by JunkerHQ v1.0.1].m3u</path>
-		<name>Policenauts</name>
-		<desc>In 2010, mankind has built its first space colony, Beyond Coast. After three years have passed, the founders of the colony feel it needs to be protected, and choose five best policemen of Earth to do that: Gatse Becker from Scotland Yard, the Japanese Sadaoki Tokugawa, Salvatore Toscanini from New York, and two policemen from Los Angeles: Jonathan Ingram, the hero of the game, and his best friend Ed Brown. 
-
-One day, during a routine patrol on Beyond Coast, something happens to Jonathan's space suit. He is sucked into space and is presumed dead. But twenty-five years later, he is miraculously discovered in his life pod... alive. He still looks like a young man, but in reality he is 55 years old.
-
-Trying to forget his past, Jonathan opens an investigation agency on Earth. His ex-wife (who has re-married during those twenty-five years) visits him and asks him to find her missing husband. When she leaves the office, her car explodes, and she dies. Determined to fulfill her final request, Jonathan prepares to re-visit Beyond Coast...
-
-This unofficial semi-prequel to  Snatcher is a comic book/anime adventure with some shooting sequences. You click on objects and people you interact with, or move a dot around the screen to aim at your enemies during the shooting parts.</desc>
-		<releasedate>19960913T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Radiant Silvergun (Japan).chd</path>
 		<name>Radiant Silvergun</name>
 		<desc>The story of Radiant Silvergun begins with the end of the world. As the pilot of the starfighter Radiant Silvergun you are sent back in time in search of the key to save the planet. In various time periods you will battle hordes of enemies in search for an alien being knows as the Origin. Only by destroying the Origin can the dark future of the planet be altered.
@@ -205,16 +189,6 @@ In 2002 Radiant Silvergun got its spiritual successor in the Dreamcast release o
 		<publisher>Treasure</publisher>
 		<genre>Shoot'em Up</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Sakura Wars (Japan) [T-En by Sakura Wars Translation Project v2.01] [n].m3u</path>
-		<name>Sakura Taisen</name>
-		<desc>The gameplay of "Sakura Taisen" is a combination of Japanese-style adventure, "dating simulation", and strategic turn-based combat. Most of the game is spent exploring the theater, to which your military base is disguised. Depending on your decisions - where to go, which girl to look for, how to answer the questions (there is a time limit for responses) - you'll develop different relationships with the girl, which will influence not only further dialogues and the ending, but also their parameters in battles. During combat, you navigate your hero and the girls over the field and attack the enemies physically, or charge for powerful special attacks. Each turn you can perform two different actions, and your walking distance, as well as attack range, is limited and unique to each character. There is no experience points system and also no equipment.</desc>
-		<releasedate>19960927T000000</releasedate>
-		<developer>NexTech</developer>
-		<publisher>SEGA</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
 	</game>
 	<game>
 		<path>./Shining Force III (USA).chd</path>
@@ -256,5 +230,31 @@ The game features 3D graphics and utilizes first-person perspective for dungeons
 		<publisher>SEGA</publisher>
 		<genre>Race, Driving</genre>
 		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Sakura Wars (Japan) [T-En by Sakura Wars Translation Project v2.01] [n].m3u</path>
+		<name>Sakura Taisen</name>
+		<desc>The gameplay of "Sakura Taisen" is a combination of Japanese-style adventure, "dating simulation", and strategic turn-based combat. Most of the game is spent exploring the theater, to which your military base is disguised. Depending on your decisions - where to go, which girl to look for, how to answer the questions (there is a time limit for responses) - you'll develop different relationships with the girl, which will influence not only further dialogues and the ending, but also their parameters in battles. During combat, you navigate your hero and the girls over the field and attack the enemies physically, or charge for powerful special attacks. Each turn you can perform two different actions, and your walking distance, as well as attack range, is limited and unique to each character. There is no experience points system and also no equipment.</desc>
+		<releasedate>19960927T000000</releasedate>
+		<developer>NexTech</developer>
+		<publisher>SEGA</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Policenauts (Japan) [T-En by JunkerHQ v1.0.1].m3u</path>
+		<name>Policenauts</name>
+		<desc>In 2010, mankind has built its first space colony, Beyond Coast. After three years have passed, the founders of the colony feel it needs to be protected, and choose five best policemen of Earth to do that: Gatse Becker from Scotland Yard, the Japanese Sadaoki Tokugawa, Salvatore Toscanini from New York, and two policemen from Los Angeles: Jonathan Ingram, the hero of the game, and his best friend Ed Brown. 
+
+One day, during a routine patrol on Beyond Coast, something happens to Jonathan's space suit. He is sucked into space and is presumed dead. But twenty-five years later, he is miraculously discovered in his life pod... alive. He still looks like a young man, but in reality he is 55 years old.
+
+Trying to forget his past, Jonathan opens an investigation agency on Earth. His ex-wife (who has re-married during those twenty-five years) visits him and asks him to find her missing husband. When she leaves the office, her car explodes, and she dies. Determined to fulfill her final request, Jonathan prepares to re-visit Beyond Coast...
+
+This unofficial semi-prequel to  Snatcher is a comic book/anime adventure with some shooting sequences. You click on objects and people you interact with, or move a dot around the screen to aim at your enemies during the shooting parts.</desc>
+		<releasedate>19960913T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
 	</game>
 </gameList>

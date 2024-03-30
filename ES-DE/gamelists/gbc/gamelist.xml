@@ -803,37 +803,6 @@ The game has a large multiplayer component, allowing up to 4 players at once, wi
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Beyblade - Fighting Tournament (Japan).zip</path>
-		<name>Beyblade - Fighting Tournament</name>
-		<desc>Beyblade Fighting Tournament was the second video game released. This game features some concepts and ideas that were later abandoned within the Beyblade franchise, though many ideas were continued on within the manga and anime.
-
-The standard game play involves visiting locations and the player fights their way through tornements to advance to the next stage of the game. As each tornement was won, more parts and bit-beasts are made able to be bought from the games shop.
-The player could only start with one of 4 arch-types, "Dragoon", "Draciel", "Dranzer" and "Driger". Intially by default the player could only choose Dragoons, although codes were released in magazines to acess the other arch-types.
-
-Within each match, however, aside from the launch the player had virtually no control on the beyblade once it was in the arena, resulting in many matchses being won more based on luck and the beyblades strength then player skill.</desc>
-		<releasedate>20000811T000000</releasedate>
-		<developer>Rokumendo</developer>
-		<publisher>Hudson</publisher>
-	</game>
-	<game>
-		<path>./Bikkuriman 2000 - Charging Card GB (Japan) (SGB Enhanced) (GB Compatible).zip</path>
-		<name>Bikkuriman 2000 - Charging Card Gb</name>
-		<desc>The aim of the game is to collect Bikkuriman stickers while fighting card battles. The more battles you win, the more titles you earn and the more you can do. You can also play against your friends via communication.</desc>
-		<releasedate>20000610T000000</releasedate>
-		<publisher>Imagineer</publisher>
-		<genre>Role playing games</genre>
-	</game>
-	<game>
-		<path>./Billy Bob's Huntin' 'n' Fishin' (USA, Europe).zip</path>
-		<name>Billy Bob's Huntin' 'n' Fishin'</name>
-		<desc>In BILLY BOB'S HUNTIN' AND FISHIN' for Game Boy Color, you play the role of a hapless guy named Billy Bob, who is trying to impress a girl. She'll ask Billy Bob to fetch her rabbits or bass, and it's up to you to help Billy Bob get them. Obviously, to get the things she wants you'll have to either go hunting or fishing. Not so fast though, because you need bullets for hunting, bait for fishing, and a license to do either of the two activities. Luckily, you can earn these items by playing a variety of mini-games. The games vary in their gameplay, but the usual assortment of speed and reflex tests are the common thread. You'll need to clear four mini-games each to go hunting and fishing. Once you've finally cleared them and gotten the items you need, you'll head out to catch your real prize. BILLY BOB'S HUNTIN' AND FISHIN' is for one player and is compatible only with Game Boy Color.</desc>
-		<releasedate>19991117T000000</releasedate>
-		<developer>Saffire</developer>
-		<publisher>Midway</publisher>
-		<genre>Fishing</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Bionic Commando - Elite Forces (USA, Australia).zip</path>
 		<name>Bionic Commando : Elite Forces</name>
 		<desc>The Avar empire is an imminent threat to our homeland of Karinia. As a member of the Bionic Corps' Elite Forces team your mission is to infiltrate the Avar installations, disrupt their invasion plans and rescue our scout, fellow bionic commando, Commander Joe. You play a bionic soldier with a mechanic arm that extends and contracts to let you interact with objects normally out of reach.
@@ -9901,5 +9870,36 @@ Like the previous title, players must travel across the game world challenging n
 		<developer>Starfish</developer>
 		<publisher>Starfish</publisher>
 		<genre>Role playing games</genre>
+	</game>
+	<game>
+		<path>./Beyblade - Fighting Tournament (Japan).zip</path>
+		<name>Beyblade - Fighting Tournament</name>
+		<desc>Beyblade Fighting Tournament was the second video game released. This game features some concepts and ideas that were later abandoned within the Beyblade franchise, though many ideas were continued on within the manga and anime.
+
+The standard game play involves visiting locations and the player fights their way through tornements to advance to the next stage of the game. As each tornement was won, more parts and bit-beasts are made able to be bought from the games shop.
+The player could only start with one of 4 arch-types, "Dragoon", "Draciel", "Dranzer" and "Driger". Intially by default the player could only choose Dragoons, although codes were released in magazines to acess the other arch-types.
+
+Within each match, however, aside from the launch the player had virtually no control on the beyblade once it was in the arena, resulting in many matchses being won more based on luck and the beyblades strength then player skill.</desc>
+		<releasedate>20000811T000000</releasedate>
+		<developer>Rokumendo</developer>
+		<publisher>Hudson</publisher>
+	</game>
+	<game>
+		<path>./Bikkuriman 2000 - Charging Card GB (Japan) (SGB Enhanced) (GB Compatible).zip</path>
+		<name>Bikkuriman 2000 - Charging Card Gb</name>
+		<desc>The aim of the game is to collect Bikkuriman stickers while fighting card battles. The more battles you win, the more titles you earn and the more you can do. You can also play against your friends via communication.</desc>
+		<releasedate>20000610T000000</releasedate>
+		<publisher>Imagineer</publisher>
+		<genre>Role playing games</genre>
+	</game>
+	<game>
+		<path>./Billy Bob's Huntin' 'n' Fishin' (USA, Europe).zip</path>
+		<name>Billy Bob's Huntin' 'n' Fishin'</name>
+		<desc>In BILLY BOB'S HUNTIN' AND FISHIN' for Game Boy Color, you play the role of a hapless guy named Billy Bob, who is trying to impress a girl. She'll ask Billy Bob to fetch her rabbits or bass, and it's up to you to help Billy Bob get them. Obviously, to get the things she wants you'll have to either go hunting or fishing. Not so fast though, because you need bullets for hunting, bait for fishing, and a license to do either of the two activities. Luckily, you can earn these items by playing a variety of mini-games. The games vary in their gameplay, but the usual assortment of speed and reflex tests are the common thread. You'll need to clear four mini-games each to go hunting and fishing. Once you've finally cleared them and gotten the items you need, you'll head out to catch your real prize. BILLY BOB'S HUNTIN' AND FISHIN' is for one player and is compatible only with Game Boy Color.</desc>
+		<releasedate>19991117T000000</releasedate>
+		<developer>Saffire</developer>
+		<publisher>Midway</publisher>
+		<genre>Fishing</genre>
+		<players>1</players>
 	</game>
 </gameList>

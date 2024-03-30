@@ -11,16 +11,251 @@
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Final Fight CD (Japan) (Rev A).chd</path>
-		<name>Final Fight CD</name>
-		<desc>The game is set in the metropolis of Metro City, a town constantly plagued by crime and violence. When the mayor, Mike Haggar, promises to clean up the city, the Mad Gear gang kidnaps his daughter Jessica and warns him not to interfere. Haggar responds going on a battle across the city to free her, bringing along her boyfriend Cody, and the ninjitsu master Guy to assist him.
+		<path>./Snatcher (USA).chd</path>
+		<name>Snatcher</name>
+		<desc>A.D. 2047. Neo Kobe City, Japan, a place of madness and decadence... A mysterious Bio-roid life form has appeared. Its true nature and purpose are unknown. Is it some country's secret weapon, or an alien from another world? They slay their victims and take their place, earning them the nickname "SNATCHERS." A new police division - J.U.N.K.E.R.s - has been formed. They are trained specifically to combat the SNATCHERS. The fate of mankind hangs in the balance. The war between the SNATCHERS and J.U.N.K.E.R.s has begun!</desc>
+		<releasedate>19941130T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1).chd</path>
+		<name>The	Amazing Spider-Man vs. The Kingpin</name>
+		<desc>The city of New York is certainly a great place to be, but not when there's the criminal element running about. Lucky for the NYPD, there's also the heroic Spider-Man on their side! But now one of the biggest criminals in the city, Wilson Fisk, a.k.a. The Kingpin, tells the press that a bomb planted somewhere in New York will detonate within 24 hours. He directly accuses Spider-Man, who ends up with the police on his back. You have to find the bomb and restore your image, but Dr. Octopus, Electro and Mysterio will try to block your way.</desc>
+		<releasedate>19930901T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Batman Returns (USA).chd</path>
+		<name>Batman Returns</name>
+		<desc>Batman Returns on Mega-CD is an action game that allows the player to embody the famous batman. The objective of the game is to bring down the insecurity in Gotham City aboard your Batmobile, the Batskiboat (Jet-Ski in the sewers) or directly in single combat.</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Earnest Evans (Japan).chd</path>
+		<name>Earnest Evans</name>
+		<desc>The story of the game is connected to that of  El Viento. Earnest Evans is a brave treasure hunter. His grandfather was a famous archaeologist who searched for three legendary idols in the 1930s. It was said that those idols could bring disaster upon the Earth if fallen into the wrong hands. But despite his efforts, he could never find even one of the idols. Now it's up to the grandson to continue his work, fifty years later. But the evil syndicate leader Brady Tressider has his own plans, and will do anything to stop Earnest...
+
+This is an action platform game in which you control Earnest Evans, armed with his trusty whip. The hero can jump, climb ropes, crouch, and crawl. There are plenty of obstacles on the levels (bottomless pits, spikes, crushing bridges, lava, etc.), as well as gangsters and monsters to dispose of.</desc>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Renovation Products</developer>
+		<publisher>Wolf Team</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Earthworm Jim - Special Edition (USA) (RE).chd</path>
+		<name>Earthworm Jim : Special Edition</name>
+		<desc>This special edition includes: a password system, a new world &amp; new hidden Areas, a new weapon, over 1000 additional frames of animation. All new CD quality soundtrack, totally new endings in two of the worlds, all the extra cool ideas and special features that Shiny couldn't fit onto the cartridge are on this special edition.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Shiny Entertainment</developer>
+		<publisher>Interplay</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ecco - The Tides of Time (USA).chd</path>
+		<name>Ecco : The Tides of Time</name>
+		<desc>The followup to Ecco the Dolphin, in which Ecco successfully destroyed the Vortex. Unfortunately, it turns out that the Vortex Queen followed it to the Earth and eventually destroyed the Asterite. All the world's oceans are threatened, and actually already doomed.
+
+In order to restore the Asterite and finally defeat the Vortex Queen, Ecco will have to confront once again the tides of time, which have split into two possible futures, the regular one and the dark one dominated by the Vortex Queen.
+
+Ecco: The Tides of Time features even better graphics than its predecessor, and introduces a new gameplay mode in which the camera follows the dolphin from behind instead of from the side.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Novotrade</developer>
+		<publisher>SEGA</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Ecco the Dolphin (USA).chd</path>
+		<name>Ecco the Dolphin</name>
+		<desc>Travel through time along with Ecco the dolphin, in the only game that could call itself a "dolphin simulator". Indeed, you can do pretty much everything a typical dolphin does, including eating fish, surfacing in order to breathe, using your biological sonar and of course, jumping out of the water to amaze your friends.
+
+The storyline is actually deeper that one may think by looking at the box illustration. As Ecco, you are the only dolphin who managed to escape from a giant whirlpool which sucked down your entire pod. The five shining stars on your forehead show that you are the chosen one to save them. But that task will be not be an easy one, as you will have to travel through time and space with the Atlantean time machine, and meet the mystical Asterite in order to defeat the Vortex Queen.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Novotrade</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Eternal Champions - Challenge from the Dark Side (USA).chd</path>
+		<name>Eternal Champions : Challenge from the Dark Side</name>
+		<desc>Like the prequel the game follows the same pattern except with what happens next. The following is an exact duplication of the storyline viewed in the "Access Info" option on the game's main menu:
 
 </desc>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Capcom</developer>
+		<releasedate>19950205T000000</releasedate>
+		<developer>Deep Water</developer>
 		<publisher>SEGA</publisher>
-		<genre>Beat'em Up</genre>
+		<genre>Fight</genre>
 		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Flink (USA).chd</path>
+		<name>Flink</name>
+		<desc>The Misadventures of Flink is a Jump'n Run set in the fantasy world of Imagica. The evil wizard Wicked Wainwright has captured the four elders and it is up to Flink, a wizard's apprentice, to set them free and defeat Wicked Wainwright.
+
+Apart from the usual platformer elements, the game has a unique feature: Flink's ability to create spells. Whenever the game is paused, Flink can combine three ingredients to create a spell. Ingredients can be collected throughout the game. They are usually carried around by a certain type of enemy or hidden in treasure chests. There are ten different spells, the "recipes" which are contained in scrolls that are given to Flink by rescued elders or found within certain levels. The spells include different attack spells (for example a demon that accompanies Flink and attacks his enemies), a shield spell, a shrink spell, a quick grow spell that lets certain plants grow so that Flink can reach new areas of a level, magic keys that open locked treasure chests and more. 
+Casting spells uses up magic energy that can be replenished by collecting magic bottles or defeating enemies. Similar to the Sonic games, when Flink is hit, he looses all of his magic energy and has only limited time to pick it up again. If he is hit while having no magic energy, he loses a life.</desc>
+		<releasedate>19950201T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Heavy Nova (Japan).chd</path>
+		<name>Heavy Nova</name>
+		<desc>In an era of frequent alien attacks, the Earth has a unified Government, which relies on a line of cyborgs known as the Heavy Dolls for defense. The greatest of these are known as the Heavy Nova, a title earned by passing a rigorous training regime.
+
+You are taking on the simulated proving grounds, which are split into two styles of alternating action. In the first you must progress (initially purely horizontally, though later with vertical flick-scrolling as well) through a hostile environment of enemies, bombs and traps, gaining points for doing it quickly and with lots of energy left. Initially you can fly and kick as needed.
+
+Once this section is complete, you move on to one-on-one combat of the Street Fighter 2 style. The early foes have far less energy than you begin with. As you progress through the game, you are awarded extra attacking moves, in a manner similar to Brutal: Paws of Fury</desc>
+		<releasedate>19911212T000000</releasedate>
+		<developer>Holocronet</developer>
+		<publisher>Micronet</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Jurassic Park (USA) (RE).chd</path>
+		<name>Jurassic Park</name>
+		<desc>This is the Sega CD game based on the 1993 Steven Spielberg movie based on the book by Michael Crichton. This game differs greatly from other Jurassic Park games. It is a point-and-click adventure game, with a strong emphasis on action sequences which require split-second timing.
+
+The story takes place after the events of the movie/book. You are sent back to Jurassic Park to retrieve dinosaur eggs from around the park and put them in an incubator. You only have 12 hours to retrieve one egg from every species of dino in the park. Unfortunately, shortly before arriving at the park, your helicopter crashes!</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Lords of Thunder (USA).chd</path>
+		<name>Lords of Thunder</name>
+		<desc>In the once peaceful land of Mistral, legend holds of a brave knight named Drak who has sealed an evil god named Deoric beneath the six continents of the land. However, peace never lasts. The Garuda Empire has invaded the lands of Mistral, and the six Dark Generals, led by Sornbul, have conquered the continents. Sornbul's ambition is nothing less than to resurrect Deoric and plunge the land into chaos.
+
+Duran, descendant of Drak, is the only one who can stop the Garuda Empire's mad plan, and with the power of Drak's mystic armors, he heads off to stop Sornbul at any cost.
+
+The six continents of Mistral can be challenged in any order, each of which are filled with hordes of demons and one of Sornbul's Dark Generals. After completing all six continents the player will face Sornbul on the final island. Before a level the player can choose from one of four elemental armors, each with its own bullet spread and unique bomb. The armor's attack can be powered up several levels by finding jewels dropped by enemies. This power level, as well as the armor's health, is reduced when hit. Enemies also drop crystals that are used in a between-level shop to buy additional health, bombs, and continues.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Red Company</developer>
+		<publisher>Hudson</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).chd</path>
+		<name>Mickey Mania : The Timeless Adventures of Mickey Mouse</name>
+		<desc>Mickey Mania: The Timeless Adventures of Mickey Mouse is a 2D-platformer developed by Traveller's Tales and published by Sony Imagesoft. In the game, you control Mickey Mouse, who must navigate through various side-scrolling levels, each designed and based from classical Mickey Mouse cartoons from 1928 to 1990.</desc>
+		<releasedate>19941002T000000</releasedate>
+		<developer>Travellers Tales</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Silpheed (USA).chd</path>
+		<name>Silpheed</name>
+		<desc>Silpheed for the Sega CD is a shoot-'em-up sequel to the PC title of the same name. Gameplay is similar: this is basically a 2D shooter with 3D graphics.  You move your ship in a 2D plane that reaches into the screen, kind of like a pinball table. The Sega CD version of Silpheed uses pre-rendered video for the backdrops, and filled polygon graphics for the player ship and enemies. 
+
+The story here is typical for a game of this type. The central computer system controlling the galaxy network has been hacked by terrorists.  The terrorists are using the computer to attack colony planets throughout the system.  You are the Galaxy Union's last resort: you must fight your way across 11 stages to reach Earth, and re-take control of the computer.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./After Burner III (USA).chd</path>
+		<name>After Burner III</name>
+		<desc>The third in Sega's arcade flight sim series, After Burner III takes you back to the cockpit of the F-14 Tomcat in order to take on as many terrorist airplanes as you can with your arsenal of sidewinder missiles and your trusty vulcan cannon.
+
+A Sega CD exclusive, the title is actually a port of SEGA's arcade fight-sim Strike Fighter, a Japan-only arcade release that attempted to mix the sim "lite" gameplay of G-Loc Air Battle with After Burner's arcade gimmicks. As such, the game features the ability to play both in the cockpit as well as in the classic third person perspective. Both night and day scenarios are now available, with mission objectives that include new air-ground strikes. 
+
+Includes 3 gameplay modes: Arcade, Timed and "Hits" which measures how many enemies you can shoot down in specific waves. No multiplayer support available.</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane, 1st person</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Annett Futatabi (Japan).chd</path>
+		<name>Annet Futatabi</name>
+		<desc>The story takes place two years after 'El Viento'. After being rescued from certain sacrifice by Earnest Evans, Annet travels across Europe and encounters a group that wants a pendant in her possession. After being ambushed by them she escapes and begins a quest to protect the world from destruction.
+
+</desc>
+		<releasedate>19930330T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Wolf Team</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./A-X-101 (USA) (RE).chd</path>
+		<name>A/X-101 </name>
+		<desc>The game is an on-rails shooter, with gameplay seen from a first-person cockpit perspective. The player's ship moves automatically through pre-rendered space and planetary environments and only the targeting crosshair can be moved freely. Laser Cannons and Fusion Warheads are available to hit the numerous enemies. Lasers have unlimited ammunition but need a few moments time to recharge. The warheads function as smart bombs and clear the screen of enemies, but are available only in limited supply. They are restocked when reaching a certain score. The ship's energy shield functions as a life bar.
+
+Between the shooting levels, there are transitional cutscenes, pre-rendered in the same way as the actual gameplay.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Micronet</developer>
+		<publisher>Absolute Entertainment</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Android Assault - The Revenge of Bari-Arm (USA).chd</path>
+		<name>Android Assault : The Revenge of Bari-Arm</name>
+		<desc>Launched by the alien planet Zias, an armada of androids has crushed the Earth's conventional space fleet. Desperate and defeated, The United Nations of Earth has no choice but to counterattack with its own living, fighting machine, Bari-Arm. Upgrade weapons to get the awesome firepower of the Thundercracker, Burning Wave and Chase Cannon.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Human</developer>
+		<publisher>Human</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Dark Wizard (USA).chd</path>
+		<name>Dark Wizard</name>
+		<desc>Dark Wizard on Mega CD is a role-playing game that takes the player to the heart of the kingdom of Cheshire, which has fallen into the hands of the Machiavellian Velonese. Play as one of four characters of your choice and restore order and law in a world in perdition. The combat phases are turn-based and each battle won is rewarded with experience points to upgrade the character's characteristics.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Robo Aleste (USA).chd</path>
+		<name>Robo Aleste</name>
+		<desc>Overhead Shooter based in Japan. The bloodthirsty Chugoko Warlords of the west have ruled and ravaged the once-supreme Oda Clan. Time to get your revenge. This is an overhead shooter with large bosses and massive power-ups.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Keio Flying Squadron (USA).chd</path>
+		<name>Keio Flying Squadron</name>
+		<desc>Keio Flying Squadron chronicles the adventures of Rami, the little bunny-suited member of the flying squadron tasked with the protection of the "Special Holy Object". Unfortunately as the game starts the object in question gets stolen by the evil Dr. Pon, and so Rami jumps atop her trusty dragon in pursuit of Dr. Pon.
+
+The game plays as a classic 2D shooter with upgradable weapons and option characters, with a distinct cartoonish and family-friendly design.
+
+Features 7 levels and 3 difficulty settings.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>JVC</developer>
+		<publisher>JVC</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
 	</game>
 	<game>
 		<path>./Lunar - Eternal Blue (USA) (RE).chd</path>
@@ -57,23 +292,41 @@ This release has the same story and general gameplay style as the  earlier versi
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Robo Aleste (USA).chd</path>
-		<name>Robo Aleste</name>
-		<desc>Overhead Shooter based in Japan. The bloodthirsty Chugoko Warlords of the west have ruled and ravaged the once-supreme Oda Clan. Time to get your revenge. This is an overhead shooter with large bosses and massive power-ups.</desc>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Compile</developer>
+		<path>./Prince of Persia (USA).chd</path>
+		<name>Prince of Persia</name>
+		<desc>The Grand Vizier Jaffar has thrown you into a dark dungeon and plans to marry the girl of your dreams in an hour. You're not going to let that happen are you? Try to escape from the dungeon, take out Jaffar's guards, find your way through the Sultan's palace and defeat Jaffar himself. Now go, you've got 60 minutes!
+
+Prince of Persia is a 2D platformer with run and jump gameplay. Your hero must avoid deadly traps, solve some simple puzzles and engage in sword fights with the guards. The player has an infinite amount of lives, but has to restart at the beginning of a level each time he dies, and must complete the game within an hour. An especially noteworthy aspect of the game is the very fluent animation of your character.
+
+The Game Boy Color and SNES versions of the game feature additional levels and new enemies. The Genesis version has a new intro and an altered set of graphics but the level layout remains almost identical to that of the original.</desc>
+		<releasedate>19921201T000000</releasedate>
+		<developer>Bits Laboratory</developer>
 		<publisher>SEGA</publisher>
-		<genre>Shoot'em Up</genre>
+		<genre>Platform</genre>
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Snatcher (USA).chd</path>
-		<name>Snatcher</name>
-		<desc>A.D. 2047. Neo Kobe City, Japan, a place of madness and decadence... A mysterious Bio-roid life form has appeared. Its true nature and purpose are unknown. Is it some country's secret weapon, or an alien from another world? They slay their victims and take their place, earning them the nickname "SNATCHERS." A new police division - J.U.N.K.E.R.s - has been formed. They are trained specifically to combat the SNATCHERS. The fate of mankind hangs in the balance. The war between the SNATCHERS and J.U.N.K.E.R.s has begun!</desc>
-		<releasedate>19941130T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Adventure</genre>
+		<path>./Shining Force CD (USA) (5R, 6R).chd</path>
+		<name>Shining Force CD</name>
+		<desc>This is a compilation of two strategy RPG titles from Shining Force titles:  Shining Force Gaiden (the original version released in Japan only), and its sequel, known outside of Japan as  Shining Force II: The Sword of Hajya, both for GameGear. In those games you control Nick, the Prince of Cypress. In the first game his task is to rescue Arni, the princess of Gardiana; in the second game, he has to conquer his kingdom back, that was captured by the evil empire of Iom. The re-release includes re-mastered graphics and higher quality music.</desc>
+		<releasedate>19950322T000000</releasedate>
+		<developer>Sonic! Software Planning</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Sol-Feace (USA) (RE2).chd</path>
+		<name>Sol-Feace</name>
+		<desc>Sol-Feace (Sol-Deace in the Genesis) is a typical 2D shooter with weapon powerups. The game features six levels: Sirius, Enemy Arsenal, ArtifiStar, Pluto Base, Almathea, and Final Battle. 
+
+Along the way various weapons can be picked up including plasma bullets, double plasma bullets, lasers, and missiles.
+
+The most unique feature of the game is that you can realign your upgraded guns to fire front-back, up-down, tight spread, wide spread or whatever the current situation required.</desc>
+		<releasedate>19911101T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
 		<players>1</players>
 	</game>
 	<game>
@@ -87,5 +340,53 @@ Sonic CD has features that take advantage of the CD format such as CD audio, vid
 		<publisher>SEGA</publisher>
 		<genre>Platform</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./Vay (USA).chd</path>
+		<name>Vay</name>
+		<desc>Vay is the story of Prince Sandor of Lorath, and his quest to avenge the assassination of his parents and rescue his beloved Lady Elin. On what is to be the day of their wedding, Castle Lorath is assaulted by the Danek, who have been able to partially reconstruct alien mecha technology from a millennium ago. The castle defenses are powerless against the giant robots, and the king and queen are killed in the attack. The invaders steal Elin in the midst of her wedding vows. Prince Sandor, now the king of the realm, sets out to rescue his betrothed, and find a way to defeat the fearsome alien technology.
+
+The game is a thoroughly "old-school" Japanese-style RPG, meaning that the focus of the game is on fighting random enemies in turn-based combat, gaining experience and gold in process, without any additional gimmicks. The characters come with pre-set "classes" (wizard, bard, etc.), and learn their own abilities/magic spells automatically as they level up.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Hertz</developer>
+		<publisher>Working Designs</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Wolfchild (USA).chd</path>
+		<name>Wolfchild</name>
+		<desc>Dr. Kal Morrow, expert in genetic research and creation of human-animal hybrids, has been kidnapped and his family brutally murdered by the terrorist organization CHIMERA. His surviving son Saul takes it upon himself to avenge his family. Using his father's research, he turns into a man-wolf and sets out to find CHIMERA's base and defeat their leader Karl Draxx.
+
+As Saul, it is your job to traverse five different areas on your way to Draxx. When Saul collects enough power-ups, he turns into his wolf form and gains a special psychic shot attack, which can be improved by collecting futher power-ups. However, if Saul loses health, he turns back into his human form and only has his fists to fight the numerous enemies.</desc>
+		<releasedate>19921201T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Core Design</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Wonder Dog (USA) (RE).chd</path>
+		<name>Wonder Dog</name>
+		<desc>Wonder Dog is a side-scrolling platform game featuring a dog with super jumping ability and powerful throwing stars.  Wonder Dog has these abilities because he is not from Earth, but from Planet K-9. When Wonder Dog was a pup, K-9 scientists sent him to Earth to escape the impending invasion from the Pitbully Armada. Now, armed with the wonder serum, Wonder Dog must fight his way back to liberate K-9.
+
+This game features a variety of colorful stages, several hidden bonus rounds, and a large boss character at the end of nearly every level.</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Victor Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Final Fight CD (Japan) (Rev A).chd</path>
+		<name>Final Fight CD</name>
+		<desc>The game is set in the metropolis of Metro City, a town constantly plagued by crime and violence. When the mayor, Mike Haggar, promises to clean up the city, the Mad Gear gang kidnaps his daughter Jessica and warns him not to interfere. Haggar responds going on a battle across the city to free her, bringing along her boyfriend Cody, and the ninjitsu master Guy to assist him.
+
+</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
 	</game>
 </gameList>
