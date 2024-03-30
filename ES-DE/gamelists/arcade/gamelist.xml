@@ -415,47 +415,6 @@ The players take control of up to three of four characters: Dutch, Linn, a Preda
 		<players>1-3</players>
 	</game>
 	<game>
-		<path>./alien3.zip</path>
-		<name>Alien3: The Gun</name>
-		<desc>Alien 3: The Gun is a rail shooter in which the player uses a large light gun, modeled after the M41A Pulse Rifle featured in Aliens, to kill various Alien creatures such as facehuggers and soldiers, unlike the film, which featured only three Aliens (including a facehugger, an alien runner and a queen chestburster). The player controls a US Colonial Marine who is tasked with reaching the prison colony featured in the film, in order to rescue prisoners who are under attack by the Aliens. The game is played across seven levels, and features various boss enemies, including a giant facehugger. Power-ups, such as a flamethrower, are available to the player throughout the game.
-
-One or two players can take the role of a pair of United States Colonial Marines in an altered version of the film's storyline. The action begins with an escape from the spaceship Sulaco before proceeding to the surface of Fiorina 'Fury' 161, where players must Take Down hordes of Aliens as well as an army of Weyland-Yutani Corporation troops sent to retrieve specimens by any means necessary. Levels are based on sets from the film and take players through the Mess Hall, Infirmary, Lead Works and more. The game ends when the players defeat the unidentified man, only to be met with more troops, who soon Open Fire at them.</desc>
-		<releasedate>19930101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./aliens.zip</path>
-		<name>Aliens</name>
-		<desc>Aliens is an arcade game based loosely on the 1986 movie Aliens. You and a friend play female Marines and you must explore and destroy all aliens who have taken over a now abandoned space settlement LV426 Acheron. If you can find any survivors try to rescue them. As well as your normal gun there are other weapons that can be used to help you. A Caterpillar P-5000 can also be found and used. Aliens is mainly a side view horizontal shooter where the screen scrolls as you move from left to right. Some parts of the game require you to look behind the hero firing into the screen as aliens come towards from the distance as well as moving in other directions like in a lift. You can also be driving into the screen trying to shoot aliens.</desc>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./aligator.zip</path>
-		<name>Alligator Hunt</name>
-		<desc>Strange reptilian-looking aliens are invading earth and is up to the most brave and skilled soldiers (apparently a duo of skateboarding youths!) to stop the invasion and destroy the enemy base. Features nice graphics and great shoot'em up gameplay which is quite similar to "Cabal" &amp; "Blood Bros.".</desc>
-		<releasedate>19940401T000000</releasedate>
-		<developer>Gaelco</developer>
-		<publisher>Gaelco</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./alpha1v.zip</path>
-		<name>Alpha One</name>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Vision Electronics</developer>
-		<publisher>Vision Electronics</publisher>
-		<genre>Shoot'em up / Horizontal</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./alpinerd.zip</path>
 		<name>Alpine Racer</name>
 		<desc>Ski racing game (downhill and gate) with 3 courses and 2 play modes: Race and Time Attack. The player stands on a sophisticated set of ski-like foot stands while holding onto 2 bars for stability to play.</desc>
@@ -1952,30 +1911,6 @@ Certain enemy strikes - such as being hit by a thrown boulder - will flatten Joe
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./centiped.zip</path>
-		<name>Centipede</name>
-		<desc>Centipede is a vertically oriented single screen shoot-em-up in which the aim is to use the 'Bug Blaster' to shoot the centipedes that snake down towards the bottom of the screen to amass as high a score as possible. 
-
-The play-field is littered with randomly placed mushrooms and the rapidly descending Centipede changes direction when it runs into a mushroom. When a segment of the Centipede is shot, the segment is destroyed and a mushroom appears in its place, the Centipede then breaks into two smaller centipedes, each with its own head, and continues its descent. 
-
-Players can move the Bug Blaster vertically as well as horizontally, although only for the lower fifth of the play-field. Mushrooms can also be shot for points and to clear blocked areas. Once a Centipede reaches the bottom of the screen, it starts snaking back up, but remains within the lower section of the play-field near the player's Bug Blaster.
-
-Additionally, any Centipede that reaches the very bottom of the screen without being shot releases its tail section which then becomes a new head. Other new heads also enter the screen from the bottom corners of the play-field as time progresses.
-
-Randomly moving Spiders also appear in the first wave. Spiders can destroy any mushrooms they move over, eliminating many mushroom targets for a player. If the Bug Blaster and a Spider collide, both are destroyed. the Spider either moves at a 45-degree angle or vertically up and down, never simply left or right like the centipede does.
-
-A bombardment of Fleas appears from the second wave onward. As a Flea descends, it leaves a trail of new mushrooms behind it. Fleas appear when a certain number of mushrooms remains at the bottom of the screen. This number increases as the game progresses, meaning Fleas appear more often later on in the game. The Bug Blaster must hit a Flea twice to destroy it; the first shot simply speeds up its descent.
-
-When a Centipede with fewer than eleven segments appears, a Scorpion enters from either side, moving at a relatively slow speed. As the player earns more points, the Scorpion's speed increases. As the Scorpion travels across the screen, it 'poisons' the mushrooms that it moves over and changes their colours. These mushrooms cause any Centipedes that would collide with them to head straight towards the bottom of the screen, rather than continue snaking left and right. The Bug Blaster can stop a poisoned Centipede by shooting its head.
-
-If a player earns at least 60,000 points, two things happen to increase the challenge: the Fleas descend at a faster speed and the Spiders restrict their movement to a smaller area at the bottom of the screen.</desc>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./chaknpop.zip</path>
 		<name>Chack'n Pop</name>
 		<desc>Chack'n Pop is considered by many to be the precursor to the venerable game Bubble Bobble. The cast consists of two enemies that would later be seen in Bubble Bobble. Many fans of the Bubble Bobble series may find Chack'n Pop less fun to play due to its high degree of difficulty.
@@ -1995,16 +1930,6 @@ The game puts the player in the role of Mr. Chack'n, who must rescue all of the 
 		<developer>Data East</developer>
 		<publisher>Data East</publisher>
 		<genre>Puzzle-Game</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./champwr.zip</path>
-		<name>Champion Wrestler</name>
-		<desc>Eight original wrestlers fight for glory, money and win the title belt of TWF circuit in a single or tag-team match.</desc>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Sports</genre>
 		<players>1-2</players>
 	</game>
 	<game>
@@ -6678,16 +6603,6 @@ One or two players mow down Mobile Suit after Mobile Suit with the cabinet mount
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./mslider.zip</path>
-		<name>Monster Slider</name>
-		<desc>A puzzle game in vein of Puzzle Bobble set in a fantasy world. Contains three selectable characters (15 in 2 player mode), two modes (single and vs.)</desc>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Visco</developer>
-		<publisher>Visco</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./monsterz.zip</path>
 		<name>Monster Zero</name>
 		<desc>Six-stage full colour video game. A player mist raise 10 flags in each stage by shooting the enemies, and the player can process to the next stage. When he successfully survives through a cycle of six stages, he can go on into the next cycle which increases difficulties.</desc>
@@ -9523,26 +9438,6 @@ The second game in the Shock Troopers series enables shot locking, close proximi
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./shogwarr.zip</path>
-		<name>Shogun Warriors</name>
-		<desc>Shogun Warriors plays similarly to some other 2D versus fighting games during its release, which the player's character fights against his or her opponent in best two-out-of-three matches in a single player tournament mode with the computer or against another human player. It is controlled with an 8-way joystick and 4 buttons that perform weak and strong versions of punches and kicks. In one player mode, after selecting a character, the arcade randomly selects an opponent. The opponent order goes randomly and always leaves the last four bosses in a certain order. Some characters stabbed by ones armed with katanas or other sharp weapons can cause blood to spurt out, which became popularized a few months later by Midway's Mortal Kombat. The main unique feature of Shogun Warriors is its "grabbing system". When the player is grabbed by the opponent, the grabber must move the joystick left and right to make it more difficult for his opponent to escape, while the one being grabbed must rapidly press any or all buttons to make it easier to escape.</desc>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Kaneko</developer>
-		<publisher>Kaneko</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./shootbul.zip</path>
-		<name>Shoot The Bull</name>
-		<desc>A dart game for up to 4 players with four different games to choose from.</desc>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Sports</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./shuttlei.zip</path>
 		<name>Shuttle Invader</name>
 		<desc>Space Invaders's clone.
@@ -11822,20 +11717,6 @@ Killing all enemies in a maze advances the player to the next stage; however, in
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./tkmmpzdm.zip</path>
-		<name>Tokimeki Memorial Taisen Puzzle-dama</name>
-		<desc>Tokimeki Memorial Taisen Puzzle-dama is a game in the Taisen Puzzle-dama series featuring the female characters from the Konami dating-sim "Tokimeki Memorial." The game is set up as a two player versus puzzle game with CPU opponents for the single player game.
-
-'Coins' drop in sets of two's from the top of the screen and players must form chains of three or more same colored coins to make them disappear. Clearing multiple chains at a time sends locked coins to the other side. These locked coins are enclosed in clear spheres which are removed when a nearby coin is cleared from the screen. This can set off more chains which adds to the strategy of the game.
-
-If the coins get stacked up to the top of the screen then the player loses the game. Upon continuing the player will restart the same match.</desc>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./tokio.zip</path>
 		<name>Tokio</name>
 		<desc>Flying over the city of Tokyo in your bi-plane you must shoot down hordes of enemy planes whilst avoiding their attacks.
@@ -11846,18 +11727,6 @@ Collect and control multiple biplanes to increase your firepower and help you to
 		<publisher>Taito</publisher>
 		<genre>Shoot'em up / Vertical</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./tondemo.zip</path>
-		<name>Tondemo Crisis</name>
-		<desc>A bizarre game, featuring funny mini-games
-
-The game follows each member of a Japanese, working-class family of four members on their bizarre adventures home from their daily routines to get birthday presents for the family's grandmother Haruko. The game consists of several action-oriented minigames strung together and book-ended with pre-rendered cutscenes. The game was designed and scripted by Kenichi Nishi and features music from the Tokyo Ska Paradise Orchestra.</desc>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Compilation</genre>
-		<players>1</players>
 	</game>
 	<game>
 		<path>./tpgolf.zip</path>
@@ -12719,30 +12588,6 @@ Enhance your machine with power capsules such as lasers and other options, and f
 		<developer>Tecmo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Platform</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./jajamaru.zip</path>
-		<name>Vs. Ninja Jajamaru Kun</name>
-		<desc>A fun platform action game. You control the little red ninja, named  Jajamaru-Kun on his quest to rescue the Princess Sakura kidnapped by the Machiavellian Damazu-Dayuu. You must stop and fight against enemies to save the princess.</desc>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Jaleco</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./vspinbal.zip</path>
-		<name>Vs. Pinball</name>
-		<desc>A great pinball simulator game from Nintendo. 
-
-Enjoy a familiar pinball game where the player controls the paddles of a virtual pinball machine. The game has two screens to represent the traditional pinball table and one for a bonus mode. Play begins when the player launches a ball with the plunger from the first screen the bottom of the pinball table through the top of the screen to the second screen. Play will move to the first screen if the ball falls through the bottom of the top screen and will return to the top screen if the ball is hit back through the space at the top of the first screen. The player controls the flippers on either screen to deflect the ball to keep it from falling off the bottom of the lower screen.
-
-Pinball has some many bonnus and also had a secondary Breakout like mode, which the player reaches by hitting the ball into a bonus hole that takes the player to a bonus stage where they control Mario carrying a platform. The object of this mode is to rescue Pauline. The player achieves this by bouncing the ball on the Mario's platform and hitting various targets, the destruction of which also earns them points. When the blocks under her are all gone, she will drop. you must catching her on Mario's platform to earns  bonus points, but you must release pauline it in one of the side platforms and not let it fall, while holding the ball bounce to continue to earn points until the ball falls and go to start.</desc>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Pinball</genre>
 		<players>1-2</players>
 	</game>
 	<game>
@@ -14228,6 +14073,161 @@ Mutation Nation is a 1-2 player action game where you must control your hero and
 		<releasedate>19920101T000000</releasedate>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./vspinbal.zip</path>
+		<name>Vs. Pinball</name>
+		<desc>A great pinball simulator game from Nintendo. 
+
+Enjoy a familiar pinball game where the player controls the paddles of a virtual pinball machine. The game has two screens to represent the traditional pinball table and one for a bonus mode. Play begins when the player launches a ball with the plunger from the first screen the bottom of the pinball table through the top of the screen to the second screen. Play will move to the first screen if the ball falls through the bottom of the top screen and will return to the top screen if the ball is hit back through the space at the top of the first screen. The player controls the flippers on either screen to deflect the ball to keep it from falling off the bottom of the lower screen.
+
+Pinball has some many bonnus and also had a secondary Breakout like mode, which the player reaches by hitting the ball into a bonus hole that takes the player to a bonus stage where they control Mario carrying a platform. The object of this mode is to rescue Pauline. The player achieves this by bouncing the ball on the Mario's platform and hitting various targets, the destruction of which also earns them points. When the blocks under her are all gone, she will drop. you must catching her on Mario's platform to earns  bonus points, but you must release pauline it in one of the side platforms and not let it fall, while holding the ball bounce to continue to earn points until the ball falls and go to start.</desc>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Pinball</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./shogwarr.zip</path>
+		<name>Shogun Warriors</name>
+		<desc>Shogun Warriors plays similarly to some other 2D versus fighting games during its release, which the player's character fights against his or her opponent in best two-out-of-three matches in a single player tournament mode with the computer or against another human player. It is controlled with an 8-way joystick and 4 buttons that perform weak and strong versions of punches and kicks. In one player mode, after selecting a character, the arcade randomly selects an opponent. The opponent order goes randomly and always leaves the last four bosses in a certain order. Some characters stabbed by ones armed with katanas or other sharp weapons can cause blood to spurt out, which became popularized a few months later by Midway's Mortal Kombat. The main unique feature of Shogun Warriors is its "grabbing system". When the player is grabbed by the opponent, the grabber must move the joystick left and right to make it more difficult for his opponent to escape, while the one being grabbed must rapidly press any or all buttons to make it easier to escape.</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Kaneko</developer>
+		<publisher>Kaneko</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./shootbul.zip</path>
+		<name>Shoot The Bull</name>
+		<desc>A dart game for up to 4 players with four different games to choose from.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./aligator.zip</path>
+		<name>Alligator Hunt</name>
+		<desc>Strange reptilian-looking aliens are invading earth and is up to the most brave and skilled soldiers (apparently a duo of skateboarding youths!) to stop the invasion and destroy the enemy base. Features nice graphics and great shoot'em up gameplay which is quite similar to "Cabal" &amp; "Blood Bros.".</desc>
+		<releasedate>19940401T000000</releasedate>
+		<developer>Gaelco</developer>
+		<publisher>Gaelco</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./jajamaru.zip</path>
+		<name>Vs. Ninja Jajamaru Kun</name>
+		<desc>A fun platform action game. You control the little red ninja, named  Jajamaru-Kun on his quest to rescue the Princess Sakura kidnapped by the Machiavellian Damazu-Dayuu. You must stop and fight against enemies to save the princess.</desc>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./tondemo.zip</path>
+		<name>Tondemo Crisis</name>
+		<desc>A bizarre game, featuring funny mini-games
+
+The game follows each member of a Japanese, working-class family of four members on their bizarre adventures home from their daily routines to get birthday presents for the family's grandmother Haruko. The game consists of several action-oriented minigames strung together and book-ended with pre-rendered cutscenes. The game was designed and scripted by Kenichi Nishi and features music from the Tokyo Ska Paradise Orchestra.</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Compilation</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./centiped.zip</path>
+		<name>Centipede</name>
+		<desc>Centipede is a vertically oriented single screen shoot-em-up in which the aim is to use the 'Bug Blaster' to shoot the centipedes that snake down towards the bottom of the screen to amass as high a score as possible. 
+
+The play-field is littered with randomly placed mushrooms and the rapidly descending Centipede changes direction when it runs into a mushroom. When a segment of the Centipede is shot, the segment is destroyed and a mushroom appears in its place, the Centipede then breaks into two smaller centipedes, each with its own head, and continues its descent. 
+
+Players can move the Bug Blaster vertically as well as horizontally, although only for the lower fifth of the play-field. Mushrooms can also be shot for points and to clear blocked areas. Once a Centipede reaches the bottom of the screen, it starts snaking back up, but remains within the lower section of the play-field near the player's Bug Blaster.
+
+Additionally, any Centipede that reaches the very bottom of the screen without being shot releases its tail section which then becomes a new head. Other new heads also enter the screen from the bottom corners of the play-field as time progresses.
+
+Randomly moving Spiders also appear in the first wave. Spiders can destroy any mushrooms they move over, eliminating many mushroom targets for a player. If the Bug Blaster and a Spider collide, both are destroyed. the Spider either moves at a 45-degree angle or vertically up and down, never simply left or right like the centipede does.
+
+A bombardment of Fleas appears from the second wave onward. As a Flea descends, it leaves a trail of new mushrooms behind it. Fleas appear when a certain number of mushrooms remains at the bottom of the screen. This number increases as the game progresses, meaning Fleas appear more often later on in the game. The Bug Blaster must hit a Flea twice to destroy it; the first shot simply speeds up its descent.
+
+When a Centipede with fewer than eleven segments appears, a Scorpion enters from either side, moving at a relatively slow speed. As the player earns more points, the Scorpion's speed increases. As the Scorpion travels across the screen, it 'poisons' the mushrooms that it moves over and changes their colours. These mushrooms cause any Centipedes that would collide with them to head straight towards the bottom of the screen, rather than continue snaking left and right. The Bug Blaster can stop a poisoned Centipede by shooting its head.
+
+If a player earns at least 60,000 points, two things happen to increase the challenge: the Fleas descend at a faster speed and the Spiders restrict their movement to a smaller area at the bottom of the screen.</desc>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./champwr.zip</path>
+		<name>Champion Wrestler</name>
+		<desc>Eight original wrestlers fight for glory, money and win the title belt of TWF circuit in a single or tag-team match.</desc>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./alpha1v.zip</path>
+		<name>Alpha One</name>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Vision Electronics</developer>
+		<publisher>Vision Electronics</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./tkmmpzdm.zip</path>
+		<name>Tokimeki Memorial Taisen Puzzle-dama</name>
+		<desc>Tokimeki Memorial Taisen Puzzle-dama is a game in the Taisen Puzzle-dama series featuring the female characters from the Konami dating-sim "Tokimeki Memorial." The game is set up as a two player versus puzzle game with CPU opponents for the single player game.
+
+'Coins' drop in sets of two's from the top of the screen and players must form chains of three or more same colored coins to make them disappear. Clearing multiple chains at a time sends locked coins to the other side. These locked coins are enclosed in clear spheres which are removed when a nearby coin is cleared from the screen. This can set off more chains which adds to the strategy of the game.
+
+If the coins get stacked up to the top of the screen then the player loses the game. Upon continuing the player will restart the same match.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./mslider.zip</path>
+		<name>Monster Slider</name>
+		<desc>A puzzle game in vein of Puzzle Bobble set in a fantasy world. Contains three selectable characters (15 in 2 player mode), two modes (single and vs.)</desc>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>Visco</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./alien3.zip</path>
+		<name>Alien3: The Gun</name>
+		<desc>Alien 3: The Gun is a rail shooter in which the player uses a large light gun, modeled after the M41A Pulse Rifle featured in Aliens, to kill various Alien creatures such as facehuggers and soldiers, unlike the film, which featured only three Aliens (including a facehugger, an alien runner and a queen chestburster). The player controls a US Colonial Marine who is tasked with reaching the prison colony featured in the film, in order to rescue prisoners who are under attack by the Aliens. The game is played across seven levels, and features various boss enemies, including a giant facehugger. Power-ups, such as a flamethrower, are available to the player throughout the game.
+
+One or two players can take the role of a pair of United States Colonial Marines in an altered version of the film's storyline. The action begins with an escape from the spaceship Sulaco before proceeding to the surface of Fiorina 'Fury' 161, where players must Take Down hordes of Aliens as well as an army of Weyland-Yutani Corporation troops sent to retrieve specimens by any means necessary. Levels are based on sets from the film and take players through the Mess Hall, Infirmary, Lead Works and more. The game ends when the players defeat the unidentified man, only to be met with more troops, who soon Open Fire at them.</desc>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./aliens.zip</path>
+		<name>Aliens</name>
+		<desc>Aliens is an arcade game based loosely on the 1986 movie Aliens. You and a friend play female Marines and you must explore and destroy all aliens who have taken over a now abandoned space settlement LV426 Acheron. If you can find any survivors try to rescue them. As well as your normal gun there are other weapons that can be used to help you. A Caterpillar P-5000 can also be found and used. Aliens is mainly a side view horizontal shooter where the screen scrolls as you move from left to right. Some parts of the game require you to look behind the hero firing into the screen as aliens come towards from the distance as well as moving in other directions like in a lift. You can also be driving into the screen trying to shoot aliens.</desc>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
 		<genre>Beat'em Up</genre>
 		<players>1-2</players>
 	</game>

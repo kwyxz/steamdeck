@@ -250,20 +250,6 @@ Includes the introductory animations and features the arcade version's sliding s
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Defender (USA).a52</path>
-		<name>Defender</name>
-		<desc>Defender put players in charge of a ship sent to protect mankind from wave after wave of attacking alien forces.
-
-Armed with "smart bombs", and the ability to use hyperspace to move quickly around the planet, the player ship must fight against Bombers, Pods, Swarmers, Baiters, and Landers - that can capture the humanoids and transform them into deadly and relentless Mutants.  Fail to save the humanoids from freefall or Mutant transformation, and the planet is destroyed.
-
-Eugene Jarvis'  Defender has been widely regarded as one of the most popular and addictive space shooters of the early 1980's</desc>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Williams</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Dig Dug (USA).a52</path>
 		<name>Dig Dug</name>
 		<desc>Dig Dug is a 1-2 player arcade game in which you have to use your shovel to dig your way through the earth. Stopping you from doing this are two monsters, called Pooka and Fygar, who will continually chase you around. The only weapon that you carry is an air pump, which you can use to inflate the monsters to the point where they explode. (if you start to inflate them but stop doing so, the monsters will get turned back to their normal selves.) Furthermore, rocks are scattered throughout the earth, and you can use these rocks to squash them. If the monsters do not find you for several seconds, they will eventually get turned into ghosts, which are able to walk through the earth. They are invincible and cannot be killed. From time to time, vegetables will appear in the center, and you can get these for points.</desc>
@@ -918,6 +904,20 @@ Stage two is a space shoot out against hordes of enemy aircraft - those you fail
 		<releasedate>19840101T000000</releasedate>
 		<developer>Activision</developer>
 		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Defender (USA).a52</path>
+		<name>Defender</name>
+		<desc>Defender put players in charge of a ship sent to protect mankind from wave after wave of attacking alien forces.
+
+Armed with "smart bombs", and the ability to use hyperspace to move quickly around the planet, the player ship must fight against Bombers, Pods, Swarmers, Baiters, and Landers - that can capture the humanoids and transform them into deadly and relentless Mutants.  Fail to save the humanoids from freefall or Mutant transformation, and the planet is destroyed.
+
+Eugene Jarvis'  Defender has been widely regarded as one of the most popular and addictive space shooters of the early 1980's</desc>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Atari</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
 	</game>
