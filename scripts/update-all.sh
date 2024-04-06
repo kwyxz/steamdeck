@@ -9,7 +9,6 @@ git checkout main
 /home/deck/Applications/ryujinx/install-ryujinx.sh
 /home/deck/Applications/xemu/install-xemu.sh
 /home/deck/Applications/xenia/install-xenia.sh
-/home/deck/Applications/yuzu/install-yuzu.sh
 git pull && git submodule update --recursive --remote
 sudo flatpak update -y
 flatpak update -y

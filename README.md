@@ -80,11 +80,11 @@ As the HyperSpaceMadness and Duimon shaders / artworks are in submodules, this r
 
 ### Yuzu
 
-Alas, Yuzu is gone. The script will pull the final version of the AppImage.
+Alas, Yuzu is gone.
 
 ### Citra
 
-See Yuzu above.
+The script is pulling the latest existing version of Citra, for now.
 
 ### Xemu & Xenia
 
