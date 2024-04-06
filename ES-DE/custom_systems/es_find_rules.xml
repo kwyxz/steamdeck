@@ -42,6 +42,12 @@
             <entry>~/Applications/pcsx2/pcsx2-x64.AppImage</entry>
         </rule>
     </emulator>
+    <emulator name="PLAY-KW">
+        <!-- Play AppImage (PS2) -->
+        <rule type="staticpath">
+            <entry>~/Applications/Play-0.64-43-git-x86_64.AppImage</entry>
+        </rule>
+    </emulator>
     <emulator name="PROTONSH">
         <!-- Emudeck Proton helper script -->
         <rule type="staticpath">

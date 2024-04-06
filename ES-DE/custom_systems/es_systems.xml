@@ -762,6 +762,7 @@
         <path>%ROMPATH%/ps2</path>
         <extension>.arcadedef .bin .BIN .chd .CHD .ciso .CISO .cso .CSO .dump .DUMP .elf .ELF .gz .GZ .m3u .M3U .mdf .MDF .img .IMG .iso .ISO .isz .ISZ .ngr .NRG .zso .ZSO</extension>
         <command label="PCSX2 (KW)">%EMULATOR_PCSX2-KW% -nogui -bigpicture -fullscreen -batch %ROM%</command>
+        <command label="Play! (KW)">%EMULATOR_PLAY-KW% --disc %ROM%</command>
         <command label="LRPS2">%EMULATOR_RETROARCH% -L %CORE_RETROARCH%/pcsx2_libretro.so %ROM%</command>
         <command label="PCSX2">%EMULATOR_RETROARCH% -L %CORE_RETROARCH%/pcsx2_libretro.so %ROM%</command>
         <command label="PCSX2 (Standalone)">%EMULATOR_PCSX2% -batch %ROM%</command>
@@ -902,6 +903,15 @@
         <command label="ares (Standalone)">%EMULATOR_ARES% --fullscreen --system "SuperGrafx" %ROM%</command>
         <platform>supergrafx</platform>
         <theme>supergrafx</theme>
+    </system>
+    <system>
+        <name>system2x6</name>
+        <fullname>Namco - 2000 - System 2X6</fullname>
+        <path>%ROMPATH%/system2x6</path>
+        <extension>.zip .ZIP</extension>
+        <command label="Play! (KW)">%EMULATOR_PLAY-KW% --arcade %BASENAME%</command>
+        <platform>system2x6</platform>
+        <theme>system2x6</theme>
     </system>
     <system>
         <name>switch</name>
