@@ -52,6 +52,8 @@
 !/ES-DE/settings/
 !/ES-DE/settings/themes
 !/ES-DE/settings/themes/*
+!/ES-DE/themes/
+/ES-DE/themes/*
 !/ES-DE/themes/.gitignore
 !/ES-DE/themes/art-book-next-kwyxz/
 !/ES-DE/themes/epic-noir-kwyxz/
