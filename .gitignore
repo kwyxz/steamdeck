@@ -46,9 +46,6 @@
 !/Applications/xenia/
 /Applications/xenia/*
 !Applications/xenia/install-xenia.sh
-!Applications/yuzu/
-/Applications/yuzu/*
-!Applications/yuzu/install-yuzu.sh
 !/ES-DE/
 /ES-DE/*
 !/ES-DE/custom_systems/
