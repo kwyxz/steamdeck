@@ -34,6 +34,9 @@
 !/Applications/pcsx2/
 /Applications/pcsx2/*
 !/Applications/pcsx2/install-pcsx2.sh
+!/Applications/play/
+/Applications/play/*
+!/Applications/play/README.md
 !/Applications/redream/
 /Applications/redream/*
 !Applications/redream/install-redream.sh
