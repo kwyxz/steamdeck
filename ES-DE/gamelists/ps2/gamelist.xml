@@ -136,20 +136,6 @@ Grandia Xtreme is the first Grandia game to be originally released for Playstati
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./KOF2 - Maximum Impact II (Japan).iso</path>
-		<name>The King of Fighters 2006</name>
-		<desc>The King of Fighters: Maximum Impact 2 was released in North America as The King of Fighters 2006, and is a sequel to The King of Fighters: Maximum Impact. MI2 brings you back to the team fighting universe of the KOF with the added spin of using a polygonal engine.
-
-All of the characters from the original MI return, and are joined by 4 newcomers and 14 secret guest stars, totaling a whopping 38 characters, each with a unique story mode and dozens of possible costumes.
-
-The story this time deals with the appearance of the evil Jivatma in South Town, where all the heroes converge for their own personal reasons. Gameplay changes include the ability to sidestep and super cancel several moves; additional backgrounds and bonus features can be unlocked after beating the story mode, as well as completing the mission mode and time attack challenges</desc>
-		<releasedate>20060919T000000</releasedate>
-		<developer>SNK Playmore</developer>
-		<publisher>Ignition Entertainment</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Mark of Kri, The (USA).iso</path>
 		<name>The Mark of Kri</name>
 		<desc>In this action adventure, you play Rau, a warrior hero. Accompanying him is his sacred bird, Kuzo, who helps him by activating items, scouting ahead, and reading ancient scripts. This is a beat 'em up game with many twists. There is a unique targeting system that helps you decide which enemy to attack by pressing the corresponding buttons. Bash your enemies with the game's nice combo system. Rau has several weapons to choose from like his sword, Taiaha, axe, and even a bow. But Rau isn't just a brawny "walk up and beat him up guy", he can also work stealthly, taking out his enemies in single strikes. The cutscenes are hand drawn and animated. There are many items to unlock and other modes of play.</desc>
@@ -324,6 +310,20 @@ Kyle and Cody Travers are brothers who take part in the sport of underground fig
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./KOF2 - Maximum Impact II (Japan).iso</path>
+		<name>The King of Fighters 2006</name>
+		<desc>The King of Fighters: Maximum Impact 2 was released in North America as The King of Fighters 2006, and is a sequel to The King of Fighters: Maximum Impact. MI2 brings you back to the team fighting universe of the KOF with the added spin of using a polygonal engine.
+
+All of the characters from the original MI return, and are joined by 4 newcomers and 14 secret guest stars, totaling a whopping 38 characters, each with a unique story mode and dozens of possible costumes.
+
+The story this time deals with the appearance of the evil Jivatma in South Town, where all the heroes converge for their own personal reasons. Gameplay changes include the ability to sidestep and super cancel several moves; additional backgrounds and bonus features can be unlocked after beating the story mode, as well as completing the mission mode and time attack challenges</desc>
+		<releasedate>20060919T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>Ignition Entertainment</publisher>
+		<genre>Fight</genre>
 		<players>1-2</players>
 	</game>
 </gameList>

@@ -148,4 +148,14 @@ Players can shake the Wii remote after jumping on bad guys but before hitting th
 		<genre>Role playing games</genre>
 		<players>1</players>
 	</game>
+	<game>
+		<path>./Batman - The Brave and the Bold - The Videogame (USA) (En,Fr,Es).rvz</path>
+		<name>Batman - The Brave And The Bold - The Videogame</name>
+		<desc>Batman: The Brave and the Bold the Videogame fully immerses fans into the vivid animated world of the successful TV series where kids can play as Batman or together with family and friends in two-player co-op mode. Players can choose from iconic characters Robin, Green Lantern, Blue Beetle, along with drop-in heroes such as Aquaman to help solve puzzles and fight foes.</desc>
+		<releasedate>20100907T000000</releasedate>
+		<developer>Wayforward</developer>
+		<publisher>Warner Bros. Interactive</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+	</game>
 </gameList>

@@ -1032,16 +1032,6 @@ The four tournaments are Local Amateur Tournament, Amateur Bass Championship, Pr
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Bastard!! - Dark God of Destruction (Japan) [T-En by DeJap v1.0] [Add by Docrow v1.0] [n].zip</path>
-		<name>Bastard!!</name>
-		<desc>In this game, you're either in the foreground or the background, and your opponent is always on the opposite end of the screen. To fight whoever flies thar yonder in the distance, you send out projectiles, in our case fireballs. These behave differently depending on which of the four main buttons you press: if you press the A button, they fly in a curve towards the upper right part of the screen, if you push the Y button, they go left and down and so on and so forth. Sadly, they move so slowly your opponent has a good three seconds to get out of the way, and in so weird curves that aiming is impossible. Also, the screen constantly twists in all directions.</desc>
-		<releasedate>19940128T000000</releasedate>
-		<developer>Team Mental Care</developer>
-		<publisher>Cobra Team</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Batman Forever (USA).zip</path>
 		<name>Batman Forever</name>
 		<desc>Batman Forever is the officially licensed game based on the 1995 movie. The bad guys this time around are The Riddler and Two-Face.
@@ -21479,5 +21469,15 @@ In order to eliminate the other shapes, you must point your piece at it and 'fir
 		<publisher>Telenet</publisher>
 		<genre>Role playing games</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./Bastard!! - Dark God of Destruction (Japan) [T-En by DeJap v1.0] [Add by Docrow v1.0] [n].zip</path>
+		<name>Bastard!!</name>
+		<desc>In this game, you're either in the foreground or the background, and your opponent is always on the opposite end of the screen. To fight whoever flies thar yonder in the distance, you send out projectiles, in our case fireballs. These behave differently depending on which of the four main buttons you press: if you press the A button, they fly in a curve towards the upper right part of the screen, if you push the Y button, they go left and down and so on and so forth. Sadly, they move so slowly your opponent has a good three seconds to get out of the way, and in so weird curves that aiming is impossible. Also, the screen constantly twists in all directions.</desc>
+		<releasedate>19940128T000000</releasedate>
+		<developer>Team Mental Care</developer>
+		<publisher>Cobra Team</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
 	</game>
 </gameList>

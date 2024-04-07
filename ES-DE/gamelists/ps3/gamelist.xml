@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Pure.ps3</path>
-		<name>Pure</name>
-		<desc>Pure on PS3 is a quad bike racing game that takes place on open tracks in the middle of nature. You will be able to perform spectacular jumps that will allow you to perform stylish tricks, just to show off. There is also a multiplayer mode for up to 16 players.</desc>
-		<releasedate>20080902T000000</releasedate>
-		<developer>Black Rock Studio</developer>
-		<publisher>Disney Interactive</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Daytona USA.ps3</path>
 		<name>Daytona Usa</name>
 		<desc>Daytona USA on PS3 is the remake of the famous arcade title. This edition includes the game modes of the time as well as a Karaoke mode and an online multiplayer that allows up to 8 users to compete.</desc>
@@ -57,6 +47,16 @@ While choosing their plane, the player can use the throttle to choose between fo
 		<releasedate>20090416T000000</releasedate>
 		<developer>Sumo Digital</developer>
 		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Pure.ps3</path>
+		<name>Pure</name>
+		<desc>Pure on PS3 is a quad bike racing game that takes place on open tracks in the middle of nature. You will be able to perform spectacular jumps that will allow you to perform stylish tricks, just to show off. There is also a multiplayer mode for up to 16 players.</desc>
+		<releasedate>20080902T000000</releasedate>
+		<developer>Black Rock Studio</developer>
+		<publisher>Disney Interactive</publisher>
 		<genre>Race, Driving</genre>
 		<players>1</players>
 	</game>
