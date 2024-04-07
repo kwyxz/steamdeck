@@ -910,7 +910,7 @@
         <path>%ROMPATH%/system2x6</path>
         <extension>.zip .ZIP</extension>
         <command label="Play! (KW)">%EMULATOR_PLAY-KW% --arcade %BASENAME%</command>
-        <platform>system2x6</platform>
+        <platform>arcade</platform>
         <theme>system2x6</theme>
     </system>
     <system>
