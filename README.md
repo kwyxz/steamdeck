@@ -37,6 +37,7 @@ Several systems were added to the default settings:
  - Sega Model 2 (games in `/home/deck/Emulation/roms/model2`)
  - Sega Model 3 (games in `/home/deck/Emulation/roms/model3`)
  - Sega Naomi (games in `/home/deck/Emulation/roms/naomi`)
+ - Namco System 2X6 (games in `/home/deck/Emulation/roms/system2x6`)
 
 I did remove various templates I was not interested in from the original theme. So if too many things are missing for your setup, you can go back to ES-EpicNoir, no hard feelings.
 
@@ -89,6 +90,10 @@ The script is pulling the latest existing version of Citra, for now.
 ### Xemu & Xenia
 
 I am providing update scripts for both emulators. See Applications/xemu and Applications/xenia for details. The `update-all.sh` script will update both. Xenia seems to not like having to switch between Proton versions. If Xenia gives you a blank screen, clear the cache.
+
+### Play!
+
+In order to play Namco System 2X6 games you will need the Play! emulator. AppImages for this emulator exist in GitHub as a result of their CI/CD workflow, but are not easily available to any automated script. A more thorough documentation is included in the Applications/play/ folder should you be interested in emulating such hardware.
 
 ### Helper Scripts
 
