@@ -14610,21 +14610,6 @@ After each level, depending on the coins you collect, you can use them in the bo
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Super Mario Bros. 3 (USA).zip</path>
-		<name>Super Mario Bros. 3</name>
-		<desc>Bowser is back, and along with the Bowser kids, he's out to spoil Mario's day once again. 
-
-This time, along with nabbing the Princess, the Bowser crew have also taken the magic wands from the Kings of each land and turned them into creatures.
-It's up to Mario and Luigi to get back the magic wands, defeat Bowser, and save the Princess all before the day is done.
-
-Old and new power-ups abound in each level for the Mario Brothers, including the return of the Super Mushroom and Fire Flower, plus the new power-ups including the frog suit, the warp flute, and the most important of all, the leaf, which allows the player to fly and attack enemies with your tail.</desc>
-		<releasedate>19900212T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Super Mogura Tataki!! - Pokkun Mogurar (Japan).zip</path>
 		<name>Super Mogura Tataki!! - Pokkun Mogurar</name>
 		<desc>Super Mogura Tataki!! Pokkun Mogura ("Super Mole Bash!! Pokkun Mole") is an action game for Famicom based on the classic fairground/arcade game "whac-a-mole". The goal is to hit the moles as they poke out from eight different spots on the ground before they quickly duck their heads back down. Later stages switch the moles with other animals and characters to quickly bop.
@@ -18075,5 +18060,20 @@ Return home with enough gold medals and join the World Hall of Fame!
 		<publisher>Milton Bradley Co.</publisher>
 		<genre>Sports</genre>
 		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Super Mario Bros. 3 (USA).zip</path>
+		<name>Super Mario Bros. 3</name>
+		<desc>Bowser is back, and along with the Bowser kids, he's out to spoil Mario's day once again. 
+
+This time, along with nabbing the Princess, the Bowser crew have also taken the magic wands from the Kings of each land and turned them into creatures.
+It's up to Mario and Luigi to get back the magic wands, defeat Bowser, and save the Princess all before the day is done.
+
+Old and new power-ups abound in each level for the Mario Brothers, including the return of the Super Mushroom and Fire Flower, plus the new power-ups including the frog suit, the warp flute, and the most important of all, the leaf, which allows the player to fly and attack enemies with your tail.</desc>
+		<releasedate>19900212T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
 	</game>
 </gameList>

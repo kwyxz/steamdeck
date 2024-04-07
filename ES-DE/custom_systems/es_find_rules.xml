@@ -45,7 +45,7 @@
     <emulator name="PLAY-KW">
         <!-- Play AppImage (PS2) -->
         <rule type="staticpath">
-            <entry>~/Applications/Play-0.64-43-git-x86_64.AppImage</entry>
+            <entry>~/Applications/play/Play-x86_64.AppImage</entry>
         </rule>
     </emulator>
     <emulator name="PROTONSH">

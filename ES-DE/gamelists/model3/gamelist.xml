@@ -73,16 +73,6 @@ All this excitement takes place on a railroad track with 6 amazingly detailed sc
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./scudplus.zip</path>
-		<name>Scud Race</name>
-		<desc>Scud Race (stylized as SCUD Race, "Sport Car Ultimate Drive"), or otherwise known as Sega Super GT in North America, is an arcade racing game released by Sega in 1996. It is the first racing game to be using the Sega Model 3 hardware.</desc>
-		<releasedate>19960101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race 3rd Pers. view</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./srally2.zip</path>
 		<name>Sega Rally 2</name>
 		<desc>Sega Rally 2 is the sequel to Sega Rally Championship. It was released in 1998 in the arcades and was later ported to the Dreamcast and PC.</desc>
@@ -212,6 +202,16 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 	<game>
 		<path>./scud.zip</path>
 		<name>Scud Race</name>
+		<desc>Scud Race (stylized as SCUD Race, "Sport Car Ultimate Drive"), or otherwise known as Sega Super GT in North America, is an arcade racing game released by Sega in 1996. It is the first racing game to be using the Sega Model 3 hardware.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race 3rd Pers. view</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./scudplus.zip</path>
+		<name>Scud Race+</name>
 		<desc>Scud Race (stylized as SCUD Race, "Sport Car Ultimate Drive"), or otherwise known as Sega Super GT in North America, is an arcade racing game released by Sega in 1996. It is the first racing game to be using the Sega Model 3 hardware.</desc>
 		<releasedate>19960101T000000</releasedate>
 		<developer>SEGA</developer>

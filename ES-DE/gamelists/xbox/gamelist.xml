@@ -11,16 +11,6 @@
 		<players>1-8</players>
 	</game>
 	<game>
-		<path>./Conker Live and Reloaded.iso</path>
-		<name>Conker : Live &amp; Reloaded</name>
-		<desc>Conker: Live &amp; Reloaded is a combination of frantic online multiplayer action and a single-player mode, which is a remake of the original  Conker's Bad Fur Day for Nintendo 64 with more detailed and technologically advanced graphics, as well as re-recorded music. The single-player game plays very similarly to the original version, but a few gameplay-related changes have been made. Conker now uses a baseball bat instead of the frying pan (his default weapon in the original). A few particularly challenging sequences have been made slightly easier; for example, a crosshair has been added for the slingshot weapon. The remake also censors more swear words with "beeps" than the original release.</desc>
-		<releasedate>20050621T000000</releasedate>
-		<developer>Rare Limited</developer>
-		<publisher>Microsoft Game Studios</publisher>
-		<genre>Platform</genre>
-		<players>1-16</players>
-	</game>
-	<game>
 		<path>./Dead or Alive 3.iso</path>
 		<name>Dead Or Alive 3</name>
 		<desc>Dead or Alive 3 (Japanese: ?3 Hepburn: Deddo Oa Araibu Sur, abbreviated as DOA3 ) is a fighting game in the Dead or Alive series. It was released in 2001, exclusively on the Xbox as a launch title.</desc>
@@ -109,5 +99,16 @@ A port of the original Panzer Dragoon is included.</desc>
 		<publisher>Microsoft</publisher>
 		<genre>Race, Driving</genre>
 		<players>1-8</players>
+	</game>
+	<game>
+		<path>./Conker Live and Reloaded.iso</path>
+		<name>Conker : Live &amp; Reloaded</name>
+		<desc>Conker: Live &amp; Reloaded is a combination of frantic online multiplayer action and a single-player mode, which is a remake of the original  Conker's Bad Fur Day for Nintendo 64 with more detailed and technologically advanced graphics, as well as re-recorded music. The single-player game plays very similarly to the original version, but a few gameplay-related changes have been made. Conker now uses a baseball bat instead of the frying pan (his default weapon in the original). A few particularly challenging sequences have been made slightly easier; for example, a crosshair has been added for the slingshot weapon. The remake also censors more swear words with "beeps" than the original release.</desc>
+		<releasedate>20050621T000000</releasedate>
+		<developer>Rare Limited</developer>
+		<publisher>Microsoft Game Studios</publisher>
+		<genre>Platform</genre>
+		<players>1-16</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

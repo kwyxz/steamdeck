@@ -812,21 +812,6 @@ Episode 5 - "The Joker's Last Laugh?" The Joker's back for revenge in Gotham Cit
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Batman - The Video Game (World).zip</path>
-		<name>Batman : The Video Game</name>
-		<desc>He's totally new. Totally tough. And he'll stop at nothing to make sure justice prevails!
-From the dark streets of GOTHAM CITY to the deepest corners of the criminal underground comes the CAPED CRUSADER as you've never seen him before.
-
-Incredibly strong. Armed to the teeth. And ready to put his life on the line for the sake of all, on a search-and-destroy mission to end THE JOKER'S reign of terror. He leaps, he flies, he dodges enemy fire and delivers it right back ... with a vengeance.
-
-This is no kid stuff. This is as real as video gaming gets. If you liked what you saw in the movie, you're gonna love what you see here. Because this time around, BATMAN is all business, and he won't let anything ... anything ... stand in his way.</desc>
-		<releasedate>19900602T000000</releasedate>
-		<developer>Sunsoft</developer>
-		<publisher>Sunsoft</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Batman Forever (USA, Europe).zip</path>
 		<name>Batman Forever</name>
 		<desc>Batman Forever is the officially licensed game based on the 1995 movie. The bad guys this time around are the Riddler and Two-Face.
@@ -11973,5 +11958,20 @@ Wizardry Gaiden is a side story Wizardry game for Gameboy. It is an original, Ja
 		<publisher>Tomy</publisher>
 		<genre>Shoot'em up / Horizontal</genre>
 		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Batman - The Video Game (World).zip</path>
+		<name>Batman : The Video Game</name>
+		<desc>He's totally new. Totally tough. And he'll stop at nothing to make sure justice prevails!
+From the dark streets of GOTHAM CITY to the deepest corners of the criminal underground comes the CAPED CRUSADER as you've never seen him before.
+
+Incredibly strong. Armed to the teeth. And ready to put his life on the line for the sake of all, on a search-and-destroy mission to end THE JOKER'S reign of terror. He leaps, he flies, he dodges enemy fire and delivers it right back ... with a vengeance.
+
+This is no kid stuff. This is as real as video gaming gets. If you liked what you saw in the movie, you're gonna love what you see here. Because this time around, BATMAN is all business, and he won't let anything ... anything ... stand in his way.</desc>
+		<releasedate>19900602T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
 	</game>
 </gameList>

@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./3-D Tic-Tac-Toe (USA).zip</path>
-		<name>3-D Tic-Tac-Toe</name>
-		<desc>The game is similar to the traditional game of tic-tac-toe, but is played on four 4x4 grids stacked vertically; it is basically a computerized version of the board game Qubic using traditional tic-tac-toe notation and layout. To win, a player must place four of their symbols on four squares that line up vertically, horizontally, or diagonally, on a single grid, or spaced evenly over all four grids. This creates a total of 76 possible ways to win, in comparison to eight possible ways to win on a standard 3Ã—3 board. The game has nine variations: it can be played by two players against each other, or one player can play against a built-in AI on one of eight different difficulty settings. The game uses the standard joystick controller.</desc>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Sears</developer>
-		<publisher>Atari</publisher>
-		<genre>Simulation</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Acid Drop (Europe).zip</path>
 		<name>Acid Drop</name>
 		<desc>A falling block game similar to Columns. The object of the game is to create a horizontal or vertical line of three or more blocks of the same color, which will then disappear. The remaining blocks will fall down, but won't disappear if they form another line. Every 10,000 points a special block will appear (the Acid Drop) which removes three columns of blocks and marks the beginning of the next level.</desc>
@@ -6640,5 +6630,15 @@ There are eight game variations. Some where the ships move side-to-side while mo
 		<publisher>Men-A-Vision</publisher>
 		<genre>Action</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./3-D Tic-Tac-Toe (USA).zip</path>
+		<name>3-D Tic-Tac-Toe</name>
+		<desc>The game is similar to the traditional game of tic-tac-toe, but is played on four 4x4 grids stacked vertically; it is basically a computerized version of the board game Qubic using traditional tic-tac-toe notation and layout. To win, a player must place four of their symbols on four squares that line up vertically, horizontally, or diagonally, on a single grid, or spaced evenly over all four grids. This creates a total of 76 possible ways to win, in comparison to eight possible ways to win on a standard 3Ã—3 board. The game has nine variations: it can be played by two players against each other, or one player can play against a built-in AI on one of eight different difficulty settings. The game uses the standard joystick controller.</desc>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Sears</developer>
+		<publisher>Atari</publisher>
+		<genre>Simulation</genre>
+		<players>1-2</players>
 	</game>
 </gameList>
