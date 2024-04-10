@@ -566,6 +566,7 @@
         <fullname>Nintendo - 2011 - 3DS</fullname>
         <path>%ROMPATH%/n3ds</path>
         <extension>.3ds .3DS .3dsx .3DSX .app .APP .axf .AXF .cci .CCI .cxi .CXI .elf .ELF .7z .7Z .zip .ZIP</extension>
+        <command label="Lime3DS (KW)">%EMULATOR_LIME3DS-KW% %ROM% </command>
         <command label="Citra (KW)">%EMULATOR_CITRA-KW% %ROM%</command>
         <command label="Citra">%EMULATOR_RETROARCH% -L %CORE_RETROARCH%/citra_libretro.so %ROM%</command>
         <command label="Citra 2018">%EMULATOR_RETROARCH% -L %CORE_RETROARCH%/citra2018_libretro.so %ROM%</command>
@@ -918,6 +919,7 @@
         <fullname>Nintendo - 2017 - Switch</fullname>
         <path>%ROMPATH%/switch</path>
         <extension>.nca .NCA .nro .NRO .nso .NSO .nsp .NSP .xci .XCI</extension>
+        <command label="Suyu (KW)">%EMULATOR_SUYU-KW% -f -g %ROM%</command>
         <command label="Yuzu EA (KW)">%EMULATOR_YUZUEA-KW% -f -g %ROM%</command>
         <command label="Yuzu (KW)">%EMULATOR_YUZU-KW% -f -g %ROM%</command>
         <command label="Ryujinx (Standalone)">%EMULATOR_RYUJINX% %ROM%</command>

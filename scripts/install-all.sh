@@ -5,14 +5,14 @@ sudo true
 if test -f ${HOME}/scripts/update-all.sh; then
   cd ${HOME}
 else
-  echo -n "==== Resetting gizmos ... "
+  echo -n "==== Clean up existing git files ... "
   cd ${HOME} && rm -rf ${HOME}/.git*
   git init --quiet && git branch -m main
   echo "OK"
-  echo -n "==== Adding origin to the world ... "
+  echo -n "==== Adding repository origin ... "
   git remote add origin https://github.com/kwyxz/steamdeck.git
   echo "OK"
-  echo -n "==== Pulling things out and throwing them together ... "
+  echo -n "==== Fetching repo contents ... "
   git fetch --all --quiet 1>/dev/null
   echo -n "beep ... "
   git reset --hard origin/main --quiet
@@ -21,16 +21,16 @@ else
   echo "OK"
   echo -n "==== Confirming we did not break anything yet ... "
   git ls-files -z --deleted | xargs -0 git checkout -- 1>/dev/null
-  echo "phew that was close"
-  echo -n "==== Reinitializing booster rockets (please wait) ... "
+  echo "OK"
+  echo -n "==== Initializing submodules ... "
   git submodule update --quiet --no-fetch --init --recursive 2>/dev/null
   echo "OK"
-  echo -n "==== Jettisoning Elon Musk into the Sun ... "
+  echo -n "==== Reset shaders_slang repo ... "
   cd ${HOME}/.config/retroarch/shaders/shaders_slang/ && git reset --hard origin/master --quiet
   cd ${HOME} && git add .config/retroarch/shaders/shaders_slang/
   echo "OK"
   git commit -m "Confirming changes to slang repo" 1>/dev/null 2>/dev/null
-  echo -n "==== Recombobulating bozos ... "
+  echo -n "==== Reset Mega-Bezel repo ... "
   cd ${HOME}/.config/retroarch/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel && git reset --hard origin/main --quiet
   cd ${HOME} && git add .config/retroarch/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel
   echo "OK"
@@ -42,6 +42,7 @@ else
   echo "==== Now installing emulators"
   sudo flatpak install org.mamedev.MAME -y
   sudo flatpak install org.ryujinx.Ryujinx -y
+  sudo flatpak install io.github.lime3ds.Lime3DS -y
 fi
 
 sh $HOME/scripts/update-all.sh

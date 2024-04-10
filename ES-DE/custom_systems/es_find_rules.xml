@@ -24,6 +24,12 @@
             <entry>~/Applications/duckstation/DuckStation-x64.AppImage</entry>
         </rule>
     </emulator>
+    <emulator name="LIME3DS-KW">
+        <!-- Lime3DS (3DS) -->
+        <rule type="staticpath">
+            <entry>/var/lib/flatpak/exports/bin/io.github.lime3ds.Lime3DS</entry>
+        </rule>
+    </emulator>
     <emulator name="MAME-KW">
         <!-- MAME (Arcade) -->
         <rule type="staticpath">
@@ -70,6 +76,12 @@
         <!-- Supermodel (Sega Model 3) -->
         <rule type="staticpath">
             <entry>~/.local/share/flatpak/exports/bin/com.supermodel3.Supermodel</entry>
+        </rule>
+    </emulator>
+    <emulator name="SUYU-KW">
+        <!-- Suyu (Switch) -->
+        <rule type="staticpath">
+            <entry>~/Applications/suyu/suyu-x64.AppImage</entry>
         </rule>
     </emulator>
     <emulator name="XEMU-KW">
