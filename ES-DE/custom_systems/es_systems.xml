@@ -922,6 +922,7 @@
         <command label="Suyu (KW)">%EMULATOR_SUYU-KW% -f -g %ROM%</command>
         <command label="Yuzu EA (KW)">%EMULATOR_YUZUEA-KW% -f -g %ROM%</command>
         <command label="Yuzu (KW)">%EMULATOR_YUZU-KW% -f -g %ROM%</command>
+        <command label="Ryujinx (KW)">%EMULATOR_RYUJINX-KW% %ROM%</command>
         <command label="Ryujinx (Standalone)">%EMULATOR_RYUJINX% %ROM%</command>
         <platform>switch</platform>
         <theme>switch</theme>

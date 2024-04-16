@@ -27,13 +27,13 @@
     <emulator name="LIME3DS-KW">
         <!-- Lime3DS (3DS) -->
         <rule type="staticpath">
-            <entry>/var/lib/flatpak/exports/bin/io.github.lime3ds.Lime3DS</entry>
+            <entry>~/.local/share/flatpak/exports/bin/io.github.lime3ds.Lime3DS</entry>
         </rule>
     </emulator>
     <emulator name="MAME-KW">
         <!-- MAME (Arcade) -->
         <rule type="staticpath">
-            <entry>/var/lib/flatpak/exports/bin/org.mamedev.MAME</entry>
+            <entry>~/.local/share/flatpak/exports/bin/org.mamedev.MAME</entry>
         </rule>
     </emulator>
     <emulator name="M2EMULATOR-KW">
@@ -70,6 +70,12 @@
         <!-- RPCS3 (PS3) -->
         <rule type="staticpath">
             <entry>~/Applications/rpcs3.AppImage</entry>
+        </rule>
+    </emulator>
+    <emulator name="RYUJINX-KW">
+        <!-- Ryujinx (Switch) -->
+        <rule type="staticpath">
+            <entry>~/.local/share/flatpak/exports/bin/org.ryujinx.Ryujinx</entry>
         </rule>
     </emulator>
     <emulator name="SUPERMODEL-KW">
