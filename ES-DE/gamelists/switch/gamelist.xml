@@ -11,26 +11,6 @@
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./Advance_Wars_1+2_Reboot_Camp.USA.nsp</path>
-		<name>Advance Wars 1+2: Re-Boot Camp</name>
-		<desc>Each CO affects your units in different ways, and they each possess a unique ability that can turn the tide of battle. Do you like to go toe-to-toe, or engage from a distance? Choose the CO that best complements your playstyle!</desc>
-		<releasedate>20230421T000000</releasedate>
-		<developer>Wayforward</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Strategy</genre>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./Astral_Chain.Euro.xci</path>
-		<name>Astral Chain</name>
-		<desc>Master multiple combat styles in this synergetic action game!Humanity’s last chance against an interdimensional invasion is a special living weapon called the Legion. As a rookie officer in the elite police task force Neuron, you and your Legion will work together to solve cases and save humankind.The ASTRAL CHAIN game gives you full control over two characters at once for thrilling Synergetic Action, courtesy of PlatinumGames. Alternate between several Legion types and skills to save the world your way.</desc>
-		<releasedate>20190830T000000</releasedate>
-		<developer>PlatinumGames Inc</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Baten_Kaitos_I_II_Remaster.xci</path>
 		<name>Baten Kaitos I &amp; II HD Remaster</name>
 		<desc>Two JRPG masterpieces return. Baten Kaitos: Eternal Wings and the Lost Ocean and Baten Kaitos Origins are back with improved graphics and new features to aid game progression, making them even easier to play!
@@ -44,14 +24,6 @@ Baten Kaitos Origins is available with subtitles only in English.</desc>
 		<publisher>Bandai Namco</publisher>
 		<genre>Role playing games</genre>
 		<players>1</players>
-	</game>
-	<game>
-		<path>./Mario_vs_Donkey_Kong.USA.nsp</path>
-		<name>Mario vs Donkey Kong</name>
-		<desc>Solve all kinds of puzzles and test your platforming smarts as you try to recover the stolen Mini-Marios in Mario vs. Donkey Kong on Nintendo Switch.</desc>
-		<releasedate>20240216T000000</releasedate>
-		<publisher>Nintendo</publisher>
-		<players>1-2</players>
 	</game>
 	<game>
 		<path>./Octopath_Traveller.Euro.xci</path>
@@ -83,6 +55,34 @@ It all started when Kamek and Baby Bowser set out to steal a gem-set stone. Lege
 		<developer>Good-Feel</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Advance_Wars_1+2_Reboot_Camp.USA.nsp</path>
+		<name>Advance Wars 1+2: Re-Boot Camp</name>
+		<desc>Each CO affects your units in different ways, and they each possess a unique ability that can turn the tide of battle. Do you like to go toe-to-toe, or engage from a distance? Choose the CO that best complements your playstyle!</desc>
+		<releasedate>20230421T000000</releasedate>
+		<developer>Wayforward</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Astral_Chain.Euro.xci</path>
+		<name>Astral Chain</name>
+		<desc>Master multiple combat styles in this synergetic action game!Humanity’s last chance against an interdimensional invasion is a special living weapon called the Legion. As a rookie officer in the elite police task force Neuron, you and your Legion will work together to solve cases and save humankind.The ASTRAL CHAIN game gives you full control over two characters at once for thrilling Synergetic Action, courtesy of PlatinumGames. Alternate between several Legion types and skills to save the world your way.</desc>
+		<releasedate>20190830T000000</releasedate>
+		<developer>PlatinumGames Inc</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Mario_vs_Donkey_Kong.USA.nsp</path>
+		<name>Mario vs Donkey Kong</name>
+		<desc>Solve all kinds of puzzles and test your platforming smarts as you try to recover the stolen Mini-Marios in Mario vs. Donkey Kong on Nintendo Switch.</desc>
+		<releasedate>20240216T000000</releasedate>
+		<publisher>Nintendo</publisher>
 		<players>1-2</players>
 	</game>
 </gameList>

@@ -35,18 +35,6 @@ Players can choose between a basic Blade, basic Claws and a basic Orbitar weapon
 		<players>1-6</players>
 	</game>
 	<game>
-		<path>./Star Fox 64 3D (Europe).3ds</path>
-		<name>Star Fox 64 3D</name>
-		<desc>The Star Fox team triumphantly returns to one of its greatest missions with this remake of Star Fox 64 in full 3D, featuring a complete graphical update.
-
-The entire Star Fox universe spreads out realistically into the depths of the Nintendo 3DS screen while the 3D visuals give the player a clearer grasp of distance and position. This makes the game more approachable and intuitive, thereby allowing players to focus on the action.</desc>
-		<releasedate>20110911T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./Professor Layton vs Phoenix Wright - Ace Attorney (Europe).3ds</path>
 		<name>Professor Layton vs. Phoenix Wright - Ace Attorney</name>
 		<desc>Ace Attorney and Ace Investigator Join Forces! 
@@ -59,5 +47,17 @@ Follow Professor Layton and Phoenix Wright as they are transported from London t
 		<publisher>Level-5</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./Star Fox 64 3D (Europe).3ds</path>
+		<name>Star Fox 64 3D</name>
+		<desc>The Star Fox team triumphantly returns to one of its greatest missions with this remake of Star Fox 64 in full 3D, featuring a complete graphical update.
+
+The entire Star Fox universe spreads out realistically into the depths of the Nintendo 3DS screen while the 3D visuals give the player a clearer grasp of distance and position. This makes the game more approachable and intuitive, thereby allowing players to focus on the action.</desc>
+		<releasedate>20110911T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-4</players>
 	</game>
 </gameList>

@@ -275,18 +275,6 @@ Tales of Destiny II (Tales of Eternia in Japan) is an action RPG with a somewhat
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Tomba! (USA).chd</path>
-		<name>Tomba!</name>
-		<desc>Aside from sporting a wacky pink hairdo, Tomba! offers a long and brain twisting experience that mixes the traditional 2D side scrolling action/platformer with the elements of a role-playing game. The game starts out simple enough with the evil Koma Pigs stealing Tomba's bracelet, which was given to him by his grandfather. You assume the role of Tomba and begin your adventure. Little do you know that the quest for your bracelet will turn into so much more.
-
-Because of its role-playing elements, in Tomba!, your character will gain experience points, develop new skills and learn new things. He has seven abilities that can be learned throughout the duration of the game. Once all three experience meters reach level ten (in order to do this, Tomba must do certain things), he will unlock and learn an ability.</desc>
-		<releasedate>19980630T000000</releasedate>
-		<developer>Whoopee Camp</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Tomba! 2 - The Evil Swine Return (USA).chd</path>
 		<name>Tomba! 2 : The Evil Swine Return</name>
 		<desc>Explore an all new 3D world. Use your trusty fire hammer, ice boomerang or or blackjack to turn the evil pigs into bacon. Throw on super-duds like a flying squirrel suit or high speed turbo pants. There's no limit to the stuff you can do.</desc>
@@ -333,5 +321,17 @@ Soul Blade's sequel is SoulCalibur, both in the arcades and for the Sega Dreamca
 		<publisher>Sony Computer Entertainment</publisher>
 		<genre>Fight</genre>
 		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Tomba! (USA).chd</path>
+		<name>Tomba!</name>
+		<desc>Aside from sporting a wacky pink hairdo, Tomba! offers a long and brain twisting experience that mixes the traditional 2D side scrolling action/platformer with the elements of a role-playing game. The game starts out simple enough with the evil Koma Pigs stealing Tomba's bracelet, which was given to him by his grandfather. You assume the role of Tomba and begin your adventure. Little do you know that the quest for your bracelet will turn into so much more.
+
+Because of its role-playing elements, in Tomba!, your character will gain experience points, develop new skills and learn new things. He has seven abilities that can be learned throughout the duration of the game. Once all three experience meters reach level ten (in order to do this, Tomba must do certain things), he will unlock and learn an ability.</desc>
+		<releasedate>19980630T000000</releasedate>
+		<developer>Whoopee Camp</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
 	</game>
 </gameList>
