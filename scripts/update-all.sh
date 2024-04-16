@@ -11,5 +11,13 @@ git checkout main
 /home/deck/Applications/xemu/install-xemu.sh
 /home/deck/Applications/xenia/install-xenia.sh
 git pull && git submodule update --recursive --remote
-sudo flatpak update -y
+if flatpak --system list | grep -q MAME; then
+  sudo flatpak -y remove org.mamedev.MAME && flatpak -y --user install org.mamedev.MAME
+fi
+if flatpak --system list | grep -q Ryujinx; then
+  sudo flatpak -y remove org.ryujinx.Ryujinx && flatpak -y --user install org.ryujinx.Ryujinx
+fi
+if flatpak --system list | grep -q Lime3DS; then
+  sudo flatpak -y remove io.github.lime3ds.Lime3DS && flatpak -y --user install io.github.lime3ds.Lime3DS
+fi
 flatpak update -y
