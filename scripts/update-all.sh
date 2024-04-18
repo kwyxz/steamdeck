@@ -20,4 +20,4 @@ fi
 if flatpak --system list | grep -q Lime3DS; then
   sudo flatpak -y remove io.github.lime3ds.Lime3DS && flatpak -y --user install io.github.lime3ds.Lime3DS
 fi
-flatpak update -y
+flatpak update -y --user
