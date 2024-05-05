@@ -31,8 +31,11 @@ def find_missing(root,mediapath):
             rom = rom.stem
         games[rom] = {}
         for file in os.scandir(mediapath):
-            fold = file.name
-            games[rom][fold] = False
+            if os.path.isdir(file):
+                fold = file.name
+                games[rom][fold] = False
+            else:
+                break
             if fold == 'videos':
                 media_format = ['mp4','flv','mkv']
             else:
