@@ -910,80 +910,6 @@ The objective is to solve two cases; the murder of a schoolgirl investigating he
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Fruits Mahjong 1 - Disk 1 - Mahjong Game Hontai (Japan) (Unl).zip</path>
-		<name>Fruits Mahjong 1 - Disk 1 - Mahjong Game Hontai</name>
-		<desc>Mahjong game for adults.</desc>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Mimi-Pro</developer>
-		<publisher>Hacker International</publisher>
-		<genre>Mahjong</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Fruits Mahjong 1 - Disk 2 - Dai H Taikai (Japan) (Unl).zip</path>
-		<name>Fruits Mahjong 1 - Disk 2 - Dai H Taikai</name>
-		<desc>Mahjong game for adults.</desc>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Mimi-Pro</developer>
-		<publisher>Hacker International</publisher>
-		<genre>Mahjong</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Fruits Mahjong 2 - Disk 1 - Tokimeki Gals (Japan) (Unl).zip</path>
-		<name>Fruits Mahjong 2 - Disk 1 - Tokimeki Gals</name>
-		<desc>Mahjong game for adults.</desc>
-		<developer>Mimi-Pro</developer>
-		<publisher>Hacker International</publisher>
-		<genre>Mahjong</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Fruits Mahjong 2 - Disk 2 - Yonin to Dai H Taikai (Japan) (Unl).zip</path>
-		<name>Fruits Mahjong 2 - Disk 2 - Yonin To Dai H Taikai</name>
-		<desc>Mahjong game for adults.</desc>
-		<developer>Mimi-Pro</developer>
-		<publisher>Hacker International</publisher>
-		<genre>Mahjong</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Fruits Mahjong 3 - Disk 1 - Yonin no Tenshi Tachi (Japan) (Unl).zip</path>
-		<name>Fruits Mahjong 3 - Disk 1 - Yonin No Tenshi Tachi</name>
-		<desc>Mahjong game for adults.</desc>
-		<developer>Mimi-Pro</developer>
-		<publisher>Hacker International</publisher>
-		<genre>Mahjong</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Fruits Mahjong 3 - Disk 2 - Tottemo H na Gogo (Japan) (Unl).zip</path>
-		<name>Fruits Mahjong 3 - Disk 2 - Tottemo H Na Gogo</name>
-		<desc>Mahjong game for adults.</desc>
-		<developer>Mimi-Pro</developer>
-		<publisher>Hacker International</publisher>
-		<genre>Mahjong</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Fruits Mahjong 4 - Disk 1 - Bishoujo Connection (Japan) (Unl).zip</path>
-		<name>Fruits Mahjong 4 - Disk 1 - Bishoujo Connection</name>
-		<desc>Mahjong game for adults.</desc>
-		<developer>Mimi-Pro</developer>
-		<publisher>Hacker International</publisher>
-		<genre>Mahjong</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Fruits Mahjong 4 - Disk 2 - Daitan H na Hirusagari (Japan) (Unl).zip</path>
-		<name>Fruits Mahjong 4 - Disk 2 - Daitan H Na Hirusagari</name>
-		<desc>Mahjong game for adults.</desc>
-		<developer>Mimi-Pro</developer>
-		<publisher>Hacker International</publisher>
-		<genre>Mahjong</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Fuuun Shourin Ken (Japan).zip</path>
 		<name>Fuuun Shourin Ken</name>
 		<desc>In Fuuun Shourin Ken, you control a rising martial artist who strives to defeat other great fighters. To do so, you must utilize a wide array of attacks to defeat your opponent before they knock you out first. You will compete in six different scenes against 13 different opponents. The game follows in the vein of Yie Ar Kung-Fu, and predates the original Street Fighter by only a couple of months. It features similar concepts such as a distinction between punch and kick attacks, relative directions, and a health bar for each fighter, depicted as a series of paper fans.</desc>
@@ -1352,16 +1278,6 @@ Ishido comes with 6 differently themed stone sets, 5 different game boards, and 
 		<developer>Thinking Rabbit</developer>
 		<publisher>Disk Original Group (DOG)</publisher>
 		<genre>Action</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Jingorou (Japan) (Unl).zip</path>
-		<name>Jingorou</name>
-		<desc>Logic game entirely in Japanese.</desc>
-		<releasedate>19880101T000000</releasedate>
-		<developer>I2 (Aitsu)</developer>
-		<publisher>I2 (Aitsu)</publisher>
-		<genre>Various</genre>
 		<players>1</players>
 	</game>
 	<game>

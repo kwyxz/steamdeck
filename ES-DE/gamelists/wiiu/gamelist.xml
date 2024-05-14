@@ -10,4 +10,15 @@
 		<genre>Adventure</genre>
 		<players>1-32</players>
 	</game>
+	<game>
+		<path>./Star Fox Zero (US) (v16).wua</path>
+		<name>Star Fox Zero</name>
+		<desc>Fox McCloud father and two Wingman were send five years ago to investigate the activities of the mad scientist Andros on the backwater planet Venom. Not knowing that one of his wingman Pigma Dengar was working for Andros, he was lured into a trap and never heard from again but able to assist his other wingman Peppy Hare to escape. He reported back that Andros had gather an army and was determined to conquer the Lylat star system. Now five years later the opposing sides are fighting a full-scale war over the system. Fox McCloud brought his father squadron out of retirement and assembled a new team including Falco Lombardi, Slippy Toad and his fathers old wingman Peppy Hare.</desc>
+		<rating>0.7</rating>
+		<releasedate>20160422T000000</releasedate>
+		<developer>PlatinumGames</developer>
+		<publisher>Nintendo of America</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<players>1-2</players>
+	</game>
 </gameList>

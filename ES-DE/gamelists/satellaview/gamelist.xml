@@ -36,276 +36,6 @@ Among many things, the game is recognized for its score, which was composed by Y
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Bokujou Monogatari - Dai-2-wa (Japan) (SoundLink).zip</path>
-		<name>Bokujou Monogatari</name>
-		<desc>BS Bokujou Monogatari is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 2 runs between September 2, 1996 and November 30, 1996. The game is a life-simulation game and it comes as a pseudo-sequel to the earlier-broadcast (July 1996)/retail release Bokujou Monogatari commonly known internationally as "Harvest Moon"; this has given the series the fan-nickname "BS Harvest Moon" as a result. Together with the game (typically immediately before and after), 10-minute broadcasts of a related nature were released entitled BS Bokujou Monogatari Torisetsu (a digital instruction manual) and Bokujou Monogatari no Kekka (a score/results program).</desc>
-		<releasedate>19960902T000000</releasedate>
-		<developer>St.GIGA</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Simulation</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Bokujou Monogatari - Dai-4-wa (Japan) (SoundLink).zip</path>
-		<name>Bokujou Monogatari</name>
-		<desc>BS Bokujou Monogatari is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 2 runs between September 2, 1996 and November 30, 1996. The game is a life-simulation game and it comes as a pseudo-sequel to the earlier-broadcast (July 1996)/retail release Bokujou Monogatari commonly known internationally as "Harvest Moon"; this has given the series the fan-nickname "BS Harvest Moon" as a result. Together with the game (typically immediately before and after), 10-minute broadcasts of a related nature were released entitled BS Bokujou Monogatari Torisetsu (a digital instruction manual) and Bokujou Monogatari no Kekka (a score/results program).</desc>
-		<releasedate>19960902T000000</releasedate>
-		<developer>St.GIGA</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Simulation</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Dragon Quest I (Japan) (SoundLink).zip</path>
-		<name>BS Dragon Quest</name>
-		<desc>BS Dragon Quest is essentially the same as Dragon Quest I from the Dragon Quest I+II Reprise with several Satellaview specific peculiarities. For instance, quests are time-limited, unlike the original. The quests mostly originate from of Dragon Quest I, with a few originals. Fans of the Dragon Quest/Dragon Warrior series will certainly appreciate experiencing the variation on the original, although it's generally considered inferior to the Reprise. The game consisted of four one-hour scenarios which players would download on a weekly schedule. Players are tasked with leveling their character, collecting medals and completing scenario-specific conditions with special events designed to occur under specific conditions in real-time.</desc>
-		<releasedate>19960204T000000</releasedate>
-		<developer>Chunsoft</developer>
-		<publisher>Enix</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS F-Zero Grand Prix - Dai-1-shuu - Knight League (Japan) (11-3) (SoundLink).zip</path>
-		<name>Bs F-zero Grand Prix</name>
-		<desc>BS F-Zero Grand Prix was a four-part Soundlink game to the original F-Zero. It was launched only in Japan for the Satellaview attachment for the Super Famicom. BS F-Zero Grand Prix contained four different playable vehicles and four new tracks near the end of each broadcast, as well as the 15 tracks from the original game. Commentary was provided by Bucky Koba, Tsutomu Tareki, and Seiichi Hirai. A follow-up to the game was later distributed as BS F-Zero Grand Prix 2.</desc>
-		<releasedate>19961229T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS F-Zero Grand Prix - Dai-2-shuu - Queen League (Japan) (SoundLink).zip</path>
-		<name>Bs F-zero Grand Prix</name>
-		<desc>BS F-Zero Grand Prix was a four-part Soundlink game to the original F-Zero. It was launched only in Japan for the Satellaview attachment for the Super Famicom. BS F-Zero Grand Prix contained four different playable vehicles and four new tracks near the end of each broadcast, as well as the 15 tracks from the original game. Commentary was provided by Bucky Koba, Tsutomu Tareki, and Seiichi Hirai. A follow-up to the game was later distributed as BS F-Zero Grand Prix 2.</desc>
-		<releasedate>19961229T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (SoundLink).zip</path>
-		<name>Bs F-zero Grand Prix</name>
-		<desc>BS F-Zero Grand Prix was a four-part Soundlink game to the original F-Zero. It was launched only in Japan for the Satellaview attachment for the Super Famicom. BS F-Zero Grand Prix contained four different playable vehicles and four new tracks near the end of each broadcast, as well as the 15 tracks from the original game. Commentary was provided by Bucky Koba, Tsutomu Tareki, and Seiichi Hirai. A follow-up to the game was later distributed as BS F-Zero Grand Prix 2.</desc>
-		<releasedate>19961229T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS F-Zero Grand Prix - Dai-4-shuu - Ace League (Japan) (SoundLink).zip</path>
-		<name>Bs F-zero Grand Prix</name>
-		<desc>BS F-Zero Grand Prix was a four-part Soundlink game to the original F-Zero. It was launched only in Japan for the Satellaview attachment for the Super Famicom. BS F-Zero Grand Prix contained four different playable vehicles and four new tracks near the end of each broadcast, as well as the 15 tracks from the original game. Commentary was provided by Bucky Koba, Tsutomu Tareki, and Seiichi Hirai. A follow-up to the game was later distributed as BS F-Zero Grand Prix 2.</desc>
-		<releasedate>19961229T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS F-Zero Grand Prix 2 - Practice (Japan) (12-6).zip</path>
-		<name>BS F-Zero Grand Prix 2</name>
-		<desc>BS F-Zero Grand Prix 2 is the direct sequel to the original F-Zero game released for the Super Famicom via the Satellaview. Two versions were released - a non-SoundLink game and a SoundLink game. The original non-SoundLink version was released as BSF-Zero 2 Practice on June 1, 1997 (although the title screen remained the same). It contained the four courses first seen throughout BS F-Zero Grand Prix (a Satellaview remake of the original), along with a new course called Mute City IV. Little is known about the later SoundLink version outside of surviving videos, but it was distributed in two halves in August 1997 and had a similar announcer and redone soundtrack as the previous Satellaview entry. At least the first week rearranged a few courses, and replaced two with new locations called "Forest I" and "Forest II". Presuming no areas were repeated, this likely means the SoundLink version had twice as many courses total. In addition, it can be seen that the player cannot choose between Grand Prix and Practice modes in the SoundLink version; as it was a live broadcast, the player is forced to play each course in a timed Practice mode, and then the Grand Prix race.</desc>
-		<releasedate>19970601T000000</releasedate>
-		<developer>St.GIGA</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (9-29) (SoundLink) [T-En by Darrman v1.01] [req BS-X bios].zip</path>
-		<name>Bs Fire Emblem - Akaneia Senki</name>
-		<desc>BS Fire Emblem: Akaneia Senki is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 3 distinct runs between September 28, 1997 and May 1, 1999. BS Fire Emblem's four chapters were each set in the same universe as Fire Emblem: Ankoku Ryu to Hikari no Tsurugi and Monshou no Nazo. Each segment was set prior to the events of Chapter 1 of both games.</desc>
-		<releasedate>19970928T000000</releasedate>
-		<developer>Intelligent Systems</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (SoundLink) [T-En by Darrman v1.01] [req BS-X bios].zip</path>
-		<name>Bs Fire Emblem - Akaneia Senki</name>
-		<desc>BS Fire Emblem: Akaneia Senki is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 3 distinct runs between September 28, 1997 and May 1, 1999. BS Fire Emblem's four chapters were each set in the same universe as Fire Emblem: Ankoku Ryu to Hikari no Tsurugi and Monshou no Nazo. Each segment was set prior to the events of Chapter 1 of both games.</desc>
-		<releasedate>19970928T000000</releasedate>
-		<developer>Intelligent Systems</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (SoundLink) [T-En by Darrman v1.01] [req BS-X bios].zip</path>
-		<name>Bs Fire Emblem - Akaneia Senki</name>
-		<desc>BS Fire Emblem: Akaneia Senki is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 3 distinct runs between September 28, 1997 and May 1, 1999. BS Fire Emblem's four chapters were each set in the same universe as Fire Emblem: Ankoku Ryu to Hikari no Tsurugi and Monshou no Nazo. Each segment was set prior to the events of Chapter 1 of both games.</desc>
-		<releasedate>19970928T000000</releasedate>
-		<developer>Intelligent Systems</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (4-28) (SoundLink) [T-En by Darrman v1.01] [req BS-X bios].zip</path>
-		<name>Bs Fire Emblem - Akaneia Senki</name>
-		<desc>BS Fire Emblem: Akaneia Senki is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 3 distinct runs between September 28, 1997 and May 1, 1999. BS Fire Emblem's four chapters were each set in the same universe as Fire Emblem: Ankoku Ryu to Hikari no Tsurugi and Monshou no Nazo. Each segment was set prior to the events of Chapter 1 of both games.</desc>
-		<releasedate>19970928T000000</releasedate>
-		<developer>Intelligent Systems</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Fuurai no Shiren - Surara o Sukue - Dai-2-shuu (Japan) (SoundLink).zip</path>
-		<name>Bs Fuurai No Shiren - Surara Wo Sukue</name>
-		<desc>BS Furai no Shiren: Surara wo Sukue is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 3 runs between April 28, 1996 and August 2, 1997. The gameplay is substantially similar to the earlier roguelike, Fushigi no Dungeon 2: Furai no Shiren, a game released for the SFC on December 1, 1995 and subsequently localized for English markets in March 2008 as Mystery Dungeon: Shiren the Wanderer for the Nintendo DS. It also bears similarities to other Mystery Dungeon games including Dragon Quest Yangus, The Nightmare of Druaga, and Pokemon Mystery Dungeon. Like other Mystery Dungeon games, it is set in a fantasy land based on feudal Japan, and it falls into the roguelike genre. The titular hero of the game, Shiren the Wanderer, moves in a turn-based fashion through a series of maps filled with monsters, traps, and items. The maps, referred to as dungeons, take a variety of forms including traditional dungeons, caves, forests, etc. When a player is slain, he begins at the start again with stats at the base level, however he can regain items that had previously been stored a warehouse.</desc>
-		<releasedate>19960428T000000</releasedate>
-		<developer>Enix</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Fuurai no Shiren - Surara o Sukue - Dai-4-shuu (Japan) (SoundLink).zip</path>
-		<name>Bs Fuurai No Shiren - Surara Wo Sukue</name>
-		<desc>BS Furai no Shiren: Surara wo Sukue is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 3 runs between April 28, 1996 and August 2, 1997. The gameplay is substantially similar to the earlier roguelike, Fushigi no Dungeon 2: Furai no Shiren, a game released for the SFC on December 1, 1995 and subsequently localized for English markets in March 2008 as Mystery Dungeon: Shiren the Wanderer for the Nintendo DS. It also bears similarities to other Mystery Dungeon games including Dragon Quest Yangus, The Nightmare of Druaga, and Pokemon Mystery Dungeon. Like other Mystery Dungeon games, it is set in a fantasy land based on feudal Japan, and it falls into the roguelike genre. The titular hero of the game, Shiren the Wanderer, moves in a turn-based fashion through a series of maps filled with monsters, traps, and items. The maps, referred to as dungeons, take a variety of forms including traditional dungeons, caves, forests, etc. When a player is slain, he begins at the start again with stats at the base level, however he can regain items that had previously been stored a warehouse.</desc>
-		<releasedate>19960428T000000</releasedate>
-		<developer>Enix</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Ihatovo Monogatari - Dai-2-wa (Japan) (SoundLink).zip</path>
-		<name>Ihatovo Monogatari</name>
-		<desc>A Satellaview port of the Super Famicom game Ihatovo Monogatari, not to be confused with its sequel BS Ihatovo Monogatari which was broadcast on the Satellaview earlier. 
-Ihatovo is a magical land created by the Japanese author Kenji Miyazawa. In the game, you are a stranger who arrives at Ihatovo and has to find seven missing notebooks by Miyazawa, to complete his stories, such as for example The Fire Stone, and others.
-This is an adventure game in which you can freely navigate your character through the top-down world, in a console RPG-like fashion. There are no battles in the game and also no puzzles, although at some points you'll have to collect and to use items. The game mainly progresses thanks to conversations with various characters you encounter in Ihatovo.</desc>
-		<developer>HectorSoft</developer>
-		<publisher>HectorSoft</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Marvelous - Camp Arnold Course - Dai-1-shuu (Japan) (SoundLink) [b].zip</path>
-		<name>Bs Marvelous - Camp Arnold Course</name>
-		<desc>BS Marvelous: Camp Arnold is a Downloadable 4-part Soundlink game for the Satellaview that ran between November 3, 1996 and November 29, 1996. The game was broadcast as a rerun in January, 1997. It serves as a sequel to the earlier-broadcast BS Marvelous: Time Athletics and a direct prequel to Marvelous: Mouhitotsu no Takara-jima. Aside from the other games in the Marvelous series, the gameplay of BS Marvelous: Camp Arnold is most comparable to that of Zelda no Densetsu: Kamigami no Triforce. Indeed, the game's engine and gameplay elements were taken directly from Kamigami no Triforce. Unlike Kamigami no Triforce, however, the themes embodied in BS Marvelous: Camp Arnold are much more down-to-earth. The game plays like a Boy Scouts-esque survival game with environmental interactions. From an overhead perspective, the player controls characters as they walk across the land. Whenever the player encounters an important object or NPC, a command window pops open to allow the player to select between several options relating to the object or NPC. These include such things as picking up objects, talking to NPCs, or reading signs, etc.</desc>
-		<releasedate>19961103T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Marvelous - Camp Arnold Course - Dai-2-shuu (Japan) (SoundLink) [b].zip</path>
-		<name>Bs Marvelous - Camp Arnold Course</name>
-		<desc>BS Marvelous: Camp Arnold is a Downloadable 4-part Soundlink game for the Satellaview that ran between November 3, 1996 and November 29, 1996. The game was broadcast as a rerun in January, 1997. It serves as a sequel to the earlier-broadcast BS Marvelous: Time Athletics and a direct prequel to Marvelous: Mouhitotsu no Takara-jima. Aside from the other games in the Marvelous series, the gameplay of BS Marvelous: Camp Arnold is most comparable to that of Zelda no Densetsu: Kamigami no Triforce. Indeed, the game's engine and gameplay elements were taken directly from Kamigami no Triforce. Unlike Kamigami no Triforce, however, the themes embodied in BS Marvelous: Camp Arnold are much more down-to-earth. The game plays like a Boy Scouts-esque survival game with environmental interactions. From an overhead perspective, the player controls characters as they walk across the land. Whenever the player encounters an important object or NPC, a command window pops open to allow the player to select between several options relating to the object or NPC. These include such things as picking up objects, talking to NPCs, or reading signs, etc.</desc>
-		<releasedate>19961103T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Marvelous - Camp Arnold Course - Dai-3-shuu (Japan) (SoundLink) [b].zip</path>
-		<name>Bs Marvelous - Camp Arnold Course</name>
-		<desc>BS Marvelous: Camp Arnold is a Downloadable 4-part Soundlink game for the Satellaview that ran between November 3, 1996 and November 29, 1996. The game was broadcast as a rerun in January, 1997. It serves as a sequel to the earlier-broadcast BS Marvelous: Time Athletics and a direct prequel to Marvelous: Mouhitotsu no Takara-jima. Aside from the other games in the Marvelous series, the gameplay of BS Marvelous: Camp Arnold is most comparable to that of Zelda no Densetsu: Kamigami no Triforce. Indeed, the game's engine and gameplay elements were taken directly from Kamigami no Triforce. Unlike Kamigami no Triforce, however, the themes embodied in BS Marvelous: Camp Arnold are much more down-to-earth. The game plays like a Boy Scouts-esque survival game with environmental interactions. From an overhead perspective, the player controls characters as they walk across the land. Whenever the player encounters an important object or NPC, a command window pops open to allow the player to select between several options relating to the object or NPC. These include such things as picking up objects, talking to NPCs, or reading signs, etc.</desc>
-		<releasedate>19961103T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Marvelous - Camp Arnold Course - Dai-4-shuu (Japan) (SoundLink) [b].zip</path>
-		<name>Bs Marvelous - Camp Arnold Course</name>
-		<desc>BS Marvelous: Camp Arnold is a Downloadable 4-part Soundlink game for the Satellaview that ran between November 3, 1996 and November 29, 1996. The game was broadcast as a rerun in January, 1997. It serves as a sequel to the earlier-broadcast BS Marvelous: Time Athletics and a direct prequel to Marvelous: Mouhitotsu no Takara-jima. Aside from the other games in the Marvelous series, the gameplay of BS Marvelous: Camp Arnold is most comparable to that of Zelda no Densetsu: Kamigami no Triforce. Indeed, the game's engine and gameplay elements were taken directly from Kamigami no Triforce. Unlike Kamigami no Triforce, however, the themes embodied in BS Marvelous: Camp Arnold are much more down-to-earth. The game plays like a Boy Scouts-esque survival game with environmental interactions. From an overhead perspective, the player controls characters as they walk across the land. Whenever the player encounters an important object or NPC, a command window pops open to allow the player to select between several options relating to the object or NPC. These include such things as picking up objects, talking to NPCs, or reading signs, etc.</desc>
-		<releasedate>19961103T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Marvelous - Time Athletic Course - Dai-1-shuu (Japan) (SoundLink) [b].zip</path>
-		<name>Bs Marvelous - Time Athletic Course</name>
-		<desc>BS Marvelous: Time Athletics is a Downloadable 4-part Soundlink game for the Satellaview that ran between January 1, 1996 and January 31, 1996. The game was broadcast in as a rerun in April, 1996. A sequel to BS Marvelous: Time Athletics entitled BS Marvelous: Camp Arnold was released in November, 1996 as a direct prequel to Marvelous: Mohitotsu no Takarajima which was not broadcast via Satellaview but instead released in hard copy as a SFC cartridge. From an overhead perspective, the player controls characters as they walk across the land. Whenever the player encounters an important object or NPC, a command window pops open to allow the player to select between several options relating to the object or NPC. These include such things as picking up objects, talking to NPCs, or reading signs, etc.</desc>
-		<releasedate>19960107T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Marvelous - Time Athletic Course - Dai-2-shuu (Japan) (SoundLink) [b].zip</path>
-		<name>Bs Marvelous - Time Athletic Course</name>
-		<desc>BS Marvelous: Time Athletics is a Downloadable 4-part Soundlink game for the Satellaview that ran between January 1, 1996 and January 31, 1996. The game was broadcast in as a rerun in April, 1996. A sequel to BS Marvelous: Time Athletics entitled BS Marvelous: Camp Arnold was released in November, 1996 as a direct prequel to Marvelous: Mohitotsu no Takarajima which was not broadcast via Satellaview but instead released in hard copy as a SFC cartridge. From an overhead perspective, the player controls characters as they walk across the land. Whenever the player encounters an important object or NPC, a command window pops open to allow the player to select between several options relating to the object or NPC. These include such things as picking up objects, talking to NPCs, or reading signs, etc.</desc>
-		<releasedate>19960107T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Marvelous - Time Athletic Course - Dai-3-shuu (Japan) (SoundLink) [b].zip</path>
-		<name>Bs Marvelous - Time Athletic Course</name>
-		<desc>BS Marvelous: Time Athletics is a Downloadable 4-part Soundlink game for the Satellaview that ran between January 1, 1996 and January 31, 1996. The game was broadcast in as a rerun in April, 1996. A sequel to BS Marvelous: Time Athletics entitled BS Marvelous: Camp Arnold was released in November, 1996 as a direct prequel to Marvelous: Mohitotsu no Takarajima which was not broadcast via Satellaview but instead released in hard copy as a SFC cartridge. From an overhead perspective, the player controls characters as they walk across the land. Whenever the player encounters an important object or NPC, a command window pops open to allow the player to select between several options relating to the object or NPC. These include such things as picking up objects, talking to NPCs, or reading signs, etc.</desc>
-		<releasedate>19960107T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Marvelous - Time Athletic Course - Dai-4-shuu (Japan) (SoundLink) [b].zip</path>
-		<name>Bs Marvelous - Time Athletic Course</name>
-		<desc>BS Marvelous: Time Athletics is a Downloadable 4-part Soundlink game for the Satellaview that ran between January 1, 1996 and January 31, 1996. The game was broadcast in as a rerun in April, 1996. A sequel to BS Marvelous: Time Athletics entitled BS Marvelous: Camp Arnold was released in November, 1996 as a direct prequel to Marvelous: Mohitotsu no Takarajima which was not broadcast via Satellaview but instead released in hard copy as a SFC cartridge. From an overhead perspective, the player controls characters as they walk across the land. Whenever the player encounters an important object or NPC, a command window pops open to allow the player to select between several options relating to the object or NPC. These include such things as picking up objects, talking to NPCs, or reading signs, etc.</desc>
-		<releasedate>19960107T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Nichibutsu Mahjong - Mahjong Taikai (Japan) (10-27).zip</path>
-		<name>Bs Nichibutsu Mahjong</name>
-		<desc>BS Nichibutsu Mahjong is a Downloadable 2-part Soundlink game for the Satellaview that was broadcast between January 26, 1997 and April 12, 1997.</desc>
-		<releasedate>19970126T000000</releasedate>
-		<developer>St.GIGA</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Mahjong</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./BS Nichibutsu Mahjong - Renshuu Mahjong - Ichimantou (Japan) (SoundLink).zip</path>
-		<name>Bs Nichibutsu Mahjong</name>
-		<desc>BS Nichibutsu Mahjong is a Downloadable 2-part Soundlink game for the Satellaview that was broadcast between January 26, 1997 and April 12, 1997.</desc>
-		<releasedate>19970126T000000</releasedate>
-		<developer>St.GIGA</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Mahjong</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./BS Nichibutsu Mahjong - Renshuu Mahjong - Nimantou (Japan) (SoundLink).zip</path>
-		<name>Bs Nichibutsu Mahjong</name>
-		<desc>BS Nichibutsu Mahjong is a Downloadable 2-part Soundlink game for the Satellaview that was broadcast between January 26, 1997 and April 12, 1997.</desc>
-		<releasedate>19970126T000000</releasedate>
-		<developer>St.GIGA</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Mahjong</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./BS Parlor! Parlor! - Dai-2-shuu (Japan) (5-13) (SoundLink).zip</path>
-		<name>Bs Parlor! Parlor!</name>
-		<desc>BS Parlor! Parlor! is a Downloadable 2-part Soundlink game for the Satellaview that was broadcast between March 1, 1998 and March 14, 1998. At various times throughout 1995, the game was accompanied by full-day broadcasts of a strategy magazine entitled BS Parlor! Parlor! Kouryaku Magazine.</desc>
-		<releasedate>19980301T000000</releasedate>
-		<developer>Telenet</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Casino</genre>
-	</game>
-	<game>
 		<path>./BS Sim City - Scenario 3 (Japan) (SoundLink).zip</path>
 		<name>BS Sim City: Machi Tsukuri Taikai</name>
 		<desc>This is a modified version of SimCity, with the scenario decided by the episode rather than chosen by the player. The game was voiced over by Eisduke Yoda, Madame Marie, Yoshio Kanetake, Masaaki Sekine, and Tsutomu Tareki.
@@ -314,16 +44,6 @@ The gameplay is restricted by about 50 minutes real time, and it is impossible t
 		<releasedate>19960804T000000</releasedate>
 		<developer>St.GIGA</developer>
 		<publisher>Nintendo</publisher>
-	</game>
-	<game>
-		<path>./BS Super Mario Collection - Dai-3-shuu (Japan) (3-17) (SoundLink).zip</path>
-		<name>Bs Super Mario Collection</name>
-		<desc>BS Super Mario Collection is a remix of Super Mario Collection (the Japanese name for Super Mario All-Stars) for the Satellaview, an add-on for the Super Famicom. The game was released in four installments. As the game played, streamed audio would enhance the gameplay experience with special music and voice acting featuring Japanese celebrities. Its "companion title" is BS Super Mario USA. A Fire Flower icon represents Nae's house, which is hosted by a Satellaview Radio Personality Nae Yūki. Here, Mario can choose to activate ghost mode which allows him to become Fire Mario once he exits the level if he is Small or Super Mario. This in turn disables players from participating in rankings. A Treasure Ship icon, which is unlocked when Mario finishes all available levels in the World. Toad's House is now just a screen where the player selects the treasure chest, rather than having Mario actually walk to the chest and open it. There is a timer in the bottom left of the screen that counts down to the end of a World cycle. At the beginning of each world, there is a list of all the levels, and a picture with dialog underneath it.</desc>
-		<releasedate>19971228T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
 	</game>
 	<game>
 		<path>./BS Super Mario USA - Power Challenge - Dai-1-kai (Japan) (SoundLink).zip</path>
@@ -366,55 +86,6 @@ The gameplay is restricted by about 50 minutes real time, and it is impossible t
 		<players>1</players>
 	</game>
 	<game>
-		<path>./BS Tantei Club - Yuki ni Kieta Kako - Chuuhen (Japan) (6-20) (SoundLink).zip</path>
-		<name>Bs Tantei Club - Yuki Ni Kieta Kako</name>
-		<desc>BS Tantei Club: Yuki ni Kieta Kako (also known by the shorthand BS Tan or even B Tan) is a Downloadable 3-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between February 9, 1997 and May 3, 1997. It is a pseudo-sequel to Tantei Club: Kieta Kokeisha and is followed by Tantei Club Part II: Ushiro ni Tatsu Shojo. BS Tantei Club is a detective story. The game is a text-based point-and-click-style adventure game where still images are presented to the player and the player may guide a hand-shaped icon around the screen to select objects in the image to investigate further. A number of icons in a side-bar present the player with options such as taking notes, speaking, or placing telephone calls. Similar gameplay was used in other games from the FDS era including the popular Shadowgate (1989).</desc>
-		<releasedate>19970209T000000</releasedate>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure / Point and Click</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (SoundLink).zip</path>
-		<name>Bs Tantei Club - Yuki Ni Kieta Kako</name>
-		<desc>BS Tantei Club: Yuki ni Kieta Kako (also known by the shorthand BS Tan or even B Tan) is a Downloadable 3-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between February 9, 1997 and May 3, 1997. It is a pseudo-sequel to Tantei Club: Kieta Kokeisha and is followed by Tantei Club Part II: Ushiro ni Tatsu Shojo. BS Tantei Club is a detective story. The game is a text-based point-and-click-style adventure game where still images are presented to the player and the player may guide a hand-shaped icon around the screen to select objects in the image to investigate further. A number of icons in a side-bar present the player with options such as taking notes, speaking, or placing telephone calls. Similar gameplay was used in other games from the FDS era including the popular Shadowgate (1989).</desc>
-		<releasedate>19970209T000000</releasedate>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure / Point and Click</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Tantei Club - Yuki ni Kieta Kako - Zenpen (Japan) (SoundLink).zip</path>
-		<name>Bs Tantei Club - Yuki Ni Kieta Kako</name>
-		<desc>BS Tantei Club: Yuki ni Kieta Kako (also known by the shorthand BS Tan or even B Tan) is a Downloadable 3-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between February 9, 1997 and May 3, 1997. It is a pseudo-sequel to Tantei Club: Kieta Kokeisha and is followed by Tantei Club Part II: Ushiro ni Tatsu Shojo. BS Tantei Club is a detective story. The game is a text-based point-and-click-style adventure game where still images are presented to the player and the player may guide a hand-shaped icon around the screen to select objects in the image to investigate further. A number of icons in a side-bar present the player with options such as taking notes, speaking, or placing telephone calls. Similar gameplay was used in other games from the FDS era including the popular Shadowgate (1989).</desc>
-		<releasedate>19970209T000000</releasedate>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure / Point and Click</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Zelda no Densetsu - Dai-2-wa (Japan) (SoundLink).zip</path>
-		<name>Bs Zelda No Densetsu - Map 2 - Dai-1-wa</name>
-		<desc>BS The Legend of Zelda ( BS Zeruda no Densetsu) was a remake of the NES game The Legend of Zelda, released for the Satellaview attachment for the Super Famicom in Japan.
-The gameplay was identical to its predecessor, but the maximum Rupees was increased to allow you more than a thousand (rather than 255 as in The Legend of Zelda), the overworld was heavily altered, and dungeons were completely different. This game was broadcasted in two versions, Map 1 and Map 2. Map 1 is sometimes referred to as a "Third Quest", in reference to The Legend of Zelda's Second Quest, and Map 2 would therefore be a Fourth Quest.
-The game was divided into four weekly episodes, this is the first episode</desc>
-		<releasedate>19950809T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>St.GIGA</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Zelda no Densetsu - Dai-3-wa (Japan) (SoundLink).zip</path>
-		<name>Bs Zelda No Densetsu</name>
-		<desc>BS Zelda no Densetsu is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 5 distinct runs between August 6, 1995 and January 4, 1997. A program called BS Zelda no Asobikata was also broadcast in the half-hour prior to broadcasts of BS Zelda. This program seems to have been a radio tutorial teaching players how to play BS Zelda. The gameplay draws directly from The Legend of Zelda. The plot of BS Zelda varies considerably from the plot of the original due in great part to the fact that the hero of the game is not Link (the hero of The Legend of Zelda). Instead, BS Zelda is closely associated with the story presented in the BS-X interface cartridge, with the Hero of Light actually representing the BS-X avatar according the the BS Zelda storyline. Another major factor in the plot of BS Zelda is the fact that the story is most closely related to the story given in The Legend of Zelda: A Link to the Past. Both plots take up after the conclusion of Kamigami no Triforce - a fact that for Inishie no Sekiban produces one of the many plot inconsistencies/contradictions for which the series has become noted.</desc>
-		<releasedate>19950806T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./BS Zelda no Densetsu - Inishie no Sekiban - Dai-1-wa (Japan) (SoundLink).zip</path>
 		<name>Bs Zelda No Densetsu - Inishie No Sekiban</name>
 		<desc>BS Zelda no Densetsu: Inishie no Sekiban is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 4 distinct runs between March 30, 1997 and May 30, 1999. The game has in the past been commonly referred to as "BS Zelda no Densetsu: Kodai no Sekiban", however the current fan consensus is that the term, is more appropriately written as "Inishie no Sekiban" due to the in-game SoundLink pronunciation of the game's title as heard on period VHS recordings of live game-play.</desc>
@@ -445,28 +116,6 @@ The game was divided into four weekly episodes, this is the first episode</desc>
 		<releasedate>19970330T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>St.GIGA</publisher>
-	</game>
-	<game>
-		<path>./BS Zelda no Densetsu - Map 2 - Dai-1-wa (Japan) (SoundLink).zip</path>
-		<name>Bs Zelda No Densetsu - Map 2 - Dai-1-wa</name>
-		<desc>BS The Legend of Zelda ( BS Zeruda no Densetsu) was a remake of the NES game The Legend of Zelda, released for the Satellaview attachment for the Super Famicom in Japan.
-The gameplay was identical to its predecessor, but the maximum Rupees was increased to allow you more than a thousand (rather than 255 as in The Legend of Zelda), the overworld was heavily altered, and dungeons were completely different. This game was broadcasted in two versions, Map 1 and Map 2. Map 1 is sometimes referred to as a "Third Quest", in reference to The Legend of Zelda's Second Quest, and Map 2 would therefore be a Fourth Quest.
-The game was divided into four weekly episodes, this is the first episode</desc>
-		<releasedate>19950809T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>St.GIGA</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Zelda no Densetsu - Map 2 - Dai-4-wa (Japan) (SoundLink) [b].zip</path>
-		<name>Bs Zelda No Densetsu</name>
-		<desc>BS Zelda no Densetsu is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 5 distinct runs between August 6, 1995 and January 4, 1997. A program called BS Zelda no Asobikata was also broadcast in the half-hour prior to broadcasts of BS Zelda. This program seems to have been a radio tutorial teaching players how to play BS Zelda. The gameplay draws directly from The Legend of Zelda. The plot of BS Zelda varies considerably from the plot of the original due in great part to the fact that the hero of the game is not Link (the hero of The Legend of Zelda). Instead, BS Zelda is closely associated with the story presented in the BS-X interface cartridge, with the Hero of Light actually representing the BS-X avatar according the the BS Zelda storyline. Another major factor in the plot of BS Zelda is the fact that the story is most closely related to the story given in The Legend of Zelda: A Link to the Past. Both plots take up after the conclusion of Kamigami no Triforce - a fact that for Inishie no Sekiban produces one of the many plot inconsistencies/contradictions for which the series has become noted.</desc>
-		<releasedate>19950806T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
 	</game>
 	<game>
 		<path>./Chou Aniki - Bakuretsu Rantou Hen (Japan).zip</path>
@@ -584,16 +233,6 @@ It received one direct sequel, Dragon Slayer: The Legend of Heroes II, before th
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Dynami Tracer (Japan).zip</path>
-		<name>Dynami Tracer</name>
-		<desc>Dynami Tracer is a mischievous mÃ©lange of RPG exploration and racing. It was released exclusively for Nintendo's Satellaview system, which sent games to the Super Famicom via satellite signals, requiring a special adapter to receive and decode the data. This means that Dynami Tracer was never released in cartridge form, and as such, you can't purchase it anywhere, ever. The RPG aspect primarily involves your character going from star to star, interacting with the flamboyant locals and acquiring information. Every once in a while, you'll somehow get yourself involved in a race</desc>
-		<releasedate>19960127T000000</releasedate>
-		<developer>Square</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Excitebike - Bunbun Mario Battle - Stadium 1 (Japan) (6-30) (SoundLink).zip</path>
 		<name>Excitebike - Bun Bun Mario Battle</name>
 		<desc>BS Excitebike Bun Bun Mario Stadium was the a game released in four downloadable versions on the Satellaview download service. The game is also known as Mario Excitebike. It was released for the Satellaview in 1996 only in Japan, and is the obscure sequel to the NES game Excitebike. Each version added a number of new characters, eventually adding up to six characters in all. The game plays similarly to Excitebike on the NES, although it does have a couple differences. One difference is the fact that the player can pick up coins along the racetrack (which do nothing besides adding to the score). The only other change was an added SUPER mode, which gave the player infinite boost.</desc>
@@ -661,25 +300,6 @@ A fire has broken out in a high-tech chemical factory, where a highly explosive 
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Gambler Jiko Chuushinha 2 - Dorapon Quest (Japan) (12-20).zip</path>
-		<name>Gambler Jiko Chuushinha 2 - Dorapon Quest</name>
-		<desc>A Satellaview version of the Super Famicom game of the same name. A mahjong game based on Katayama Masayuki's manga Gambler Jiko Chuushinha. Like the first Super Famicom game subtitles Super Zugan, which was also based on a manga created by Katayama Masayuki, Dorapon Quest frames its various mahjong games as "battles" in an RPG.</desc>
-		<developer>Bits Laboratory</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Mahjong</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Golf Daisuki! O.B. Club (Japan).zip</path>
-		<name>Golf Daisuki! O.b. Club</name>
-		<desc>Golf Daisuki! O.B. Club is a view-limited Downloadable golfing game for the Satellaview initially running between August 10, 1997 and August 23, 1997. The game was rebroadcast for at least 4 runs ending in March 30, 1998.
-Electronic Gaming Monthly magazine produced a preview of this game. Their preview had an English-language logo even though the game was never released in the USA in any form.</desc>
-		<releasedate>19970810T000000</releasedate>
-		<developer>Nippon Computer Systems Corp.</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports / Golf</genre>
-	</game>
-	<game>
 		<path>./Heisei Gunjin Shougi (Japan).zip</path>
 		<name>Heisei Gunjin Shougi</name>
 		<desc>Heisei Gunjin Shougi is a traditional Japanese game. We start by choosing a place in the city in which the game will take place, then after a short cutscene, we place small characters on the boxes. Then the game begins. The game board consists of the chosen decor which is divided into boxes. We move these "pawns" in turn, respecting the rules for moving the Shougi and when 2 pieces meet, a small scene shows their "fight".
@@ -709,32 +329,6 @@ Electronic Gaming Monthly magazine produced a preview of this game. Their previe
 		<name>Jewel of Live II</name>
 		<desc>Jewel of Live II is the second part of the broadcast of RPG Tsukuru, known in the West as RPG Maker, on the Satellaview. Both a RPG-creation software and a video game, it features a rich story and nice graphics.</desc>
 		<developer>ASCII Entertainment</developer>
-	</game>
-	<game>
-		<path>./Jissen Pachi-Slot Hisshouhou! Twin (Japan).zip</path>
-		<name>Jissen Pachi-slot Hisshouhou! Twin</name>
-		<desc>Jissen Pachi-Slot Hisshouhou! Twin ("Combat Pachi-Slot Winning Strategy! Twin") is a pachi-slots game from Sammy Corporation. It is the first of two "Twin" spin-offs of the long-running Jissen Pachi-Slot Hisshouhou! series, both of which were released in 1997 for the Super Famicom. There was also a Jissen Pachi-Slot Hisshouhou! Twin for Saturn, but it used different machines and might be considered a separate game.
-
-The game features two popular pachi-slots mascots in Japan: the Pink Panther, the popular feline character that originated in the 1960s Peter Sellers Inspector Clouseau movies, and Cranky Condor.</desc>
-		<releasedate>19970315T000000</releasedate>
-		<developer>Sammy Studios</developer>
-		<publisher>Sammy Studios</publisher>
-		<genre>Casino</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Kaizou Choujin Shubibinman Zero (Japan).zip</path>
-		<name>Kaizou Choujin Shubibinman Zero</name>
-		<desc>A sequel to the Shubibinman Turbografx action platformers developed exclusively for the SNES.
-
-A new gang of cyborg-enhanced goons threatens peace in the city, so "Doc" decides to test his newest creations: Raita and Azuki, by sending them to destroy all the baddies and restore peace.
-
-The game plays as an 2D action platformer as previous entries in the series, in which you proceed through each stage pummeling enemies and collecting power-ups to enhance your powers. Now for the first time each character has unique abilities and attacks, furthermore each character has a charging attack that can be used to energize your partner thus encouraging teamplay in the two-player cooperative mode.
-</desc>
-		<releasedate>20170630T000000</releasedate>
-		<developer>Masaya Games</developer>
-		<publisher>Columbus Circle</publisher>
-		<players>1-2</players>
 	</game>
 	<game>
 		<path>./Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan).zip</path>
@@ -959,28 +553,6 @@ Yatterman features a team of three heroes, all called Yatterman, who attempt to 
 The game is similar to First Star's Spy vs. Spy series, in that both teams are attempting to reach the treasure first. They can trip up their opponents via a number of traps, some of which have conditional uses. By burying mines and setting off missiles, the player can whittle down the health of their opponents as well as keep them off their tracks. If the two teams meet, they fight each other in a three-on-three tag team battle with the losing side taking a large hit to their health. The game can be played single-player (as either the Yatterman team or the Doronbo team) or multiplayer.</desc>
 	</game>
 	<game>
-		<path>./Nintama Rantarou 2 (Japan).zip</path>
-		<name>Nintama Rantarou 2</name>
-		<desc>Nintama Rantaro 2 is a Downloadable game for the Satellaview that was broadcast in at least 2 runs between March 29, 1998 and November 28, 1998.</desc>
-		<releasedate>19960329T000000</releasedate>
-		<developer>Culture Brain</developer>
-		<publisher>Culture Brain</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Nintama Rantarou Special (Japan).zip</path>
-		<name>Nintama Rantarou Special</name>
-		<desc>Nintama Rantarou Special ("Ninja Boy Rantarou Special") is an action-platformer game with a few different modes. It is also the fourth Super Famicom game to be based on the Nintama Rantarou manga and anime license, and most closely resembles the first game.
-
-The game's story mode has the player move from character to character while cutscenes play, with some gameplay sequences to break it up. Shinbei's first sequence starts as an adventure game, and segues to a runaway horse sequence, while Rantarou and Kirimaru progress through side-scrolling levels. Rantarou can use a grappling hook to cross large gaps, while Kirimaru can climb mossy walls.</desc>
-		<releasedate>19960809T000000</releasedate>
-		<developer>Culture Brain</developer>
-		<publisher>Culture Brain</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Panel de Pon - Event '98 (Japan) (12-28).zip</path>
 		<name>Panel De Pon - Event '98</name>
 		<desc>Panel de Pon Event '98 is a Downloadable game for the Satellaview that was broadcast on January 31, 1998, it is a slightly modified event version of the game Panel de Pon.</desc>
@@ -989,19 +561,6 @@ The game's story mode has the player move from character to character while cuts
 		<publisher>Nintendo</publisher>
 		<genre>Puzzle-Game</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Radical Dreamers - Nusume Nai Houseki (Japan) (2-3) (Memory Pack) [b].zip</path>
-		<name>Radical Dreamers</name>
-		<desc>This text-based adventure (with some interesting background graphics) was originally released in Japan over the Satellaview system. The game is a spin-off from the Chrono Series, and was the precursor to Chrono Cross. It tells the story of Serge (travelling musician), Kid (thief), and Magil (wizard) as they attempt to steal the Frozen Flame from Viper Manor.  Contains multiple, often humorous endings. An interesting game for Chrono Trigger/Cross fans, as this was the game that Chrono Cross was essentially a remake of.
-
-Gameplay is something between a standard text adventure and a Choose Your Own Adventure book.  Rather than having a full array of possible actions, players are limited to the several options it presents at any time.  With newly discovered items and information, new areas can be reached.  Occasionally battles will occur during the exploration, which are also handled by displaying several possible actions to choose between, such as "Run" or "Jump back as it swings!"
-</desc>
-		<releasedate>19960601T000000</releasedate>
-		<developer>Square Enix</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
 	</game>
 	<game>
 		<path>./Ryouma de Yuku (Japan) (Data Pack).zip</path>
@@ -1045,33 +604,9 @@ Gameplay is something between a standard text adventure and a Choose Your Own Ad
 		<genre>Asiatic board game</genre>
 	</game>
 	<game>
-		<path>./Sonic Blast Man (Japan).zip</path>
-		<name>Sonic Blast Man</name>
-		<desc>You take on the role of Sonic Blast Man, a superhero, in this side-scrolling shooter, fighting against various forms of evil. While you have the typical punch, jump, and kick moves, the Sonic Blast Man also has two special power moves: Dynamite Punch and Screw Bomb. You travel through five different stages and fight enemies ranging from local ruffians to robots and even aliens from outer space.
-</desc>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Sound Journal for Lovers - Valentine Special Vol. 1 (Japan) (SoundLink) [b].zip</path>
 		<name>Sound Journal For Lovers - Valentine Special Vol. 1</name>
 		<desc>Sound Journal for Lovers comprises a set of text and images meant to smoothly accompany the music that played during the St.GIGA broadcast hour. The majority of the contents are screens displaying an artist listing and lyrics scrolling upwards. Of the minor interactions available to the player, a toggle option changes the lyrics from English to a Japanese translation. The artists featured are Stevie Wonder, Paul Simon, Phil Collins, The Bee Gees, and numerous others.</desc>
-	</game>
-	<game>
-		<path>./Special Tee Shot (Japan).zip</path>
-		<name>Special Tee Shot</name>
-		<desc>BS Special Tee Shot is a game that was planned to be released on the SNES, though eventually was just made exclusively for the Super Famicom's Satellaview service. The game was later retooled and made into the game that is known as Kirby's Dream Course. It is unknown why the game was remade to feature Kirby characters, though it's presumed that it as because Nintendo thought that the game would prove more successful with a well known brand behind it.
-The Satellaview video game had unique characters rather than already developed ones. Overall, however, the player character was uninspiring as it was simply just a red sphere that bounced around. Despite the fact that the game would be remade to feature Kirby characters, there are dramatic differences between the two titles, including the overall gameplay concept and levels. For example, in this game, the goal was simply to shoot the ball in the hole, while in the Kirby game you want to crash into enemies to destroy them. However, despite this, the games still share many similarities, such as graphics and the overall way the player controls the ball.
-
-Interestingly, Special Tee Shot was featured not only in magazines but also on the back of SNES packages as advertisements before ultimately being cancelled and brought back with Kirby characters. It should also be noted that before being titled Kirby's Dream Course, the game was officially called Kirby's Tee Shot.</desc>
-		<releasedate>19990425T000000</releasedate>
-		<developer>HAL Laboratory</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
 	</game>
 	<game>
 		<path>./Spriggan Powered BS - Dai-3-wa (Japan) (SoundLink).zip</path>
@@ -1089,13 +624,6 @@ Interestingly, Special Tee Shot was featured not only in magazines but also on t
 		<desc>A Satellaview port of the Famicom game "Star Soldier", specifically its 2-minute long Caravan mode. Not much is known about this release, nor if there were a lot of other 8-bit games broadcasted on the service.</desc>
 	</game>
 	<game>
-		<path>./Super Aleste (Japan).zip</path>
-		<name>Bs Super Aleste</name>
-		<desc>The game's thrilling speed is its most attractive feature. The enemy movements are fast. Your shots and the enemies' shots are fast. Finally, the scrolling is fast. The screen filled with battle action just overflows with high speed shooting excitement. On top of that there is the Shot Control System operated with the "R" button. You can attack the enemy in a multitude of ways with a weapon using this system. Naturally, the features of the Super Famicom such as rotation, enlarging, and shrinking functions are used to their fullest and huge enemies never before possible are packed into this exciting MEGA game!</desc>
-		<releasedate>19960101T000000</releasedate>
-		<genre>Shooter / Plane</genre>
-	</game>
-	<game>
 		<path>./Super Bomberman (Japan) (En).zip</path>
 		<name>Super Bomber Man</name>
 		<desc>North of the City of Peace (Bomberman city), located in the modern metropolis of Diamond City, the evil Carat Diamond and his court, along with the scientist Dr. Mok, have assigned a group of robots with offensive capabilities. Intending to steal Bomberman's advanced fighting abilities, Diamond created a fake Bomberman to go to the City of Peace and kidnap the real Bomberman.
@@ -1107,36 +635,6 @@ Realising the situation, Black Bomberman prepares to take on the fake Bomberman 
 		<name>Super Bomber Man 2</name>
 		<desc>Five evil cyborgs, called the "Five Dastardly Bombers" are bent on taking over the universe. On planet Earth, they capture the original Bomberman, take him back to their base, and place him into a prison cell. He awakens in the dungeon of Magnet Bomber, and must fight his way to a final showdown with Magnet Bomber himself. In the following four worlds, Bomberman will challenge Golem Bomber, Pretty Bomber, Brain Bomber, and their leader, Plasma Bomber in an effort to save himself and free the Earth of these alien invaders.</desc>
 		<developer>Hudson</developer>
-		<publisher>Nintendo</publisher>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./Super E.D.F. (Japan).zip</path>
-		<name>Super Earth Defense Force</name>
-		<desc>An evil organization, named AGYMA, threatens the 200 years of peace the galaxy has enjoyed.  From their base on the far side of the moon they have infiltrated many important locations on Earth.  Working for the Earth Defense Force, you are the lone pilot of a special craft designed to fight off AGYMA: the XA-1.
-
-The game is a side-scrolling shoot 'em up with 6 levels, and a total of 8 state of the art weapons with which to fend off the attacks and thwart AGYMA's plot to destroy Earth and disrupt peace throughout the cosmos.
-</desc>
-		<developer>Jaleco</developer>
-		<publisher>Jaleco</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Super Famicom Wars BS Ban - Hagoromo-jima (Japan).zip</path>
-		<name>Super Famicom Wars</name>
-		<desc>Super Famicom Wars BS Ban is a view-limited Downloadable game for the Satellaview that was broadcast in April, 1998.</desc>
-		<releasedate>19980501T000000</releasedate>
-		<developer>Intelligent Systems</developer>
-		<publisher>Nintendo</publisher>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./Super Famicom Wars BS Ban - Tsukinowa-jima (Japan).zip</path>
-		<name>Super Famicom Wars</name>
-		<desc>Super Famicom Wars BS Ban is a view-limited Downloadable game for the Satellaview that was broadcast in April, 1998.</desc>
-		<releasedate>19980501T000000</releasedate>
-		<developer>Intelligent Systems</developer>
 		<publisher>Nintendo</publisher>
 		<players>1-4</players>
 	</game>
@@ -1258,29 +756,6 @@ This game is a pseudo-sequel to the earlier-broadcast Wario's Woods.</desc>
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Wild Guns (Japan).zip</path>
-		<name>Wild Guns</name>
-		<desc>Annie &amp; Clint, two gunslingers, arrive at Carson City and get caught up in a gunfight. It's raining bullets and there are explosions everywhere. After an intense battle they enter the saloon where they dispose of every cowboy in sight while redecorating the interior. Our heroes flee the scene by climbing on the roof, but what's that sound? ... it's a HUGE robot!
-Wild Guns is a shooter with a western &amp; Sci Fi theme. Gameplay is somewhat similar to the Time Crisis &amp; House of the Dead games, with the exception that the game isn't played from a first-person perspective but from a third-person perspective. You control your on-screen character as well as the aiming crosshair. Select either Clint or Annie and shoot down tons of enemies while dodging bullets and jumping over incoming rockets.
-After the Carson City level, the action continues in Desolation Canyon, an ammunition depot, a gold mine and a armored train . Finally there's a showdown with the big bad guy.</desc>
-		<releasedate>19950801T000000</releasedate>
-		<developer>Natsume</developer>
-		<publisher>Titus</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Wizardry V - Saika no Chuushin (Japan).zip</path>
-		<name>Wizardry 5 - Saika No Chuushin</name>
-		<desc>Despite the greatest magic of the ancient High Sages, great floods, earthquakes and famine again pervade the land of Llylgamyn. The great Orb of Llylgamyn, an artifact of remarkable power that has protected the city for ages, is now powerless to halt the scourge.
-
-But now, the Sages have discovered that the hidden reason behind the disasters is more frightening than anyone could have imagined. To save the very world as we know it, you and your party must plunge into the..................Heart of The Maelstrom.</desc>
-		<developer>Sir-tech</developer>
-		<publisher>ASCII</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Yoshi no Panepon - BS Ban (Japan) (En,Ja) (7-5).zip</path>
 		<name>Yoshi No Panepon - Bs Ban</name>
 		<desc>Yoshi no Panepon BS Ban is a Downloadable game for the Satellaview that was broadcast in at least 11 runs between November 3, 1996 and June 30, 2000. Yoshi no Panepon BS Ban is based on the puzzle/casual game of Panel de Pon and is a localization of the English-language release Tetris Attack.</desc>
@@ -1296,96 +771,6 @@ But now, the Sages have discovered that the hidden reason behind the disasters i
 		<releasedate>19950806T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>St. GIGA</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan).zip</path>
-		<name>Super Puyo Puyo Tsuu</name>
-		<desc>A falling block game in which the goal is the combine four or more blocks of the same color which then disappear. The remain blocks will fall down and can produce combos which can cause special blocks (can only be destroyed by eliminating adjunct blocks) to appear at the enemies field.
-
-This game includes a story mode, in which Arle (the main character) fights against computer enemies, a vs player mode, a four player mode (SNES only), and an endless mode (SNES only).</desc>
-		<releasedate>19951208T000000</releasedate>
-		<developer>Compile</developer>
-		<publisher>Compile</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./Bakushow Mondai no Totsugeki! Star Pirates - Dai-1-wa (Japan) (SoundLink).zip</path>
-		<name>Bakushow Mondai No Totsugeki! Star Pirates -</name>
-		<desc>Bakusho Mondai no Totsugeki! StarPirates is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between June 22, 1997 and November 29, 1997. The game features voice narration by the Japanese comedy duo, Bakushō Mondai.</desc>
-		<releasedate>19970622T000000</releasedate>
-		<developer>St.GIGA</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Various</genre>
-	</game>
-	<game>
-		<path>./Bakushow Mondai no Totsugeki! Star Pirates - Dai-3-wa (Japan) (SoundLink).zip</path>
-		<name>Bakushow Mondai No Totsugeki! Star Pirates -</name>
-		<desc>Bakusho Mondai no Totsugeki! StarPirates is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between June 22, 1997 and November 29, 1997. The game features voice narration by the Japanese comedy duo, Bakushō Mondai.</desc>
-		<releasedate>19970622T000000</releasedate>
-		<developer>St.GIGA</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Various</genre>
-	</game>
-	<game>
-		<path>./BS Shin Onigashima - Dai-1-wa (Japan) (SoundLink).zip</path>
-		<name>Bs Shin Onigashima</name>
-		<desc>BS Shin Onigashima is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between September 29, 1996 and January 31, 1996. It was a remake sequel to the earlier Shin Onigashima. The major difference between the two games relate to the SoundLink elements that were introduced for the Satellaview broadcasts. The plot of BS Shin Onigashima comes from the original Shin Onigashima, however it is presented from the perspective of the three animal helpers (dog, monkey, and pheasant) who join the heroes as NPCs during the original game. The game was divided into 4 chapters which were retained for the later Nintendo Power and SFC remake. BS Shin Onigashima makes use of an expanded orchestral score that was broadcast via satellite radio, and in-game narration in the voice of the main-character, Ittaisan, was broadcast via SoundLink between chapters to advance the storyline. The game employs command menu gameplay just as in Shin Onigashima, however in BS Shin Onigashima the option to change character mid-game was removed. Other differences included the addition of platform-style action scenes, and time limits associated with making certain commands.</desc>
-		<releasedate>19960929T000000</releasedate>
-		<developer>St.GIGA</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Shin Onigashima - Dai-2-wa (Japan) (SoundLink).zip</path>
-		<name>Bs Shin Onigashima</name>
-		<desc>BS Shin Onigashima is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between September 29, 1996 and January 31, 1996. It was a remake sequel to the earlier Shin Onigashima. The major difference between the two games relate to the SoundLink elements that were introduced for the Satellaview broadcasts. The plot of BS Shin Onigashima comes from the original Shin Onigashima, however it is presented from the perspective of the three animal helpers (dog, monkey, and pheasant) who join the heroes as NPCs during the original game. The game was divided into 4 chapters which were retained for the later Nintendo Power and SFC remake. BS Shin Onigashima makes use of an expanded orchestral score that was broadcast via satellite radio, and in-game narration in the voice of the main-character, Ittaisan, was broadcast via SoundLink between chapters to advance the storyline. The game employs command menu gameplay just as in Shin Onigashima, however in BS Shin Onigashima the option to change character mid-game was removed. Other differences included the addition of platform-style action scenes, and time limits associated with making certain commands.</desc>
-		<releasedate>19960929T000000</releasedate>
-		<developer>St.GIGA</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Shin Onigashima - Dai-3-wa (Japan) (1-27) (SoundLink).zip</path>
-		<name>Bs Shin Onigashima</name>
-		<desc>BS Shin Onigashima is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between September 29, 1996 and January 31, 1996. It was a remake sequel to the earlier Shin Onigashima. The major difference between the two games relate to the SoundLink elements that were introduced for the Satellaview broadcasts. The plot of BS Shin Onigashima comes from the original Shin Onigashima, however it is presented from the perspective of the three animal helpers (dog, monkey, and pheasant) who join the heroes as NPCs during the original game. The game was divided into 4 chapters which were retained for the later Nintendo Power and SFC remake. BS Shin Onigashima makes use of an expanded orchestral score that was broadcast via satellite radio, and in-game narration in the voice of the main-character, Ittaisan, was broadcast via SoundLink between chapters to advance the storyline. The game employs command menu gameplay just as in Shin Onigashima, however in BS Shin Onigashima the option to change character mid-game was removed. Other differences included the addition of platform-style action scenes, and time limits associated with making certain commands.</desc>
-		<releasedate>19960929T000000</releasedate>
-		<developer>St.GIGA</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Shin Onigashima - Dai-4-wa (Japan) (2-1) (SoundLink).zip</path>
-		<name>Bs Shin Onigashima</name>
-		<desc>BS Shin Onigashima is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between September 29, 1996 and January 31, 1996. It was a remake sequel to the earlier Shin Onigashima. The major difference between the two games relate to the SoundLink elements that were introduced for the Satellaview broadcasts. The plot of BS Shin Onigashima comes from the original Shin Onigashima, however it is presented from the perspective of the three animal helpers (dog, monkey, and pheasant) who join the heroes as NPCs during the original game. The game was divided into 4 chapters which were retained for the later Nintendo Power and SFC remake. BS Shin Onigashima makes use of an expanded orchestral score that was broadcast via satellite radio, and in-game narration in the voice of the main-character, Ittaisan, was broadcast via SoundLink between chapters to advance the storyline. The game employs command menu gameplay just as in Shin Onigashima, however in BS Shin Onigashima the option to change character mid-game was removed. Other differences included the addition of platform-style action scenes, and time limits associated with making certain commands.</desc>
-		<releasedate>19960929T000000</releasedate>
-		<developer>St.GIGA</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Zelda no Densetsu - Dai-1-wa (Japan) (Rerun) (SoundLink).zip</path>
-		<name>Bs Zelda No Densetsu</name>
-		<desc>BS Zelda no Densetsu is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 5 distinct runs between August 6, 1995 and January 4, 1997. A program called BS Zelda no Asobikata was also broadcast in the half-hour prior to broadcasts of BS Zelda. This program seems to have been a radio tutorial teaching players how to play BS Zelda. The gameplay draws directly from The Legend of Zelda. The plot of BS Zelda varies considerably from the plot of the original due in great part to the fact that the hero of the game is not Link (the hero of The Legend of Zelda). Instead, BS Zelda is closely associated with the story presented in the BS-X interface cartridge, with the Hero of Light actually representing the BS-X avatar according the the BS Zelda storyline. Another major factor in the plot of BS Zelda is the fact that the story is most closely related to the story given in The Legend of Zelda: A Link to the Past. Both plots take up after the conclusion of Kamigami no Triforce - a fact that for Inishie no Sekiban produces one of the many plot inconsistencies/contradictions for which the series has become noted.</desc>
-		<releasedate>19950806T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./BS Zelda no Densetsu - Dai-4-wa (Japan) (Rerun) (SoundLink).zip</path>
-		<name>Bs Zelda No Densetsu</name>
-		<desc>BS Zelda no Densetsu is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 5 distinct runs between August 6, 1995 and January 4, 1997. A program called BS Zelda no Asobikata was also broadcast in the half-hour prior to broadcasts of BS Zelda. This program seems to have been a radio tutorial teaching players how to play BS Zelda. The gameplay draws directly from The Legend of Zelda. The plot of BS Zelda varies considerably from the plot of the original due in great part to the fact that the hero of the game is not Link (the hero of The Legend of Zelda). Instead, BS Zelda is closely associated with the story presented in the BS-X interface cartridge, with the Hero of Light actually representing the BS-X avatar according the the BS Zelda storyline. Another major factor in the plot of BS Zelda is the fact that the story is most closely related to the story given in The Legend of Zelda: A Link to the Past. Both plots take up after the conclusion of Kamigami no Triforce - a fact that for Inishie no Sekiban produces one of the many plot inconsistencies/contradictions for which the series has become noted.</desc>
-		<releasedate>19950806T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
 		<genre>Action / Adventure</genre>
 		<players>1</players>
 	</game>
@@ -1406,20 +791,654 @@ This game includes a story mode, in which Arle (the main character) fights again
 		<desc>A role-playing game that is a parody of “Ryōma ga Yuku”, which seems to be a highly renowned piece of japanese literature, using RPG Tsukuru (RPG Maker) and written by Hikari Ōta of the Bakushō Mondai comedy duo.</desc>
 	</game>
 	<game>
+		<path>./Waiwai Check 3-7 Gou + Waiwai Check 3-7 Gou + Waiwai Check 3-14 Gou (Japan) [b].zip</path>
+		<name>Waiwai Check 3</name>
+		<desc>WaiWai Check is a Downloadable Digital Magazine that was broadcast in at least 3 segments for the Satellaview in 1995.</desc>
+	</game>
+	<game>
+		<path>./Bakushow Mondai no Totsugeki! Star Pirates - Dai-1-wa (Japan) (SoundLink).zip</path>
+		<name>Bakusho Mondai no Totsugeki! StarPirates</name>
+		<desc>Bakusho Mondai no Totsugeki! StarPirates is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between June 22, 1997 and November 29, 1997. The game features voice narration by the Japanese comedy duo, Bakushō Mondai.</desc>
+		<releasedate>19970622T000000</releasedate>
+		<developer>St.GIGA</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Various</genre>
+	</game>
+	<game>
+		<path>./Bakushow Mondai no Totsugeki! Star Pirates - Dai-3-wa (Japan) (SoundLink).zip</path>
+		<name>Bakusho Mondai no Totsugeki! StarPirates</name>
+		<desc>Bakusho Mondai no Totsugeki! StarPirates is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between June 22, 1997 and November 29, 1997. The game features voice narration by the Japanese comedy duo, Bakushō Mondai.</desc>
+		<releasedate>19970622T000000</releasedate>
+		<developer>St.GIGA</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Various</genre>
+	</game>
+	<game>
+		<path>./Bokujou Monogatari - Dai-2-wa (Japan) (SoundLink).zip</path>
+		<name>BS Bokujou Monogatari</name>
+		<desc>BS Bokujou Monogatari is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 2 runs between September 2, 1996 and November 30, 1996. The game is a life-simulation game and it comes as a pseudo-sequel to the earlier-broadcast (July 1996)/retail release Bokujou Monogatari commonly known internationally as "Harvest Moon"; this has given the series the fan-nickname "BS Harvest Moon" as a result. Together with the game (typically immediately before and after), 10-minute broadcasts of a related nature were released entitled BS Bokujou Monogatari Torisetsu (a digital instruction manual) and Bokujou Monogatari no Kekka (a score/results program).</desc>
+		<releasedate>19960902T000000</releasedate>
+		<developer>St.GIGA</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Bokujou Monogatari - Dai-4-wa (Japan) (SoundLink).zip</path>
+		<name>BS Bokujou Monogatari</name>
+		<desc>BS Bokujou Monogatari is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 2 runs between September 2, 1996 and November 30, 1996. The game is a life-simulation game and it comes as a pseudo-sequel to the earlier-broadcast (July 1996)/retail release Bokujou Monogatari commonly known internationally as "Harvest Moon"; this has given the series the fan-nickname "BS Harvest Moon" as a result. Together with the game (typically immediately before and after), 10-minute broadcasts of a related nature were released entitled BS Bokujou Monogatari Torisetsu (a digital instruction manual) and Bokujou Monogatari no Kekka (a score/results program).</desc>
+		<releasedate>19960902T000000</releasedate>
+		<developer>St.GIGA</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Dragon Quest I (Japan) (SoundLink).zip</path>
+		<name>BS Dragon Quest I</name>
+		<desc>BS Dragon Quest is essentially the same as Dragon Quest I from the Dragon Quest I+II Reprise with several Satellaview specific peculiarities. For instance, quests are time-limited, unlike the original. The quests mostly originate from of Dragon Quest I, with a few originals. Fans of the Dragon Quest/Dragon Warrior series will certainly appreciate experiencing the variation on the original, although it's generally considered inferior to the Reprise. The game consisted of four one-hour scenarios which players would download on a weekly schedule. Players are tasked with leveling their character, collecting medals and completing scenario-specific conditions with special events designed to occur under specific conditions in real-time.</desc>
+		<releasedate>19960204T000000</releasedate>
+		<developer>Chunsoft</developer>
+		<publisher>Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS F-Zero Grand Prix - Dai-1-shuu - Knight League (Japan) (11-3) (SoundLink).zip</path>
+		<name>BS F-Zero Grand Prix</name>
+		<desc>BS F-Zero Grand Prix was a four-part Soundlink game to the original F-Zero. It was launched only in Japan for the Satellaview attachment for the Super Famicom. BS F-Zero Grand Prix contained four different playable vehicles and four new tracks near the end of each broadcast, as well as the 15 tracks from the original game. Commentary was provided by Bucky Koba, Tsutomu Tareki, and Seiichi Hirai. A follow-up to the game was later distributed as BS F-Zero Grand Prix 2.</desc>
+		<releasedate>19961229T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS F-Zero Grand Prix - Dai-2-shuu - Queen League (Japan) (SoundLink).zip</path>
+		<name>BS F-Zero Grand Prix</name>
+		<desc>BS F-Zero Grand Prix was a four-part Soundlink game to the original F-Zero. It was launched only in Japan for the Satellaview attachment for the Super Famicom. BS F-Zero Grand Prix contained four different playable vehicles and four new tracks near the end of each broadcast, as well as the 15 tracks from the original game. Commentary was provided by Bucky Koba, Tsutomu Tareki, and Seiichi Hirai. A follow-up to the game was later distributed as BS F-Zero Grand Prix 2.</desc>
+		<releasedate>19961229T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan) (SoundLink).zip</path>
+		<name>BS F-Zero Grand Prix</name>
+		<desc>BS F-Zero Grand Prix was a four-part Soundlink game to the original F-Zero. It was launched only in Japan for the Satellaview attachment for the Super Famicom. BS F-Zero Grand Prix contained four different playable vehicles and four new tracks near the end of each broadcast, as well as the 15 tracks from the original game. Commentary was provided by Bucky Koba, Tsutomu Tareki, and Seiichi Hirai. A follow-up to the game was later distributed as BS F-Zero Grand Prix 2.</desc>
+		<releasedate>19961229T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS F-Zero Grand Prix - Dai-4-shuu - Ace League (Japan) (SoundLink).zip</path>
+		<name>BS F-Zero Grand Prix</name>
+		<desc>BS F-Zero Grand Prix was a four-part Soundlink game to the original F-Zero. It was launched only in Japan for the Satellaview attachment for the Super Famicom. BS F-Zero Grand Prix contained four different playable vehicles and four new tracks near the end of each broadcast, as well as the 15 tracks from the original game. Commentary was provided by Bucky Koba, Tsutomu Tareki, and Seiichi Hirai. A follow-up to the game was later distributed as BS F-Zero Grand Prix 2.</desc>
+		<releasedate>19961229T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS F-Zero Grand Prix 2 - Practice (Japan) (12-6).zip</path>
+		<name>BS F-Zero Grand Prix 2</name>
+		<desc>BS F-Zero Grand Prix 2 is the direct sequel to the original F-Zero game released for the Super Famicom via the Satellaview. Two versions were released - a non-SoundLink game and a SoundLink game. The original non-SoundLink version was released as BSF-Zero 2 Practice on June 1, 1997 (although the title screen remained the same). It contained the four courses first seen throughout BS F-Zero Grand Prix (a Satellaview remake of the original), along with a new course called Mute City IV. Little is known about the later SoundLink version outside of surviving videos, but it was distributed in two halves in August 1997 and had a similar announcer and redone soundtrack as the previous Satellaview entry. At least the first week rearranged a few courses, and replaced two with new locations called "Forest I" and "Forest II". Presuming no areas were repeated, this likely means the SoundLink version had twice as many courses total. In addition, it can be seen that the player cannot choose between Grand Prix and Practice modes in the SoundLink version; as it was a live broadcast, the player is forced to play each course in a timed Practice mode, and then the Grand Prix race.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970810T000000</releasedate>
+		<developer>St.GIGA</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (9-29) (SoundLink) [T-En by Darrman v1.01] [req BS-X bios].zip</path>
+		<name>BS Fire Emblem: Akaneia Senki</name>
+		<desc>BS Fire Emblem: Akaneia Senki is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 3 distinct runs between September 28, 1997 and May 1, 1999. BS Fire Emblem's four chapters were each set in the same universe as Fire Emblem: Ankoku Ryu to Hikari no Tsurugi and Monshou no Nazo. Each segment was set prior to the events of Chapter 1 of both games.</desc>
+		<releasedate>19970928T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (SoundLink) [T-En by Darrman v1.01] [req BS-X bios].zip</path>
+		<name>BS Fire Emblem: Akaneia Senki</name>
+		<desc>BS Fire Emblem: Akaneia Senki is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 3 distinct runs between September 28, 1997 and May 1, 1999. BS Fire Emblem's four chapters were each set in the same universe as Fire Emblem: Ankoku Ryu to Hikari no Tsurugi and Monshou no Nazo. Each segment was set prior to the events of Chapter 1 of both games.</desc>
+		<releasedate>19970928T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (SoundLink) [T-En by Darrman v1.01] [req BS-X bios].zip</path>
+		<name>BS Fire Emblem: Akaneia Senki</name>
+		<desc>BS Fire Emblem: Akaneia Senki is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 3 distinct runs between September 28, 1997 and May 1, 1999. BS Fire Emblem's four chapters were each set in the same universe as Fire Emblem: Ankoku Ryu to Hikari no Tsurugi and Monshou no Nazo. Each segment was set prior to the events of Chapter 1 of both games.</desc>
+		<releasedate>19970928T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (4-28) (SoundLink) [T-En by Darrman v1.01] [req BS-X bios].zip</path>
+		<name>BS Fire Emblem: Akaneia Senki</name>
+		<desc>BS Fire Emblem: Akaneia Senki is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 3 distinct runs between September 28, 1997 and May 1, 1999. BS Fire Emblem's four chapters were each set in the same universe as Fire Emblem: Ankoku Ryu to Hikari no Tsurugi and Monshou no Nazo. Each segment was set prior to the events of Chapter 1 of both games.</desc>
+		<releasedate>19970928T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Fuurai no Shiren - Surara o Sukue - Dai-2-shuu (Japan) (SoundLink).zip</path>
+		<name>BS Fuurai no Shiren: Surara wo Sukue</name>
+		<desc>BS Furai no Shiren: Surara wo Sukue is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 3 runs between April 28, 1996 and August 2, 1997. The gameplay is substantially similar to the earlier roguelike, Fushigi no Dungeon 2: Furai no Shiren, a game released for the SFC on December 1, 1995 and subsequently localized for English markets in March 2008 as Mystery Dungeon: Shiren the Wanderer for the Nintendo DS. It also bears similarities to other Mystery Dungeon games including Dragon Quest Yangus, The Nightmare of Druaga, and Pokemon Mystery Dungeon. Like other Mystery Dungeon games, it is set in a fantasy land based on feudal Japan, and it falls into the roguelike genre. The titular hero of the game, Shiren the Wanderer, moves in a turn-based fashion through a series of maps filled with monsters, traps, and items. The maps, referred to as dungeons, take a variety of forms including traditional dungeons, caves, forests, etc. When a player is slain, he begins at the start again with stats at the base level, however he can regain items that had previously been stored a warehouse.</desc>
+		<releasedate>19960428T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Fuurai no Shiren - Surara o Sukue - Dai-4-shuu (Japan) (SoundLink).zip</path>
+		<name>BS Fuurai no Shiren: Surara wo Sukue</name>
+		<desc>BS Furai no Shiren: Surara wo Sukue is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 3 runs between April 28, 1996 and August 2, 1997. The gameplay is substantially similar to the earlier roguelike, Fushigi no Dungeon 2: Furai no Shiren, a game released for the SFC on December 1, 1995 and subsequently localized for English markets in March 2008 as Mystery Dungeon: Shiren the Wanderer for the Nintendo DS. It also bears similarities to other Mystery Dungeon games including Dragon Quest Yangus, The Nightmare of Druaga, and Pokemon Mystery Dungeon. Like other Mystery Dungeon games, it is set in a fantasy land based on feudal Japan, and it falls into the roguelike genre. The titular hero of the game, Shiren the Wanderer, moves in a turn-based fashion through a series of maps filled with monsters, traps, and items. The maps, referred to as dungeons, take a variety of forms including traditional dungeons, caves, forests, etc. When a player is slain, he begins at the start again with stats at the base level, however he can regain items that had previously been stored a warehouse.</desc>
+		<releasedate>19960428T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Marvelous - Camp Arnold Course - Dai-1-shuu (Japan) (SoundLink) [b].zip</path>
+		<name>BS Marvelous: Camp Arnold</name>
+		<desc>BS Marvelous: Camp Arnold is a Downloadable 4-part Soundlink game for the Satellaview that ran between November 3, 1996 and November 29, 1996. The game was broadcast as a rerun in January, 1997. It serves as a sequel to the earlier-broadcast BS Marvelous: Time Athletics and a direct prequel to Marvelous: Mouhitotsu no Takara-jima. Aside from the other games in the Marvelous series, the gameplay of BS Marvelous: Camp Arnold is most comparable to that of Zelda no Densetsu: Kamigami no Triforce. Indeed, the game's engine and gameplay elements were taken directly from Kamigami no Triforce. Unlike Kamigami no Triforce, however, the themes embodied in BS Marvelous: Camp Arnold are much more down-to-earth. The game plays like a Boy Scouts-esque survival game with environmental interactions. From an overhead perspective, the player controls characters as they walk across the land. Whenever the player encounters an important object or NPC, a command window pops open to allow the player to select between several options relating to the object or NPC. These include such things as picking up objects, talking to NPCs, or reading signs, etc.</desc>
+		<releasedate>19961103T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Marvelous - Camp Arnold Course - Dai-2-shuu (Japan) (SoundLink) [b].zip</path>
+		<name>BS Marvelous: Camp Arnold</name>
+		<desc>BS Marvelous: Camp Arnold is a Downloadable 4-part Soundlink game for the Satellaview that ran between November 3, 1996 and November 29, 1996. The game was broadcast as a rerun in January, 1997. It serves as a sequel to the earlier-broadcast BS Marvelous: Time Athletics and a direct prequel to Marvelous: Mouhitotsu no Takara-jima. Aside from the other games in the Marvelous series, the gameplay of BS Marvelous: Camp Arnold is most comparable to that of Zelda no Densetsu: Kamigami no Triforce. Indeed, the game's engine and gameplay elements were taken directly from Kamigami no Triforce. Unlike Kamigami no Triforce, however, the themes embodied in BS Marvelous: Camp Arnold are much more down-to-earth. The game plays like a Boy Scouts-esque survival game with environmental interactions. From an overhead perspective, the player controls characters as they walk across the land. Whenever the player encounters an important object or NPC, a command window pops open to allow the player to select between several options relating to the object or NPC. These include such things as picking up objects, talking to NPCs, or reading signs, etc.</desc>
+		<releasedate>19961103T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Marvelous - Camp Arnold Course - Dai-3-shuu (Japan) (SoundLink) [b].zip</path>
+		<name>BS Marvelous: Camp Arnold</name>
+		<desc>BS Marvelous: Camp Arnold is a Downloadable 4-part Soundlink game for the Satellaview that ran between November 3, 1996 and November 29, 1996. The game was broadcast as a rerun in January, 1997. It serves as a sequel to the earlier-broadcast BS Marvelous: Time Athletics and a direct prequel to Marvelous: Mouhitotsu no Takara-jima. Aside from the other games in the Marvelous series, the gameplay of BS Marvelous: Camp Arnold is most comparable to that of Zelda no Densetsu: Kamigami no Triforce. Indeed, the game's engine and gameplay elements were taken directly from Kamigami no Triforce. Unlike Kamigami no Triforce, however, the themes embodied in BS Marvelous: Camp Arnold are much more down-to-earth. The game plays like a Boy Scouts-esque survival game with environmental interactions. From an overhead perspective, the player controls characters as they walk across the land. Whenever the player encounters an important object or NPC, a command window pops open to allow the player to select between several options relating to the object or NPC. These include such things as picking up objects, talking to NPCs, or reading signs, etc.</desc>
+		<releasedate>19961103T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Marvelous - Camp Arnold Course - Dai-4-shuu (Japan) (SoundLink) [b].zip</path>
+		<name>BS Marvelous: Camp Arnold</name>
+		<desc>BS Marvelous: Camp Arnold is a Downloadable 4-part Soundlink game for the Satellaview that ran between November 3, 1996 and November 29, 1996. The game was broadcast as a rerun in January, 1997. It serves as a sequel to the earlier-broadcast BS Marvelous: Time Athletics and a direct prequel to Marvelous: Mouhitotsu no Takara-jima. Aside from the other games in the Marvelous series, the gameplay of BS Marvelous: Camp Arnold is most comparable to that of Zelda no Densetsu: Kamigami no Triforce. Indeed, the game's engine and gameplay elements were taken directly from Kamigami no Triforce. Unlike Kamigami no Triforce, however, the themes embodied in BS Marvelous: Camp Arnold are much more down-to-earth. The game plays like a Boy Scouts-esque survival game with environmental interactions. From an overhead perspective, the player controls characters as they walk across the land. Whenever the player encounters an important object or NPC, a command window pops open to allow the player to select between several options relating to the object or NPC. These include such things as picking up objects, talking to NPCs, or reading signs, etc.</desc>
+		<releasedate>19961103T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Marvelous - Time Athletic Course - Dai-1-shuu (Japan) (SoundLink) [b].zip</path>
+		<name>BS Marvelous: Time Athletics</name>
+		<desc>BS Marvelous: Time Athletics is a Downloadable 4-part Soundlink game for the Satellaview that ran between January 1, 1996 and January 31, 1996. The game was broadcast in as a rerun in April, 1996. A sequel to BS Marvelous: Time Athletics entitled BS Marvelous: Camp Arnold was released in November, 1996 as a direct prequel to Marvelous: Mohitotsu no Takarajima which was not broadcast via Satellaview but instead released in hard copy as a SFC cartridge. From an overhead perspective, the player controls characters as they walk across the land. Whenever the player encounters an important object or NPC, a command window pops open to allow the player to select between several options relating to the object or NPC. These include such things as picking up objects, talking to NPCs, or reading signs, etc.</desc>
+		<releasedate>19960107T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Marvelous - Time Athletic Course - Dai-2-shuu (Japan) (SoundLink) [b].zip</path>
+		<name>BS Marvelous: Time Athletics</name>
+		<desc>BS Marvelous: Time Athletics is a Downloadable 4-part Soundlink game for the Satellaview that ran between January 1, 1996 and January 31, 1996. The game was broadcast in as a rerun in April, 1996. A sequel to BS Marvelous: Time Athletics entitled BS Marvelous: Camp Arnold was released in November, 1996 as a direct prequel to Marvelous: Mohitotsu no Takarajima which was not broadcast via Satellaview but instead released in hard copy as a SFC cartridge. From an overhead perspective, the player controls characters as they walk across the land. Whenever the player encounters an important object or NPC, a command window pops open to allow the player to select between several options relating to the object or NPC. These include such things as picking up objects, talking to NPCs, or reading signs, etc.</desc>
+		<releasedate>19960107T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Marvelous - Time Athletic Course - Dai-3-shuu (Japan) (SoundLink) [b].zip</path>
+		<name>BS Marvelous: Time Athletics</name>
+		<desc>BS Marvelous: Time Athletics is a Downloadable 4-part Soundlink game for the Satellaview that ran between January 1, 1996 and January 31, 1996. The game was broadcast in as a rerun in April, 1996. A sequel to BS Marvelous: Time Athletics entitled BS Marvelous: Camp Arnold was released in November, 1996 as a direct prequel to Marvelous: Mohitotsu no Takarajima which was not broadcast via Satellaview but instead released in hard copy as a SFC cartridge. From an overhead perspective, the player controls characters as they walk across the land. Whenever the player encounters an important object or NPC, a command window pops open to allow the player to select between several options relating to the object or NPC. These include such things as picking up objects, talking to NPCs, or reading signs, etc.</desc>
+		<releasedate>19960107T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Marvelous - Time Athletic Course - Dai-4-shuu (Japan) (SoundLink) [b].zip</path>
+		<name>BS Marvelous: Time Athletics</name>
+		<desc>BS Marvelous: Time Athletics is a Downloadable 4-part Soundlink game for the Satellaview that ran between January 1, 1996 and January 31, 1996. The game was broadcast in as a rerun in April, 1996. A sequel to BS Marvelous: Time Athletics entitled BS Marvelous: Camp Arnold was released in November, 1996 as a direct prequel to Marvelous: Mohitotsu no Takarajima which was not broadcast via Satellaview but instead released in hard copy as a SFC cartridge. From an overhead perspective, the player controls characters as they walk across the land. Whenever the player encounters an important object or NPC, a command window pops open to allow the player to select between several options relating to the object or NPC. These include such things as picking up objects, talking to NPCs, or reading signs, etc.</desc>
+		<releasedate>19960107T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Nichibutsu Mahjong - Mahjong Taikai (Japan) (10-27).zip</path>
+		<name>BS Nichibutsu Mahjong</name>
+		<desc>BS Nichibutsu Mahjong is a Downloadable 2-part Soundlink game for the Satellaview that was broadcast between January 26, 1997 and April 12, 1997.</desc>
+		<releasedate>19970126T000000</releasedate>
+		<developer>St.GIGA</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Mahjong</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./BS Nichibutsu Mahjong - Renshuu Mahjong - Ichimantou (Japan) (SoundLink).zip</path>
+		<name>BS Nichibutsu Mahjong</name>
+		<desc>BS Nichibutsu Mahjong is a Downloadable 2-part Soundlink game for the Satellaview that was broadcast between January 26, 1997 and April 12, 1997.</desc>
+		<releasedate>19970126T000000</releasedate>
+		<developer>St.GIGA</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Mahjong</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./BS Nichibutsu Mahjong - Renshuu Mahjong - Nimantou (Japan) (SoundLink).zip</path>
+		<name>BS Nichibutsu Mahjong</name>
+		<desc>BS Nichibutsu Mahjong is a Downloadable 2-part Soundlink game for the Satellaview that was broadcast between January 26, 1997 and April 12, 1997.</desc>
+		<releasedate>19970126T000000</releasedate>
+		<developer>St.GIGA</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Mahjong</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./BS Parlor! Parlor! - Dai-2-shuu (Japan) (5-13) (SoundLink).zip</path>
+		<name>BS Parlor! Parlor!</name>
+		<desc>BS Parlor! Parlor! is a Downloadable 2-part Soundlink game for the Satellaview that was broadcast between March 1, 1998 and March 14, 1998. At various times throughout 1995, the game was accompanied by full-day broadcasts of a strategy magazine entitled BS Parlor! Parlor! Kouryaku Magazine.</desc>
+		<releasedate>19980301T000000</releasedate>
+		<developer>Telenet</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Casino</genre>
+	</game>
+	<game>
+		<path>./BS Shin Onigashima - Dai-1-wa (Japan) (SoundLink).zip</path>
+		<name>BS Shin Onigashima</name>
+		<desc>BS Shin Onigashima is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between September 29, 1996 and January 31, 1996. It was a remake sequel to the earlier Shin Onigashima. The major difference between the two games relate to the SoundLink elements that were introduced for the Satellaview broadcasts. The plot of BS Shin Onigashima comes from the original Shin Onigashima, however it is presented from the perspective of the three animal helpers (dog, monkey, and pheasant) who join the heroes as NPCs during the original game. The game was divided into 4 chapters which were retained for the later Nintendo Power and SFC remake. BS Shin Onigashima makes use of an expanded orchestral score that was broadcast via satellite radio, and in-game narration in the voice of the main-character, Ittaisan, was broadcast via SoundLink between chapters to advance the storyline. The game employs command menu gameplay just as in Shin Onigashima, however in BS Shin Onigashima the option to change character mid-game was removed. Other differences included the addition of platform-style action scenes, and time limits associated with making certain commands.</desc>
+		<releasedate>19960929T000000</releasedate>
+		<developer>St.GIGA</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Shin Onigashima - Dai-2-wa (Japan) (SoundLink).zip</path>
+		<name>BS Shin Onigashima</name>
+		<desc>BS Shin Onigashima is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between September 29, 1996 and January 31, 1996. It was a remake sequel to the earlier Shin Onigashima. The major difference between the two games relate to the SoundLink elements that were introduced for the Satellaview broadcasts. The plot of BS Shin Onigashima comes from the original Shin Onigashima, however it is presented from the perspective of the three animal helpers (dog, monkey, and pheasant) who join the heroes as NPCs during the original game. The game was divided into 4 chapters which were retained for the later Nintendo Power and SFC remake. BS Shin Onigashima makes use of an expanded orchestral score that was broadcast via satellite radio, and in-game narration in the voice of the main-character, Ittaisan, was broadcast via SoundLink between chapters to advance the storyline. The game employs command menu gameplay just as in Shin Onigashima, however in BS Shin Onigashima the option to change character mid-game was removed. Other differences included the addition of platform-style action scenes, and time limits associated with making certain commands.</desc>
+		<releasedate>19960929T000000</releasedate>
+		<developer>St.GIGA</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Shin Onigashima - Dai-3-wa (Japan) (1-27) (SoundLink).zip</path>
+		<name>BS Shin Onigashima</name>
+		<desc>BS Shin Onigashima is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between September 29, 1996 and January 31, 1996. It was a remake sequel to the earlier Shin Onigashima. The major difference between the two games relate to the SoundLink elements that were introduced for the Satellaview broadcasts. The plot of BS Shin Onigashima comes from the original Shin Onigashima, however it is presented from the perspective of the three animal helpers (dog, monkey, and pheasant) who join the heroes as NPCs during the original game. The game was divided into 4 chapters which were retained for the later Nintendo Power and SFC remake. BS Shin Onigashima makes use of an expanded orchestral score that was broadcast via satellite radio, and in-game narration in the voice of the main-character, Ittaisan, was broadcast via SoundLink between chapters to advance the storyline. The game employs command menu gameplay just as in Shin Onigashima, however in BS Shin Onigashima the option to change character mid-game was removed. Other differences included the addition of platform-style action scenes, and time limits associated with making certain commands.</desc>
+		<releasedate>19960929T000000</releasedate>
+		<developer>St.GIGA</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Shin Onigashima - Dai-4-wa (Japan) (2-1) (SoundLink).zip</path>
+		<name>BS Shin Onigashima</name>
+		<desc>BS Shin Onigashima is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between September 29, 1996 and January 31, 1996. It was a remake sequel to the earlier Shin Onigashima. The major difference between the two games relate to the SoundLink elements that were introduced for the Satellaview broadcasts. The plot of BS Shin Onigashima comes from the original Shin Onigashima, however it is presented from the perspective of the three animal helpers (dog, monkey, and pheasant) who join the heroes as NPCs during the original game. The game was divided into 4 chapters which were retained for the later Nintendo Power and SFC remake. BS Shin Onigashima makes use of an expanded orchestral score that was broadcast via satellite radio, and in-game narration in the voice of the main-character, Ittaisan, was broadcast via SoundLink between chapters to advance the storyline. The game employs command menu gameplay just as in Shin Onigashima, however in BS Shin Onigashima the option to change character mid-game was removed. Other differences included the addition of platform-style action scenes, and time limits associated with making certain commands.</desc>
+		<releasedate>19960929T000000</releasedate>
+		<developer>St.GIGA</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Super Aleste (Japan).zip</path>
+		<name>BS Super Aleste</name>
+		<desc>The game's thrilling speed is its most attractive feature. The enemy movements are fast. Your shots and the enemies' shots are fast. Finally, the scrolling is fast. The screen filled with battle action just overflows with high speed shooting excitement. On top of that there is the Shot Control System operated with the "R" button. You can attack the enemy in a multitude of ways with a weapon using this system. Naturally, the features of the Super Famicom such as rotation, enlarging, and shrinking functions are used to their fullest and huge enemies never before possible are packed into this exciting MEGA game!</desc>
+		<releasedate>19960101T000000</releasedate>
+		<genre>Shooter / Plane</genre>
+	</game>
+	<game>
+		<path>./BS Super Mario Collection - Dai-3-shuu (Japan) (3-17) (SoundLink).zip</path>
+		<name>BS Super Mario Collection</name>
+		<desc>BS Super Mario Collection is a remix of Super Mario Collection (the Japanese name for Super Mario All-Stars) for the Satellaview, an add-on for the Super Famicom. The game was released in four installments. As the game played, streamed audio would enhance the gameplay experience with special music and voice acting featuring Japanese celebrities. Its "companion title" is BS Super Mario USA. A Fire Flower icon represents Nae's house, which is hosted by a Satellaview Radio Personality Nae Yūki. Here, Mario can choose to activate ghost mode which allows him to become Fire Mario once he exits the level if he is Small or Super Mario. This in turn disables players from participating in rankings. A Treasure Ship icon, which is unlocked when Mario finishes all available levels in the World. Toad's House is now just a screen where the player selects the treasure chest, rather than having Mario actually walk to the chest and open it. There is a timer in the bottom left of the screen that counts down to the end of a World cycle. At the beginning of each world, there is a list of all the levels, and a picture with dialog underneath it.</desc>
+		<releasedate>19971228T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Tantei Club - Yuki ni Kieta Kako - Chuuhen (Japan) (6-20) (SoundLink).zip</path>
+		<name>BS Tantei Club - Yuki ni Kieta Kako</name>
+		<desc>BS Tantei Club: Yuki ni Kieta Kako (also known by the shorthand BS Tan or even B Tan) is a Downloadable 3-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between February 9, 1997 and May 3, 1997. It is a pseudo-sequel to Tantei Club: Kieta Kokeisha and is followed by Tantei Club Part II: Ushiro ni Tatsu Shojo. BS Tantei Club is a detective story. The game is a text-based point-and-click-style adventure game where still images are presented to the player and the player may guide a hand-shaped icon around the screen to select objects in the image to investigate further. A number of icons in a side-bar present the player with options such as taking notes, speaking, or placing telephone calls. Similar gameplay was used in other games from the FDS era including the popular Shadowgate (1989).</desc>
+		<releasedate>19970209T000000</releasedate>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Tantei Club - Yuki ni Kieta Kako - Kouhen (Japan) (SoundLink).zip</path>
+		<name>BS Tantei Club - Yuki ni Kieta Kako</name>
+		<desc>BS Tantei Club: Yuki ni Kieta Kako (also known by the shorthand BS Tan or even B Tan) is a Downloadable 3-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between February 9, 1997 and May 3, 1997. It is a pseudo-sequel to Tantei Club: Kieta Kokeisha and is followed by Tantei Club Part II: Ushiro ni Tatsu Shojo. BS Tantei Club is a detective story. The game is a text-based point-and-click-style adventure game where still images are presented to the player and the player may guide a hand-shaped icon around the screen to select objects in the image to investigate further. A number of icons in a side-bar present the player with options such as taking notes, speaking, or placing telephone calls. Similar gameplay was used in other games from the FDS era including the popular Shadowgate (1989).</desc>
+		<releasedate>19970209T000000</releasedate>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Tantei Club - Yuki ni Kieta Kako - Zenpen (Japan) (SoundLink).zip</path>
+		<name>BS Tantei Club - Yuki ni Kieta Kako</name>
+		<desc>BS Tantei Club: Yuki ni Kieta Kako (also known by the shorthand BS Tan or even B Tan) is a Downloadable 3-part Soundlink game for the Satellaview that was broadcast in at least 2 distinct runs between February 9, 1997 and May 3, 1997. It is a pseudo-sequel to Tantei Club: Kieta Kokeisha and is followed by Tantei Club Part II: Ushiro ni Tatsu Shojo. BS Tantei Club is a detective story. The game is a text-based point-and-click-style adventure game where still images are presented to the player and the player may guide a hand-shaped icon around the screen to select objects in the image to investigate further. A number of icons in a side-bar present the player with options such as taking notes, speaking, or placing telephone calls. Similar gameplay was used in other games from the FDS era including the popular Shadowgate (1989).</desc>
+		<releasedate>19970209T000000</releasedate>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure / Point and Click</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Zelda no Densetsu - Dai-1-wa (Japan) (Rerun) (SoundLink).zip</path>
+		<name>BS Zelda no Densetsu</name>
+		<desc>BS Zelda no Densetsu is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 5 distinct runs between August 6, 1995 and January 4, 1997. A program called BS Zelda no Asobikata was also broadcast in the half-hour prior to broadcasts of BS Zelda. This program seems to have been a radio tutorial teaching players how to play BS Zelda. The gameplay draws directly from The Legend of Zelda. The plot of BS Zelda varies considerably from the plot of the original due in great part to the fact that the hero of the game is not Link (the hero of The Legend of Zelda). Instead, BS Zelda is closely associated with the story presented in the BS-X interface cartridge, with the Hero of Light actually representing the BS-X avatar according the the BS Zelda storyline. Another major factor in the plot of BS Zelda is the fact that the story is most closely related to the story given in The Legend of Zelda: A Link to the Past. Both plots take up after the conclusion of Kamigami no Triforce - a fact that for Inishie no Sekiban produces one of the many plot inconsistencies/contradictions for which the series has become noted.</desc>
+		<releasedate>19950806T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Zelda no Densetsu - Dai-3-wa (Japan) (SoundLink).zip</path>
+		<name>BS Zelda no Densetsu</name>
+		<desc>BS Zelda no Densetsu is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 5 distinct runs between August 6, 1995 and January 4, 1997. A program called BS Zelda no Asobikata was also broadcast in the half-hour prior to broadcasts of BS Zelda. This program seems to have been a radio tutorial teaching players how to play BS Zelda. The gameplay draws directly from The Legend of Zelda. The plot of BS Zelda varies considerably from the plot of the original due in great part to the fact that the hero of the game is not Link (the hero of The Legend of Zelda). Instead, BS Zelda is closely associated with the story presented in the BS-X interface cartridge, with the Hero of Light actually representing the BS-X avatar according the the BS Zelda storyline. Another major factor in the plot of BS Zelda is the fact that the story is most closely related to the story given in The Legend of Zelda: A Link to the Past. Both plots take up after the conclusion of Kamigami no Triforce - a fact that for Inishie no Sekiban produces one of the many plot inconsistencies/contradictions for which the series has become noted.</desc>
+		<releasedate>19950806T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Zelda no Densetsu - Dai-4-wa (Japan) (Rerun) (SoundLink).zip</path>
+		<name>BS Zelda no Densetsu</name>
+		<desc>BS Zelda no Densetsu is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 5 distinct runs between August 6, 1995 and January 4, 1997. A program called BS Zelda no Asobikata was also broadcast in the half-hour prior to broadcasts of BS Zelda. This program seems to have been a radio tutorial teaching players how to play BS Zelda. The gameplay draws directly from The Legend of Zelda. The plot of BS Zelda varies considerably from the plot of the original due in great part to the fact that the hero of the game is not Link (the hero of The Legend of Zelda). Instead, BS Zelda is closely associated with the story presented in the BS-X interface cartridge, with the Hero of Light actually representing the BS-X avatar according the the BS Zelda storyline. Another major factor in the plot of BS Zelda is the fact that the story is most closely related to the story given in The Legend of Zelda: A Link to the Past. Both plots take up after the conclusion of Kamigami no Triforce - a fact that for Inishie no Sekiban produces one of the many plot inconsistencies/contradictions for which the series has become noted.</desc>
+		<releasedate>19950806T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Zelda no Densetsu - Map 2 - Dai-4-wa (Japan) (SoundLink) [b].zip</path>
+		<name>BS Zelda no Densetsu</name>
+		<desc>BS Zelda no Densetsu is a Downloadable 4-part Soundlink game for the Satellaview that was broadcast in at least 5 distinct runs between August 6, 1995 and January 4, 1997. A program called BS Zelda no Asobikata was also broadcast in the half-hour prior to broadcasts of BS Zelda. This program seems to have been a radio tutorial teaching players how to play BS Zelda. The gameplay draws directly from The Legend of Zelda. The plot of BS Zelda varies considerably from the plot of the original due in great part to the fact that the hero of the game is not Link (the hero of The Legend of Zelda). Instead, BS Zelda is closely associated with the story presented in the BS-X interface cartridge, with the Hero of Light actually representing the BS-X avatar according the the BS Zelda storyline. Another major factor in the plot of BS Zelda is the fact that the story is most closely related to the story given in The Legend of Zelda: A Link to the Past. Both plots take up after the conclusion of Kamigami no Triforce - a fact that for Inishie no Sekiban produces one of the many plot inconsistencies/contradictions for which the series has become noted.</desc>
+		<releasedate>19950806T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Zelda no Densetsu - Dai-2-wa (Japan) (SoundLink).zip</path>
+		<name>Bs Zelda No Densetsu - Map 2 - Dai-1-wa</name>
+		<desc>BS The Legend of Zelda ( BS Zeruda no Densetsu) was a remake of the NES game The Legend of Zelda, released for the Satellaview attachment for the Super Famicom in Japan.
+The gameplay was identical to its predecessor, but the maximum Rupees was increased to allow you more than a thousand (rather than 255 as in The Legend of Zelda), the overworld was heavily altered, and dungeons were completely different. This game was broadcasted in two versions, Map 1 and Map 2. Map 1 is sometimes referred to as a "Third Quest", in reference to The Legend of Zelda's Second Quest, and Map 2 would therefore be a Fourth Quest.
+The game was divided into four weekly episodes, this is the first episode</desc>
+		<rating>0.9</rating>
+		<releasedate>19950809T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>St.GIGA</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./BS Zelda no Densetsu - Map 2 - Dai-1-wa (Japan) (SoundLink).zip</path>
+		<name>Bs Zelda No Densetsu - Map 2 - Dai-1-wa</name>
+		<desc>BS The Legend of Zelda ( BS Zeruda no Densetsu) was a remake of the NES game The Legend of Zelda, released for the Satellaview attachment for the Super Famicom in Japan.
+The gameplay was identical to its predecessor, but the maximum Rupees was increased to allow you more than a thousand (rather than 255 as in The Legend of Zelda), the overworld was heavily altered, and dungeons were completely different. This game was broadcasted in two versions, Map 1 and Map 2. Map 1 is sometimes referred to as a "Third Quest", in reference to The Legend of Zelda's Second Quest, and Map 2 would therefore be a Fourth Quest.
+The game was divided into four weekly episodes, this is the first episode</desc>
+		<rating>0.9</rating>
+		<releasedate>19950809T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>St.GIGA</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Dynami Tracer (Japan).zip</path>
+		<name>Dynami Tracer</name>
+		<desc>Dynami Tracer is a mischievous mÃ©lange of RPG exploration and racing. It was released exclusively for Nintendo's Satellaview system, which sent games to the Super Famicom via satellite signals, requiring a special adapter to receive and decode the data. This means that Dynami Tracer was never released in cartridge form, and as such, you can't purchase it anywhere, ever. The RPG aspect primarily involves your character going from star to star, interacting with the flamboyant locals and acquiring information. Every once in a while, you'll somehow get yourself involved in a race</desc>
+		<rating>0.6</rating>
+		<releasedate>19960127T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Gambler Jiko Chuushinha 2 - Dorapon Quest (Japan) (12-20).zip</path>
+		<name>Gambler Jiko Chuushinha 2 : Dorapon Quest</name>
+		<desc>A Satellaview version of the Super Famicom game of the same name. A mahjong game based on Katayama Masayuki's manga Gambler Jiko Chuushinha. Like the first Super Famicom game subtitles Super Zugan, which was also based on a manga created by Katayama Masayuki, Dorapon Quest frames its various mahjong games as "battles" in an RPG.</desc>
+		<developer>Bits Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Mahjong</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Golf Daisuki! O.B. Club (Japan).zip</path>
+		<name>Golf Daisuki! O.b. Club</name>
+		<desc>Golf Daisuki! O.B. Club is a view-limited Downloadable golfing game for the Satellaview initially running between August 10, 1997 and August 23, 1997. The game was rebroadcast for at least 4 runs ending in March 30, 1998.
+Electronic Gaming Monthly magazine produced a preview of this game. Their preview had an English-language logo even though the game was never released in the USA in any form.</desc>
+		<releasedate>19970810T000000</releasedate>
+		<developer>Nippon Computer System</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Golf</genre>
+	</game>
+	<game>
+		<path>./BS Ihatovo Monogatari - Dai-2-wa (Japan) (SoundLink).zip</path>
+		<name>Ihatov Monogatari</name>
+		<desc>A Satellaview port of the Super Famicom game Ihatovo Monogatari, not to be confused with its sequel BS Ihatovo Monogatari which was broadcast on the Satellaview earlier. 
+Ihatovo is a magical land created by the Japanese author Kenji Miyazawa. In the game, you are a stranger who arrives at Ihatovo and has to find seven missing notebooks by Miyazawa, to complete his stories, such as for example The Fire Stone, and others.
+This is an adventure game in which you can freely navigate your character through the top-down world, in a console RPG-like fashion. There are no battles in the game and also no puzzles, although at some points you'll have to collect and to use items. The game mainly progresses thanks to conversations with various characters you encounter in Ihatovo.</desc>
+		<developer>HectorSoft</developer>
+		<publisher>HectorSoft</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Jissen Pachi-Slot Hisshouhou! Twin (Japan).zip</path>
+		<name>Jissen Pachi-Slot Hisshouhou! Twin</name>
+		<desc>Jissen Pachi-Slot Hisshouhou! Twin ("Combat Pachi-Slot Winning Strategy! Twin") is a pachi-slots game from Sammy Corporation. It is the first of two "Twin" spin-offs of the long-running Jissen Pachi-Slot Hisshouhou! series, both of which were released in 1997 for the Super Famicom. There was also a Jissen Pachi-Slot Hisshouhou! Twin for Saturn, but it used different machines and might be considered a separate game.
+
+The game features two popular pachi-slots mascots in Japan: the Pink Panther, the popular feline character that originated in the 1960s Peter Sellers Inspector Clouseau movies, and Cranky Condor.</desc>
+		<rating>0.8</rating>
+		<releasedate>19970315T000000</releasedate>
+		<developer>Sammy Corporation</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Casino</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Kaizou Choujin Shubibinman Zero (Japan).zip</path>
+		<name>Kaizou Choujin Shubibinman Zero</name>
+		<desc>A sequel to the Shubibinman Turbografx action platformers developed exclusively for the SNES.
+
+A new gang of cyborg-enhanced goons threatens peace in the city, so "Doc" decides to test his newest creations: Raita and Azuki, by sending them to destroy all the baddies and restore peace.
+
+The game plays as an 2D action platformer as previous entries in the series, in which you proceed through each stage pummeling enemies and collecting power-ups to enhance your powers. Now for the first time each character has unique abilities and attacks, furthermore each character has a charging attack that can be used to energize your partner thus encouraging teamplay in the two-player cooperative mode.
+</desc>
+		<rating>0.7</rating>
+		<releasedate>20170630T000000</releasedate>
+		<developer>Masaya Games</developer>
+		<publisher>Columbus Circle</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Nintama Rantarou 2 (Japan).zip</path>
+		<name>Nintama Rantarou 2</name>
+		<desc>Nintama Rantaro 2 is a Downloadable game for the Satellaview that was broadcast in at least 2 runs between March 29, 1998 and November 28, 1998.</desc>
+		<rating>0.9</rating>
+		<releasedate>19960329T000000</releasedate>
+		<developer>Culture Brain</developer>
+		<publisher>Culture Brain</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Nintama Rantarou Special (Japan).zip</path>
+		<name>Nintama Rantarou Special</name>
+		<desc>Nintama Rantarou Special ("Ninja Boy Rantarou Special") is an action-platformer game with a few different modes. It is also the fourth Super Famicom game to be based on the Nintama Rantarou manga and anime license, and most closely resembles the first game.
+
+The game's story mode has the player move from character to character while cutscenes play, with some gameplay sequences to break it up. Shinbei's first sequence starts as an adventure game, and segues to a runaway horse sequence, while Rantarou and Kirimaru progress through side-scrolling levels. Rantarou can use a grappling hook to cross large gaps, while Kirimaru can climb mossy walls.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960809T000000</releasedate>
+		<developer>Culture Brain</developer>
+		<publisher>Culture Brain</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Radical Dreamers - Nusume Nai Houseki (Japan) (2-3) (Memory Pack) [b].zip</path>
+		<name>Radical Dreamers: Nusumenai Hōseki</name>
+		<desc>This text-based adventure (with some interesting background graphics) was originally released in Japan over the Satellaview system. The game is a spin-off from the Chrono Series, and was the precursor to Chrono Cross. It tells the story of Serge (travelling musician), Kid (thief), and Magil (wizard) as they attempt to steal the Frozen Flame from Viper Manor.  Contains multiple, often humorous endings. An interesting game for Chrono Trigger/Cross fans, as this was the game that Chrono Cross was essentially a remake of.
+
+Gameplay is something between a standard text adventure and a Choose Your Own Adventure book.  Rather than having a full array of possible actions, players are limited to the several options it presents at any time.  With newly discovered items and information, new areas can be reached.  Occasionally battles will occur during the exploration, which are also handled by displaying several possible actions to choose between, such as "Run" or "Jump back as it swings!"
+</desc>
+		<rating>0.9</rating>
+		<releasedate>19960601T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Sonic Blast Man (Japan).zip</path>
+		<name>Sonic Blast Man</name>
+		<desc>You take on the role of Sonic Blast Man, a superhero, in this side-scrolling shooter, fighting against various forms of evil. While you have the typical punch, jump, and kick moves, the Sonic Blast Man also has two special power moves: Dynamite Punch and Screw Bomb. You travel through five different stages and fight enemies ranging from local ruffians to robots and even aliens from outer space.
+</desc>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
 		<path>./Sound Novel Tsukuru Data - Okirakukouza (Japan) (Data Pack) [b].zip</path>
 		<name>Sound Novel Tsukuru</name>
 		<desc>Sound Novel Tsukuru is a Super Famicom graphic novel game where players can either read or create interactive fiction on their own console systems. Stories can be saved either on a battery or through a satellite connection.
 
 The game comes with a previously created graphic novel about exploring an old house. Due to the limitations in the game's engine, it can only show shadows of non-player characters that the player meets on his journey. Settings can range from a modern day train to a rural house and even wilderness can be included in various stages of wildness.</desc>
+		<rating>0.7</rating>
 		<releasedate>19960531T000000</releasedate>
 		<developer>Success</developer>
-		<publisher>ASCII Corporation</publisher>
+		<publisher>ASCII</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Waiwai Check 3-7 Gou + Waiwai Check 3-7 Gou + Waiwai Check 3-14 Gou (Japan) [b].zip</path>
-		<name>Waiwai Check 3</name>
-		<desc>WaiWai Check is a Downloadable Digital Magazine that was broadcast in at least 3 segments for the Satellaview in 1995.</desc>
+		<path>./Special Tee Shot (Japan).zip</path>
+		<name>Special Tee Shot</name>
+		<desc>BS Special Tee Shot is a game that was planned to be released on the SNES, though eventually was just made exclusively for the Super Famicom's Satellaview service. The game was later retooled and made into the game that is known as Kirby's Dream Course. It is unknown why the game was remade to feature Kirby characters, though it's presumed that it as because Nintendo thought that the game would prove more successful with a well known brand behind it.
+The Satellaview video game had unique characters rather than already developed ones. Overall, however, the player character was uninspiring as it was simply just a red sphere that bounced around. Despite the fact that the game would be remade to feature Kirby characters, there are dramatic differences between the two titles, including the overall gameplay concept and levels. For example, in this game, the goal was simply to shoot the ball in the hole, while in the Kirby game you want to crash into enemies to destroy them. However, despite this, the games still share many similarities, such as graphics and the overall way the player controls the ball.
+
+Interestingly, Special Tee Shot was featured not only in magazines but also on the back of SNES packages as advertisements before ultimately being cancelled and brought back with Kirby characters. It should also be noted that before being titled Kirby's Dream Course, the game was officially called Kirby's Tee Shot.</desc>
+		<rating>0.7</rating>
+		<releasedate>19990425T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Super E.D.F. (Japan).zip</path>
+		<name>Super E.D.F.</name>
+		<desc>An evil organization, named AGYMA, threatens the 200 years of peace the galaxy has enjoyed.  From their base on the far side of the moon they have infiltrated many important locations on Earth.  Working for the Earth Defense Force, you are the lone pilot of a special craft designed to fight off AGYMA: the XA-1.
+
+The game is a side-scrolling shoot 'em up with 6 levels, and a total of 8 state of the art weapons with which to fend off the attacks and thwart AGYMA's plot to destroy Earth and disrupt peace throughout the cosmos.</desc>
+		<rating>0.7</rating>
+		<releasedate>19911025T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Super Famicom Wars BS Ban - Hagoromo-jima (Japan).zip</path>
+		<name>Super Famicom Wars</name>
+		<desc>Super Famicom Wars is a strategy game where two players each control an army with the goal of destroying one another. Each city controlled by the player generates money which can be used to purchase new units. Each individual unit has unique statistics and is often best used against certain types of enemy units.</desc>
+		<rating>1</rating>
+		<releasedate>19980501T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Super Famicom Wars BS Ban - Tsukinowa-jima (Japan).zip</path>
+		<name>Super Famicom Wars</name>
+		<desc>Super Famicom Wars is a strategy game where two players each control an army with the goal of destroying one another. Each city controlled by the player generates money which can be used to purchase new units. Each individual unit has unique statistics and is often best used against certain types of enemy units.</desc>
+		<rating>1</rating>
+		<releasedate>19980501T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan).zip</path>
+		<name>Super Puyo Puyo Tsuu</name>
+		<desc>A falling block game in which the goal is the combine four or more blocks of the same color which then disappear. The remain blocks will fall down and can produce combos which can cause special blocks (can only be destroyed by eliminating adjunct blocks) to appear at the enemies field.
+
+This game includes a story mode, in which Arle (the main character) fights against computer enemies, a vs player mode, a four player mode (SNES only), and an endless mode (SNES only).</desc>
+		<rating>0.8</rating>
+		<releasedate>19951208T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Compile</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Wild Guns (Japan).zip</path>
+		<name>Wild Guns</name>
+		<desc>Annie &amp; Clint, two gunslingers, arrive at Carson City and get caught up in a gunfight. It's raining bullets and there are explosions everywhere. After an intense battle they enter the saloon where they dispose of every cowboy in sight while redecorating the interior. Our heroes flee the scene by climbing on the roof, but what's that sound? ... it's a HUGE robot!
+Wild Guns is a shooter with a western &amp; Sci Fi theme. Gameplay is somewhat similar to the Time Crisis &amp; House of the Dead games, with the exception that the game isn't played from a first-person perspective but from a third-person perspective. You control your on-screen character as well as the aiming crosshair. Select either Clint or Annie and shoot down tons of enemies while dodging bullets and jumping over incoming rockets.
+After the Carson City level, the action continues in Desolation Canyon, an ammunition depot, a gold mine and a armored train . Finally there's a showdown with the big bad guy.</desc>
+		<rating>0.9</rating>
+		<releasedate>19940812T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Titus</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Wizardry V - Saika no Chuushin (Japan).zip</path>
+		<name>Wizardry V : Saika no Chuushin</name>
+		<desc>Despite the greatest magic of the ancient High Sages, great floods, earthquakes and famine again pervade the land of Llylgamyn. The great Orb of Llylgamyn, an artifact of remarkable power that has protected the city for ages, is now powerless to halt the scourge.
+
+But now, the Sages have discovered that the hidden reason behind the disasters is more frightening than anyone could have imagined. To save the very world as we know it, you and your party must plunge into the..................Heart of The Maelstrom.</desc>
+		<developer>Sir-tech</developer>
+		<publisher>ASCII</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
 	</game>
 </gameList>

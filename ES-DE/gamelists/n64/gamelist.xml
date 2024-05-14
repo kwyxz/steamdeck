@@ -919,22 +919,6 @@ Usagi is your typically untypical Japanese weirdness where you must defend yours
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Diddy Kong Racing (USA) (En,Fr).zip</path>
-		<name>Diddy Kong Racing</name>
-		<desc>It's an island takeover when the evil space wizard, Wizpig, discovers Tiger Island!  After the islands prized racetracks become sealed up, Timber Tiger contacts his friend Diddy Kong to help him reclaim the racetracks and save the island before his parents return.  Along for the ride are the Kremling spy Krunch, Bumper Badger, Banjo (prior to meeting Kazooie in Banjo-Kazooie), pre-sweary Conker, Tiptup Turtle, and Pipsy Mouse.
-
-Diddy Kong Racing is a racing game with similarities to Mario Kart 64, in that you race with a variety of cheery racers while using weapons.  However, the similarities end there.  DKR includes an adventure mode, which features bosses, an overworld to explore, many hidden secrets, the addition of hovercrafts and planes, and a unique way of racing called the "Silver Coin Challenge".  In this mode, in addition to coming first, you must also find the eight Silver Coins deviously hidden throughout the courses (some in alternate paths).
-
-The game also features a strategic method of using weapons.  Each colored balloon on the track matches a specific weapon, and collecting the same type of balloon multiple times in a row powers it up (to a maximum of three times).  This gives the player the choice of snatching every balloon available and using it immediately, or storing the existing weapon, and using a more powerful version of it later.
-
-Up to four players can compete in the races, but in order to play new tracks, they must first be unlocked in the single player game.  There are also four battle modes of play - two standard deathmatch maps, a capture-the-flag style battle where you must nab eggs and hatch three of them in your home nest, and another where you must be the first to return ten bananas to your treasure chest (with the limitation of only being able to hold two at any one time).</desc>
-		<releasedate>19971124T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Rareware</publisher>
-		<genre>Action</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).zip</path>
 		<name>Donald Duck : Goin' Qu@ckers*!</name>
 		<desc>Keeping Donald content is about as easy as herding cats, but everyone's favorite fusspot really goes off the deep end when malodorous magician Merlock duck-naps Daisy. To add insult to injury, Donald's uppity cousin, Gladstone Gander, vows to rescue Daisy. Thus begins Donald's great race to reach Daisy first and foil Merlock's nefarious plans.</desc>
@@ -1283,16 +1267,6 @@ Virtual mode is the more familiar format of a battle game with game modes such a
 		<publisher>Fox Interactive</publisher>
 		<genre>Sports</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan).zip</path>
-		<name>Fushigi No Dungeon - Fuurai No Shiren 2 - Oni Shuurai! Shiren Jou!</name>
-		<desc>You are in control of Shiren, a Ronin (masterless Samurai) who travels through a fantasized version of feudal Japan on a search for the Land of the Golden Condor. Joining Shiren on the journey is his weasel sidekick Koppa, and together the two collect mys</desc>
-		<releasedate>20000927T000000</releasedate>
-		<developer>Chunsoft</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
 	</game>
 	<game>
 		<path>./Gauntlet Legends (USA).zip</path>
@@ -4362,6 +4336,22 @@ Wrestlemania 2K features more than 50 real WWF stars as well as the option for 1
 		<publisher>Imagineer</publisher>
 		<genre>Role playing games</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./Diddy Kong Racing (USA) (En,Fr).zip</path>
+		<name>Diddy Kong Racing</name>
+		<desc>It's an island takeover when the evil space wizard, Wizpig, discovers Tiger Island!  After the islands prized racetracks become sealed up, Timber Tiger contacts his friend Diddy Kong to help him reclaim the racetracks and save the island before his parents return.  Along for the ride are the Kremling spy Krunch, Bumper Badger, Banjo (prior to meeting Kazooie in Banjo-Kazooie), pre-sweary Conker, Tiptup Turtle, and Pipsy Mouse.
+
+Diddy Kong Racing is a racing game with similarities to Mario Kart 64, in that you race with a variety of cheery racers while using weapons.  However, the similarities end there.  DKR includes an adventure mode, which features bosses, an overworld to explore, many hidden secrets, the addition of hovercrafts and planes, and a unique way of racing called the "Silver Coin Challenge".  In this mode, in addition to coming first, you must also find the eight Silver Coins deviously hidden throughout the courses (some in alternate paths).
+
+The game also features a strategic method of using weapons.  Each colored balloon on the track matches a specific weapon, and collecting the same type of balloon multiple times in a row powers it up (to a maximum of three times).  This gives the player the choice of snatching every balloon available and using it immediately, or storing the existing weapon, and using a more powerful version of it later.
+
+Up to four players can compete in the races, but in order to play new tracks, they must first be unlocked in the single player game.  There are also four battle modes of play - two standard deathmatch maps, a capture-the-flag style battle where you must nab eggs and hatch three of them in your home nest, and another where you must be the first to return ten bananas to your treasure chest (with the limitation of only being able to hold two at any one time).</desc>
+		<releasedate>19971124T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Rareware</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
 	</game>
 	<game>
 		<path>./Aleck Bordon Adventure - 4th Story - Tower &amp; Shaft (Japan) (Aleck 64) [T-En by Zoinkity v1.0].zip</path>

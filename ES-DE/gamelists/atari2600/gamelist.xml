@@ -111,16 +111,6 @@ For ages 3-7.</desc>
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Amidar (USA).zip</path>
-		<name>Amidar</name>
-		<desc>As a paintbush, run over the borders of each rectangle to color them in in order to complete the level, while avoiding enemies. You can force them to jump to help you if they get in your way.</desc>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Parker Brothers</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Armor Ambush (USA).zip</path>
 		<name>Armor Ambush</name>
 		<desc>Armor Ambush is a game that gives players control over tanks that battle one another over terrain that offers varying degrees of texture and traversability. Dueling tanks was a theme familiar to owners of the Atari 2600 since Combat, the game packaged with nearly every Atari 2600 system, had a very similar premise. However, Armor Ambush expands upon the simple battles available to players of Combat. The game takes place on a different randomly selected battlefield each round. Additionally, players can drop mines on the battlefield by simultaneously pressing the fire button and pulling down on the joystick. The mines remain active for the duration of the battle, destroying either tank that runs over them. Players are able to control two tanks and switch between them on command. The terrain is more diverse, featuring areas of foliage, water, and natural barriers. But as with "Combat", there is no AI for the computer, and the game cannot be played solo.</desc>
@@ -6640,5 +6630,15 @@ There are eight game variations. Some where the ships move side-to-side while mo
 		<publisher>Atari</publisher>
 		<genre>Simulation</genre>
 		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Amidar (USA).zip</path>
+		<name>Amidar</name>
+		<desc>As a paintbush, run over the borders of each rectangle to color them in in order to complete the level, while avoiding enemies. You can force them to jump to help you if they get in your way.</desc>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players>1</players>
 	</game>
 </gameList>

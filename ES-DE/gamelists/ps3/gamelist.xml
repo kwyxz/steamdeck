@@ -11,17 +11,6 @@
 		<players>1</players>
 	</game>
 	<game>
-		<path>./After Burner Climax.ps3</path>
-		<name>After Burner Climax</name>
-		<desc>After Burner Climax introduces two new flyable aircraft to the series: the F/A-18E Super Hornet and F-15E Strike Eagle. The iconic F-14 Tomcat from previous games has been replaced with the F-14D Super Tomcat. The player selects the aircraft at the start screen.
-While choosing their plane, the player can use the throttle to choose between four different paintjobs for each of the three planes. These paint jobs consist of a "Standard" scheme, "Camouflage" scheme, "Special" scheme, and "Low Visibility" scheme. After choosing their plane, the player can also choose to listen to After Burner Climax's music or the original soundtrack from After Burner II by holding the throttle back and hitting the missile button.</desc>
-		<releasedate>20100422T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shooter / Plane</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Hard Corps Uprising.ps3</path>
 		<name>Hard Corps : Uprising</name>
 		<desc>Hard Corps: Uprising is an action game available for download on Playstation 3. The game is a prequel to Contra: Hard Corps which was released on Megadrive in 1994. It also features Colonel Bahamut, the main villain of the 1994 game. This new adventure allows us to better understand the motivations of the man who was a real national hero before becoming a figurehead of the resistance and then public enemy number one.</desc>
@@ -42,15 +31,6 @@ While choosing their plane, the player can use the throttle to choose between fo
 		<players>1</players>
 	</game>
 	<game>
-		<path>./OutRun Online Arcade.ps3</path>
-		<name>Outrun Online Arcade</name>
-		<releasedate>20090416T000000</releasedate>
-		<developer>Sumo Digital</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Pure.ps3</path>
 		<name>Pure</name>
 		<desc>Pure on PS3 is a quad bike racing game that takes place on open tracks in the middle of nature. You will be able to perform spectacular jumps that will allow you to perform stylish tricks, just to show off. There is also a multiplayer mode for up to 16 players.</desc>
@@ -58,6 +38,35 @@ While choosing their plane, the player can use the throttle to choose between fo
 		<developer>Black Rock Studio</developer>
 		<publisher>Disney Interactive</publisher>
 		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Sega Rally Online Arcade.ps3</path>
+		<name>Sega Rally Online Arcade</name>
+		<desc>Sega Rally Online Arcade is a racing game for download on the Playstation Network. Thirteen cars are brought together to race in Championship or Time Trial modes. In addition to online leaderboards, there is also a 6-player option for racing with other connected players.</desc>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+	</game>
+	<game>
+		<path>./OutRun Online Arcade.ps3</path>
+		<name>Outrun Online Arcade</name>
+		<rating>0.8</rating>
+		<releasedate>20090416T000000</releasedate>
+		<developer>Sumo Digital</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./After Burner Climax.ps3</path>
+		<name>After Burner Climax</name>
+		<desc>After Burner Climax introduces two new flyable aircraft to the series: the F/A-18E Super Hornet and F-15E Strike Eagle. The iconic F-14 Tomcat from previous games has been replaced with the F-14D Super Tomcat. The player selects the aircraft at the start screen.
+While choosing their plane, the player can use the throttle to choose between four different paintjobs for each of the three planes. These paint jobs consist of a "Standard" scheme, "Camouflage" scheme, "Special" scheme, and "Low Visibility" scheme. After choosing their plane, the player can also choose to listen to After Burner Climax's music or the original soundtrack from After Burner II by holding the throttle back and hitting the missile button.</desc>
+		<releasedate>20100422T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane</genre>
 		<players>1</players>
 	</game>
 </gameList>

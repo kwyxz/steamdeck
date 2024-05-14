@@ -56,18 +56,6 @@ Disaster Report is a combination of pure adventure and survival horror genres. C
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Fight Club (USA).iso</path>
-		<name>Fight Club</name>
-		<desc>Fight Club is based on David Fincher's film adaption of Chuck Palahniuk's novel of the same name. Fed up with consumerist American culture, a fight club is founded as a new type of therapy through bare-knuckle fighting. The game focuses on the fights and uses many characters and environments from the original story. You can create a new fighter or clone one of the generated characters. There are three general fighting styles to choose from: grappling, kung fu or brawling. The moves range from basic punches to devastating moves with broken bones, ripped clothes and real-time facial deformation. After each successful fight, you earn Character Development Points (CDP's) which can be used to upgrade or heal your character.
-
-Aside from the regular arcade, survival and training mode, there is a story mode in which you need to work your way up as a rookie to become a key player in Project Mayhem in a storyline very loosely based on the original plot. Both the PS2 and Xbox version have an online multiplayer mode as well.</desc>
-		<releasedate>20041116T000000</releasedate>
-		<developer>Genuine Games</developer>
-		<publisher>Sierra</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Gladius (USA).iso</path>
 		<name>Gladius</name>
 		<desc>In the tradition of films like Gladiator and Spartacus comes Gladius, an action RPG taking place in the world of gladiatorial combat. As one of two principal characters, Ursula and Valens, players must train and lead a team of warriors to compete in the 20 coliseums and arenas found in four regions around the world. As a gladiator team trains and fights, warriors become more experienced and eventually develop new abilities.
@@ -76,31 +64,6 @@ Aside from the regular arcade, survival and training mode, there is a story mode
 		<developer>LucasArts</developer>
 		<publisher>LucasArts</publisher>
 		<genre>Strategy</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Gradius III and IV (USA).iso</path>
-		<name>Gradius III and IV</name>
-		<desc>Players take control of the InterDimensional Vic Viper ship in a solitary attempt to repel an overwhelming invasion force from the planet Bacterian. The rest of the United Gradius World Forces were destroyed prior to Gradius III because they were "badly outnumbered." So now you're alone, in an attempt to destroy all who dare stand in your way.
- Gradius III offers a standard One-Player mode, an alternating Two-Player mode, and an Options screen to customize key features. Gradius IV adds a Boss Attack mode, where players go through a timed series of battles with the bosses found throughout the game. Your ship is fully powered-up during the mode, regardless of how many times you may die.
- The Vic Viper can be powered up through speed-ups, "double" shots that add shots and/or potential directions to fire in, various types of missiles, lasers, and "option" fighters. Option fighters are indestructible orange globes that follow the Vic Viper and add firepower. Multiple levels of difficulty are also included, as well as the option to select which stage to begin on.</desc>
-		<releasedate>20001115T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Gradius V (USA).iso</path>
-		<name>Gradius V</name>
-		<desc>Gradius V is a Japanese-developed shoot 'em up video game published by Konami for the Sony PlayStation 2 video game console in 2004. Gradius V was largely developed under contract by Treasure, who had previously worked on Radiant Silvergun and Ikaruga.
- The game is set predominantly in outer space where players control a fictional spacecraft called Vic Viper through a continuously scrolling background depicting the territories of Bacterian?an evil empire which serves as the player's enemy
- The soundtrack was composed by Basiscape composer Hitoshi Sakimoto whose previous video game work includes the soundtrack to the tactical role-playing game Final Fantasy Tactics, the shoot'em up Radiant Silvergun and the action/RPG hybrid Vagrant Story
-</desc>
-		<releasedate>20040914T000000</releasedate>
-		<developer>Treasure</developer>
-		<publisher>Konami</publisher>
-		<genre>Shoot'em Up</genre>
 		<players>1-2</players>
 	</game>
 	<game>
@@ -245,16 +208,6 @@ The character is controlled by the player and can move freely within areas by ru
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Soulcalibur III (USA).iso</path>
-		<name>Soulcalibur III</name>
-		<desc>Soulcalibur III is a 3D fighting game featuring a variety of characters, each carrying a distinctive weapon and unique fighting style. The basics of the combat is a derived, in different stances, from a combination of Horizontal Attacks, Vertical Attacks, Throws, Kicks and a Soul Charge. Characters engage one another in 1vs1 fights that end when the energy of one side is lost, removed from the ring or run out of time.</desc>
-		<releasedate>20051025T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Star Ocean - Till the End of Time (USA).m3u</path>
 		<name>Star Ocean : Till the End of Time</name>
 		<desc>An attack from an unknown power in space threatens the peace between humans and aliens. The attack forces Fayt Leingod and his friend Sophia Esteed to separate from Fayt's parents and flee from the planet. Now it's up to you to guide these two characters through a variety of side quests and sub-events to find their loved ones. Dress your characters, equip them with weapons, and then conquer the land. Up to three characters can fight and move together on the battlefields.</desc>
@@ -323,6 +276,16 @@ The story this time deals with the appearance of the evil Jivatma in South Town,
 		<releasedate>20060919T000000</releasedate>
 		<developer>SNK Playmore</developer>
 		<publisher>Ignition Entertainment</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Soulcalibur III (USA).iso</path>
+		<name>Soulcalibur III</name>
+		<desc>Soulcalibur III is a 3D fighting game featuring a variety of characters, each carrying a distinctive weapon and unique fighting style. The basics of the combat is a derived, in different stances, from a combination of Horizontal Attacks, Vertical Attacks, Throws, Kicks and a Soul Charge. Characters engage one another in 1vs1 fights that end when the energy of one side is lost, removed from the ring or run out of time.</desc>
+		<releasedate>20051025T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
 		<genre>Fight</genre>
 		<players>1-2</players>
 	</game>

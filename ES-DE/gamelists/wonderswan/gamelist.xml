@@ -786,18 +786,6 @@ Nobunaga's Ambition is a turn-based strategy game which can be played in differe
 		<genre>Strategy</genre>
 	</game>
 	<game>
-		<path>./Ou-chan no Oekaki Logic (Japan).zip</path>
-		<name>Ou-chan No Oekaki Logic</name>
-		<desc>Ou-chan no Oekaki Logic is a digital conversion, with anime mascots, of the classic Japanese newspaper puzzle nonograms. A nonogram is a puzzle on a square or rectangular grid the object of which is to reveal a hidden picture. Along each row and column there is a number or series of numbers which indicate how many squares will be colored in that row or grid. Example; "5 9 4" would mean there would be sets of five, nine, and four colored squares in the grid, in that order, with at least one blank in between. 
-
-Ou-chan no Oekaki Logic adds a story mode where Ou-Chan, representing the player, competes with other blobby anime characters in finding hidden images in the nonogram grids.</desc>
-		<releasedate>20000106T000000</releasedate>
-		<developer>Santa Claus</developer>
-		<publisher>Sunsoft</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Pocket Fighter (Japan).zip</path>
 		<name>Pocket Fighter</name>
 		<desc>Pocket Fighter is a crossover fighting game that takes characters from the Street Fighter, Darkstalkers, and Red Earth fighting series, and presents them in a cute shrunken chibi form with ridiculous moves and costumes. The games fights take place in various Capcom locations.
@@ -886,18 +874,6 @@ This software supports Wonder Gate, so if you download new data using Wonder Gat
 		<publisher>Bandai</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
-	</game>
-	<game>
-		<path>./Robot Works (Japan).zip</path>
-		<name>Robot Works</name>
-		<desc>The WonderBorg is a programmable consumer robot kit that was bundled with specialized software known as "Robot Works", which is used to program the robot. 
-
-While mainly used to program the movement of the physical robot, it also comes with a game where your aim is to get a virtual WonderBorg from start to finish with predetermined instructions: you first see the map, then give a series of instructions "two forward, turn left, one forward" etc and then run your program to see whether you managed to get the robot over the finish line.</desc>
-		<releasedate>20001207T000000</releasedate>
-		<developer>Bandai</developer>
-		<publisher>Bandai</publisher>
-		<genre>Educational</genre>
-		<players>8+</players>
 	</game>
 	<game>
 		<path>./Sangokushi for WonderSwan (Japan).zip</path>
@@ -1007,15 +983,6 @@ By punching a fallen gladiator you will get him in a lock. When done closer to t
 		<publisher>Tomy</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
-	</game>
-	<game>
-		<path>./Shougi Touryuumon (Japan).zip</path>
-		<name>Shougi Touryuumon</name>
-		<releasedate>19991028T000000</releasedate>
-		<developer>Sammy Studios</developer>
-		<publisher>Sammy Studios</publisher>
-		<genre>Shougi</genre>
-		<players>1-2</players>
 	</game>
 	<game>
 		<path>./Side Pocket for WonderSwan (Japan).zip</path>
@@ -1366,15 +1333,6 @@ Each ballplayer is hooked to another for instance when you move your man on firs
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./WonderSwan Handy Sonar (Japan) (Rev 2).zip</path>
-		<name>Wonderswan Handy Sonar</name>
-		<desc>WonderSwan Handy Sonar is a fishing game developed and published by Bandai in 1999 for the WonderSwan. It is bundled with the Handy Sonar, a fish-finder device similar to the Pocket Sonar also released by Bandai for the Nintendo Game Boy.</desc>
-		<releasedate>19990513T000000</releasedate>
-		<developer>Bandai</developer>
-		<publisher>Bandai</publisher>
-		<genre>Fishing</genre>
-	</game>
-	<game>
 		<path>./Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n].zip</path>
 		<name>Digimon Adventure 02 - Tag Tamers</name>
 		<desc>The game is based on the manga series Digimon, in which children can travel to a digital world and help good digital monsters to defeat evil ones. In this game, the two heroes, Ryou and Ken, are summoned to the Digiworld to fight against the archenemy Millenniumon and his side-kick Diablomon. Upon defeating the two evil monsters once again, the heroes realize that Millenniumon has taken a different shape and is reborn to conquer the Digiworld anew. Now you must recruit digital monsters and lead them into the ultimate battle.
@@ -1397,5 +1355,49 @@ You can also explore different places from the Evangelion anime as Kaji himself,
 		<publisher>Bandai</publisher>
 		<genre>Simulation</genre>
 		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Shougi Touryuumon (Japan).zip</path>
+		<name>Shougi Touryuumon</name>
+		<desc>A basic shogi (Japanese chess) game that can be used as an introduction to shogi. The game has a variety of game modes, such as authentic 'Honshogi', 'Winner-take-all' for testing your skills, and 'Tsutsumi-Shogi', which can be played in a short intervals. The 'Research Mode' allows players to select from various patterns of fighting from the beginning, such as 'stick Gin' and '4-segment skipping car', making this game ideal for beginners to improve their skills. Also, considering the fact that the game is designed for a portable console, it is possible to save a game record for each move, so that you can stop the game at any time.</desc>
+		<releasedate>19991028T000000</releasedate>
+		<developer>Sammy Corporation</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Shougi</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Ou-chan no Oekaki Logic (Japan).zip</path>
+		<name>Ou-chan no Oekaki Logic</name>
+		<desc>Ou-chan no Oekaki Logic is a digital conversion, with anime mascots, of the classic Japanese newspaper puzzle nonograms. A nonogram is a puzzle on a square or rectangular grid the object of which is to reveal a hidden picture. Along each row and column there is a number or series of numbers which indicate how many squares will be colored in that row or grid. Example; "5 9 4" would mean there would be sets of five, nine, and four colored squares in the grid, in that order, with at least one blank in between. 
+
+Ou-chan no Oekaki Logic adds a story mode where Ou-Chan, representing the player, competes with other blobby anime characters in finding hidden images in the nonogram grids.</desc>
+		<releasedate>20000106T000000</releasedate>
+		<developer>Santa Claus</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Robot Works (Japan).zip</path>
+		<name>Robot Works</name>
+		<desc>The WonderBorg is a programmable consumer robot kit that was bundled with specialized software known as "Robot Works", which is used to program the robot. 
+
+While mainly used to program the movement of the physical robot, it also comes with a game where your aim is to get a virtual WonderBorg from start to finish with predetermined instructions: you first see the map, then give a series of instructions "two forward, turn left, one forward" etc and then run your program to see whether you managed to get the robot over the finish line.</desc>
+		<releasedate>20001207T000000</releasedate>
+		<developer>Bandai</developer>
+		<publisher>Bandai</publisher>
+		<genre>Educational</genre>
+		<players>8+</players>
+	</game>
+	<game>
+		<path>./WonderSwan Handy Sonar (Japan) (Rev 2).zip</path>
+		<name>Wonderswan Handy Sonar</name>
+		<desc>WonderSwan Handy Sonar is a fishing game developed and published by Bandai in 1999 for the WonderSwan. It is bundled with the Handy Sonar, a fish-finder device similar to the Pocket Sonar also released by Bandai for the Nintendo Game Boy.</desc>
+		<releasedate>19990513T000000</releasedate>
+		<developer>Bandai</developer>
+		<publisher>Bandai</publisher>
+		<genre>Fishing</genre>
+		<players>1</players>
 	</game>
 </gameList>

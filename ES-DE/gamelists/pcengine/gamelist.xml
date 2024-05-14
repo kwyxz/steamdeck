@@ -1276,16 +1276,6 @@ Anchors aweigh!</desc>
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Gunhed - Special Version (Japan).zip</path>
-		<name>Gunhed Special Version</name>
-		<desc>Gunhed was part of the fifth Caravan Festival organized by Hudson Soft in 1989. A non-commercial and very limited edition of Gunhed exists - Gunhed Special Version comes as a single HuCard, and offers a 2 and 5 minutes Time Attack modes</desc>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Hudson</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Hana Taaka Daka! (Japan).zip</path>
 		<name>Hana Taaka Daka!</name>
 		<desc>Konta the little fox is in trouble - while on a walk with his girlfriend Inari, he "accidentally" broke the magical seal that held the evil tanuki raccoon Jikanda and his minions prisoner. They have abducted Inari and Konta is in great despair. He decides to seek assistance from the gods and ask them for help. A flying Tengu answers to his desperate plea.</desc>
@@ -3554,6 +3544,16 @@ As well as enemies, there are many blocks on the levels. The weapon upgrade syst
 		<releasedate>19901019T000000</releasedate>
 		<developer>Video System</developer>
 		<publisher>Video System</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Gunhed - Special Version (Japan).zip</path>
+		<name>Gunhed - Hudson Gunhed Taikai</name>
+		<desc>Gunhed was part of the fifth Caravan Festival organized by Hudson Soft in 1989. A non-commercial and very limited edition of Gunhed exists - Gunhed Special Version comes as a single HuCard, and offers a 2 and 5 minutes Time Attack modes</desc>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
 		<genre>Shoot'em Up</genre>
 		<players>1</players>
 	</game>

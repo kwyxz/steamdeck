@@ -652,15 +652,6 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Party Mail (Japan).zip</path>
-		<name>Party Mail</name>
-		<desc>Software for exchanging e-mails and playing mini-games with a large number of people using a wireless unit. When the sender is set as one of five different pets, they start speaking distinctive words each time mail arrives.</desc>
-		<releasedate>19991222T000000</releasedate>
-		<developer>ADK</developer>
-		<publisher>SNK</publisher>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Picture Puzzle (Europe).zip</path>
 		<name>Oekaki Puzzle</name>
 		<desc>Picture Puzzle (Oekaki Puzzle in Japan) is a paint-by-numbers puzzle game developed by Success for the Neo Geo Pocket Color. The game plays identical to Nintendo's Picross series. Picture Puzzle offers a total of 200 puzzles: 20 5x5 puzzles, 105 10x10's, and 75 15x15's. This is biased towards smaller puzzles because the grids in anything larger would be incredibly tiny on the NGPC's screen. Also, larger puzzles take much longer to solve; smaller puzzles allows you to pick up the Pocket for 10-20 minutes at a time and, on a good day, solve a complete puzzle.
@@ -865,6 +856,15 @@ The gameplay is identical to KOF's Advanced Mode (e.g. Emergency Evasion and Run
 		<developer>SETA Corporation</developer>
 		<publisher>SETA Corporation</publisher>
 		<genre>Mahjong</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Party Mail (Japan).zip</path>
+		<name>Party Mail</name>
+		<desc>Software for exchanging e-mails and playing mini-games with a large number of people using a wireless unit. When the sender is set as one of five different pets, they start speaking distinctive words each time mail arrives.</desc>
+		<releasedate>19991222T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
 		<players>1</players>
 	</game>
 </gameList>

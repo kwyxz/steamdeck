@@ -2239,25 +2239,6 @@ Drive in a full season, a single race, test sessions (where you can modify your 
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Famicom Mini - Dai-2-ji Super Robot Taisen (Japan) (Promo).zip</path>
-		<name>Famicom Mini - Dai-2-ji Super Robot Taisen</name>
-		<desc>The prize was sent to 2,000 winners drawn from among applicants who purchased the Nintendo GameCube video game "Super Robot Wars GC," which was released on December 16, 2004. The "Super Robot Taisen W" and "Super Robot Taisen K" game softwares for the Nintendo DS have powerful items that can be obtained by inserting this software into the GBA slot of the DS or DS Lite console.</desc>
-		<releasedate>20041216T000000</releasedate>
-		<developer>WinkySoft</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Strategy</genre>
-	</game>
-	<game>
-		<path>./Famicom Mini - Kidou Senshi Z Gundam - Hot Scramble (Japan) (Promo).zip</path>
-		<name>Famicom Mini - Kidou Senshi Z Gundam - Hot Scramble</name>
-		<desc>The prize was sent to 2,000 winners drawn from among applicants who purchased "Mobile Suit Gundam: Trails of the Warriors" game software for the Nintendo GameCube, which was released on March 18, 2004.</desc>
-		<releasedate>20040318T000000</releasedate>
-		<developer>Bandai</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Famicom Mini 01 - Super Mario Bros. (Japan) (En) (Rev 1).zip</path>
 		<name>Classic NES Series - Super Mario Bros.</name>
 		<desc>Classic NES Series: Super Mario Bros. takes you back to the very first battle between Mario and Bowser. Now on the Game Boy Advance, you can relive all the mushroom-eating, Koopa-stomping action from the original game. Always strive for the high score while jumping on top of flag poles, pipes, and bricks. This time, two players can alternate play with a single Game Pak or with GBAs linked by a Game Boy Advance Game Link Cable.</desc>
@@ -2330,19 +2311,6 @@ The game is divided into four different one-screen stages. Each represents 25 me
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Famicom Mini 08 - Mappy (Japan) (En).zip</path>
-		<name>Famicom Mini 08 - Mappy</name>
-		<desc>You control Mappy, a police-mouse whose job is to collect valuables (consumer electronics) from a cat's house. You are being pursued by a gang of five pink cats. Doors are your only defense against the cats. You get from floor to floor by jumping on one of the trampolines.
-
-Points are earned by recovering stolen goods. Other ways of earning points are bouncing on a trampoline, putting cats in the microwave, striking a cat with a door, striking cats with a bell, retrieving a treasure from the Boss cat Goro or dropping cats through a hole in the floor.
-</desc>
-		<releasedate>20040214T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Famicom Mini 09 - Bomberman (Japan) (En).zip</path>
 		<name>Classic NES Series : Bomberman</name>
 		<desc>Bomberman was a robot in a bomb making factory who longed for his freedom. Rumors circulated that escaping to the surface would allow the robot to become human. Getting out would be the trick. Each room is inhabited by monsters that must be neutralized and the exit itself hidden underneath bricks.
@@ -2355,40 +2323,6 @@ The first of the Bomberman series. Bomberman is a single player game with a top 
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Famicom Mini 10 - Star Soldier (Japan) (En).zip</path>
-		<name>Famicom Mini 10 - Star Soldier</name>
-		<desc>Starbrain, a giant super computer programmed for destruction, is threatening the Galactic Empire. As a skillful and experienced star soldier, you need to pilot the Caesar into the space station Starbrain has occupied. The space station is heavily guarded by enemy ships and strange robotic creatures. You will be able to find different weapons along the way to power up the Caesar and increase chances of a successful mission. Star Soldier is an arcade style vertically scrolling shooter for one player.</desc>
-		<releasedate>20040214T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Famicom Mini 11 - Mario Bros. (Japan).zip</path>
-		<name>Famicom Mini 11 - Mario Bros.</name>
-		<desc>Mario and Luigi, the best plumbers in the world, have a real job on their hands. A host of characters have taken over the sewers, and the brothers must clear them out of the pipes.
-
-The platform puzzle which first introduced Luigi to the world has both single and multiplayer action with two differing game types, but with the same objective. Crabs, turtles and fighter flies must be cleared out by jumping underneath the platform they sit on, then kicking them away. Each level is cleared when a set number of coins is collected.
-
-For the two player mode, the first to collect the set amount of coins wins.</desc>
-		<releasedate>20021111T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Famicom Mini 12 - Clu Clu Land (Japan).zip</path>
-		<name>Famicom Mini 12 - Clu Clu Land</name>
-		<desc>A fixed-screen action game in which the player searches for gold nuggets hidden in the Kuru Kuru Land while making the gluppie, which keeps going straight, grab the turn post (ball) to change direction. The stage is cleared when all the gold nuggets appear.</desc>
-		<releasedate>20040521T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Famicom Mini 13 - Balloon Fight (Japan).zip</path>
 		<name>Advance Play Edition - Balloon Fight</name>
 		<desc>In Balloon Fight you need to fly around with the aid of two balloons and try to pop your opponent's balloons before they pop yours. Landing on top of your opponents will cause their balloons to pop and they will use a parachute to fall to safety. You then have to destroy the fallen opponents by running into them before they can blow a new balloon and rejoin the battle. Should both of your balloons get popped, you will fall into the water below and lose a life. There is also a second game variation called "balloon trip" where you need to collect as many balloons as possible while avoiding the ocean floor and lightnings that form maze-like walls.</desc>
@@ -2396,16 +2330,6 @@ For the two player mode, the first to collect the set amount of coins wins.</des
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Famicom Mini 14 - Wrecking Crew (Japan).zip</path>
-		<name>Famicom Mini 14 - Wrecking Crew</name>
-		<desc>Wrecking Crew is a platform action game for one or two players. Players control Mario and Luigi, who need to demolish various buildings. After each wall in the building has been destroyed, players move on to the next (and more difficult) building. Many of the buildings have a puzzle element to them; players may need to find the path to reach all of the walls without the heroes getting trapped at a dead end. Wandering throughout the buildings are dangerous creatures and the construction foreman, all of whom will stop Mario and Luigi from completing their task. The game features 100 levels. A construction set is included, allowing players to create and play their own buildings.</desc>
-		<releasedate>20040521T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
 		<players>1-2</players>
 	</game>
 	<game>
@@ -2419,81 +2343,6 @@ For the two player mode, the first to collect the set amount of coins wins.</des
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Famicom Mini 16 - Dig Dug (Japan).zip</path>
-		<name>Famicom Mini 16 - Dig Dug</name>
-		<desc>Dig Dug is a 1-2 player arcade game in which you have to use your shovel to dig your way through the earth. Stopping you from doing this are two monsters, called Pooka and Fygar, who will continually chase you around. The only weapon that you carry is an air pump, which you can use to inflate the monsters to the point where they explode. (if you start to inflate them but stop doing so, the monsters will get turned back to their normal selves). Furthermore, rocks are scattered throughout the earth, and you can use these rocks to squash them. If the monsters do not find you for several seconds, they will eventually get turned into ghosts, which are able to walk through the earth. They are invincible and cannot be killed. From time to time, vegetables will appear in the center, and you can get these for points.</desc>
-		<releasedate>20040521T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Famicom Mini 17 - Takahashi Meijin no Bouken-jima (Japan).zip</path>
-		<name>Famicom Mini 17 - Takahashi Meijin No Bouken-jima</name>
-		<desc>You just found out that Princess Leilani was kidnapped by the Evil Witch Doctor and taken to Adventure Island in the South Pacific. You land on Adventure Island without weapons or food. The island is thick with tropical forest, mountains and caves. Hidden on the island are your skateboard, axe, food and other helpful tools you must find by exploring the island. Better find the weapons and food quickly because you will need them to fight the Witch Doctor's spiders, snakes, bats and demons. The Evil Witch Doctor has set lots of traps for you before you can face him one on one. Are you up for the challenge?! Can you live through Adventure Island to save Princess Leilani?!</desc>
-		<releasedate>20040524T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Famicom Mini 18 - Makaimura (Japan).zip</path>
-		<name>Famicom Mini 18 - Makai Mura</name>
-		<desc>A reprint of the NES software. Arthur, a knight, is kidnapped by the Great Demon King, and he must rescue the princess by fighting against the demons. This is an action game with a high level of difficulty that unfolds in a unique world view.</desc>
-		<releasedate>20040521T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Famicom Mini 19 - Twin Bee (Japan).zip</path>
-		<name>Famicom Mini 19 - Twin Bee</name>
-		<desc>winBee is a vertical scrolling shooter. The players control cartoon-like spacecrafts with anthropomorphic arms, player one being TwinBee and player two being WinBee. The spacecrafts can be moved in all 8 directions, with one button for regular shooting flying enemies and one button for dropping ground bombs.</desc>
-		<releasedate>20040521T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Famicom Mini 20 - Ganbare Goemon! - Karakuri Douchuu (Japan).zip</path>
-		<name>Famicom Mini 20 - Ganbare Goemon! - Karakuri Douchuu</name>
-		<desc>A reprint of the NES software. The main character, Goemon, a righteous bandit, travels around looking for enemies to vanquish the evil daimyo. The basic controls are jumping and attacking with koban. He must find the item, a bill of passage, in order to proceed.</desc>
-		<releasedate>20040521T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Famicom Mini 21 - Super Mario Bros. 2 (Japan).zip</path>
-		<name>Famicom Mini 21 - Super Mario Bros. 2</name>
-		<desc>The Princess has been kidnapped by King Koopa (again) and it's up to Mario and Luigi to save her (again). Not to be confused with the western Super Mario Bros. 2, this sequel to Super Mario Bros. is very much an expansion to the original, with many reused graphics and concepts, though new ones are also present.
-
-Instead of offering a two-player mode as in the original, this game allows you to choose between a Mario mode and a Luigi mode, with each character handling differently. Mario has tighter ground control, while Luigi has greater jumping capabilities.
-
-Power-ups remain the same: Super Mushrooms grow a brother from small to Super size, Fire Flowers give them the ability to throw fireballs at enemies, Starman makes a character temporarily invincible, and a 1-Up Mushroom will give one more life. New to this game is a power-down, a Poison Mushroom which will harm you as if it were an enemy.
-
-The goal is still to survive from the left side of the level to the right, avoiding perils and bopping enemies along the way, progressing through a series of 8 worlds with 4 levels each. That is, unless a warp zone is found allowing areas to be skipped. There are new tricks that work for and against the player, though. Some piranha plants will come out of their pipe even if you're standing right next to them, and bloobers now appear outside of the water. Wind can be present to alter how jumps will behave. Some warp zones will actually take the player to an earlier level instead of to a later one.</desc>
-		<releasedate>20040810T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Famicom Mini 22 - Nazo no Murasame Jou (Japan).zip</path>
-		<name>Famicom Mini 22 - Nazo No Murasame Jou</name>
-		<desc>A reprint of the Disk System software. At the time, it was released as the second version of software for the Disk System. The setting is the Edo period. A young swordsman named "Takamaru" is secretly ordered by the Shogunate to expose the mysterious "Murasame" that lurks in Murasame Castle.</desc>
-		<releasedate>20040810T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Famicom Mini 23 - Metroid (Japan).zip</path>
 		<name>Classic NES Series : Metroid</name>
 		<desc>The original Metroid game makes its way to the Game Boy Advance as part of the Classic NES Series. As Samus Aran, your mission is to keep space pirates from destroying the galaxy with their Metroids. To do this, you must penetrate Zebes, the pirates' home planet, while collecting special items to attack enemies in new ways. Metroid offers side-scrolling action that tests your dexterity and brings you back to classic '80s gaming.</desc>
@@ -2501,16 +2350,6 @@ The goal is still to survive from the left side of the level to the right, avoid
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Shooter</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Famicom Mini 24 - Hikari Shinwa - Palthena no Kagami (Japan).zip</path>
-		<name>Famicom Mini 24 - Hikari Shinwa - Palthena No Kagami</name>
-		<desc>Reissue of Disk System software. In this action adventure, the angel bit rescues Palutena, the goddess of light, from Medusa, the goddess of darkness, and restores peace to Angel Land. The screen moves in a vertical scroll. When the game is over, Bit says "Yarare Chatta".</desc>
-		<releasedate>20040810T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
 		<players>1</players>
 	</game>
 	<game>
@@ -2522,56 +2361,6 @@ The goal is still to survive from the left side of the level to the right, avoid
 		<publisher>Nintendo</publisher>
 		<genre>Action RPG</genre>
 		<players>1</players>
-	</game>
-	<game>
-		<path>./Famicom Mini 26 - Famicom Mukashibanashi - Shin Onigashima - Zen, Kouhen (Japan).zip</path>
-		<name>Famicom Mini 26 - Famicom Mukashibanashi - Shin Onigashima - Zen, Kouhen</name>
-		<desc>A text adventure game that unfolds in a heartwarming mood based on a Japanese folktale that everyone knows. There are two main characters in the game, and by using the "Hito Kaeru" command to change the main character, you can play different stories.</desc>
-		<releasedate>20040810T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Famicom Mini 27 - Famicom Tantei Club - Kieta Koukeisha - Zen, Kouhen (Japan).zip</path>
-		<name>Famicom Mini 27 - Famicom Tantei Club - Kieta Koukeisha - Zen, Kouhen</name>
-		<desc>A reprint of the Disk System adventure nicknamed "Fami-Tan". The village of Myojin, where a terrible legend remains. In this text adventure game, players solve the mystery of a series of murders that occur over the inheritance of an old woman in the village. The main character, a boy detective, suffers from amnesia in the story.</desc>
-		<releasedate>20040810T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Compilation</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Famicom Mini 28 - Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zen, Kouhen (Japan).zip</path>
-		<name>Famicom Mini 28 - Famicom Tantei Club Part 2 - Ushiro Ni Tatsu Shoujo - Zen, Kouhen</name>
-		<desc>The story takes place a little earlier than "The Missing Heir. The boy who played an active role in "The Vanishing Successor" begins to pursue his career as a detective. The case that started it all unfolds. A horrible case develops from an innocuous gossip that appears at Ushi-Mitsu High School, where the spirit of a bloodstained girl appears.</desc>
-		<releasedate>20040810T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Compilation</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Famicom Mini 29 - Akumajou Dracula (Japan).zip</path>
-		<name>Famicom Mini 29 - Akumajou Dracula</name>
-		<desc>You play the role of Simon Belmondo, a vampire hunter who uses a whip, a cross, holy water and other items to navigate his way through the monster-infested Devil's Castle. The whip can be powered up by taking items. If you defeat the last boss in the stage within the time limit, you can go to the next stage.</desc>
-		<releasedate>20040810T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Famicom Mini 30 - SD Gundam World - Gachapon Senshi Scramble Wars (Japan).zip</path>
-		<name>Famicom Mini 30 - Sd Gundam World - Gachapon Senshi Scramble Wars</name>
-		<desc>This work is the origin of SD Gundam. You can collect military funds to produce mobile suits and conquer enemy cities on the map. The battles are action-packed, so depending on the player's skill, the battle between mobile suits can turn the tables.</desc>
-		<releasedate>20040810T000000</releasedate>
-		<developer>Bandai</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Strategy</genre>
-		<players>1-2</players>
 	</game>
 	<game>
 		<path>./Family Feud (USA).zip</path>
@@ -4334,16 +4123,6 @@ Depending on how well you have done in training and grooming, your horse will gi
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Lode Runner (Japan).zip</path>
-		<name>Lode Runner</name>
-		<desc>You're a highly trained Galactic Commando, deep in enemy territory. Your mission: to recover a fortune in gold, stolen from the Bungeling people by their power-hungry leaders. You'll be running, jumping, and climbing heroically, solving perplexing puzzles. With your laser pistol, you'll drill passageways through stone floors and barriers. To get through this mission alive, you'll need more than fleet feet and good looks. You'll need your quick wits and brains. And more than just a little luck.</desc>
-		<releasedate>20030221T000000</releasedate>
-		<developer>Success</developer>
-		<publisher>Success</publisher>
-		<genre>Platform / Run Jump</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Looney Tunes - Back in Action (USA, Europe) (En,Fr,De,Es,It).zip</path>
 		<name>Looney Tunes : Back in Action</name>
 		<desc>Looney Tunes Back In Action is a hilarious new adventure featuring everyone's favorite cartoon two-some, Bugs Bunny and Daffy Duck, in a globetrotting scavenger hunt to find the mythical Blue Monkey Diamond. From Hollywood to Las Vegas, from Paris to Africa, our roving heroes must run, jump, slide, and bounce their way through a heap of cartoon perils and put an end to the sinister plans of the evil ACME Corporation in an effort to save the world. "Toon Swapping" lets you switch between Bugs and Daffy at any time on your quest as you explore loads of exciting challenges on this globetrotting adventure inspired by the movie.</desc>
@@ -4965,16 +4744,6 @@ Two characters are offered to play as, and along with the usual Metal Slug flair
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Mezase! Koushien (Japan).zip</path>
-		<name>Mezase! Koushien</name>
-		<desc>In this baseball game, the player portrays a 1st year student who becomes team captain, surmounting hardships and reality of competition, within 3-years before graduation and is aspired towards entering the legendary baseball tournament, the Koushien!</desc>
-		<releasedate>20050310T000000</releasedate>
-		<developer>Tasuke</developer>
-		<publisher>Tasuke</publisher>
-		<genre>Sports / Baseball</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Mickey no Pocket Resort (Japan).zip</path>
 		<name>Disney's Party</name>
 		<desc>A new theme park is about to be opened by Uncle Scrooge, until Dr. Nickel arrives on the scene, taking over the power systems and scattering magic power all over the park. In order for the park to be opened, it's up to Mickey, Minnie, Donald and Daisy to find the magical powers and return the park back to the way it was.
@@ -5199,15 +4968,6 @@ The 2 Player mode, involving a link cable and two copies of the game, allows pla
 		<publisher>Tecmo</publisher>
 		<genre>Simulation</genre>
 		<players>1-4</players>
-	</game>
-	<game>
-		<path>./Monster Summoner (Japan).zip</path>
-		<name>Monster Summoner</name>
-		<desc>Part roleplaying game, part fantasy simulation from newcomer Ertain. Your ultimate goal is to become Lord of Summoner. You play as Case, a young magician apprentice, who heads off on an adventure. Call upon a variety of monsters to fight in battle, both against in-game opponents and with live opponents via the Game Boy Advance link-up cable. Monsters emerge from Generators that are placed on the game field; to defeat an opponent summoner, you must destroy its Generator.</desc>
-		<releasedate>20040715T000000</releasedate>
-		<publisher>Ertain</publisher>
-		<genre>Strategy</genre>
-		<players>1</players>
 	</game>
 	<game>
 		<path>./Monster Truck Madness (USA, Europe).zip</path>
@@ -7867,16 +7627,6 @@ Bowser and his crew of cruel Koopalings have taken over Dinosaur Island, but luc
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1).zip</path>
-		<name>Super Mario Advance 4 : Super Mario Bros. 3</name>
-		<desc>A combination of exciting platforming action, wild power-ups, and charming Mario style has made Super Mario Bros. 3 a classic. With Super Mario Advance 4: Super Mario Bros. 3, you have your chance to partake in the special adventure anywhere you go on your Game Boy Advance. Your mission is to rescue the Mushroom Kingdom monarchs who have been transformed into animals by Bowser and his mischievous offspring, and in the process save the princess kidnapped by Bowser. Traverse eight huge worlds and encounter fun minigames and frantic boss battles as you explore the first Mario game to use an overworld map.</desc>
-		<releasedate>20031021T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./Super Monkey Ball Jr. (USA).zip</path>
 		<name>Super Monkey Ball Jr.</name>
 		<desc>Based on the Gamecube series of the same name, Super Monkey Ball Jr. has you in control of 3D style arenas, each with a varying degree of difficulty and objectives. Your little monkey, inside a ball, relies on your movement of the arena to get to the required objectives (collecting items, getting to the finish line in under a certain time limit, etc.).
@@ -9706,6 +9456,262 @@ There are four cases in total. In each case, Ryuuichi has to follow the story ca
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1).zip</path>
+		<name>Super Mario Advance 4 : Super Mario Bros. 3</name>
+		<desc>A combination of exciting platforming action, wild power-ups, and charming Mario style has made Super Mario Bros. 3 a classic. With Super Mario Advance 4: Super Mario Bros. 3, you have your chance to partake in the special adventure anywhere you go on your Game Boy Advance. Your mission is to rescue the Mushroom Kingdom monarchs who have been transformed into animals by Bowser and his mischievous offspring, and in the process save the princess kidnapped by Bowser. Traverse eight huge worlds and encounter fun minigames and frantic boss battles as you explore the first Mario game to use an overworld map.</desc>
+		<releasedate>20031021T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Famicom Mini - Dai-2-ji Super Robot Taisen (Japan) (Promo).zip</path>
+		<name>Famicom Mini : Dai-2-ji Super Robot Taisen</name>
+		<desc>The prize was sent to 2,000 winners drawn from among applicants who purchased the Nintendo GameCube video game "Super Robot Wars GC," which was released on December 16, 2004. The "Super Robot Taisen W" and "Super Robot Taisen K" game softwares for the Nintendo DS have powerful items that can be obtained by inserting this software into the GBA slot of the DS or DS Lite console.</desc>
+		<releasedate>20041216T000000</releasedate>
+		<developer>Winky Soft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Famicom Mini - Kidou Senshi Z Gundam - Hot Scramble (Japan) (Promo).zip</path>
+		<name>Famicom Mini : Kidou Senshi Z Gundam, Hot Scramble</name>
+		<desc>The prize was sent to 2,000 winners drawn from among applicants who purchased "Mobile Suit Gundam: Trails of the Warriors" game software for the Nintendo GameCube, which was released on March 18, 2004.</desc>
+		<releasedate>20040318T000000</releasedate>
+		<developer>Bandai</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 08 - Mappy (Japan) (En).zip</path>
+		<name>Famicom Mini 08 : Mappy</name>
+		<desc>You control Mappy, a police-mouse whose job is to collect valuables (consumer electronics) from a cat's house. You are being pursued by a gang of five pink cats. Doors are your only defense against the cats. You get from floor to floor by jumping on one of the trampolines.
+
+Points are earned by recovering stolen goods. Other ways of earning points are bouncing on a trampoline, putting cats in the microwave, striking a cat with a door, striking cats with a bell, retrieving a treasure from the Boss cat Goro or dropping cats through a hole in the floor.
+</desc>
+		<releasedate>20040214T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 10 - Star Soldier (Japan) (En).zip</path>
+		<name>Famicom Mini 10 : Star Soldier</name>
+		<desc>Starbrain, a giant super computer programmed for destruction, is threatening the Galactic Empire. As a skillful and experienced star soldier, you need to pilot the Caesar into the space station Starbrain has occupied. The space station is heavily guarded by enemy ships and strange robotic creatures. You will be able to find different weapons along the way to power up the Caesar and increase chances of a successful mission. Star Soldier is an arcade style vertically scrolling shooter for one player.</desc>
+		<releasedate>20040214T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 11 - Mario Bros. (Japan).zip</path>
+		<name>Famicom Mini 11 : Mario Bros.</name>
+		<desc>Mario and Luigi, the best plumbers in the world, have a real job on their hands. A host of characters have taken over the sewers, and the brothers must clear them out of the pipes.
+
+The platform puzzle which first introduced Luigi to the world has both single and multiplayer action with two differing game types, but with the same objective. Crabs, turtles and fighter flies must be cleared out by jumping underneath the platform they sit on, then kicking them away. Each level is cleared when a set number of coins is collected.
+
+For the two player mode, the first to collect the set amount of coins wins.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040521T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 12 - Clu Clu Land (Japan).zip</path>
+		<name>Famicom Mini 12 : Clu Clu Land</name>
+		<desc>A fixed-screen action game in which the player searches for gold nuggets hidden in the Kuru Kuru Land while making the gluppie, which keeps going straight, grab the turn post (ball) to change direction. The stage is cleared when all the gold nuggets appear.</desc>
+		<releasedate>20040521T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 14 - Wrecking Crew (Japan).zip</path>
+		<name>Famicom Mini 14 : Wrecking Crew</name>
+		<desc>Wrecking Crew is a platform action game for one or two players. Players control Mario and Luigi, who need to demolish various buildings. After each wall in the building has been destroyed, players move on to the next (and more difficult) building. Many of the buildings have a puzzle element to them; players may need to find the path to reach all of the walls without the heroes getting trapped at a dead end. Wandering throughout the buildings are dangerous creatures and the construction foreman, all of whom will stop Mario and Luigi from completing their task. The game features 100 levels. A construction set is included, allowing players to create and play their own buildings.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040521T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 16 - Dig Dug (Japan).zip</path>
+		<name>Famicom Mini 16 : Dig Dug</name>
+		<desc>Dig Dug is a 1-2 player arcade game in which you have to use your shovel to dig your way through the earth. Stopping you from doing this are two monsters, called Pooka and Fygar, who will continually chase you around. The only weapon that you carry is an air pump, which you can use to inflate the monsters to the point where they explode. (if you start to inflate them but stop doing so, the monsters will get turned back to their normal selves). Furthermore, rocks are scattered throughout the earth, and you can use these rocks to squash them. If the monsters do not find you for several seconds, they will eventually get turned into ghosts, which are able to walk through the earth. They are invincible and cannot be killed. From time to time, vegetables will appear in the center, and you can get these for points.</desc>
+		<rating>0.8</rating>
+		<releasedate>20040521T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 17 - Takahashi Meijin no Bouken-jima (Japan).zip</path>
+		<name>Famicom Mini 17 : Takahashi Meijin no Bouken-jima</name>
+		<desc>You just found out that Princess Leilani was kidnapped by the Evil Witch Doctor and taken to Adventure Island in the South Pacific. You land on Adventure Island without weapons or food. The island is thick with tropical forest, mountains and caves. Hidden on the island are your skateboard, axe, food and other helpful tools you must find by exploring the island. Better find the weapons and food quickly because you will need them to fight the Witch Doctor's spiders, snakes, bats and demons. The Evil Witch Doctor has set lots of traps for you before you can face him one on one. Are you up for the challenge?! Can you live through Adventure Island to save Princess Leilani?!</desc>
+		<releasedate>20040524T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 18 - Makaimura (Japan).zip</path>
+		<name>Famicom Mini 18 : Makaimura</name>
+		<desc>A reprint of the NES software. Arthur, a knight, is kidnapped by the Great Demon King, and he must rescue the princess by fighting against the demons. This is an action game with a high level of difficulty that unfolds in a unique world view.</desc>
+		<releasedate>20040521T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 19 - Twin Bee (Japan).zip</path>
+		<name>Famicom Mini 19 : Twin Bee</name>
+		<desc>winBee is a vertical scrolling shooter. The players control cartoon-like spacecrafts with anthropomorphic arms, player one being TwinBee and player two being WinBee. The spacecrafts can be moved in all 8 directions, with one button for regular shooting flying enemies and one button for dropping ground bombs.</desc>
+		<rating>0.7</rating>
+		<releasedate>20040521T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 20 - Ganbare Goemon! - Karakuri Douchuu (Japan).zip</path>
+		<name>Famicom Mini 20 : Ganbare Goemon!, Karakuri Douchuu</name>
+		<desc>A reprint of the NES software. The main character, Goemon, a righteous bandit, travels around looking for enemies to vanquish the evil daimyo. The basic controls are jumping and attacking with koban. He must find the item, a bill of passage, in order to proceed.</desc>
+		<releasedate>20040521T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 21 - Super Mario Bros. 2 (Japan).zip</path>
+		<name>Famicom Mini 21 : Super Mario Bros. 2</name>
+		<desc>The Princess has been kidnapped by King Koopa (again) and it's up to Mario and Luigi to save her (again). Not to be confused with the western Super Mario Bros. 2, this sequel to Super Mario Bros. is very much an expansion to the original, with many reused graphics and concepts, though new ones are also present.
+
+Instead of offering a two-player mode as in the original, this game allows you to choose between a Mario mode and a Luigi mode, with each character handling differently. Mario has tighter ground control, while Luigi has greater jumping capabilities.
+
+Power-ups remain the same: Super Mushrooms grow a brother from small to Super size, Fire Flowers give them the ability to throw fireballs at enemies, Starman makes a character temporarily invincible, and a 1-Up Mushroom will give one more life. New to this game is a power-down, a Poison Mushroom which will harm you as if it were an enemy.
+
+The goal is still to survive from the left side of the level to the right, avoiding perils and bopping enemies along the way, progressing through a series of 8 worlds with 4 levels each. That is, unless a warp zone is found allowing areas to be skipped. There are new tricks that work for and against the player, though. Some piranha plants will come out of their pipe even if you're standing right next to them, and bloobers now appear outside of the water. Wind can be present to alter how jumps will behave. Some warp zones will actually take the player to an earlier level instead of to a later one.</desc>
+		<rating>0.8</rating>
+		<releasedate>20040810T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 22 - Nazo no Murasame Jou (Japan).zip</path>
+		<name>Famicom Mini 22 : Nazo no Murasame Jou</name>
+		<desc>A reprint of the Disk System software. At the time, it was released as the second version of software for the Disk System. The setting is the Edo period. A young swordsman named "Takamaru" is secretly ordered by the Shogunate to expose the mysterious "Murasame" that lurks in Murasame Castle.</desc>
+		<releasedate>20040810T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 24 - Hikari Shinwa - Palthena no Kagami (Japan).zip</path>
+		<name>Famicom Mini 24 : Hikari Shinwa, Palthena no Kagami</name>
+		<desc>Reissue of Disk System software. In this action adventure, the angel bit rescues Palutena, the goddess of light, from Medusa, the goddess of darkness, and restores peace to Angel Land. The screen moves in a vertical scroll. When the game is over, Bit says "Yarare Chatta".</desc>
+		<releasedate>20040810T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 26 - Famicom Mukashibanashi - Shin Onigashima - Zen, Kouhen (Japan).zip</path>
+		<name>Famicom Mini 26 : Famicom Mukashibanashi, Shin Onigashima, Zen, Kouhen</name>
+		<desc>A text adventure game that unfolds in a heartwarming mood based on a Japanese folktale that everyone knows. There are two main characters in the game, and by using the "Hito Kaeru" command to change the main character, you can play different stories.</desc>
+		<releasedate>20040810T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 27 - Famicom Tantei Club - Kieta Koukeisha - Zen, Kouhen (Japan).zip</path>
+		<name>Famicom Mini 27 : Famicom Tantei Club, Kieta Koukeisha, Zen, Kouhen</name>
+		<desc>A reprint of the Disk System adventure nicknamed "Fami-Tan". The village of Myojin, where a terrible legend remains. In this text adventure game, players solve the mystery of a series of murders that occur over the inheritance of an old woman in the village. The main character, a boy detective, suffers from amnesia in the story.</desc>
+		<releasedate>20040810T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Compilation</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 28 - Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zen, Kouhen (Japan).zip</path>
+		<name>Famicom Mini 28 : Famicom Tantei Club Part II, Ushiro ni Tatsu Shoujo, Zen, Kouh</name>
+		<desc>The story takes place a little earlier than "The Missing Heir. The boy who played an active role in "The Vanishing Successor" begins to pursue his career as a detective. The case that started it all unfolds. A horrible case develops from an innocuous gossip that appears at Ushi-Mitsu High School, where the spirit of a bloodstained girl appears.</desc>
+		<releasedate>20040810T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Compilation</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 29 - Akumajou Dracula (Japan).zip</path>
+		<name>Famicom Mini 29 : Akumajou Dracula</name>
+		<desc>Take a stroll down memory lane with the classic side-scrolling game Castlevania. The game, which is part of the Classic NES Series on the Game Boy Advance, sets you off on a mission to undo the curse of the evil Count. Before you challenge the Count, you must first battle his army of ghosts, mummies, bats, and zombies. Use your magic whip and other weapons if you want to make it out of the castle alive.</desc>
+		<rating>0.8</rating>
+		<releasedate>20040810T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Famicom Mini 30 - SD Gundam World - Gachapon Senshi Scramble Wars (Japan).zip</path>
+		<name>Famicom Mini 30 : SD Gundam World, Gachapon Senshi Scramble Wars</name>
+		<desc>This work is the origin of SD Gundam. You can collect military funds to produce mobile suits and conquer enemy cities on the map. The battles are action-packed, so depending on the player's skill, the battle between mobile suits can turn the tables.</desc>
+		<releasedate>20040810T000000</releasedate>
+		<developer>Bandai</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Mezase! Koushien (Japan).zip</path>
+		<name>Mezase! Koushien</name>
+		<desc>In this baseball game, the player portrays a 1st year student who becomes team captain, surmounting hardships and reality of competition, within 3-years before graduation and is aspired towards entering the legendary baseball tournament, the Koushien!</desc>
+		<releasedate>20050310T000000</releasedate>
+		<developer>Tasuke</developer>
+		<publisher>Tasuke</publisher>
+		<genre>Sports / Baseball</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Lode Runner (Japan).zip</path>
+		<name>Lode Runner</name>
+		<desc>You're a highly trained Galactic Commando, deep in enemy territory. Your mission: to recover a fortune in gold, stolen from the Bungeling people by their power-hungry leaders. You'll be running, jumping, and climbing heroically, solving perplexing puzzles. With your laser pistol, you'll drill passageways through stone floors and barriers. To get through this mission alive, you'll need more than fleet feet and good looks. You'll need your quick wits and brains. And more than just a little luck.</desc>
+		<releasedate>20030221T000000</releasedate>
+		<developer>Success</developer>
+		<publisher>Success</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Monster Summoner (Japan).zip</path>
+		<name>Monster Summoner</name>
+		<desc>Part roleplaying game, part fantasy simulation from newcomer Ertain. Your ultimate goal is to become Lord of Summoner. You play as Case, a young magician apprentice, who heads off on an adventure. Call upon a variety of monsters to fight in battle, both against in-game opponents and with live opponents via the Game Boy Advance link-up cable. Monsters emerge from Generators that are placed on the game field; to defeat an opponent summoner, you must destroy its Generator.</desc>
+		<releasedate>20040715T000000</releasedate>
+		<publisher>Ertain</publisher>
+		<genre>Strategy</genre>
 		<players>1</players>
 	</game>
 </gameList>

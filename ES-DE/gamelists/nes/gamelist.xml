@@ -3150,18 +3150,6 @@ The game doesn't include a campaign, but instead provides you with a scenario de
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Cosmo Genesis (Japan) [T-En by Aeon Genesis v1.1].zip</path>
-		<name>Star Voyager</name>
-		<desc>CosmoStation Noah, located in Spiral Galaxy IX, is under siege by Molok Wardrivers. Now it's time for the pilot of the RH119 to fend off the Molok Wardrivers and save the CosmoStation.
-
-Star Voyager's gameplay requires the player to venture through various sectors of the galaxy in search of different alien fleets so they can be defeated. Fuel stations are placed around sporadically and help if fuel is running low. There are several different planets that are either empty or have people that can upgrade the player's equipment to fight off the enemy fleets. These upgrades include the super laser, improved shields, and engines that enhance the ship's warping ability. Warping is a vital part of the gameplay. If players do not warp to different sectors wisely, they might end up lost, run into dangerous sectors such as the black hole or the asteroid field, or run out of fuel. The game ends if enemy ships destroy the CosmoStation Noah.</desc>
-		<releasedate>19870901T000000</releasedate>
-		<developer>ASCII Corporation</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Cosmo Police Galivan (Japan) [T-En by Jair v1.00].zip</path>
 		<name>Cosmo Police Galivan</name>
 		<desc>Cosmo Police Galivan puts the player in control of a human being armed with a beam blade, which is only able to attack monsters in close proximity. As the game continues, the player character can use different powers - some ranged - to take out enemies and progress further. Eventually, the player will have the option of becoming a metal-armored officer with considerably more fire-power, though this power-up state will vanish if too much damage is taken. The player character will also level-up after destroying so many enemies, improving their health and "cosmo points" - a stat similar to mana that is used to power the player character's special attacks.
@@ -4226,16 +4214,6 @@ Included in the game is the normal mode, a time trial, and a two player battle m
 		<publisher>Nintendo</publisher>
 		<genre>Puzzle-Game</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Dragon Ball - Le Secret du Dragon (France).zip</path>
-		<name>Dragon Power</name>
-		<desc>Dragon Power is an action-adventure game developed and published by Bandai for the Nintendo Entertainment System on March 3, 1988. It is a heavily localized version of the Japanese game Dragon Ball: Shenron no Nazo (translated to Dragon Ball: Mystery of the Dragon God), originally released on November 27, 1986. Although some of the European releases retain the Dragon Ball assets (under the title Dragon Ball), the North American release removes most references to the franchise. The game follows the first two volumes of the Dragon Ball manga, as the young monkey-tailed boy Goku (along with his teenage friend, Bulma, known in the North American version as Nora), embark on a quest to find all seven Dragon Balls (Crystal Balls in the NA version), in which it is believed that collecting them grants the user any wish they desire. Along the way, they encounter various characters, including turtle hermit Master Roshi (Hermit in the NA version), shapeshifting anthropomorphic pig Oolong (Pudgy in the NA version) and desert bandit Yamcha (Lancer in the NA version).</desc>
-		<releasedate>19880301T000000</releasedate>
-		<developer>TOSE</developer>
-		<publisher>Bandai</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
 	</game>
 	<game>
 		<path>./Dragon Ball - Revival of the Dark Lord (Japan) [T-En by Stardust Crusaders v1.0] [n].zip</path>
@@ -7871,15 +7849,6 @@ Tokaido Gojuusan Tsugi is a horizontally scrolling action game developed by Suns
 		<publisher>Sunsoft</publisher>
 		<genre>Platform</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Karaoke Studio (Japan).zip</path>
-		<name>Karaoke Studio</name>
-		<releasedate>19870730T000000</releasedate>
-		<developer>TOSE</developer>
-		<publisher>Bandai</publisher>
-		<genre>Music and Dance</genre>
-		<players>1</players>
 	</game>
 	<game>
 		<path>./Karaoke Studio Senyou Cassette - Top Hit 20 Vol. 1 (Japan).zip</path>
@@ -18075,5 +18044,26 @@ Old and new power-ups abound in each level for the Mario Brothers, including the
 		<publisher>Nintendo</publisher>
 		<genre>Platform</genre>
 		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Karaoke Studio (Japan).zip</path>
+		<name>Karaoke Studio</name>
+		<desc>Karaoke Studio is a karaoke video game for the Famicom. It was sold with a hardware extension to be inserted in the console cartridge port and a microphone device able to detect human voice.</desc>
+		<releasedate>19870730T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Bandai</publisher>
+		<genre>Music and Dance</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Dragon Ball - Le Secret du Dragon (France).zip</path>
+		<name>Dragon Ball : Shen Long no Nazo</name>
+		<desc>Dragon Power is an action-adventure game developed and published by Bandai for the Nintendo Entertainment System on March 3, 1988. It is a heavily localized version of the Japanese game Dragon Ball: Shenron no Nazo (translated to Dragon Ball: Mystery of the Dragon God), originally released on November 27, 1986. Although some of the European releases retain the Dragon Ball assets (under the title Dragon Ball), the North American release removes most references to the franchise. The game follows the first two volumes of the Dragon Ball manga, as the young monkey-tailed boy Goku (along with his teenage friend, Bulma, known in the North American version as Nora), embark on a quest to find all seven Dragon Balls (Crystal Balls in the NA version), in which it is believed that collecting them grants the user any wish they desire. Along the way, they encounter various characters, including turtle hermit Master Roshi (Hermit in the NA version), shapeshifting anthropomorphic pig Oolong (Pudgy in the NA version) and desert bandit Yamcha (Lancer in the NA version).</desc>
+		<rating>0.4</rating>
+		<releasedate>19861127T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Bandai</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
 	</game>
 </gameList>

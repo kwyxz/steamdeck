@@ -88,6 +88,16 @@ Most characters have had modifications to their movelists in some way, such as n
 		<players>1-2</players>
 	</game>
 	<game>
+		<path>./King of Fighters XI, The (2005) (SEGA, SNK Playmore).chd</path>
+		<name>The King of Fighters XI</name>
+		<desc>The eleventh game in the KOF series following The King of Fighters 2003. According to Sega: 'For over 10 years, the King of Fighters series has been the choice of game players around the world. The 11th team of fighters continues this tradition. KOF11 is suited for one to two players, with continuous buy-in. Choose from 33 fighters, including 4 new characters. A fifth control button was added to enhance your skills by delivering a devastating blow to your opponent, if hit at the right time. A New Skill Gauge performs a variety of tag-off moves and new attacks. A player can also custom construct a Three-Fighter Tag-Team by selecting three choice combatants.'</desc>
+		<releasedate>20050101T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
 		<path>./Samurai Spirits Tenkaichi Kenkakuden (2005) (SEGA, SNK Playmore).chd</path>
 		<name>Samurai Shodown 6 - Tale of the World's Greatest Swordsman</name>
 		<desc>Among other series changes, aerial blocking was removed entirely, and the switch-around move, which enabled a player to shift quickly behind the other's back, as well as the dodge (evade, side-step), in which the move virtually brings a semi-3D environment to the defense in attempt to use each sword more effectively.
@@ -99,16 +109,6 @@ SNK also added a "suicide" move, wherein one's character forfeits the round. The
 		<developer>SNK Playmore</developer>
 		<publisher>Sammy Studios</publisher>
 		<genre>Fight</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./King of Fighters XI, The (2005) (SEGA, SNK Playmore).chd</path>
-		<name>The King of Fighters XI</name>
-		<desc>The eleventh game in the KOF series following The King of Fighters 2003. According to Sega: 'For over 10 years, the King of Fighters series has been the choice of game players around the world. The 11th team of fighters continues this tradition. KOF11 is suited for one to two players, with continuous buy-in. Choose from 33 fighters, including 4 new characters. A fifth control button was added to enhance your skills by delivering a devastating blow to your opponent, if hit at the right time. A New Skill Gauge performs a variety of tag-off moves and new attacks. A player can also custom construct a Three-Fighter Tag-Team by selecting three choice combatants.'</desc>
-		<releasedate>20050101T000000</releasedate>
-		<developer>SNK Playmore</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fight / Versus</genre>
 		<players>1-2</players>
 	</game>
 </gameList>

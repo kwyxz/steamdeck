@@ -57,16 +57,6 @@ Your performance is then rated on your time to complete the objectives, how many
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Daytona USA - Circuit Edition (Japan).chd</path>
-		<name>Daytona USA : Championship Circuit Edition</name>
-		<desc>All of its predecessor and then some. More tracks, many more cars (hidden cars as well), smarter AI, more music (no more lyrics for the in-game race music either), broader 2-player gameplay, more refined arcade physics...and on top of everything else- BETTER GRAPHICS! The first Daytona on the Saturn boasted some hefty visuals, great for displaying the Saturn's power to the masses at the console's birth; but for the Saturn to be revered for everything it was, Sega (and AM2) had to make something a little flashier. All the graphics in the game have been updated...both the cars and tracks have higher polygon count, better texture mapping; the framerate is QUITE noticeably improved, everything is very smooth.</desc>
-		<releasedate>19961121T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Dragon Force (USA).chd</path>
 		<name>Dragon Force</name>
 		<desc>The world of Legendra was ruled by benevolent goddesses, but the last of them, Astea, was challenged by a dark god named Madruk. In order to defeat Madruk, Astea created a powerful dragon, who eventually emerged victorious and was able to seal Madruk away. Years have passed. Legendra is now divided into eight kingdoms. One of them, Fandaria, is ruled by a monarch named Goldark. The other kings have heard rumors that Goldark is planning to take over Legendra by conquering all the other kingdoms. Everyone is preparing for the war, without realizing that the ancient evil is about to raise its head once again... Dragon Force is a real-time strategy game (RTS). The player can choose one of the six monarchs (plus two additional ones that become available once the game is completed) with their unique scenarios. The gameplay is divided into three modes: management, overworld movement, and battle.</desc>
@@ -128,16 +118,6 @@ One legendary sword is said to bring an end to Kanon's reign. Four warriors (Han
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Lunar 2 - Eternal Blue (Japan) [T-En by Mr Conan v0.19b] [i].m3u</path>
-		<name>Lunar 2 - Eternal Blue</name>
-		<desc>Lunar 2: Eternal Blue is the sequel to Lunar: The Silver Star, a role-playing game for Saturn. The events of Eternal Blue take place 1000 years after those of Silver Star.</desc>
-		<releasedate>19980713T000000</releasedate>
-		<developer>Kadokawa Shoten</developer>
-		<publisher>Game Arts</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./NiGHTS into Dreams... (USA, Brazil).chd</path>
 		<name>NiGHTS into Dreams...</name>
 		<desc>Immerse yourself in an unparalleled 3D flying experience. NiGHTS truly delivers an amazing virtual world of dreams -- filled with unbelievable real-time effects, fantastic creatures and nightmarish monsters.
@@ -175,20 +155,6 @@ The hero of the game is Edge, one of the soldiers of the mighty Empire. The Empi
 		<publisher>SEGA</publisher>
 		<genre>Role playing games</genre>
 		<players>1</players>
-	</game>
-	<game>
-		<path>./Radiant Silvergun (Japan).chd</path>
-		<name>Radiant Silvergun</name>
-		<desc>The story of Radiant Silvergun begins with the end of the world. As the pilot of the starfighter Radiant Silvergun you are sent back in time in search of the key to save the planet. In various time periods you will battle hordes of enemies in search for an alien being knows as the Origin. Only by destroying the Origin can the dark future of the planet be altered.
-
-Radiant Silvergun is a top-down shooter from the Japanese codeshop Treasure (Gunstar Heroes, Silhouette Mirage) released in Japan for the Sega Saturn in 1998. To tackle the swarm of enemies that fill your screen you got three different means of attack. A straight shot, a homing laser and a devastating spread shot.
-
-In 2002 Radiant Silvergun got its spiritual successor in the Dreamcast release of Ikaruga, which would later be converted for the Nintendo Gamecube.</desc>
-		<releasedate>19980723T000000</releasedate>
-		<developer>Treasure</developer>
-		<publisher>Treasure</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
 	</game>
 	<game>
 		<path>./Shining Force III (USA).chd</path>
@@ -256,5 +222,44 @@ This unofficial semi-prequel to  Snatcher is a comic book/anime adventure with s
 		<publisher>Konami</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./Daytona USA - Circuit Edition (Japan).chd</path>
+		<name>Daytona USA : Championship Circuit Edition</name>
+		<desc>All of its predecessor and then some. More tracks, many more cars (hidden cars as well), smarter AI, more music (no more lyrics for the in-game race music either), broader 2-player gameplay, more refined arcade physics...and on top of everything else- BETTER GRAPHICS! The first Daytona on the Saturn boasted some hefty visuals, great for displaying the Saturn's power to the masses at the console's birth; but for the Saturn to be revered for everything it was, Sega (and AM2) had to make something a little flashier. All the graphics in the game have been updated...both the cars and tracks have higher polygon count, better texture mapping; the framerate is QUITE noticeably improved, everything is very smooth.</desc>
+		<releasedate>19961121T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Lunar 2 - Eternal Blue (Japan) [T-En by Mr Conan v0.19b] [i].m3u</path>
+		<name>Lunar 2 : Eternal Blue</name>
+		<desc>The story takes place 1000 years after the first opus.
+Hiro is a young man passionate about mythology, he lives with his grandfather Gwyn and his best friend, a baby pink dragon named Ruby, near the dragon ruins. Like any self-respecting young adventurer and despite his grandfather's warnings, he explores them regularly and ends up triggering an event that will change his destiny.
+At the same time Lucia, the guardian of the Blue Moon, awakens and breaks her ice prison, feeling that it is once again time to protect the people of the goddess Althena, the same one who once fled of the Blue Moon to take his people to Lunar, in order to protect them from Zophar.
+
+Hiro will have to help Lucia wake up the goddess Althena to save the inhabitants of the planet again. During this adventure they will meet Lémina, Ronfar, Jean, as well as many others who will develop each person's story.</desc>
+		<rating>0.8</rating>
+		<releasedate>19980723T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Game Arts</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Radiant Silvergun (Japan).chd</path>
+		<name>Radiant Silvergun</name>
+		<desc>The story of Radiant Silvergun begins with the end of the world. As the pilot of the starfighter Radiant Silvergun you are sent back in time in search of the key to save the planet. In various time periods you will battle hordes of enemies in search for an alien being knows as the Origin. Only by destroying the Origin can the dark future of the planet be altered.
+
+Radiant Silvergun is a top-down shooter from the Japanese codeshop Treasure (Gunstar Heroes, Silhouette Mirage) released in Japan for the Sega Saturn in 1998. To tackle the swarm of enemies that fill your screen you got three different means of attack. A straight shot, a homing laser and a devastating spread shot.
+
+In 2002 Radiant Silvergun got its spiritual successor in the Dreamcast release of Ikaruga, which would later be converted for the Nintendo Gamecube.</desc>
+		<releasedate>19980723T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Treasure</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
 	</game>
 </gameList>

@@ -1,7 +1,4 @@
 <?xml version="1.0"?>
-<alternativeEmulator>
-	<label>Dolphin (Standalone)</label>
-</alternativeEmulator>
 <gameList>
 	<game>
 		<path>./Disaster - Day of Crisis (Europe) (En,Fr,De,Es,It).nkit.gcz</path>
@@ -108,17 +105,6 @@ To aid the entry for people new to the franchise, the game features an introduct
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Zack &amp; Wiki - Quest for Barbaros' Treasure (USA).nkit.gcz</path>
-		<name>Zack &amp; Wiki: Quest for Barbaros Treasure</name>
-		<desc>Zack is a new pirate on a quest to become the greatest pirate ever. In this puzzle adventure game he and his magical monkey sidekick search for treasure as they help the skeleton of the legendary pirate Barbaros.
-
-Zack &amp; Wiki: Quest for Barbaros  Treasure is presented as a series of stages where the player directs Zack to perform a number of actions to let him collect the treasure. The player must deduce what actions will have the desired effect without triggering traps or attracting the attention of the enemies. Using most of the tools causes the game to switch to a first-person point of view, and the player is expected to hold and manipulate the Wii remote as if it were the item on the screen.</desc>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Metroid Prime 3 - Corruption (USA).nkit.gcz</path>
 		<name>Metroid Prime 3: Corruption</name>
 		<desc>If you think you knew what it felt like to be the bounty hunter behind the visor, think again. Take aim at evil with Nintendo's revolutionary controller.
@@ -157,5 +143,17 @@ Players can shake the Wii remote after jumping on bad guys but before hitting th
 		<publisher>Warner Bros. Interactive</publisher>
 		<genre>Adventure</genre>
 		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Zack &amp; Wiki - Quest for Barbaros' Treasure (USA).nkit.gcz</path>
+		<name>Zack &amp; Wiki: Quest for Barbaros Treasure</name>
+		<desc>Zack is a new pirate on a quest to become the greatest pirate ever. In this puzzle adventure game he and his magical monkey sidekick search for treasure as they help the skeleton of the legendary pirate Barbaros.
+
+Zack &amp; Wiki: Quest for Barbaros  Treasure is presented as a series of stages where the player directs Zack to perform a number of actions to let him collect the treasure. The player must deduce what actions will have the desired effect without triggering traps or attracting the attention of the enemies. Using most of the tools causes the game to switch to a first-person point of view, and the player is expected to hold and manipulate the Wii remote as if it were the item on the screen.</desc>
+		<rating>0.9</rating>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
 	</game>
 </gameList>

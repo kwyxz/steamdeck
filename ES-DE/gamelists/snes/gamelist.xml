@@ -3388,16 +3388,6 @@ The game is one of a handful published by Epoch that was compatible with their B
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Donkey Kong Country (USA).zip</path>
-		<name>Donkey Kong Country</name>
-		<desc>Help Donkey Kong and Diddy Kong get back those stolen bananas!After a dark and stormy night, Donkey Kong finds all of his bananas stolen by K. Rool and his reptilian crew of Kremlings! Armed with chest-pounding muscle, mighty barrel rolls, and awesome vine-swinging skills, Donkey Kong and Diddy Kong set out to face their adversaries! Play solo, compete with a friend, or play cooperatively with a friend in over 100 levels filled with collectibles and hidden bonus levels. With the help of Donkey Kong's quirky family, animal friends, and your fast reflexes, our dynamic duo will prove to be an unstoppable force. Time to save those bananas!</desc>
-		<releasedate>19941125T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Donkey Kong Country - Competition Cartridge (USA).zip</path>
 		<name>Donkey Kong Country : Competition Cartridge</name>
 		<desc>Here's the speed freak's version of the biggest video game hit of all time. We collected the five minute, timed action game paks played in the BlockBuster World Video Game Championship II. Now it's your turn. The clock's ticking down as you dash through the Donkey Kong Country. Forget the bananas - just finish as many levels as possible. To make it through eight random levels, you gotta have lots of juice. Think it's easy? Only the few and fleet will ever be able to take up the challenge, because Nintendo minted only 2,500 of this special edition.</desc>
@@ -12939,28 +12929,6 @@ Staying alive? Yes, for from the excavation comes forth HELL'S ARMY!</desc>
 		<players>1</players>
 	</game>
 	<game>
-		<path>./PowerFest 94 (USA).zip</path>
-		<name>Powerfest 94 - Super Mario Bros. - The Lost Levels</name>
-		<desc>PowerFest 94 - Super Mario Bros. - The Lost Levels
-
-Nintendo PowerFest '94 was a 1994 Nintendo-promoted video game competition. Most of the town competitions were held in customized trailers outside of department stores. It was based on scoring points in a special Game Pak. The three Super Nintendo Entertainment System games (Super Mario Bros.: The Lost Levels, Super Mario Kart, and Ken Griffey, Jr. Presents Major League Baseball) were played within a time limit of six minutes.
-
-The tasks on the games are as follows:
-
-Super Mario Bros.: The Lost Levels: Players must complete the first level as quickly as possible.
-Super Mario Kart: Players must finish the first track of five laps.
-Ken Griffey, Jr. Presents Major League Baseball: Players must play a home run derby and hit as many home runs as possible.
-
-After the time expires, the final score is calculated like this:
-
-Score from Super Mario Bros.: The Lost Levels+ ((Coins collected in Super Mario Kart x 1,000) + Finishing position score)+ ((Total distance in Major League Baseball x 100) + (Number of home runs x 10,000 in the regional events or 1,000,000 in the Finals)) = Grand Total</desc>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./PowerMonger (Europe).zip</path>
 		<name>Power Monger</name>
 		<desc>Powermonger takes the basic design and concepts of Bullfrog's previous game Populous, and places it in a war context. The game cast the player as a dispossessed warlord plundering his way through 195 territories on the way to world conquest. Several other leaders have the same goal.
@@ -14737,20 +14705,6 @@ As with its predecessor, the game would not see an international release.</desc>
 		<publisher>Pony Canyon</publisher>
 		<genre>Fight</genre>
 		<players>1</players>
-	</game>
-	<game>
-		<path>./Shockman Zero (Japan) [T-En by Svambo v1.0] [n].zip</path>
-		<name>Kaizou Choujin Shubibinman Zero</name>
-		<desc>A sequel to the Shubibinman Turbografx action platformers developed exclusively for the SNES.
-
-A new gang of cyborg-enhanced goons threatens peace in the city, so "Doc" decides to test his newest creations: Raita and Azuki, by sending them to destroy all the baddies and restore peace.
-
-The game plays as an 2D action platformer as previous entries in the series, in which you proceed through each stage pummeling enemies and collecting power-ups to enhance your powers. Now for the first time each character has unique abilities and attacks, furthermore each character has a charging attack that can be used to energize your partner thus encouraging teamplay in the two-player cooperative mode.
-</desc>
-		<releasedate>20170630T000000</releasedate>
-		<developer>Masaya Games</developer>
-		<publisher>Columbus Circle</publisher>
-		<players>1-2</players>
 	</game>
 	<game>
 		<path>./Shodai Nekketsu Kouha Kunio-kun (Japan) [T-En by Aeon Genesis v1.00].zip</path>
@@ -17576,18 +17530,6 @@ All tables are shown in a tilted 3D view, which fits the entire table on the scr
 		<releasedate>19941102T000000</releasedate>
 		<developer>KAZe</developer>
 		<publisher>Nintendo</publisher>
-		<genre>Pinball</genre>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./Super Pinball II - The Amazing Odyssey (Japan).zip</path>
-		<name>Super Pinball 2 - The Amazing Odyssey</name>
-		<desc>The sequel to the original Super Pinball, Super Pinball II is another pinball simulator featuring three different tables. This time the selection consists of the sci-fi themed "Space Sister" table, the spy-themed "The Spy Eyes", and the circus themed "Showtime".
-
-As in the original, the game features a Competition (free tournament) or Conquest (clear each table in succession) modes, but the hotseat multiplayer component has been reduced to two-players. Graphics are 2D representations of the tables viewed from a tilted 3D view, which manages to fit the entire tables on the screen without scrolling.</desc>
-		<releasedate>19950317T000000</releasedate>
-		<developer>KAZe</developer>
-		<publisher>Meldac</publisher>
 		<genre>Pinball</genre>
 		<players>1-4</players>
 	</game>
@@ -21375,18 +21317,6 @@ This game received a sequel in the form of Zero4 Champ RR-Z.</desc>
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./Zero 4 Champ RR-Z (Japan).zip</path>
-		<name>Zero 4 Champ Rr-z</name>
-		<desc>Zero-4 Champ RR-Z is a drag racing game for the Super Famicom and the sequel to 1994's Zero-4 Champ RR. As with that game, the goal is to race 400m drag races by quickly accelerating and switching gears to outpace the opponent. It is part of the larger Zero-4 Champ series, which first began on the PC Engine/TurboGrafx-16 with 1991's Zero-4 Champ.
-
-The game also features three distinct modes: a story mode, that intersperses its racing with dialogue-heavy cutscenes and adventure game elements; a versus mode for one or more players; and a "ministory" mode that has much less plot between races and no adventure elements.</desc>
-		<releasedate>19951125T000000</releasedate>
-		<developer>Media Rings</developer>
-		<publisher>Media Rings</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./Zero the Kamikaze Squirrel (USA).zip</path>
 		<name>Zero the Kamikaze Squirrel</name>
 		<desc>One day, Zero, the side-kick of the evil Edgar Ektor, receives a letter from his girlfriend Amy, which informs him of a lumberjack named Jacques Le Sheets chopping down trees and destroying his homeland for financial purposes. Despite Ektor's protestations, Zero decides that the desire to protect his land is more important that whatever villainous plans his boss might have had in mind. It's time to show that lumberjack that squirrels of dubious reputation are no strangers to the battle for environmental protection!
@@ -21479,5 +21409,53 @@ In order to eliminate the other shapes, you must point your piece at it and 'fir
 		<publisher>Cobra Team</publisher>
 		<genre>Fight</genre>
 		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Donkey Kong Country (USA).zip</path>
+		<name>Donkey Kong Country</name>
+		<desc>Help Donkey Kong and Diddy Kong get back those stolen bananas!After a dark and stormy night, Donkey Kong finds all of his bananas stolen by K. Rool and his reptilian crew of Kremlings! Armed with chest-pounding muscle, mighty barrel rolls, and awesome vine-swinging skills, Donkey Kong and Diddy Kong set out to face their adversaries! Play solo, compete with a friend, or play cooperatively with a friend in over 100 levels filled with collectibles and hidden bonus levels. With the help of Donkey Kong's quirky family, animal friends, and your fast reflexes, our dynamic duo will prove to be an unstoppable force. Time to save those bananas!</desc>
+		<releasedate>19941125T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Shockman Zero (Japan) [T-En by Svambo v1.0] [n].zip</path>
+		<name>Kaizou Choujin Shubibinman Zero</name>
+		<desc>A sequel to the Shubibinman Turbografx action platformers developed exclusively for the SNES.
+
+A new gang of cyborg-enhanced goons threatens peace in the city, so "Doc" decides to test his newest creations: Raita and Azuki, by sending them to destroy all the baddies and restore peace.
+
+The game plays as an 2D action platformer as previous entries in the series, in which you proceed through each stage pummeling enemies and collecting power-ups to enhance your powers. Now for the first time each character has unique abilities and attacks, furthermore each character has a charging attack that can be used to energize your partner thus encouraging teamplay in the two-player cooperative mode.
+</desc>
+		<releasedate>20170630T000000</releasedate>
+		<developer>Masaya Games</developer>
+		<publisher>Columbus Circle</publisher>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Zero 4 Champ RR-Z (Japan).zip</path>
+		<name>Zero 4 Champ Rr-z</name>
+		<desc>Zero-4 Champ RR-Z is a drag racing game for the Super Famicom and the sequel to 1994's Zero-4 Champ RR. As with that game, the goal is to race 400m drag races by quickly accelerating and switching gears to outpace the opponent. It is part of the larger Zero-4 Champ series, which first began on the PC Engine/TurboGrafx-16 with 1991's Zero-4 Champ.
+
+The game also features three distinct modes: a story mode, that intersperses its racing with dialogue-heavy cutscenes and adventure game elements; a versus mode for one or more players; and a "ministory" mode that has much less plot between races and no adventure elements.</desc>
+		<releasedate>19951125T000000</releasedate>
+		<developer>Media Rings</developer>
+		<publisher>Media Rings</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Super Pinball II - The Amazing Odyssey (Japan).zip</path>
+		<name>Super Pinball 2 - The Amazing Odyssey</name>
+		<desc>The sequel to the original Super Pinball, Super Pinball II is another pinball simulator featuring three different tables. This time the selection consists of the sci-fi themed "Space Sister" table, the spy-themed "The Spy Eyes", and the circus themed "Showtime".
+
+As in the original, the game features a Competition (free tournament) or Conquest (clear each table in succession) modes, but the hotseat multiplayer component has been reduced to two-players. Graphics are 2D representations of the tables viewed from a tilted 3D view, which manages to fit the entire tables on the screen without scrolling.</desc>
+		<releasedate>19950317T000000</releasedate>
+		<developer>KAZe</developer>
+		<publisher>Meldac</publisher>
+		<genre>Pinball</genre>
+		<players>1-4</players>
 	</game>
 </gameList>

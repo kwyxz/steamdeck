@@ -295,18 +295,6 @@ Do you have what it takes to make your company fly high? Or will it crash and bu
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./After Burner II (USA, Europe).zip</path>
-		<name>After Burner II</name>
-		<desc>Similar to its predecessor, the premise of After Burner II is to get on the F-14 Tomcat and fly mission after mission of shooting planes out of the sky. At your disposal is a vulcan cannon (basically a machine gun) and a limited number of missiles. In some versions of the game the guns fire automatically all the time. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.
-
-The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. You also can speed up and slow down to deal with enemies which appear behind you.</desc>
-		<releasedate>19900701T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shooter / Plane, 3rd person</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Air Buster (USA).zip</path>
 		<name>Air Buster</name>
 		<desc>Air Buster is a fast side-scrolling shooter. The player controls a small craft through different levels with many enemies. Every level ends with a boss and some section speed up the gameplay, offering fast obstacle courses both horizontally and vertically scrolling. Flying orange pods release many power-ups at once, enhancing the ships with new or more powerful lasers, wing men and shields. The player can also hold the fire key to charge a blast that removes all enemy bullets from the screen and deals damage to all enemies. With an unforgiving difficulty, every hit is fatal, but the game can be continued from any points as long as there are lives and credits left. The game can be played with two players cooperatively.
@@ -10412,19 +10400,6 @@ Additions include updated player rosters, options for weather effects (rain, sno
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).zip</path>
-		<name>Teenage Mutant Ninja Turtles : The Hyperstone Heist</name>
-		<desc>The Turtles' nemesis Shredder has acquired the HyperStone from Dimension X, and is using its powers to shrink down the city buildings. He threatens to take over the world and challenges the Turtles to deny him, and so the turtles head out to beat the guy once more.
-
-A standard Ninja Turtles beat-em-up action game.
-</desc>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Teenage Mutant Ninja Turtles - Tournament Fighters (USA).zip</path>
 		<name>Teenage Mutant Ninja Turtles : Tournament Fighters</name>
 		<desc>The game features the original 4 turtles from the previous games in the series, as well as other fighters.
@@ -12241,6 +12216,31 @@ The gameplay differs from most fighting games. In this game, you have a Spirit m
 		<developer>SNK</developer>
 		<publisher>SEGA</publisher>
 		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./After Burner II (USA, Europe).zip</path>
+		<name>After Burner II</name>
+		<desc>Similar to its predecessor, the premise of After Burner II is to get on the F-14 Tomcat and fly mission after mission of shooting planes out of the sky. At your disposal is a vulcan cannon (basically a machine gun) and a limited number of missiles. In some versions of the game the guns fire automatically all the time. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.
+
+The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. You also can speed up and slow down to deal with enemies which appear behind you.</desc>
+		<releasedate>19900701T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane, 3rd person</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).zip</path>
+		<name>Teenage Mutant Ninja Turtles : The Hyperstone Heist</name>
+		<desc>The Turtles' nemesis Shredder has acquired the HyperStone from Dimension X, and is using its powers to shrink down the city buildings. He threatens to take over the world and challenges the Turtles to deny him, and so the turtles head out to beat the guy once more.
+
+A standard Ninja Turtles beat-em-up action game.
+</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Beat'em Up</genre>
 		<players>1-2</players>
 	</game>
 </gameList>

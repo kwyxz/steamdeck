@@ -200,8 +200,8 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<players>1</players>
 	</game>
 	<game>
-		<path>./scud.zip</path>
-		<name>Scud Race</name>
+		<path>./scudplus.zip</path>
+		<name>Scud Race+</name>
 		<desc>Scud Race (stylized as SCUD Race, "Sport Car Ultimate Drive"), or otherwise known as Sega Super GT in North America, is an arcade racing game released by Sega in 1996. It is the first racing game to be using the Sega Model 3 hardware.</desc>
 		<releasedate>19960101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -210,8 +210,8 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<players>1</players>
 	</game>
 	<game>
-		<path>./scudplus.zip</path>
-		<name>Scud Race+</name>
+		<path>./scud.zip</path>
+		<name>Scud Race</name>
 		<desc>Scud Race (stylized as SCUD Race, "Sport Car Ultimate Drive"), or otherwise known as Sega Super GT in North America, is an arcade racing game released by Sega in 1996. It is the first racing game to be using the Sega Model 3 hardware.</desc>
 		<releasedate>19960101T000000</releasedate>
 		<developer>SEGA</developer>

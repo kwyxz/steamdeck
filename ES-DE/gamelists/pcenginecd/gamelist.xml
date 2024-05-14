@@ -711,18 +711,6 @@ The game plays like a typical Japanese-style adventure, with a menu of verb comm
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Mamono Hunter Youko - Tooki Yobigoe (Japan).chd</path>
-		<name>Mamono Hunter Youko - Tooki Yobigoe</name>
-		<desc>Tooki Yobigoe is a direct sequel to Mamono Hunter Y?ko: Makai kara no Tenk?sei, continuing where the story of the previous game left off. Yohko, Shoma and Setsuna are attacked by demons on the flying ship, and have to use their recently found powers to fend them off. As opposed to the previous game, where Shoma was the protagonist, Yohko is the player character in the sequel.
-
-Gameplay-wise, the puzzle-less Japanese adventure format is further utilized. Verb commands must be selected from a menu and sometimes combined with objects or character names for interaction. It is often necessary to repeat commands several times to trigger the next event. </desc>
-		<releasedate>19930108T000000</releasedate>
-		<developer>TENKY Co. Ltd.</developer>
-		<publisher>Masaya Games</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Martial Champion (Japan).chd</path>
 		<name>Martial Champion</name>
 		<desc>Martial Champion is a versus fighting game similar in concept to Street Fighter II. There are ten characters to choose from, each representing his or her own country. The main protagonist is a Japanese martial artist named Jin; others include his countryman Zen, a kabuki fighter; a Chinese kung-fu expert and a vampire from Hong-Kong; an Egyptian princess; a scimitar fighter from Saudi Arabia; a spear-wielding Kenyan warrior; a French weapons specialist; and two North Americans - an eyepatched soldier and a blonde female ninja-like fighter. 
@@ -1393,5 +1381,17 @@ Power-ups and upgrades can be gained by shooting the colored bells that some ene
 		<publisher>Konami</publisher>
 		<genre>Shoot'em Up</genre>
 		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Mamono Hunter Youko - Tooki Yobigoe (Japan).chd</path>
+		<name>Mamono Hunter Youko - Tooki Yobigoe</name>
+		<desc>Tooki Yobigoe is a direct sequel to Mamono Hunter Y?ko: Makai kara no Tenk?sei, continuing where the story of the previous game left off. Yohko, Shoma and Setsuna are attacked by demons on the flying ship, and have to use their recently found powers to fend them off. As opposed to the previous game, where Shoma was the protagonist, Yohko is the player character in the sequel.
+
+Gameplay-wise, the puzzle-less Japanese adventure format is further utilized. Verb commands must be selected from a menu and sometimes combined with objects or character names for interaction. It is often necessary to repeat commands several times to trigger the next event. </desc>
+		<releasedate>19930108T000000</releasedate>
+		<developer>Tenky</developer>
+		<publisher>Masaya Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
 	</game>
 </gameList>

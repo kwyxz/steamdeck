@@ -10,4 +10,139 @@
 		<genre>Adventure</genre>
 		<players>1</players>
 	</game>
+	<game>
+		<path>./Ace Attorney Investigations - Miles Edgeworth (USA).zip</path>
+		<name>Ace Attorney Investigations - Miles Edgeworth</name>
+		<desc>Ace Attorney Investigations: Miles Edgeworth is the fifth game in the Ace Attorney series. It is an interquel set between Phoenix Wright: Ace Attorney Trials and Tribulations and Apollo Justice: Ace Attorney.
+This game is a standard "point and click" adventure, with the player controlling Edgeworth's movements and what he interacts with. For each case, the goal is to collect evidence to determine who the perpetrator is, how the crime was committed and their motive. This is presented as a combination of a third-person view showing the characters at the crime scene and through animated close-up images of the characters, annotated by text dialog. In some cases, still images are used to highlight dramatic scenes.</desc>
+		<releasedate>20100216T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Advance Wars - Days of Ruin (USA) (En,Fr,Es).zip</path>
+		<name>Advance Wars: Days of Ruin</name>
+		<desc>Days of Ruin takes place in an entirely new world where a large-scale meteor shower triggered massive global destruction that eradicated 90 percent of the population. After the catastrophe, the survivors have formed together into militaristic bands that are warring over the last remaining scraps of civilization. You'll take control of Will, a young military cadet (whose hair is admittedly just a little spiky) who quickly becomes embroiled in the conflict at the outset of the game.</desc>
+		<releasedate>20080121T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Advance Wars - Dual Strike (USA, Australia).zip</path>
+		<name>Advance Wars - Dual Strike</name>
+		<desc>The first entry of the long running Wars series for the Nintendo DS. This turn-based strategy game has you commanding an Allied Nations army against the vile Black Hole.Choose from a handful of COs (commanding officers), each with his own unique CO power </desc>
+		<releasedate>20050822T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>2-8</players>
+	</game>
+	<game>
+		<path>./Contra 4 (USA).zip</path>
+		<name>Contra 4</name>
+		<desc>Contra 4 for the Nintendo DS is a direct sequel to 1994 SNES Contra III: Alien Wars. Two years after the defeat of Red Falcon - the first wave of the alien colonization fleet, the main invading force Black Viper approaches Earth. The heroes of the original Contra series - Billy Rizer and Lance Bean as well as two newcomers - Mad Dog and Scorpion are now humanity's last line of defense against total annihilation.
+
+This installment of the long-running series adds dual screen gameplay, enabling the player a wider view, and a 2-player co-op mode via local Wi-Fi connection. Each player is now given two weapon slots which can be filled with any one of the game's many weapon power-ups and switched at will with a press of a shoulder button. The game features nine levels set in such classic Contra locations as Jungle, Waterfall and a pseudo-3D Base.
+As a bonus, the cartridge contains an illustrated history of Contra, as well as the Contra and Super C original NES games.</desc>
+		<releasedate>20071113T000000</releasedate>
+		<developer>Wayforward</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Flower, Sun and Rain - Murder and Mystery in Paradise (USA).zip</path>
+		<name>Flower, Sun and Rain - Murder and Mystery in Paradise</name>
+		<desc>Trouble in Paradise.
+
+You are a searcher, sent to a tropical island resort to stop a terrorist bomb threat. Arriving, you find yourself in a mysterious time loop, with each day coming to an explosive end.
+Solve mysteries quickly to prevent the attack...and preserve your own sanity.
+
+Crack all 18 scenarios or remain trapped in time!
+Follow clues and use your computer to jack into the minds of others to learn the truth!
+Question suspicious guests and staff!</desc>
+		<releasedate>20081002T000000</releasedate>
+		<developer>H.A.N.D</developer>
+		<publisher>Marvelous Interactive</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Henry Hatsworth in the Puzzling Adventure (USA) (En,Fr,De,Es,It).zip</path>
+		<name>Henry Hatsworth In The Puzzling Adventure</name>
+		<desc>Poppycock!  When the number one pompous adventurer, Henry Hatsworth, discovers a golden hat deep in the jungle, it makes him twenty years younger - but it also unleashes another world, releasing hordes of nasty monsters!  To top it off, the number two pompous adventurer, Weaselby, is one step ahead of Hatsworth - eager to snag up the remaining pieces of the Golden Suit and claim the number one position in the Pompous Adventurer's Club for himself!  Who can grab the suit, put Weaselby in his place, and seal up the other world, all before Tea Time?  Why, Henry Hatsworth, of course!
+
+Henry Hatsworth in the Puzzling Adventure is a hybrid of two styles of game - the top screen has an action-platformer starring Hatsworth, who must defeat enemies with his sword.  When he does, they fall down into the Puzzle Realm on the Touch Screen, which plays like Tetris Attack.  Players must match the block enemies up with other colored blocks to finally destroy them, before they rise up back to the top screen to harass Hatsworth once again.
+
+Henry also has access to a super meter - by clearing blocks in the Puzzle Realm, he fills it up.  If he fills it up enough, it's Tea Time!  This means that Hatsworth can transform into superpowered steampunk robot that shoots lasers and missiles and is completely invulnerable, which is handy when the player is in a jam.</desc>
+		<releasedate>20090317T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Hotel Dusk - Room 215 (USA).zip</path>
+		<name>Hotel Dusk: Room 215</name>
+		<desc>Los Angeles, 1979. You are Kyle Hyde, an ex-cop turned salesman trying to track down a missing friend. Clues lead you to an eerie, old hotel rumored to have one very strange room - a room where wishes are granted. It's up to you to unravel the mystery in Hotel Dusk: Room 215, a gritty new graphic adventure for Nintendo DS. Players hold their DS like a book and use the touch screen to grill characters, search for clues and solve mystifying puzzles. Players follow the plot twists and turns as they hunt for their missing friend and investigate the mysteries of Hotel Dusk.</desc>
+		<releasedate>20070222T000000</releasedate>
+		<developer>Cing</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Lunar Knights (USA) (En,Es).zip</path>
+		<name>Lunar Knights</name>
+		<desc>Many years into the future, a race of vampires have emerged, plunging planet Earth into darkness with an environmental control system called the 'paraSOL'.  They now control the planet, with humans living in fear.  When all hope seems lost, two boys with amazing power emerge to save the planet.  The Dark Swordsman, Lucian, and a rookie member of the vampire fighting 'Guild', Aaron.
+
+Lunar Knights is an indirect sequel to the Boktai series of games, which takes place many years after.  Its focus is much more on action as opposed to stealth, although some stealth elements from the earlier games remain (for example, you can blow into the microphone to whistle and attract the attention of enemies).  Players control the two characters, Lucian and Aaron.  Lucian fights with a huge sword called 'Vanagand'.  As a result, Lucian has a close combat style.  Lucian uses the power of moonlight to fuel his special attacks and moves.
+
+The other character is Aaron, a gunslinger for the Guild.  He fights by using sunlight to charge up his gun, the Knight, and shoot ranged shots at foes.  Aaron's special attacks and moves use up sunlight.  Both Aaron and Lucian can use junk materials to increase the level of their weaponry, giving them more power.
+
+The main goal of the game is to make your way through the dungeons and purify the vampire at the end.  The dungeons themselves are fairly standard - you search for treasure chests, avoid traps and solve puzzles.  At the end, you'll fight a boss vampire, and once you've defeated them, the Casket Rocket will be called.  Because the vampires have blocked out the sun on Earth, you'll need to take the vampire into space to purify them.
+
+At this point, the game becomes a touch screen controlled shooter.  To control the ship itself, you drag it around the screen with the stylus.  To shoot enemy ships, you tap them with the screen.  Once you reach the end, the vampire will be purified by the magnified power of the sun.</desc>
+		<releasedate>20070206T000000</releasedate>
+		<developer>Kojima Productions</developer>
+		<publisher>Konami</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Radiant Historia (USA).zip</path>
+		<name>Radiant Historia</name>
+		<desc>In the midst of an unending war for dominance between two super-powers, Special Intelligence Agent Stocke is assigned to a routine escort mission that goes horribly awry...</desc>
+		<releasedate>20110222T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Solatorobo - Red the Hunter (USA) (En,Fr,De,Es,It) (NDSi Enhanced).zip</path>
+		<name>SolatoRobo : Red the Hunter</name>
+		<desc>Get ready to suspend reality and be brought into a world of floating islands where personal robots are a necessity and pirates and vicious monsters roam the skies. You'll see many dogs and cats along the way, but don't expect your furry friends to be on all fours – they're anthropomorphs. With his cigarette-like bone sticking out of his mouth, Red Savarin, an overconfident teenager, and his specialized robot Dahak have made a name for themselves by taking on odd jobs. Red's curiosity gets the best of him when he comes across a mysterious medallion. Ruh-oh, strange artifacts? This can't be going anywhere good. But before Red runs off with the medallion, he comes across Elh, a sullen, enigmatic creature who shares an unknown link with the medallion for Red to uncover.</desc>
+		<releasedate>20101028T000000</releasedate>
+		<developer>CyberConnect2</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Adventure</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Last Window - The Secret of Cape West (Europe) (En,Fr,De,Es,It).zip</path>
+		<name>Last Window : The Secret of Cape West</name>
+		<desc>Los Angeles, 1955: A man has broken into a safe. A mysterious figure then enters the room, aims a gun at him, and fires. The victim collapses, dead. He drops a diamond which he removed from the safe, and a photograph of a man and a young boy lies next to it. 
+1967: A woman is slouched over a table, apparently dead, in a room in the Hotel Cape West. A man is seen leaving the room. 
+1980: Kyle Hyde wakes up in his car and speaks on the phone with Ed Vincent, his boss at Red Crown; Vincent fires Hyde for his negligence. He travels to the Cape West Apartments, where he lives. Just before he enters the building, he notices a mysterious woman wearing a hat and sunglasses. Soon afterwards, he discovers that the Cape West Apartments are to be demolished at the end of the month, and all the tenants are vacating. As he opens his apartment door, he notices a letter that tells him to find out what secrets the apartments hold, and an object known as the "Scarlet Star." Thus begins Last Window: The Secret of Cape West.</desc>
+		<releasedate>20100114T000000</releasedate>
+		<developer>Cing</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
 </gameList>

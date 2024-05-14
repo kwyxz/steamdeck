@@ -11830,10 +11830,6 @@ Another feature of Kaeru No Tame Ni Kane Wa Naru is Sablé's ability to transfor
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Gargoyle's Quest II - The Demon Darkness (Japan) [T-En by Bailli v1.0] [n].zip</path>
-		<name>Gargoyle's Quest II - The Demon Darkness</name>
-	</game>
-	<game>
 		<path>./Glory of Heracles, The - Snap Story (Japan) [T-En by HTI v1.01] [n].zip</path>
 		<name>Heracles no Eikou - Ugokidashita Kamigami</name>
 		<desc>Heracles no Eikou: Ugokidashita Kamigami is a spin-off entry in the Glory of Heracles series for the Gameboy and is a direct continuation of the first game. The title was developed by SAS Sakata and published in Japan on December 27, 1992 by Data East. An English fan translation was released by HTI in 2012 under the title "The Glory of Heracles: Snap Story."</desc>
@@ -11842,10 +11838,6 @@ Another feature of Kaeru No Tame Ni Kane Wa Naru is Sablé's ability to transfor
 		<publisher>Data East</publisher>
 		<genre>Role playing games</genre>
 		<players>1</players>
-	</game>
-	<game>
-		<path>./Jeep Jamboree - Off-Road Adventure (USA).zip</path>
-		<name>Jeep Jamboree - Off-Road Adventure</name>
 	</game>
 	<game>
 		<path>./Legend of the Axe - Kintaro Action Edition (Japan) [T-En by FlyingClimber v1.0] [n].zip</path>
@@ -11973,5 +11965,32 @@ This is no kid stuff. This is as real as video gaming gets. If you liked what yo
 		<publisher>Sunsoft</publisher>
 		<genre>Platform</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./Gargoyle's Quest II - The Demon Darkness (Japan) [T-En by Bailli v1.0] [n].zip</path>
+		<name>Gargoyle's Quest II: The Demon Darkness</name>
+		<desc>Firebrand is a young warrior-in-training from the town of Etruria. One day, while Firebrand is training in a small, alternate dimension, the Black Light suddenly appears and destroys his home. When he returns successfully from his training, he is told to hurry to the King by another ghoul just before it dies. Upon defeating Nagus, Firebrand is able to meet with King Morock, who informs Firebrand he is on the brink of death. Before dying, he gives Firebrand the Spectre's Fingernail and Firebrand sets off on a journey to unravel the mystery of the Black Light.</desc>
+		<rating>0.7</rating>
+		<releasedate>19930416T000000</releasedate>
+		<developer>Sun L</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Jeep Jamboree - Off-Road Adventure (USA).zip</path>
+		<name>Jeep Jamboree</name>
+		<desc>Hey renegade, now you live the ultimate off-road race adventure in a rough and tumble scramble to the finish line on your choice of over 22 authentic Jeep Jamboree courses.
+
+You'll be in Jeep 4x4 heaven with these hard-driving features:
+2-Player Game Boy Game Link: Why just compete against 20 strangers when you can enjoy a straight head-to-head race against one ruthless friend?!
+Three types of race seasons: Short, intermediate or championship (practice Jeep Jamborees also available).
+Courses that just keep getting tough: Just try and stay on the trail as you muscle your way through mud, hazardous road conditions and 20 road-hog competitors who'd just love to run you off the track.</desc>
+		<rating>0.6</rating>
+		<releasedate>19920701T000000</releasedate>
+		<developer>Gremlin Graphics Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
 	</game>
 </gameList>

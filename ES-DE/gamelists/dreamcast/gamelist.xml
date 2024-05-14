@@ -1,19 +1,8 @@
 <?xml version="1.0"?>
+<alternativeEmulator>
+	<label>Redream (KW)</label>
+</alternativeEmulator>
 <gameList>
-	<game>
-		<path>./Bangai-O (USA).chd</path>
-		<name>Bangai-O</name>
-		<desc>Ever wanted to just unleash the ultimate weapon? Blow up 500 enemies at once? Cause the ultimate amount of mayhem ever? In true Treasure fashion...you just got that power!
-
-As the pilots of the Bangaioh mech, you've got to stop a mad group from taking over the world by giving them a little dose of insane destruction. Wanna just be crazy and let them kill you? Go ahead...just hit that trigger before it happens...
-
-The Nintendo 64 version was only released in Japan. The Dreamcast version exists in the U.S. and Europe.</desc>
-		<releasedate>20010321T000000</releasedate>
-		<developer>Treasure</developer>
-		<publisher>Entertainment Software Publishing</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-	</game>
 	<game>
 		<path>./Cannon Spike (USA).chd</path>
 		<name>Cannon Spike</name>
@@ -25,29 +14,6 @@ The different characters use slightly different attacks but each share the setup
 		<publisher>Bigben Interactive</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan).chd</path>
-		<name>Capcom vs. SNK 2 Millionaire Fighting 2001</name>
-		<desc>Capcom vs SNK 2: Millionaire Fighting 2001 is the sequel to the fighting game Capcom VS SNK.
-It was originally published on NAOMI terminals in arcades.
-As in the original, players choose a team of fighters from the different Capcom and SNK games and then battle against other teams, winning each battle by beating all of the opponents of the other team.</desc>
-		<releasedate>20010913T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Daytona USA (USA).chd</path>
-		<name>Daytona USA</name>
-		<desc>Just like the arcade version, pick one of three tracks (beginner, advanced, or expert) and either automatic or standard transmission. A pounding music soundtrack kicks in as you are slapped into your car to await the green light. The game offers both a traditional arcade mode with checkpoint time splits and a special PC mode that pits you against the other cars over different race distances. The PC mode also offers more car choices, with a variety of speed, acceleration, and grip characteristics. It even rewards successful players (meaning those finishing first, second, or third in the difficult setting) by offering up to ten more upgraded cars to drive. Once underway, the goal is to work from last to first as smoothly and quickly as possible
-</desc>
-		<releasedate>20010313T000000</releasedate>
-		<developer>Amusement Vision</developer>
-		<publisher>Infogrames</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-4</players>
 	</game>
 	<game>
 		<path>./Dead or Alive 2 (USA).chd</path>
@@ -140,6 +106,19 @@ You must blast complex viruses, unlock passwords, and destroy firewall bosses as
 		<players>1</players>
 	</game>
 	<game>
+		<path>./Tennis 2K2 (USA) (En,Ja,Fr,De,Es) (Rev A).chd</path>
+		<name>Tennis 2K2</name>
+		<desc>Sequel to the original game which was released two years prior. The games graphics have been improved, and there is a greater roster of players to choose from. The most noteworthy addition is that of female players, such as Monica Seles and Venus and Serena Williams. You cannot however play as a male against a female.
+The gameplay is a lot faster than the original. The players you control move a lot faster, as do the AI computer players. Less diving, but more getting at shots that go behind you and over the shoulder shots.
+
+The game modes from the original are the same, featuring tournament mode, where you play against the pros; exhibition mode for a one-on-one, best-out-of-three game; and world tour mode which now features the option of creating and customizing your own player. Build you player up, buy equipment and hire pros to play in doubles matches with you.</desc>
+		<releasedate>20011023T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports</genre>
+		<players>1-4</players>
+	</game>
+	<game>
 		<path>./Soulcalibur (USA).chd</path>
 		<name>SoulCalibur</name>
 		<desc>A fighting game to end all fighting games.  A sequel to Soul Blade, Soul Calibur takes place in a time inspired by a mixture of 16th-century ancient China and oriental medieval fantasies and legends.  
@@ -154,16 +133,40 @@ In addition to several locales in which to fight and alternate models/costumes p
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Tennis 2K2 (USA) (En,Ja,Fr,De,Es) (Rev A).chd</path>
-		<name>Tennis 2K2</name>
-		<desc>Sequel to the original game which was released two years prior. The games graphics have been improved, and there is a greater roster of players to choose from. The most noteworthy addition is that of female players, such as Monica Seles and Venus and Serena Williams. You cannot however play as a male against a female.
-The gameplay is a lot faster than the original. The players you control move a lot faster, as do the AI computer players. Less diving, but more getting at shots that go behind you and over the shoulder shots.
-
-The game modes from the original are the same, featuring tournament mode, where you play against the pros; exhibition mode for a one-on-one, best-out-of-three game; and world tour mode which now features the option of creating and customizing your own player. Build you player up, buy equipment and hire pros to play in doubles matches with you.</desc>
-		<releasedate>20011023T000000</releasedate>
-		<developer>Hitmaker</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports</genre>
+		<path>./Daytona USA (USA).chd</path>
+		<name>Daytona USA</name>
+		<desc>Just like the arcade version, pick one of three tracks (beginner, advanced, or expert) and either automatic or standard transmission. A pounding music soundtrack kicks in as you are slapped into your car to await the green light. The game offers both a traditional arcade mode with checkpoint time splits and a special PC mode that pits you against the other cars over different race distances. The PC mode also offers more car choices, with a variety of speed, acceleration, and grip characteristics. It even rewards successful players (meaning those finishing first, second, or third in the difficult setting) by offering up to ten more upgraded cars to drive. Once underway, the goal is to work from last to first as smoothly and quickly as possible
+</desc>
+		<releasedate>20010313T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Race, Driving</genre>
 		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Bangai-O (USA).chd</path>
+		<name>Bangai-O</name>
+		<desc>Ever wanted to just unleash the ultimate weapon? Blow up 500 enemies at once? Cause the ultimate amount of mayhem ever? In true Treasure fashion...you just got that power!
+
+As the pilots of the Bangaioh mech, you've got to stop a mad group from taking over the world by giving them a little dose of insane destruction. Wanna just be crazy and let them kill you? Go ahead...just hit that trigger before it happens...
+
+The Nintendo 64 version was only released in Japan. The Dreamcast version exists in the U.S. and Europe.</desc>
+		<releasedate>20010321T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Entertainment Software Publishing</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Capcom vs. SNK 2 - Millionaire Fighting 2001 (Japan).chd</path>
+		<name>Capcom vs. SNK 2 Millionaire Fighting 2001</name>
+		<desc>Capcom vs SNK 2: Millionaire Fighting 2001 is the sequel to the fighting game Capcom VS SNK.
+It was originally published on NAOMI terminals in arcades.
+As in the original, players choose a team of fighters from the different Capcom and SNK games and then battle against other teams, winning each battle by beating all of the opponents of the other team.</desc>
+		<releasedate>20010913T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
 	</game>
 </gameList>

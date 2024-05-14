@@ -11,6 +11,16 @@
 		<players>1-2</players>
 	</game>
 	<game>
+		<path>./wingwar.zip</path>
+		<name>Wing War</name>
+		<desc>Wing War is a flight/combat simulation. The object of the game is by where the players fight head-to-head in airplanes trying to shoot the other players out of the sky.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
 		<path>./vf.zip</path>
 		<name>Virtua Fighter</name>
 		<desc>In this 3-D fighting game, the game's battle system is simple, yet complex. There are 3 buttons: Punch, Kick and Guard. Movement is strictly confined to a horizontal plane.
@@ -32,16 +42,6 @@ As well as the sublime graphics and superb playability, Virtua Racing also allow
 		<developer>SEGA</developer>
 		<publisher>SEGA</publisher>
 		<genre>Race, Driving</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./wingwar.zip</path>
-		<name>Wing War</name>
-		<desc>Wing War is a flight/combat simulation. The object of the game is by where the players fight head-to-head in airplanes trying to shoot the other players out of the sky.</desc>
-		<releasedate>19940101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shooter</genre>
 		<players>1</players>
 	</game>
 </gameList>
