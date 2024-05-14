@@ -6,6 +6,12 @@
             <entry>~/Applications/BigPEmu/BigPEmu.exe</entry>
         </rule>
     </emulator>
+    <emulator name="BIGPEMU-LINUX-KW">
+        <!-- BigPEmu (Jaguar, Linux port) -->
+        <rule type="staticpath">
+            <entry>~/Applications/bigpemu/bigpemu</entry>
+        </rule>
+    </emulator>
     <emulator name="CEMU-KW">
         <!-- Cemu (Wii U) -->
         <rule type="staticpath">

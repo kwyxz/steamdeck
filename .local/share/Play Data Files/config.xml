@@ -7,7 +7,7 @@
 	<Preference Name="ps2.arcade.ioserver.enabled" Type="boolean" Value="false" />
 	<Preference Name="ps2.arcade.ioserver.port" Type="integer" Value="9876" />
 	<Preference Name="ps2.arcaderoms.directory" Type="path" Value="/home/deck/Emulation/roms/system2x6" />
-	<Preference Name="ps2.cdrom0.path.v2" Type="path" Value="/home/deck/Emulation/roms/system2x6/soulclb3/sc31001-na-dvd0-b.chd" />
+	<Preference Name="ps2.cdrom0.path.v2" Type="path" Value="/home/deck/Emulation/roms/system2x6/fghtjam/jam1-dvd0.chd" />
 	<Preference Name="ps2.hdd.directory" Type="path" Value="/home/deck/.local/share/Play Data Files/vfs/hdd" />
 	<Preference Name="ps2.host.directory.v2" Type="path" Value="/home/deck/.local/share/Play Data Files/vfs/host" />
 	<Preference Name="ps2.limitframerate" Type="boolean" Value="true" />
