@@ -10,6 +10,6 @@
 [submodule ".emulationstation/themes/art-book-next-kwyxz"]
 	path = ES-DE/themes/art-book-next-kw
 	url = https://github.com/kwyxz/art-book-next-kwyxz.git
-[submodule "ES-DE/themes/iconic-es-de-kwyxz"]
-	path = ES-DE/themes/iconic-es-de-kwyxz
-	url = https://github.com/kwyxz/iconic-es-de.git
+[submodule "ES-DE/themes/iconic-es-de"]
+	path = ES-DE/themes/iconic-es-de
+	url = https://github.com/Siddy212/iconic-es-de.git
