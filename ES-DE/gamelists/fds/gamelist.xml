@@ -2517,16 +2517,6 @@ Kogorou Kurachi is the designers' little parody of the Japanese fictional detect
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Zelda II - The Adventure of Link (Japan) (Rev 1) [T-En by Columbo v2.33] [n].zip</path>
-		<name>Zelda II : The Adventure of Link</name>
-		<desc>The land of Hyrule is in chaos.  As Link, you'll be sent on a treacherous journey to return six precious Crystals to their origins in six stone statues.  Only by defeating the guardians of the six palaces will you gain passage to the seventh palace, take on the ultimate challenge that awaits you, and wake the Princess Zelda from her sleeping spell.  On your way, helpful villagers you encounter will offer clues and secret messages invaluable in your quest.  As you guide Link through the levels of Hyrule, close-ups and overviews will enhance your video vision.  Are you up to the challenge?</desc>
-		<releasedate>19881201T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Aspic - Curse of the Snakelord (Japan) [T-En by BlackPaladin v1.0] [n].zip</path>
 		<name>Aspic - Majaou No Noroi</name>
 		<desc>Aspic is the sequel to one of Xtalsoft's earlier games, Lizard. Aspic begins right where Lizard ends. The player obtains the Book of Truth, which is needed to break the curse on the princess. He returns to the king only to find that the princess is missing. Three days prior, a wizard appeared and informed the king that there was another way to save the princess, so the king entrusted the princess's life to the wizard. Now that you've returned, the king begs you to find out what's become of the wizard and the princess.</desc>
@@ -2689,6 +2679,16 @@ In order to accomplish this task, the player cannot simple move across the floor
 		<releasedate>19870529T000000</releasedate>
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Zelda II - The Adventure of Link (Japan) (Rev 1) [T-En by Columbo v2.33] [n].zip</path>
+		<name>Zelda II : The Adventure of Link</name>
+		<desc>The land of Hyrule is in chaos.  As Link, you'll be sent on a treacherous journey to return six precious Crystals to their origins in six stone statues.  Only by defeating the guardians of the six palaces will you gain passage to the seventh palace, take on the ultimate challenge that awaits you, and wake the Princess Zelda from her sleeping spell.  On your way, helpful villagers you encounter will offer clues and secret messages invaluable in your quest.  As you guide Link through the levels of Hyrule, close-ups and overviews will enhance your video vision.  Are you up to the challenge?</desc>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
 		<players>1</players>
 	</game>
 </gameList>

@@ -69,4 +69,14 @@ While choosing their plane, the player can use the throttle to choose between fo
 		<genre>Shooter / Plane</genre>
 		<players>1</players>
 	</game>
+	<game>
+		<path>./Skate 2.ps3</path>
+		<name>Skate 2</name>
+		<desc>It's been five long years since your mysterious disappearance from the skate scene, and much has changed in the wake of "the disaster-too-gnarly-to-be-named." The massive devastation left large swaths of San Vanelona completely destroyed. After the mass evacuation, one company, Mongocorp, won the bid to rebuild New San Vanelona and their zealous protection of their private property has put a damper on the once thriving skate population. Your mission is to rebuild your career and revive the New San Van skate scene. To help you get the job done, you'll have double the tricks and the new ability to get off your board to move stuff and create the sickest lines. There's even a crew of locals you can call on to help take care of business. skate 2 - it's time to take back the city... one spot at a time.</desc>
+		<releasedate>20090121T000000</releasedate>
+		<developer>EA Black Box</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>2-4</players>
+	</game>
 </gameList>

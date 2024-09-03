@@ -13,16 +13,6 @@ The game allows (and even encourages) the player to restart it from the beginnin
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Burnout Revenge (USA).iso</path>
-		<name>Burnout Revenge</name>
-		<desc>In Burnout Revenge, players compete in a range of racing game types with different aims. These take place within rush-hour traffic, and include circuit racing, Road Rage (where players cause as many rivals to crash as possible within a time limit, or until the player's car is wrecked), Burning Lap (a single-lap, single-racer time attack mode), Eliminator (a circuit race where every thirty seconds, the last-placed racer's car is detonated; the race continues until only one racer is left), and Crash (where the player is placed at a junction with the aim of accumulating as many "Crash Dollars" as possible). A new gameplay feature in Burnout Revenge is the ability to ram same-way small to medium traffic, known as "traffic checking", propelling the rammed car forward; the event in which a "checked" car hits a rival is considered as a Traffic Takedown. Traffic checking is the focus of a new race type, Traffic Attack (whereby a player must earn a set amount of Crash Dollars through checking traffic), which can be used later on.</desc>
-		<releasedate>20050913T000000</releasedate>
-		<developer>Criterion Games</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Castlevania - Lament of Innocence (USA).iso</path>
 		<name>Castlevania : Lament of Innocence</name>
 		<desc>Konami's whip-wielding, vampire-killing series makes its PlayStation 2 debut with Castlevania: Lament of Innocence. Set in the 11th century, the game traces the origins of the Belmont family through the story of original vampire hunter Leon Belmont.
@@ -287,6 +277,16 @@ The story this time deals with the appearance of the evil Jivatma in South Town,
 		<developer>Namco</developer>
 		<publisher>Namco</publisher>
 		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Burnout Revenge (USA).iso</path>
+		<name>Burnout Revenge</name>
+		<desc>In Burnout Revenge, players compete in a range of racing game types with different aims. These take place within rush-hour traffic, and include circuit racing, Road Rage (where players cause as many rivals to crash as possible within a time limit, or until the player's car is wrecked), Burning Lap (a single-lap, single-racer time attack mode), Eliminator (a circuit race where every thirty seconds, the last-placed racer's car is detonated; the race continues until only one racer is left), and Crash (where the player is placed at a junction with the aim of accumulating as many "Crash Dollars" as possible). A new gameplay feature in Burnout Revenge is the ability to ram same-way small to medium traffic, known as "traffic checking", propelling the rammed car forward; the event in which a "checked" car hits a rival is considered as a Traffic Takedown. Traffic checking is the focus of a new race type, Traffic Attack (whereby a player must earn a set amount of Crash Dollars through checking traffic), which can be used later on.</desc>
+		<releasedate>20050913T000000</releasedate>
+		<developer>Criterion Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Race, Driving</genre>
 		<players>1-2</players>
 	</game>
 </gameList>

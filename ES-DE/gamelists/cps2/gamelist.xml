@@ -61,16 +61,6 @@ The most intense battle in human history is about to begin...</desc>
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./csclub.zip</path>
-		<name>Capcom Sports Club</name>
-		<desc>Capcom Sports Club is an arcade game released by Capcom in 1997. It is a multi-sport game that consists of Smash Stars (Tennis), Dunk Stars (Basketball), and Kick Stars (Football/Soccer).</desc>
-		<releasedate>19970822T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./cybots.zip</path>
 		<name>Cyberbots : Fullmetal Madness</name>
 		<desc>Near the end of the 21st century, Earth begins to become overpopulated, leading to many people living in man-made space colonies. The primary army of Earth called "Earth Corps", has been conducting nefarious experiments and their work, along with the actions of the playable characters, will determine Earth's future.</desc>
@@ -135,28 +125,6 @@ The unimaginable secret power of the dark is unleashed!</desc>
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./gigawing.zip</path>
-		<name>Giga Wing</name>
-		<desc>'Medallions' are mystic stones sent from heaven, brought evolution to human technology and lead tremendous progress to the armories. To gain their powers which the 'Stones' hold for the promised victory, many nations fought over the mystic stones and reheated the world of war. Within all the 'Stones' is the 'Medallion of Wisdom', known as the power source of all mystic stones, it had enough energy to terminate humanity. The whole world was in despair. And now, four brave worriers have risen to fly straight into the combat zone! All four had different reasons, but their ultimate goal was the same: to destroy the Medallion of Wisdom! Fight to save the humanity!
-
-Giga Wing is a shoot-em-up set during a fictional war. The player controls one of four different futuristic aircraft and must destroy enemy aircraft, tanks, ships, and buildings using both guns and missiles mounted on the aircraft and a limited supply of bombs which damage or destroy all enemies on-screen when used.</desc>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Takumi</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./hsf2.zip</path>
-		<name>Hyper Street Fighter II: The Anniversary Edition</name>
-		<desc>Hyper Street Fighter II: The Anniversary Edition is a competitive fighting game by Capcom that was originally released for the PlayStation 2 in 2003 in Japan and in 2004 in North America and Asia. Released to commemorate the 15th anniversary of the Street Fighter series, Hyper Street Fighter II is a modified port of Super Street Fighter II Turbo in which players can control any versions of the main characters from the five Street Fighter II games previously released for the arcades. Although, originally released as a home console game, an arcade port was released shortly afterwards in limited quantities, turning it into the sixth and final arcade iteration.</desc>
-		<releasedate>20040101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./choko.zip</path>
 		<name>Janpai Puzzle Choukou</name>
 		<desc>An adult shanghai game from Mitchell. The objective is to clear the board of matching tiles before the timer runs out.
@@ -179,16 +147,6 @@ If the game is lost, upon continuing the player may select to attempt to clear t
 		<developer>Takumi</developer>
 		<publisher>Capcom</publisher>
 		<genre>Shoot'em up / Vertical</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./msh.zip</path>
-		<name>Marvel Super Heroes</name>
-		<desc>Play as your favorite Marvel character: Wolverine, Spider-Man, The Incredible Hulk, Captain America, Iron Man, Psylocke, Shuma-Gorath, Blackheart, Juggernaut or Magneto. Power up with an Infinity Gem - Grant your super hero healing power, super attacks and increased strength.</desc>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
 		<players>1-2</players>
 	</game>
 	<game>
@@ -421,6 +379,48 @@ This game is also known under the name of Super Street Fighter II: The Tournamen
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./hsf2.zip</path>
+		<name>Hyper Street Fighter II: The Anniversary Edition</name>
+		<desc>Hyper Street Fighter II: The Anniversary Edition is a competitive fighting game by Capcom that was originally released for the PlayStation 2 in 2003 in Japan and in 2004 in North America and Asia. Released to commemorate the 15th anniversary of the Street Fighter series, Hyper Street Fighter II is a modified port of Super Street Fighter II Turbo in which players can control any versions of the main characters from the five Street Fighter II games previously released for the arcades. Although, originally released as a home console game, an arcade port was released shortly afterwards in limited quantities, turning it into the sixth and final arcade iteration.</desc>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./gigawing.zip</path>
+		<name>Giga Wing</name>
+		<desc>'Medallions' are mystic stones sent from heaven, brought evolution to human technology and lead tremendous progress to the armories. To gain their powers which the 'Stones' hold for the promised victory, many nations fought over the mystic stones and reheated the world of war. Within all the 'Stones' is the 'Medallion of Wisdom', known as the power source of all mystic stones, it had enough energy to terminate humanity. The whole world was in despair. And now, four brave worriers have risen to fly straight into the combat zone! All four had different reasons, but their ultimate goal was the same: to destroy the Medallion of Wisdom! Fight to save the humanity!
+
+Giga Wing is a shoot-em-up set during a fictional war. The player controls one of four different futuristic aircraft and must destroy enemy aircraft, tanks, ships, and buildings using both guns and missiles mounted on the aircraft and a limited supply of bombs which damage or destroy all enemies on-screen when used.</desc>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Takumi</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./msh.zip</path>
+		<name>Marvel Super Heroes</name>
+		<desc>Play as your favorite Marvel character: Wolverine, Spider-Man, The Incredible Hulk, Captain America, Iron Man, Psylocke, Shuma-Gorath, Blackheart, Juggernaut or Magneto. Power up with an Infinity Gem - Grant your super hero healing power, super attacks and increased strength.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./csclub.zip</path>
+		<name>Capcom Sports Club</name>
+		<desc>Capcom Sports Club is an arcade game released by Capcom in 1997. It is a multi-sport game that consists of Smash Stars (Tennis), Dunk Stars (Basketball), and Kick Stars (Football/Soccer).</desc>
+		<releasedate>19970822T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Sports</genre>
 		<players>1-2</players>
 	</game>
 </gameList>
