@@ -10,3 +10,6 @@
 [submodule "ES-DE/themes/iconic-es-de"]
 	path = ES-DE/themes/iconic-es-de
 	url = https://github.com/Siddy212/iconic-es-de.git
+[submodule ".config/retroarch/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel"]
+	path = .config/retroarch/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel
+	url = https://github.com/Duimon/Duimon-Mega-Bezel.git
