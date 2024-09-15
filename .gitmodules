@@ -1,6 +1,3 @@
-[submodule ".config/retroarch/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel"]
-	path = .config/retroarch/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel
-	url = https://github.com/Duimon/Duimon-Mega-Bezel.git
 [submodule ".config/retroarch/shaders/shaders_slang"]
 	path = .config/retroarch/shaders/shaders_slang
 	url = https://github.com/libretro/slang-shaders.git
