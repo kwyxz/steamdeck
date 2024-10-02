@@ -28,6 +28,9 @@
 /.mame/nvram/
 !/Applications/
 /Applications/*
+!/Applications/bigpemu/
+/Applications/bigpemu/*
+!/Applications/bigpemu/install-bigpemu.sh
 !/Applications/cemu/
 /Applications/cemu/*
 !/Applications/cemu/install-cemu.sh
