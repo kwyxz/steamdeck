@@ -7,6 +7,9 @@
 !/.config/retroarch/config
 !/.config/retroarch/retroarch.cfg
 !/.config/retroarch/shaders/
+!/.config/systemd/
+/.config/systemd/*
+!/.config/systemd/user/
 !/.local/
 /.local/*
 !/.local/share/
