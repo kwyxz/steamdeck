@@ -1,0 +1,11 @@
+[Unit]
+Description=Decky managed Syncthing starter - Open Source Continuous File Synchronization
+
+[Service]
+ExecStart=/usr/bin/flatpak run --die-with-parent --command=syncthing me.kozec.syncthingtk -no-browser -no-restart
+Restart=on-failure
+SuccessExitStatus=3 4
+RestartForceExitStatus=3 4
+
+[Install]
+WantedBy=default.target

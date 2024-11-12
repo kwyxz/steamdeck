@@ -43,6 +43,7 @@ else
   flatpak install org.mamedev.MAME -y --user
   flatpak install org.ryujinx.Ryujinx -y --user
   flatpak install io.github.lime3ds.Lime3DS -y --user
+  flatpak install me.kozec.syncthingtk -y --user
 fi
 
 sh $HOME/scripts/update-all.sh
