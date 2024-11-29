@@ -15,7 +15,7 @@ from pathlib import Path
 ES_PATH=f"{str(Path.home())}/ES-DE"
 DL_MEDIA_PATH=f"{str(Path.home())}/Emulation/tools/downloaded_media"
 ROM_PATH=f"{str(Path.home())}/Roms"
-COUNTRY_LIST=['(USA','USA)','(World','World)','(Europe','Europe)','(France','France)','(Japan) (En)','(Japan) [T-En','(T-En','(Japan', 'Japan)']
+COUNTRY_LIST=['(USA)','(USA','USA)','(World','World)','(Europe','Europe)','(France','France)','(Japan) (En)','(Japan) [T-En','(T-En','(Japan', 'Japan)']
 
 def die(message):
     print(f"ERROR: {message}")
@@ -31,11 +31,8 @@ def find_missing(root,mediapath):
             rom = rom.stem
         games[rom] = {}
         for file in os.scandir(mediapath):
-            if os.path.isdir(file):
-                fold = file.name
-                games[rom][fold] = False
-            else:
-                break
+            fold = file.name
+            games[rom][fold] = False
             if fold == 'videos':
                 media_format = ['mp4','flv','mkv']
             else:
@@ -151,7 +148,6 @@ def confirm_delete():
 
 def main():
     """main loop"""
-    missing = find_missing(ROOT,MEDIA_PATH)
     duplicates = list_dups(ROOT)
     if ARGS.find:
         print_dups(sorted(duplicates.items()))
@@ -160,10 +156,12 @@ def main():
         if len(to_delete)>0:
             if confirm_delete():
                 delete_roms(to_delete)
-    elif ARGS.media:
-        display_missing(missing)
-    elif ARGS.copy:
-        copy_media(missing,duplicates,MEDIA_PATH)
+    else:
+        missing = find_missing(ROOT,MEDIA_PATH)
+        if ARGS.media:
+            display_missing(missing)
+        elif ARGS.copy:
+            copy_media(missing,duplicates,MEDIA_PATH)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
@@ -178,7 +176,8 @@ if __name__ == "__main__":
 
     ARGS = parser.parse_args()
     XMLFILE = f"{ES_PATH}/gamelists/{ARGS.hardware}/gamelist.xml"
-    MEDIA_PATH = f"{DL_MEDIA_PATH}/{ARGS.hardware}/"
+    if ARGS.media or ARGS.copy:
+        MEDIA_PATH = f"{DL_MEDIA_PATH}/{ARGS.hardware}/"
     try:
         TREE = ET.parse(XMLFILE)
     except FileNotFoundError:
