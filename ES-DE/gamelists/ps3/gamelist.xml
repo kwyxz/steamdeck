@@ -41,14 +41,6 @@
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Sega Rally Online Arcade.ps3</path>
-		<name>Sega Rally Online Arcade</name>
-		<desc>Sega Rally Online Arcade is a racing game for download on the Playstation Network. Thirteen cars are brought together to race in Championship or Time Trial modes. In addition to online leaderboards, there is also a 6-player option for racing with other connected players.</desc>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving</genre>
-	</game>
-	<game>
 		<path>./OutRun Online Arcade.ps3</path>
 		<name>Outrun Online Arcade</name>
 		<rating>0.8</rating>
@@ -78,5 +70,13 @@ While choosing their plane, the player can use the throttle to choose between fo
 		<publisher>Electronic Arts</publisher>
 		<genre>Sports</genre>
 		<players>2-4</players>
+	</game>
+	<game>
+		<path>./Sega Rally Online Arcade.ps3</path>
+		<name>Sega Rally Online Arcade</name>
+		<desc>Sega Rally Online Arcade is a racing game for download on the Playstation Network. Thirteen cars are brought together to race in Championship or Time Trial modes. In addition to online leaderboards, there is also a 6-player option for racing with other connected players.</desc>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Racing, Driving</genre>
 	</game>
 </gameList>

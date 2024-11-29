@@ -176,17 +176,6 @@ With the intention to provide more action in the battles, the "No Contest" Moves
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan).chd</path>
-		<name>Samurai Shodown RPG</name>
-		<desc>It's eighteen century, to japan, it's a peaceful region. The word "peaceful" are only applied to the social status, not the heart of the human. 
-The greed, like the diseases, is spreading through the human heart. The devil within had awaken and worse, the devil below is risen... In case some people might not know, Samurai Spirits RPG are divided into 2 stories. One is based on Samurai Spirits 1 and the other are based on 2.</desc>
-		<releasedate>19970627T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja).chd</path>
 		<name>The King of Fighters '98: The Slugfest</name>
 		<desc>The King of Fighters '98 takes a break from the Orochi plot line and instead is presented as a "Dream Match" game where the KOF roster duke it out for the top spot (similar to Ultimate Mortal Kombat 3, but without the storyline component). Most of the characters from the past four years return, thus providing the player with a very large roster containing 38 characters. Many of the characters have been altered in an attempt to make the game balanced regardless of the player's choice of fighter. Rugal Bernstein is provided as a non-secret character for the first time in KOF '98, and several regular characters have hidden "alternate" versions that may also be used in-game. 
@@ -207,5 +196,16 @@ KOF '98 uses the same gameplay system present in The King of Fighters '97, so pl
 		<publisher>SNK</publisher>
 		<genre>Action</genre>
 		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan).chd</path>
+		<name>Samurai Shodown RPG</name>
+		<desc>It's eighteen century, to japan, it's a peaceful region. The word "peaceful" are only applied to the social status, not the heart of the human. 
+The greed, like the diseases, is spreading through the human heart. The devil within had awaken and worse, the devil below is risen... In case some people might not know, Samurai Spirits RPG are divided into 2 stories. One is based on Samurai Spirits 1 and the other are based on 2.</desc>
+		<releasedate>19970627T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
 	</game>
 </gameList>

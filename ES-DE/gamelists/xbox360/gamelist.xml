@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Gears of War Judgment (USA).iso</path>
-		<name>Gears Of War Judgment</name>
-		<desc>Gears of War: Judgment is the latest installment of the legendary franchise on the Xbox 360. Again offering a campaign fully playable in cooperation with 4 players, it is a prequel set 15 years before the first Gears of War trilogy, with the ability to unlock a bonus mission narrating events happening during the Gears 3 campaign. Two new multiplayer modes are included, Overrun and Free-for-All.</desc>
-		<releasedate>20130319T000000</releasedate>
-		<developer>People Can Fly</developer>
-		<publisher>Microsoft</publisher>
-		<genre>Shooter / 3rd person</genre>
-		<players>2-4</players>
-	</game>
-	<game>
 		<path>./Skate 2 (Europe).iso</path>
 		<name>Skate 2</name>
 		<desc>Skate 2 on Xbox 360 takes you through the streets of San Vanelona in search of the best spots to perform the most impressive tricks possible. The game focuses on a very high level of realism, both in the behaviour of the riders and in the execution of the tricks.</desc>
@@ -19,5 +9,24 @@
 		<publisher>Electronic Arts</publisher>
 		<genre>Sports</genre>
 		<players>2-4</players>
+	</game>
+	<game>
+		<path>./Gears of War Judgment (USA).iso</path>
+		<name>Gears Of War Judgment</name>
+		<desc>Gears of War: Judgment is the latest installment of the legendary franchise on the Xbox 360. Again offering a campaign fully playable in cooperation with 4 players, it is a prequel set 15 years before the first Gears of War trilogy, with the ability to unlock a bonus mission narrating events happening during the Gears 3 campaign. Two new multiplayer modes are included, Overrun and Free-for-All.</desc>
+		<rating>0.7</rating>
+		<releasedate>20130319T000000</releasedate>
+		<developer>People Can Fly</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Shooter / TPV</genre>
+		<players>2-4</players>
+	</game>
+	<folder>
+		<path>./xbla/584108F6/000D0000</path>
+		<name>000D0000</name>
+	</folder>
+	<game>
+		<path>./xbla/584108F6/000D0000/5F875C082685D06527560E032F8F8167D90BD15D58</path>
+		<name>5F875C082685D06527560E032F8F8167D90BD15D58</name>
 	</game>
 </gameList>

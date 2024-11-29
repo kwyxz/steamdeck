@@ -204,15 +204,6 @@ Actually, it would be more accurate to say that magic is mostly gone - a young w
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Contra_Operation_Galuga.USA.nsp</path>
-		<name>Contra Operation Galuga</name>
-		<desc>The legendary Contra series returns! This reimagining of the classic run-'n'-gun action game from the ‘80s features new stages, new enemies, new play mechanics, and co-op combat for up to 4 players!</desc>
-		<releasedate>20240312T000000</releasedate>
-		<publisher>WayForward Technologies</publisher>
-		<genre>Action, Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Super_Mario_Bros_Wonder.xci</path>
 		<name>Super Mario Bros. Wonder</name>
 		<desc>Find wonder in the next evolution of Mario funClassic Mario side-scrolling gameplay is turned on its head with the addition of Wonder Flowers. These game-changing items trigger spectacular moments you have to see to believe...Witness pipes coming alive, wreak havoc as a giant spiky ball, and see even more unexpected events called Wonder Effects.Pick from heroic Super Mario™ characters and Power-UpsChoose from familiar characters including Mario, Luigi, Peach, Daisy, Yoshi and Toad. Transform into Elephant Mario to use your trunk to trounce enemies with a surprising new Power-Up!Share the wonder with friends and Mario fansTeam up with up to three friends locally* and gather around one Nintendo Switch™ system to experience the game-bending Wonder Effects together as you tackle courses as a team and help each other on your way to the goal.</desc>
@@ -221,6 +212,17 @@ Actually, it would be more accurate to say that magic is mostly gone - a young w
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Platform / Run Jump</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Contra_Operation_Galuga.USA.nsp</path>
+		<name>Contra: Operation Galuga</name>
+		<desc>A new entry in the legendary Contra series is here! Contra: Operation Galuga is a thorough reimagining of the classic run-'n'-gun action game from the '80s, featuring modern graphics and sound, new stages, new enemies and bosses, new play mechanics, an updated weapons system, and explosive co-op combat for up to two players in Story Mode or four players in Arcade Mode!
+When the Red Falcon terrorist group takes over the Galuga Islands off the coast of New Zealand, elite Contra commandos Bill Rizer and Lance Bean springs into action, initiating an all-out war in which the fate of mankind hangs in the balance!
+Run, jump, and shoot your way through eight levels using a devastating arsenal - including the spread shot, laser, and homing missiles - now with stackable upgrades and awesome Overload abilities! The intense action is customizable with three difficulty settings plus a variety of additional challenge options. The true Contra legacy begins now! Key </desc>
+		<releasedate>20240312T000000</releasedate>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
 		<players>1-4</players>
 	</game>
 </gameList>

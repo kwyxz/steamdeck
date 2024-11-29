@@ -2843,16 +2843,6 @@ Game features include 7 monsters each with their own home arena and special move
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Golden Sun (France).zip</path>
-		<name>Golden Sun</name>
-		<desc>Evil is slowly covering the world. Forces of darkness are pursuing the lost art of Alchemy, and as they draw ever closer to their foul purpose, mankind hangs in the balance. You and your companions are the last hope: armed with noble weapons, magical Psynergy, and a host of elemental creatures, you must find a way to stem the evil tide.</desc>
-		<releasedate>20011111T000000</releasedate>
-		<developer>Camelot Software</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Golden Sun - L'Age Perdu (France).zip</path>
 		<name>Golden Sun : The Lost Age</name>
 		<desc>The story of Golden Sun: The Lost Age picks up right near the end of the first game. Golden Sun veterans will be surprised to learn that The Lost Age is played from the point of view of the party being chased as they try to light the remaining two lighthouses, which will unlock the power of alchemy for the world--or will it instead unlock the world's destruction?</desc>
@@ -2869,16 +2859,6 @@ Game features include 7 monsters each with their own home arena and special move
 		<releasedate>20011112T000000</releasedate>
 		<developer>Mobile 21</developer>
 		<publisher>Konami</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Grand Theft Auto (USA).zip</path>
-		<name>Grand Theft Auto Advance</name>
-		<desc>The Grand Theft Auto series finally makes its way to the Game Boy Advance. You play as a member of the Mob looking for a way out of your vicious lifestyle. The murder of your mentor, however, sets you off on a search for those responsible. To track down the killers, you must complete all-new missions while avoiding every cop in the city. As in previous installments in the Grand Theft Auto series, you can jack cars, explore the city, and wield a variety of weapons.</desc>
-		<releasedate>20041026T000000</releasedate>
-		<developer>Digital Eclipse</developer>
-		<publisher>Rockstar Games</publisher>
 		<genre>Race, Driving</genre>
 		<players>1</players>
 	</game>
@@ -9712,6 +9692,26 @@ The goal is still to survive from the left side of the level to the right, avoid
 		<releasedate>20040715T000000</releasedate>
 		<publisher>Ertain</publisher>
 		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Golden Sun (France).zip</path>
+		<name>Golden Sun</name>
+		<desc>Evil is slowly covering the world. Forces of darkness are pursuing the lost art of Alchemy, and as they draw ever closer to their foul purpose, mankind hangs in the balance. You and your companions are the last hope: armed with noble weapons, magical Psynergy, and a host of elemental creatures, you must find a way to stem the evil tide.</desc>
+		<releasedate>20011111T000000</releasedate>
+		<developer>Camelot Software</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Grand Theft Auto (USA).zip</path>
+		<name>Grand Theft Auto Advance</name>
+		<desc>The Grand Theft Auto series finally makes its way to the Game Boy Advance. You play as a member of the Mob looking for a way out of your vicious lifestyle. The murder of your mentor, however, sets you off on a search for those responsible. To track down the killers, you must complete all-new missions while avoiding every cop in the city. As in previous installments in the Grand Theft Auto series, you can jack cars, explore the city, and wield a variety of weapons.</desc>
+		<releasedate>20041026T000000</releasedate>
+		<developer>Digital Eclipse</developer>
+		<publisher>Rockstar Games</publisher>
+		<genre>Race, Driving</genre>
 		<players>1</players>
 	</game>
 </gameList>

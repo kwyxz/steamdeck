@@ -366,18 +366,6 @@ As Saul, it is your job to traverse five different areas on your way to Draxx. W
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Wonder Dog (USA) (RE).chd</path>
-		<name>Wonder Dog</name>
-		<desc>Wonder Dog is a side-scrolling platform game featuring a dog with super jumping ability and powerful throwing stars.  Wonder Dog has these abilities because he is not from Earth, but from Planet K-9. When Wonder Dog was a pup, K-9 scientists sent him to Earth to escape the impending invasion from the Pitbully Armada. Now, armed with the wonder serum, Wonder Dog must fight his way back to liberate K-9.
-
-This game features a variety of colorful stages, several hidden bonus rounds, and a large boss character at the end of nearly every level.</desc>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Core Design</developer>
-		<publisher>Victor Entertainment</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Final Fight CD (Japan) (Rev A).chd</path>
 		<name>Final Fight CD</name>
 		<desc>The game is set in the metropolis of Metro City, a town constantly plagued by crime and violence. When the mayor, Mike Haggar, promises to clean up the city, the Mad Gear gang kidnaps his daughter Jessica and warns him not to interfere. Haggar responds going on a battle across the city to free her, bringing along her boyfriend Cody, and the ninjitsu master Guy to assist him.
@@ -388,5 +376,17 @@ This game features a variety of colorful stages, several hidden bonus rounds, an
 		<publisher>SEGA</publisher>
 		<genre>Beat'em Up</genre>
 		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Wonder Dog (USA) (RE).chd</path>
+		<name>Wonder Dog</name>
+		<desc>Wonder Dog is a side-scrolling platform game featuring a dog with super jumping ability and powerful throwing stars.  Wonder Dog has these abilities because he is not from Earth, but from Planet K-9. When Wonder Dog was a pup, K-9 scientists sent him to Earth to escape the impending invasion from the Pitbully Armada. Now, armed with the wonder serum, Wonder Dog must fight his way back to liberate K-9.
+
+This game features a variety of colorful stages, several hidden bonus rounds, and a large boss character at the end of nearly every level.</desc>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Victor Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
 	</game>
 </gameList>

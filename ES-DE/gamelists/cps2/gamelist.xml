@@ -308,18 +308,6 @@ During a bout, players will be able to release coloured gems from successful att
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./ssf2t.zip</path>
-		<name>Super Street Fighter II Turbo</name>
-		<desc>Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X: Grand Master Challenge, is a competitive fighting game released for the arcades by Capcom in 1994. It is the fifth arcade installment in the Street Fighter II sub-series of Street Fighter games, following Super Street Fighter II. Like its predecessor, it ran on the CP System II hardware.
-
-Super Turbo introduced several new play mechanics to the game system from the previous Street Fighter II installments, including the addition of powered-up Special Moves called Super Combos. It also introduced the hidden character of Akuma, who would go on to become a recurring character in later Street Fighter installments and other Capcom fighting games.</desc>
-		<releasedate>19940223T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./ssf2.zip</path>
 		<name>Super Street Fighter II: The New Challengers</name>
 		<desc>Super Street Fighter II: The New Challengers is the fourth game in the Street Fighter II sub-series of Street Fighter games, following Street Fighter II: Hyper Fighting. In addition to refining and balancing the existing character roster from the previous installments, Super Street Fighter II also introduced four new characters.
@@ -421,6 +409,18 @@ Giga Wing is a shoot-em-up set during a fictional war. The player controls one o
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ssf2t.zip</path>
+		<name>Super Street Fighter II Turbo</name>
+		<desc>Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X: Grand Master Challenge, is a competitive fighting game released for the arcades by Capcom in 1994. It is the fifth arcade installment in the Street Fighter II sub-series of Street Fighter games, following Super Street Fighter II. Like its predecessor, it ran on the CP System II hardware.
+
+Super Turbo introduced several new play mechanics to the game system from the previous Street Fighter II installments, including the addition of powered-up Special Moves called Super Combos. It also introduced the hidden character of Akuma, who would go on to become a recurring character in later Street Fighter installments and other Capcom fighting games.</desc>
+		<releasedate>19940223T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
 		<players>1-2</players>
 	</game>
 </gameList>

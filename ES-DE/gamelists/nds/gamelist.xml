@@ -42,19 +42,6 @@ This game is a standard "point and click" adventure, with the player controlling
 		<players>2-8</players>
 	</game>
 	<game>
-		<path>./Contra 4 (USA).zip</path>
-		<name>Contra 4</name>
-		<desc>Contra 4 for the Nintendo DS is a direct sequel to 1994 SNES Contra III: Alien Wars. Two years after the defeat of Red Falcon - the first wave of the alien colonization fleet, the main invading force Black Viper approaches Earth. The heroes of the original Contra series - Billy Rizer and Lance Bean as well as two newcomers - Mad Dog and Scorpion are now humanity's last line of defense against total annihilation.
-
-This installment of the long-running series adds dual screen gameplay, enabling the player a wider view, and a 2-player co-op mode via local Wi-Fi connection. Each player is now given two weapon slots which can be filled with any one of the game's many weapon power-ups and switched at will with a press of a shoulder button. The game features nine levels set in such classic Contra locations as Jungle, Waterfall and a pseudo-3D Base.
-As a bonus, the cartridge contains an illustrated history of Contra, as well as the Contra and Super C original NES games.</desc>
-		<releasedate>20071113T000000</releasedate>
-		<developer>Wayforward</developer>
-		<publisher>Konami</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Flower, Sun and Rain - Murder and Mystery in Paradise (USA).zip</path>
 		<name>Flower, Sun and Rain - Murder and Mystery in Paradise</name>
 		<desc>Trouble in Paradise.
@@ -144,5 +131,106 @@ At this point, the game becomes a touch screen controlled shooter.  To control t
 		<publisher>Nintendo</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./Aliens - Infestation (USA) (En,Fr,De).zip</path>
+		<name>Aliens - Infestation</name>
+		<desc>GAME OVER, MAN!  The Xenomorph, the ultimate killing machine, returns.  Only the Universe's toughest, the Colonial Marines, can exterminate the galaxy's most feared species.  Can you fight off the terror of the alien infestation?
+
+-Choose you squad and watch the dynamic story system adapt
+-Pick up where the Aliens crew left off and fight through the U.S.S. Sulaco, planet LV-426, and more!
+-Load up with iconic weapons from the film, including pulse rifles, smart guns, and flamethrowers.</desc>
+		<rating>0.7</rating>
+		<releasedate>20111011T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Wayforward</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Fire Emblem - Shadow Dragon (USA).zip</path>
+		<name>Fire Emblem - Shadow Dragon</name>
+		<desc>Prince Marth and his band of loyal followers are the last hope in freeing Archanea. Alternate turns with the enemy, and shape up your army to suit your strategy by selecting from dozens of units with unique spells, abilities, and weapons. Each unit has its own strategic benefits, so guide them wisely or risk losing them on the battlefield.</desc>
+		<rating>0.8</rating>
+		<releasedate>20090216T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Golden Sun - Dark Dawn (USA, Australia) (En,Es).zip</path>
+		<name>Golden Sun : Dark Dawn</name>
+		<desc>After going dark six years ago, 2010 will see a new dawn. Golden Sun DS updates the popular portable Golden Sun role-playing series with an impressive graphical style. This installment follows the story of the previous heroes' descendants and immerses players into the magic of its adventure by pushing the boundaries of intuitive touch-screen controls.</desc>
+		<rating>0.8</rating>
+		<releasedate>20101129T000000</releasedate>
+		<developer>Camelot Software</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role Playing Game</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Infinite Space (USA).zip</path>
+		<name>Infinite Space</name>
+		<desc>Growing up as a second class citizen on a back-water planet, Yuri dreamed of being able to travel the stars. After many years he saved up enough credits to buy transport off the planet, but space travel is forbidden to second class citizens, and he is chased by the security forces of the corrupt owner of the planet. To survive the dangers of space Yuri must become a captain, buy and customize star ships, and fight against hostile enemies both on the ground and in space.
+
+The majority of Infinite Space's gameplay involves space ships, both in fighting and in modifying. All ships have a certain amount of space for extra modules to be added, and the abilities and shape of modules must be considered when choosing how to outfit a ship. In ship to ship combat you can control the distance your fleet is from the enemy fleet. During combat a command bar charges. You can use a small amount of the command bar to Dodge, use more to fire a Normal salvo, or expend almost all of it for a Barrage, which fires three times as many shots as Normal. If the opposing fleet uses Dodge before a Barrage then every shot will miss, leaving the attacking fleet at a disadvantage. If a Normal salvo is fired while the opposing fleet is Dodging, then every shot will hit and deal extra damage. Extra combat options come into play with larger star ships equipped with fighter hangars, special weapons, boarding parties, and officers with unique abilities.
+
+The story progresses primarily with text dialogue and the occasional FMV. Sometimes the player is prompted to make a decision in dialogue for Yuri, and these decisions can have far reaching consequences. Additional officers can join Yuri through the story, by hiring them at a mercenary office, or by finding them on various planets. All officers have unique stats and abilities that make them better for a particular role, such as doctor, engineer, or pilot, than others, and these stats and abilities increase in level from combat.</desc>
+		<rating>0.8</rating>
+		<releasedate>20100316T000000</releasedate>
+		<developer>Nude Maker</developer>
+		<publisher>SEGA</publisher>
+		<genre>Role Playing Game</genre>
+	</game>
+	<game>
+		<path>./Metroid Prime - Hunters (USA) (Rev 1).zip</path>
+		<name>Metroid Prime : Hunters</name>
+		<desc>It's the battle of the bounty hunters! Join Samus Aran as she goes up against six deadly rivals in a race to claim ancient artefacts that could spell doom for the galaxy. Metroid Prime Hunters transports pure first-person shooter action to Nintendo DS with pinpoint Touch Screen control and astonishing 3D graphics.</desc>
+		<rating>0.9</rating>
+		<releasedate>20060320T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter / FPV</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Jump Ultimate Stars (Japan).zip</path>
+		<name>Jump Ultimate Stars</name>
+		<desc>Jump Ultimate Stars is more or less an expanded version of the original game, Jump Super Stars. It features the same Super Smash Bros.-style fighting gameplay with a plethora of licensed manga characters, bringing in a wide variety of new franchises and characters. The roster has been expanded to more than 300 characters from 41 different manga titles. There is also Nintendo Wi-Fi Connection support, making global internet play a possibility.
+
+Generally, the game is structured the same as the previous title. The player sets up decks made up of the three types of panels, which can be used on the fly with the touchscreen. There is a story mode, versus modes, several single-player modes, as well as a quiz mode and information archives and story synopses for each series. The method of obtaining new panels has changed, however: each character has a progress tree, and successful battles earn gems which can be spent to power up different characters.
+
+The complete list of series represented is: Eyeshield 21, I''s, Ichigo 100%, Katekyo Hitman Reborn!, Captain Tsubasa, Gintama, Kinnikuman, Kochi Kame, Cobra, Sakigake!! Otoko Juku, Jigoku Sensei Nube, Shaman King, Jungle no Tar-chan, JoJo's Bizarre Adventure, Slam Dunk, Saint Seiya, Taizo Mote Ou Saga, D.Gray-man, Death Note, The Prince of Tennis, Dr. Slump, Tottemo! Luckyman, Dragon Ball, Naruto, Ninku, Hunter x Hunter, Pyuu to Fuku! Jaguar, Buso Renkin, Black Cat, Bleach, Hoshin Engi, Fist of the North Star, Bobobo-bo Bo-bobo, Majin Tantei Nogami Neuro, Midori no Makibao, Muhyo to Rouji no Mahoritsu Soudan Jimusou, Yu-Gi-Oh, Yu Yu Hakusho, Rurouni Kenshin, Rokudenashi Blues, and One Piece</desc>
+		<rating>0.9</rating>
+		<releasedate>20061123T000000</releasedate>
+		<developer>Ganbarion</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fighting</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Metroid Prime Pinball (USA).zip</path>
+		<name>Metroid Prime Pinball</name>
+		<desc>In this pinball game based on Metroid Prime, Samus gets knocked and rolled around the table in Morph Ball form; the table contains Metroids, which can latch onto her and suck away health. Tables include the surface of Tallon IV, the Space Station, the Phazon Mines, and more can be unlocked by searching for artifacts and collecting bounties, which are found by destroying Space Pirates and other dangerous creatures.</desc>
+		<rating>0.8</rating>
+		<releasedate>20051024T000000</releasedate>
+		<developer>Fuse Games</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Contra 4 (USA).zip</path>
+		<name>Contra 4</name>
+		<desc>Contra 4 for the Nintendo DS is a direct sequel to 1994 SNES Contra III: Alien Wars. Two years after the defeat of Red Falcon - the first wave of the alien colonization fleet, the main invading force Black Viper approaches Earth. The heroes of the original Contra series - Billy Rizer and Lance Bean as well as two newcomers - Mad Dog and Scorpion are now humanity's last line of defense against total annihilation.
+
+This installment of the long-running series adds dual screen gameplay, enabling the player a wider view, and a 2-player co-op mode via local Wi-Fi connection. Each player is now given two weapon slots which can be filled with any one of the game's many weapon power-ups and switched at will with a press of a shoulder button. The game features nine levels set in such classic Contra locations as Jungle, Waterfall and a pseudo-3D Base.
+As a bonus, the cartridge contains an illustrated history of Contra, as well as the Contra and Super C original NES games.</desc>
+		<releasedate>20071113T000000</releasedate>
+		<developer>Wayforward</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
 	</game>
 </gameList>
